@@ -1,0 +1,14 @@
+Name: Piroxicam
+MW: 331
+Synonym: Piroxicam
+Comment: SC001734
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+95.0623 256 121.041 114 164.084 73 332.076 999 332.322 32 

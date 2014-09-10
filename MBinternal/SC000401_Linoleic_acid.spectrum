@@ -1,0 +1,14 @@
+Name: Linoleic_acid
+MW: 280
+Synonym: Linoleic acid
+Comment: SC000401
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 7
+207.101 2 225.115 3 243.121 3 279.233 999 279.444 4 279.682 3 280.1 3 

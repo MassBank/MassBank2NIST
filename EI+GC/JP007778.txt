@@ -1,0 +1,55 @@
+ACCESSION: JP007778
+RECORD_TITLE: 2-HEPTYLTHIOPHENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-HEPTYLTHIOPHENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H18S
+CH$EXACT_MASS: 182.11292
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=18794-78-0" target="_blank">18794-78-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 34
+PK$PEAK: m/z int. rel.int.
+  27 1.02 10
+  29 4.11 41
+  39 1 10
+  41 4.85 49
+  43 12.82 128
+  45 2.03 20
+  53 3.02 30
+  55 3 30
+  67 2.04 20
+  69 1.01 10
+  84 7.99 80
+  85 6.08 61
+  86 1 10
+  87 1.01 10
+  96 1.82 18
+  97 99.99 999
+  98 59.82 598
+  99 18 180
+  100 4.02 40
+  109 1.02 10
+  110 1.88 19
+  111 16.11 161
+  112 1.68 17
+  113 1.13 11
+  119 1.03 10
+  123 1.04 10
+  125 1.04 10
+  139 5.51 55
+  149 1.04 10
+  153 2.16 22
+  154 1.24 12
+  182 28.15 282
+  183 4.16 42
+  184 1.06 11
+//

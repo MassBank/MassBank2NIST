@@ -1,0 +1,18 @@
+Name: Hexylamine
+CAS: 111-26-2
+MW: 101
+Formula: C6H15N
+Synonym: C08306
+Synonym: Hexylamine
+Comment: XX007531
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+27.0263 339 29.0408 207 30.035 377 37.0090 264 38.0122 283 38.0176 188 39.0231 961 40.0249 547 40.0305 396 41.0393 490 
+42.0375 339 42.0433 188 44.0508 452 58.0634 999 

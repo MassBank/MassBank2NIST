@@ -1,0 +1,36 @@
+ACCESSION: JP007320
+RECORD_TITLE: 1,2-DIAMINOPROPANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2-DIAMINOPROPANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H10N2
+CH$EXACT_MASS: 74.0844
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=78-90-0" target="_blank">78-90-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 15
+PK$PEAK: m/z int. rel.int.
+  15 2.29 23
+  18 16.11 161
+  27 2.09 21
+  28 7.85 79
+  29 1.56 16
+  30 23.05 231
+  41 2.22 22
+  42 6.2 62
+  43 2.85 29
+  44 99.99 999
+  45 2.82 28
+  56 2.82 28
+  57 1.19 12
+  58 1.05 11
+  74 1 10
+//

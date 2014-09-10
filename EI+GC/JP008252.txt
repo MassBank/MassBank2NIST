@@ -1,0 +1,37 @@
+ACCESSION: JP008252
+RECORD_TITLE: PHENETHYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: UBE SCIENTIFIC ANALYSIS LABORATORY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PHENETHYLAMINE
+CH$NAME: BETA-PHENYLETHYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H11N
+CH$EXACT_MASS: 121.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=64-04-0" target="_blank">64-04-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 15
+PK$PEAK: m/z int. rel.int.
+  28 1.84 18
+  30 99.99 999
+  31 1.55 16
+  39 3.26 33
+  41 0.91 9
+  50 1.05 11
+  51 2.65 27
+  63 1.56 16
+  65 4.4 44
+  77 1.64 16
+  91 9.83 98
+  92 4.32 43
+  103 1.13 11
+  121 4.07 41
+  122 0.85 9
+//

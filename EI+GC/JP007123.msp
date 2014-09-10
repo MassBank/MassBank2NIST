@@ -1,0 +1,21 @@
+Name:  CIS-P-MENTHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=6069-98-3" target="_blank">6069-98-3</a>
+MW: 140
+Formula: C10H20
+Comment: JP007123
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 29
+27:111 29:83 39:132 40:20 41:317 42:40 43:178 51:11 53:55 54:57 
+55:999 56:70 57:26 65:12 67:66 68:38 69:177 70:20 77:16 79:16 
+81:233 82:22 83:47 95:15 96:553 97:879 98:65 140:110 141:11 

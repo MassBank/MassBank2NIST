@@ -1,0 +1,19 @@
+Name:  1,2-DIMETHOXYETHANE; EI-MS
+MW: 90
+Formula: C4H10O2
+Comment: JP002137
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+15:79 27:14 28:45 29:102 31:41 43:26 44:11 45:999 46:21 58:54 
+59:25 60:150 90:61 

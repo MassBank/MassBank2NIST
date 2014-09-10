@@ -1,0 +1,22 @@
+Name:  2-AMINO-2-THIAZOLINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1779-81-3" target="_blank">1779-81-3</a>
+MW: 102
+Formula: C3H6N2S
+Comment: JP011889
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 31
+15:12 18:20 26:18 27:54 28:126 29:13 30:10 32:18 33:11 40:19 
+41:21 42:56 43:189 45:171 46:42 47:28 55:118 56:382 57:18 58:65 
+59:268 60:498 61:32 62:21 74:41 75:11 100:13 101:447 102:999 103:88 
+104:47 

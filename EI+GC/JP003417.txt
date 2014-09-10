@@ -1,0 +1,38 @@
+ACCESSION: JP003417
+RECORD_TITLE: TOLUENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TOLUENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H8
+CH$EXACT_MASS: 92.0626
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG-2
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 75 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  41 16.1 161
+  43 22.5 225
+  50 6 60
+  52 5.1 51
+  53 5.1 51
+  56 41.3 413
+  57 22.3 223
+  62 0.46 5
+  63 12 120
+  64 5.3 53
+  65 17 170
+  71 0.53 5
+  85 4.6 46
+  89 9.1 91
+  90 4.9 49
+  91 99.99 999
+  92 77.1 771
+  93 8.5 85
+//

@@ -1,0 +1,20 @@
+Name: Ethionine
+CAS: 13073-35-3
+MW: 163
+Formula: C6H13NO2S
+Synonym: C11227
+Synonym: Ethionine
+Comment: XX002874
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 34
+50.000 20 62.800 5 63.300 7 68.100 4 71.100 2 71.900 1 74.000 4 78.200 56 81.300 1 82.000 5 
+84.400 1 85.000 1 87.200 6 92.300 1 97.200 2 100.200 1 101.100 17 102.200 24 104.000 5 105.000 6 
+107.100 2 109.700 3 111.100 11 115.300 66 118.000 150 118.900 78 121.600 3 122.800 1 129.300 78 131.800 11 
+135.900 1 146.500 8 147.100 482 164.200 999 

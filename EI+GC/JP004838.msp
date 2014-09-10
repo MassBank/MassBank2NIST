@@ -1,0 +1,21 @@
+Name:  PYRENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=129-00-0" target="_blank">129-00-0</a>
+MW: 202
+Formula: C16H10
+Comment: JP004838
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+58:14 73:17 74:10 75:17 87:32 88:49 99:23 100:148 101:218 102:36 
+150:14 167:13 174:18 175:14 198:20 199:33 200:177 201:151 202:999 203:175 
+204:17 

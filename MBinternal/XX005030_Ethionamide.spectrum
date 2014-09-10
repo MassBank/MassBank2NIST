@@ -1,0 +1,17 @@
+Name: Ethionamide
+CAS: 536-33-4
+MW: 166
+Formula: C8H10N2S
+Synonym: C07665
+Synonym: Ethionamide
+Comment: XX005030
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 9
+32.9793 39 44.9956 75 57.9769 999 57.9973 15 58.0108 13 59.0183 19 59.969 52 74.9902 68 78.9602 55 

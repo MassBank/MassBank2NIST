@@ -1,0 +1,22 @@
+Name:  URETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=51-79-6" target="_blank">51-79-6</a>
+MW: 89
+Formula: C3H7NO2
+Synonym: ETHYL CARBAMATE
+Comment: JP009502
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+14:21 15:83 16:76 17:76 18:232 19:25 26:76 27:348 28:130 29:304 
+30:49 31:305 32:15 42:27 43:128 44:999 45:615 46:73 61:62 62:797 
+63:11 71:10 74:143 89:56 90:72 

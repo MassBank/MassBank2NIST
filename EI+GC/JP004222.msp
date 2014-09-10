@@ -1,0 +1,21 @@
+Name:  2-METHYLPENTANOIC ACID METHYL ESTER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2177-77-7" target="_blank">2177-77-7</a>
+MW: 130
+Formula: C7H14O2
+Comment: JP004222
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+38:22 40:119 41:51 43:47 44:65 55:92 56:67 57:20 58:9 69:42 
+70:24 71:24 72:9 83:13 87:79 88:999 89:40 99:126 101:139 102:1 
+115:27 

@@ -1,0 +1,100 @@
+ACCESSION: OUF00053
+RECORD_TITLE: 3-Hydroxyisovaleric acid; GC-EI-TOF-MS; RT:386.846 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-Hydroxyisovaleric acid
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C5H10O3
+CH$EXACT_MASS: 118.06299
+CH$SMILES: OC(=O)CC(C)(C)O
+CH$IUPAC: InChI=1/C5H10O3/c1-5(2,8)3-4(6)7/h8H,3H2,1-2H3,(H,6,7)/f/h6H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=625-08-1" target="_blank">625-08-1</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:37084" target="_blank">37084</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=69362" target="_blank">69362</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/62571" target="_blank">62571</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 386.846  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 70
+PK$PEAK: m/z int. rel.int.
+  85 56 56
+  86 5 5
+  87 15 15
+  88 7 7
+  89 7 7
+  90 1 1
+  91 1 1
+  95 131 131
+  96 12 12
+  97 6 6
+  98 1 1
+  99 18 18
+  100 3 3
+  101 21 21
+  102 5 5
+  103 13 13
+  104 2 2
+  105 7 7
+  106 1 1
+  111 2 2
+  112 2 2
+  113 33 33
+  114 6 6
+  115 178 178
+  116 34 34
+  117 52 52
+  118 6 6
+  119 8 8
+  128 1 1
+  129 8 8
+  130 10 10
+  131 802 802
+  132 98 98
+  133 102 102
+  134 12 12
+  135 6 6
+  143 7 7
+  144 1 1
+  145 1 1
+  146 1 1
+  147 999 999
+  148 160 160
+  149 93 93
+  150 10 10
+  151 3 3
+  156 3 3
+  157 21 21
+  158 3 3
+  159 3 3
+  162 1 1
+  163 16 16
+  164 2 2
+  165 1 1
+  172 2 2
+  173 1 1
+  189 16 16
+  190 3 3
+  191 9 9
+  192 1 1
+  203 21 21
+  204 40 40
+  205 48 48
+  206 11 11
+  207 4 4
+  231 7 7
+  232 1 1
+  247 89 89
+  248 19 19
+  249 8 8
+  250 1 1
+//

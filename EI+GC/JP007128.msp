@@ -1,0 +1,20 @@
+Name:  PROPYLBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=103-65-1" target="_blank">103-65-1</a>
+MW: 120
+Formula: C9H12
+Comment: JP007128
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+27:31 29:13 39:71 41:22 50:20 51:58 52:13 63:33 65:109 77:40 
+78:65 79:12 89:21 91:999 92:104 103:10 105:28 120:215 121:18 

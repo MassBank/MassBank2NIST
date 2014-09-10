@@ -1,0 +1,14 @@
+Name: Vanillylmandelic_acid
+MW: 198
+Synonym: Vanillylmandelic acid
+Comment: SC000895
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 3
+137.022 446 138.031 223 197.043 999 

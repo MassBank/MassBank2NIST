@@ -1,0 +1,14 @@
+Name: Nonanedioic_acid
+MW: 188
+Synonym: Nonanedioic acid
+Comment: SC003385
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 3
+97.0651 57 125.096 488 187.095 999 

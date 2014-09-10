@@ -1,0 +1,14 @@
+Name: Kynurenine
+MW: 208
+Synonym: Kynurenine
+Comment: SC000225
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 7
+61.9867 65 72.0095 47 128.049 35 144.043 50 146.06 122 190.05 999 207.076 763 

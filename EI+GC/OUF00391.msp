@@ -1,0 +1,29 @@
+Name:  N-Methylethanolamine; GC-EI-TOF-MS; RT:302.501 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-83-1" target="_blank">109-83-1</a>
+MW: 75
+Formula: C3H9NO
+Comment: OUF00391
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 302.501  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 43
+85:3 86:31 87:14 88:27 89:17 90:3 92:1 95:1 96:2 98:4 
+99:2 100:21 101:13 102:8 103:18 104:2 105:5 113:1 114:13 115:15 
+116:999 117:122 118:43 119:10 120:1 128:1 129:1 130:53 131:25 132:10 
+133:22 134:3 135:1 146:1 147:223 148:37 149:18 150:1 204:14 205:2 
+219:19 220:3 221:1 

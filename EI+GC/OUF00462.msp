@@ -1,0 +1,38 @@
+Name:  Spermidine; GC-EI-TOF-MS; RT:862.035 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=124-20-9" target="_blank">124-20-9</a>
+MW: 145
+Formula: C7H19N3
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00315" target="_blank">C00315</a>
+Comment: OUF00462
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 862.035  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 127
+85:28 86:592 87:67 88:37 89:3 90:1 92:1 94:2 95:1 96:13 
+97:6 98:22 99:56 100:311 101:71 102:95 103:15 104:4 108:1 110:13 
+111:4 112:35 113:18 114:77 115:143 116:741 117:102 118:34 119:4 124:5 
+125:2 126:54 127:13 128:108 129:69 130:152 131:45 132:23 133:4 134:1 
+138:1 139:1 140:34 141:12 142:178 143:32 144:999 145:131 146:127 147:18 
+148:8 149:1 151:1 152:2 153:1 154:69 155:20 156:390 157:165 158:58 
+159:12 160:291 161:55 162:24 163:3 164:1 168:10 169:3 170:165 171:30 
+172:236 173:63 174:582 175:108 176:48 177:6 178:1 182:3 183:25 184:11 
+185:7 186:54 187:19 188:16 189:4 190:2 198:5 199:3 200:41 201:91 
+202:24 203:9 204:2 212:2 213:2 214:48 215:15 216:10 217:2 218:1 
+226:1 227:1 228:1 229:5 230:1 231:1 241:1 243:2 244:1 245:1 
+255:1 257:2 259:2 273:1 303:12 304:4 305:1 315:1 317:9 318:4 
+319:1 344:10 345:4 346:2 490:6 491:4 492:2 

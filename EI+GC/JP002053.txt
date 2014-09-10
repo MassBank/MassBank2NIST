@@ -1,0 +1,84 @@
+ACCESSION: JP002053
+RECORD_TITLE: 4-PHENYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-PHENYLPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H9N
+CH$EXACT_MASS: 155.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MX-1303
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 50 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 64
+PK$PEAK: m/z int. rel.int.
+  26 2.2 22
+  27 3.8 38
+  28 5.2 52
+  29 0.12 1
+  38 1.4 14
+  39 4.8 48
+  40 1 10
+  41 0.27 3
+  42 1.2 12
+  43 2.2 22
+  44 9.1 91
+  50 0.67 7
+  51 11.8 118
+  52 4 40
+  53 1.5 15
+  55 0.18 2
+  56 1.1 11
+  57 1.4 14
+  61 1.1 11
+  62 0.25 3
+  63 6.9 69
+  64 5 50
+  65 2.1 21
+  67 0.1 1
+  69 1 10
+  74 4.5 45
+  75 5.2 52
+  76 0.62 6
+  77 8.3 83
+  77.5 2.2 22
+  78 4.2 42
+  79 0.15 2
+  86 1.1 11
+  87 1.8 18
+  88 1.2 12
+  89 0.22 2
+  91 3.5 35
+  92 1.1 11
+  93 1.2 12
+  98 0.15 2
+  99 1.2 12
+  100 1.2 12
+  101 3.6 36
+  102 1.21 12
+  103 2.2 22
+  104 1.4 14
+  105 1.6 16
+  106 1.51 15
+  107 2 20
+  115 10.8 108
+  116 2.4 24
+  117 0.11 1
+  125 1 10
+  126 5.5 55
+  127 12.8 128
+  128 1.37 14
+  129 3.2 32
+  140 4.4 44
+  152 1.4 14
+  153 0.39 4
+  154 31 310
+  155 99.99 999
+  156 11.8 118
+  157 1.1 11
+//

@@ -1,0 +1,14 @@
+Name: Adenine
+MW: 135
+Synonym: Adenine
+Comment: SC000250
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 3
+79.0218 15 119.035 56 136.062 999 

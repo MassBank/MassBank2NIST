@@ -1,0 +1,18 @@
+Name:  2,2'-BIPYRROLIDINE; EI-MS
+MW: 140
+Formula: C8H16N2
+Comment: JP005471
+Comment: N/A
+Comment: HITACHI M-52
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 14 eV
+Comment: ION_TYPE [M]+*
+Contributor: HIRAMA M, TOHOKU UNIV. FACULTY OF SCIENCE DEPT. OF CHEMISTRY YUKIBUNSEKI
+InstType: EI
+IoniMethod: _ENERGY 14 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 1
+70:999 

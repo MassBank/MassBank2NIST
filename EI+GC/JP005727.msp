@@ -1,0 +1,22 @@
+Name:  METHYL DISULFIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=624-92-0" target="_blank">624-92-0</a>
+MW: 93
+Formula: C2H6S2
+Comment: JP005727
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 35
+15:251 16:4 17:3 18:11 27:9 28:65 32:82 33:23 34:9 35:8 
+44:79 45:999 46:451 47:326 48:131 49:41 50:6 61:165 62:6 63:7 
+64:163 65:8 66:15 76:9 77:6 78:32 79:565 80:23 81:52 93:10 
+94:958 95:44 96:86 97:3 98:2 

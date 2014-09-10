@@ -1,0 +1,31 @@
+ACCESSION: JP002969
+RECORD_TITLE: 3-D1FLUORAMINO-1,2,3-TRIFLUORODIAZIRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-D1FLUORAMINO-1,2,3-TRIFLUORODIAZIRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: CF5N3
+CH$EXACT_MASS: 149.00124
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  19 6 60
+  20 19 190
+  28 69 690
+  31 99.99 999
+  33 26 260
+  45 20 200
+  50 21 210
+  52 0.13 1
+  64 91 910
+  69 25 250
+  83 45 450
+  97 11 110
+//

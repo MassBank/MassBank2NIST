@@ -1,0 +1,21 @@
+Name:  1,1,2-TRICHLOROETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-00-5" target="_blank">79-00-5</a>
+MW: 131
+Formula: C2H3Cl3
+Comment: JP000958
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+25:29 26:102 27:78 35:8 36:23 37:26 47:41 48:3 49:78 60:93 
+61:547 62:10 63:177 83:760 85:530 87:8 95:50 96:283 97:999 98:21 
+99:617 100:44 101:98 132:16 134:158 136:49 

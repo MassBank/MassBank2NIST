@@ -1,0 +1,18 @@
+Name: Diazoxide
+CAS: 364-98-7
+MW: 229
+Formula: C8H7ClN2O2S
+Synonym: C06949
+Synonym: Diazoxide
+Comment: XX004911
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 18
+34.9669 999 56.9753 22 56.9820 30 61.9666 78 77.9698 26 88.0176 98 89.0223 65 113.0118 22 114.0216 111 115.0262 87 
+123.994 152 125.0018 349 129.0434 847 140.9989 247 165.0205 124 192.9958 67 193.0082 82 228.9806 35 

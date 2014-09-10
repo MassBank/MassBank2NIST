@@ -1,0 +1,21 @@
+Name:  3-ETHYL-4-METHYLPYRIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=529-21-5" target="_blank">529-21-5</a>
+MW: 121
+Formula: C8H11N
+Comment: JP007851
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+29:16 38:19 39:228 40:11 41:56 51:130 52:24 53:100 63:58 64:12 
+65:71 77:165 78:18 79:150 80:10 91:45 92:23 93:76 105:20 106:999 
+107:97 120:260 121:676 122:63 

@@ -1,0 +1,51 @@
+ACCESSION: JP002942
+RECORD_TITLE: 5-AMINO ISOXAZOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-AMINO ISOXAZOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H4N2O
+CH$EXACT_MASS: 84.03236
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  11 2.11 21
+  12 5.94 59
+  14 12.16 122
+  15 3.96 40
+  16 10.02 100
+  17 3.29 33
+  25 3.13 31
+  26 9.97 100
+  27 14.28 143
+  28 59.91 599
+  29 65.76 658
+  30 7.96 80
+  38 12.09 121
+  39 21.12 211
+  40 65.57 656
+  41 97.4 974
+  42 9 90
+  43 6.29 63
+  44 76.21 762
+  51 2.87 29
+  52 15.39 154
+  53 12.32 123
+  54 2.27 23
+  56 6.16 62
+  57 11.08 111
+  66 2.15 22
+  67 10.68 107
+  68 48.16 482
+  70 2.82 28
+  84 99.99 999
+  85 15.39 154
+  86 3.48 35
+//

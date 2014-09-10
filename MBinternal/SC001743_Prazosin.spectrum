@@ -1,0 +1,14 @@
+Name: Prazosin
+MW: 383
+Synonym: Prazosin
+Comment: SC001743
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+95.0133 16 138.055 18 164.071 8 247.119 67 341.124 7 366.156 15 384.167 999 384.407 79 

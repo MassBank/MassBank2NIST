@@ -1,0 +1,42 @@
+ACCESSION: JP011293
+RECORD_TITLE: L-TRYPTOPHAN; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: L-TRYPTOPHAN
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H12N2O2
+CH$EXACT_MASS: 204.08988
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=73-22-3" target="_blank">73-22-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  28 1.21 12
+  43 1.31 13
+  45 1.38 14
+  60 1.03 10
+  77 2.7 27
+  102 2.53 25
+  103 5.3 53
+  115 1.5 15
+  117 2.7 27
+  128 2.86 29
+  129 3.97 40
+  130 99.99 999
+  131 12.45 125
+  132 2.52 25
+  143 1.19 12
+  149 1 10
+  157 1.01 10
+  158 2.54 25
+  159 2.98 30
+  204 8.39 84
+  205 1.38 14
+//

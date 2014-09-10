@@ -1,0 +1,18 @@
+Name:  RESERPINE; EI-MS
+MW: 608
+Formula: C33H40N2O9
+Comment: JP003749
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+195:999 251:380 265:150 366:2 381:250 397:250 414:200 577:1 593:100 607:320 
+608:520 609:2 610:50 

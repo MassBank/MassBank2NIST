@@ -1,0 +1,21 @@
+Name:  1-PHENYL-1,4-PENTANEDIONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=583-05-1" target="_blank">583-05-1</a>
+MW: 176
+Formula: C11H12O2
+Comment: JP004760
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+43:180 50:33 51:125 55:28 63:14 76:18 77:380 78:34 79:20 105:999 
+106:78 115:86 116:13 128:20 129:26 131:17 133:88 134:40 157:91 158:203 
+159:38 161:142 162:15 174:15 176:51 

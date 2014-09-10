@@ -1,0 +1,23 @@
+Name:  BENZYL ALCOHOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-51-6" target="_blank">100-51-6</a>
+MW: 108
+Formula: C7H8O
+Comment: JP006260
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 42
+26:22 27:77 28:23 29:69 30:9 31:56 37:23 38:49 39:145 40:12 
+41:11 49:16 50:141 51:277 52:75 53:63 54:10 55:10 61:17 62:39 
+63:80 64:17 65:74 66:8 73:10 74:45 75:26 76:22 77:536 78:130 
+79:999 80:106 81:10 89:68 90:78 91:175 92:15 105:54 106:24 107:634 
+108:885 109:70 

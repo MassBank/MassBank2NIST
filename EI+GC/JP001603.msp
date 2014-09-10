@@ -1,0 +1,21 @@
+Name:  2,3-BENZPHENANTHRENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-55-3" target="_blank">56-55-3</a>
+MW: 228
+Formula: C18H12
+Comment: JP001603
+Comment: N/A
+Comment: VARIAN MAT-44
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+50:10 51:12 63:22 74:19 75:50 76:41 87:50 88:110 99:43 100:175 
+101:240 111:22 112:180 113:389 114:471 115:12 200:29 201:14 202:33 224:62 
+225:53 226:257 227:101 228:999 229:195 230:19 

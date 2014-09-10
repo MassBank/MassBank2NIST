@@ -1,0 +1,20 @@
+Name:  2,3,5,6-TETRAMETHYLPYRAZINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1124-11-4" target="_blank">1124-11-4</a>
+MW: 136
+Formula: C8H12N2
+Comment: JP007771
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+39:124 42:566 53:63 54:999 55:55 80:30 94:53 95:131 121:19 135:83 
+136:639 137:140 

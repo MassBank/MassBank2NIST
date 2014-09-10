@@ -1,0 +1,17 @@
+Name: Metronidazole
+MW: 171
+Formula: C6H9N3O3
+Synonym: C07203
+Synonym: Transferred to D00409, Metronidazole
+Comment: XX007834
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 20
+41.0293 22 41.0407 22 42.0361 61 43.02145 86 43.0550 18 45.0100 17 45.0339 194 56.0377 118 60.0416 27 60.0485 28 
+67.0606 18 81.0717 18 82.0203 18 82.0525 999 82.0807 33 98.0525 22 111.0434 81 128.0452 502 157.0870 23 157.1037 18 

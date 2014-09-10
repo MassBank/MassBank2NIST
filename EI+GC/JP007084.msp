@@ -1,0 +1,21 @@
+Name:  METHYL 2-METHYLBUTYRATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=868-57-5" target="_blank">868-57-5</a>
+MW: 116
+Formula: C6H12O2
+Comment: JP007084
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 30
+15:123 26:35 27:226 29:442 30:13 31:25 38:12 39:171 41:540 42:42 
+43:23 45:24 51:10 53:27 55:115 56:193 57:976 58:46 59:232 60:11 
+61:13 69:86 73:27 85:314 86:15 87:87 88:999 89:52 101:276 102:12 

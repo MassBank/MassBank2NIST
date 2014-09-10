@@ -1,0 +1,14 @@
+Name: Pyroglutamic_acid
+MW: 129
+Synonym: Pyroglutamic acid
+Comment: SC002476
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+39.0784 317 89.6473 265 174.423 341 199.164 433 200.175 591 242.032 400 307.389 263 343.267 999 

@@ -1,0 +1,17 @@
+Name: 5-Methylcytosine
+CAS: 554-01-8
+MW: 125
+Formula: C5H7N3O
+Synonym: C02376
+Synonym: 5-Methylcytosine
+Comment: XX003366
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 4
+54.000 999 56.000 605 81.100 424 82.100 242 

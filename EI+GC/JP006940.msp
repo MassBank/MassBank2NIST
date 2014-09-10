@@ -1,0 +1,19 @@
+Name:  2,3-BUTANEDIONE; EI-MS
+MW: 86
+Formula: C4H6O2
+Comment: JP006940
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+13:12 14:55 15:203 26:15 27:11 29:16 41:18 42:84 43:999 44:23 
+86:102 

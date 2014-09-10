@@ -1,0 +1,21 @@
+Name:  ANILINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=62-53-3" target="_blank">62-53-3</a>
+MW: 93
+Formula: C6H7N
+Comment: JP010541
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+26:11 27:18 37:21 38:55 39:130 40:53 41:73 42:15 46:14 47:60 
+50:37 51:35 52:45 53:11 54:36 61:19 62:24 63:48 64:25 65:179 
+66:327 67:46 76:12 78:20 92:117 93:999 94:77 

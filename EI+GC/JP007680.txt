@@ -1,0 +1,38 @@
+ACCESSION: JP007680
+RECORD_TITLE: ACETONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ACETONE
+CH$NAME: 2-PROPANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H6O
+CH$EXACT_MASS: 58.04186
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=67-64-1" target="_blank">67-64-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  14 3.08 31
+  15 23.21 232
+  26 3.08 31
+  27 5.51 55
+  28 2.77 28
+  29 4.36 44
+  39 3.85 39
+  41 5 50
+  42 6.28 63
+  43 99.99 999
+  44 3.72 37
+  55 3.46 35
+  56 1.67 17
+  57 5.9 59
+  58 30 300
+  59 1.41 14
+//

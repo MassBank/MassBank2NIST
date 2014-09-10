@@ -1,0 +1,39 @@
+ACCESSION: JP003535
+RECORD_TITLE: PROPYLENE OXIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PROPYLENE OXIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H6O
+CH$EXACT_MASS: 58.04186
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-68
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  14 10.6 106
+  15 21.7 217
+  16 2.6 26
+  18 1.6 16
+  26 5.2 52
+  27 10.1 101
+  28 49.5 495
+  29 0.44 4
+  32 13.4 134
+  37 2.7 27
+  38 3.1 31
+  39 0.47 5
+  40 1.5 15
+  41 2.8 28
+  42 8.3 83
+  43 99.99 999
+  44 3.1 31
+  58 22 220
+  59 1.2 12
+//

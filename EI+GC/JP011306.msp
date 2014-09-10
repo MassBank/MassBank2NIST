@@ -1,0 +1,21 @@
+Name:  3-(4-FLUOROBENZOYL)PROPIONIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=366-77-8" target="_blank">366-77-8</a>
+MW: 196
+Formula: C10H9FO3
+Comment: JP011306
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+27:42 28:20 29:12 45:59 50:39 51:27 55:34 57:12 63:12 68:18 
+69:36 73:13 74:35 75:205 76:21 94:41 95:462 96:40 101:11 123:999 
+124:78 151:11 179:13 196:64 

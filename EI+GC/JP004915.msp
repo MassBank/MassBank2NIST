@@ -1,0 +1,20 @@
+Name:  1,4-DICHLOROBUTANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-56-5" target="_blank">110-56-5</a>
+MW: 126
+Formula: C4H8Cl2
+Comment: JP004915
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+42:15 49:57 51:25 53:38 54:83 55:999 56:47 61:11 62:148 63:61 
+64:48 65:18 75:54 77:23 90:182 91:12 92:59 

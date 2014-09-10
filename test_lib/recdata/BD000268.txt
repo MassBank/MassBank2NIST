@@ -1,0 +1,50 @@
+ACCESSION: BD000268
+RECORD_TITLE: Phloroglucinol; MS/MS; ESI-TOF; CE:11 eV; [M+H]+
+DATE: 2007.10.22
+AUTHORS: BSC
+COPYRIGHT: Copyright(C) 2007
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C02183
+CH$NAME: Phloroglucinol
+CH$NAME: 1,3,5-Benzenetriol,1,3,5-trihydroxybenzene
+CH$NAME: Phloroglucinol, Phloroglucin, Phloroglucine, Spasfon-Lyoc, benzene-S-triol, Dilospan S, 5-oxyresorcinol, S-trihydroxybenzene
+CH$NAME: 4-06-00-07361 (Beilstein Handbook Reference), I04-0078, InChI=1/C6H6O3/c7-4-1-5(8)3-6(9)2-4/H1-3,7-9, 6099-90-7
+CH$NAME: 79330_ALDRicH, P1178_SIGMA, C6H6O3, CPD-16, P3502_SIAL, 1,3,5-benzenetriol, dihydrate, NSC 1572, 79330_FLUKA, CHEbi:16204
+CH$NAME: AI3-08848, BBR-006755, NCGC00166270-01, LS-105905, TL8000285, P0249, P1376, C02183, D00152, 108-73-6
+CH$NAME: Dilospan S (TN), 1,3,5-triol, 5-oxyresorcinolphloroglucin, Phloroglucinol (JAN), Phloroglucinol dihydrate, benzene, 1,3,5-trihydroxy-, WLN: QR CQ EQ, 1,3,5-trihydroxycyclohexatriene, CCRIS 4147, P38005_ALDRicH
+CH$NAME: EineCS 203-611-2, NSC1572, 1,3,5-THB, MolPort-000-871-966, AIDS017800, 1,3,5-trihydroxybenzene dihydrate, AIDS-017800, BRN 1341907, c0026, ZINC00391883
+CH$NAME: Floroglucinol, Floroglucin, 5-hydroxyresorcinol, benzene, trihydroxy sym-trihydroxybenzene, 3,5-dihydroxyphenol, 5-benzenetriol, Floroglucin [Czech], benzene-1,3,5-triol, Floroglucinol [Czech]
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C6H6O3
+CH$EXACT_MASS: 126.03169405199999
+CH$SMILES: OC=1C=C(O)C=C(O)C=1
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:359
+CH$LINK: CAS 108-73-6
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 11 eV
+AC$ANALYTICAL_CONDITION: MS_TYPE MS/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.029
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 43.98
+AC$ANALYTICAL_CONDITION: Mass 44.7989-395.035
+MS$FOCUSED_ION: PRECURSOR_M/Z 127.039
+MS$FOCUSED_ION: PRECURSOR_TYPE [M+H]+
+MS$FOCUSED_ION: BASE_PEAK 127.036
+PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  81.034 51 51
+  82.037 3 3
+  99.044 24 24
+  109.028 55 55
+  110.030 4 4
+  127.039 999 999
+  128.042 72 72
+  129.044 7 7
+//

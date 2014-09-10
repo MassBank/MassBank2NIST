@@ -1,0 +1,14 @@
+Name: Cimetidine
+MW: 252
+Synonym: Cimetidine
+Comment: SC001596
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+40.0072 4 41.0146 251 55.0303 113 66.0099 8 97.0518 993 123.066 32 157.055 999 251.108 467 

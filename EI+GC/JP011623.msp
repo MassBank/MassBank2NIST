@@ -1,0 +1,22 @@
+Name:  TEREPHTHALIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-21-0" target="_blank">100-21-0</a>
+MW: 166
+Formula: C8H6O4
+Comment: JP011623
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 33
+37:18 38:29 39:61 44:11 45:74 49:13 50:125 51:84 52:18 53:25 
+63:18 65:261 66:20 73:22 74:105 75:89 76:91 77:57 78:10 93:37 
+103:29 104:36 105:29 120:12 121:280 122:29 138:23 148:11 149:999 150:90 
+166:918 167:85 168:11 

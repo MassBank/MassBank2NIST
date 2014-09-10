@@ -1,0 +1,21 @@
+Name:  1,4-EPOXYMENTHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=470-67-7" target="_blank">470-67-7</a>
+MW: 154
+Formula: C10H18O
+Synonym: 1,4-CINEOLE
+Comment: JP007543
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+28:426 29:40 41:91 43:999 55:494 58:153 69:418 71:853 81:168 83:220 
+93:438 96:130 107:110 111:920 121:526 125:390 136:325 139:127 154:342 155:35 

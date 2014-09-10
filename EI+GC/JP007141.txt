@@ -1,0 +1,43 @@
+ACCESSION: JP007141
+RECORD_TITLE: PHENYLACETONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PHENYLACETONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H10O
+CH$EXACT_MASS: 134.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=103-79-7" target="_blank">103-79-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  15 3.06 31
+  27 1.57 16
+  38 1.64 16
+  39 12.2 122
+  41 1.82 18
+  42 1.08 11
+  43 99.99 999
+  44 1.69 17
+  50 2.54 25
+  51 6.4 64
+  52 1.54 15
+  62 2.05 21
+  63 7.11 71
+  64 1.59 16
+  65 16.73 167
+  77 1.24 12
+  89 4.62 46
+  90 1.68 17
+  91 55.11 551
+  92 18.17 182
+  134 17.65 177
+  135 1.44 14
+//

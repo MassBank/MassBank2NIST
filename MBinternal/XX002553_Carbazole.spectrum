@@ -1,0 +1,20 @@
+Name: Carbazole
+CAS: 86-74-8
+MW: 167
+Formula: C12H9N
+Synonym: C08060
+Synonym: Carbazole
+Comment: XX002553
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 32
+44.900 118 50.100 59 55.900 25 56.300 17 60.900 21 73.100 78 75.100 27 76.100 51 78.200 23 80.800 17 
+84.500 8 85.900 34 89.000 999 91.100 65 92.000 55 96.400 11 101.000 23 102.200 57 104.100 196 105.200 44 
+106.800 66 109.300 304 114.100 63 119.100 28 122.000 6 123.000 89 133.000 277 136.000 220 150.300 103 151.100 329 
+167.300 11 168.300 456 

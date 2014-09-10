@@ -1,0 +1,21 @@
+Name:  DICHLOROMETHYLTRIMETHYLSILANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5926-38-5" target="_blank">5926-38-5</a>
+MW: 155
+Formula: C4H10Cl2Si
+Comment: JP004740
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+42:14 43:47 44:13 45:124 53:11 63:56 65:42 73:999 74:87 75:39 
+78:14 79:21 93:119 94:10 95:45 113:311 114:22 115:213 116:13 117:40 
+156:5 

@@ -1,0 +1,39 @@
+ACCESSION: JP006029
+RECORD_TITLE: 2,3-DIMETHYLBUTANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,3-DIMETHYLBUTANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H14
+CH$EXACT_MASS: 86.10955
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  27 1.9 19
+  28 1.4 14
+  29 1.9 19
+  32 0.05 1
+  39 0.5 5
+  41 9.2 92
+  42 99.99 999
+  43 8.39 84
+  44 3.1 31
+  55 3.1 31
+  56 0.5 5
+  57 0.12 1
+  69 0.5 5
+  70 1.4 14
+  71 26.9 269
+  72 0.17 2
+  85 1.1 11
+  86 9.7 97
+  87 0.7 7
+//

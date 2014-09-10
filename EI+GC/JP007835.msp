@@ -1,0 +1,20 @@
+Name:  1-METHYLINDOLE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=603-76-9" target="_blank">603-76-9</a>
+MW: 131
+Formula: C9H9N
+Comment: JP007835
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+15:10 27:10 28:20 38:15 39:43 50:32 51:56 63:56 65.5:93 77:114 
+89:137 90:97 103:99 104:20 116:72 130:746 131:999 132:93 

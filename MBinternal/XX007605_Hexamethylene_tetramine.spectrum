@@ -1,0 +1,19 @@
+Name: Hexamethylene_tetramine
+MW: 140
+Formula: C6H12N4
+Synonym: C07176
+Synonym: Hexamethylene tetramine, Transferred to D00393
+Comment: XX007605
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 39
+40.0171 7 40.0227 8 41.0057 4 41.0143 2 41.0285 39 41.8306 2 41.9747 2 42.0122 71 42.0353 999 42.0670 2 
+42.0872 2 42.1016 6 42.119 3 42.3330 3 42.3388 5 42.3475 5 42.3706 2 42.4025 2 42.4431 2 42.4692 2 
+42.4779 4 42.5417 2 43.0162 3 43.0192 5 44.0292 4 44.0469 71 51.0201 12 51.0264 12 54.0424 2 56.0500 4 
+56.0533 4 58.0637 21 69.0419 4 69.0530 2 71.0646 6 78.0375 63 83.0620 3 85.0738 17 112.0851 5 

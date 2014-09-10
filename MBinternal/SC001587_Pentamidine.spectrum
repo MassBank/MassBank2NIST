@@ -1,0 +1,14 @@
+Name: Pentamidine
+MW: 340
+Synonym: Pentamidine
+Comment: SC001587
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+69.0706 49 120.044 115 137.07 109 171.102 21 307.143 17 324.171 611 341.197 999 341.423 23 

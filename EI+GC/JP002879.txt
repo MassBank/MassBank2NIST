@@ -1,0 +1,53 @@
+ACCESSION: JP002879
+RECORD_TITLE: ETHYL PELARGONATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL PELARGONATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H22O2
+CH$EXACT_MASS: 186.16198
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 34
+PK$PEAK: m/z int. rel.int.
+  27 11.87 119
+  28 3.99 40
+  29 32.33 323
+  39 5.4 54
+  41 24.74 247
+  42 9 90
+  43 30.4 304
+  45 11.12 111
+  55 21.65 217
+  56 7.53 75
+  57 21.72 217
+  60 25.47 255
+  61 21.11 211
+  67 2.11 21
+  69 9.22 92
+  70 23.59 236
+  71 14.12 141
+  73 23.43 234
+  74 3.36 34
+  81 2.79 28
+  83 5.05 51
+  84 4.52 45
+  87 3.24 32
+  88 99.99 999
+  89 8.16 82
+  97 3.93 39
+  101 37.77 378
+  102 3.48 35
+  115 6.82 68
+  129 2.88 29
+  141 20.26 203
+  143 7.87 79
+  157 6.43 64
+  186 2.78 28
+//

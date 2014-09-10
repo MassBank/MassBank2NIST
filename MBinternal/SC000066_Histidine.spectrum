@@ -1,0 +1,14 @@
+Name: Histidine
+MW: 155
+Synonym: Histidine
+Comment: SC000066
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+83.061 26 93.0456 15 95.06 35 110.071 621 156.076 999 

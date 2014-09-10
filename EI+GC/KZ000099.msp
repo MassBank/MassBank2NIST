@@ -1,0 +1,32 @@
+Name:  4-Aminobutyric acid; GC-EI-TOF-MS; 3 TMS; BP:174
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-12-2" target="_blank">56-12-2</a>
+MW: 103
+Formula: C4H9NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00334" target="_blank">C00334</a>
+Comment: KZ000099
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 721.013 sec
+Comment: RETENTION_INDEX 0.0000
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 3 TMS
+Comment: BASE_PEAK 174
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 81
+82:2 83:2 84:21 85:9 86:54 91:1 92:2 93:7 94:1 95:4 
+96:2 97:5 98:11 99:18 100:102 103:6 105:2 110:3 111:3 112:15 
+113:9 114:19 115:17 116:14 117:25 119:5 124:4 125:1 126:4 127:2 
+128:9 129:15 130:50 131:41 132:5 133:77 139:4 140:29 141:2 142:188 
+143:34 146:7 147:239 154:2 155:3 156:30 157:16 158:16 159:2 160:6 
+161:1 168:2 169:1 170:15 171:4 172:75 173:1 174:999 184:1 185:1 
+186:7 187:2 188:3 198:2 203:1 204:4 205:1 212:1 213:2 214:20 
+216:83 219:3 227:2 228:1 230:6 231:2 246:23 288:6 302:1 303:15 
+304:17 

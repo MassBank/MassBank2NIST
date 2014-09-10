@@ -1,0 +1,29 @@
+ACCESSION: JP003667
+RECORD_TITLE: 1,2,3,4,7,7-HEXAFLUOROBICYCLO(2.2.1)HEPTA-2,5-DIENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2,3,4,7,7-HEXAFLUOROBICYCLO(2.2.1)HEPTA-2,5-DIENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H2F6
+CH$EXACT_MASS: 200.00607
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 10
+PK$PEAK: m/z int. rel.int.
+  69 50 500
+  74 25 250
+  81 43 430
+  93 5 50
+  124 30 300
+  131 18 180
+  150 99.99 999
+  174 0.3 3
+  181 60 600
+  200 65 650
+//

@@ -1,0 +1,19 @@
+Name: Bumetanide
+MW: 364
+Formula: C17H20N2O5S
+Synonym: C06859
+Synonym: Bumetanide, Transferred to D00247
+Comment: XX002512
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 31
+185.100 11 190.200 8 190.900 8 191.300 6 198.100 15 199.000 18 227.000 16 231.000 3 234.100 8 236.400 5 
+240.200 8 240.500 6 245.500 5 257.200 5 259.400 3 268.900 10 271.500 3 279.100 9 284.000 9 289.000 16 
+301.400 16 303.600 6 305.500 26 310.800 3 319.500 8 321.000 8 329.100 6 333.500 62 347.300 101 348.400 20 
+365.300 999 

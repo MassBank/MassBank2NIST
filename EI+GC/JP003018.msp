@@ -1,0 +1,18 @@
+Name:  2-TERT-BUTYLMERCAPTO-3,5-LUTIDINE; EI-MS
+MW: 195
+Formula: C11H17NS
+Comment: JP003018
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+29:90 39:110 41:130 57:10 77:80 103:90 104:70 105:2 124:10 138:140 
+139:999 140:1 141:50 180:10 195:90 196:11 

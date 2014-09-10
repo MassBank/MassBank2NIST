@@ -1,0 +1,64 @@
+ACCESSION: JP000492
+RECORD_TITLE: 4-METHYLQUINOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-METHYLQUINOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H9N
+CH$EXACT_MASS: 143.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MX-1303
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 50 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 44
+PK$PEAK: m/z int. rel.int.
+  15 1.6 16
+  18 2.6 26
+  27 1.9 19
+  39 0.47 5
+  42 1.2 12
+  43 16.1 161
+  44 2.4 24
+  50 0.32 3
+  51 4.7 47
+  52 1.4 14
+  57 1 10
+  57.5 0.18 2
+  58 6.3 63
+  63 5.9 59
+  64 1.7 17
+  65 0.25 3
+  70.5 1.4 14
+  71.5 1.8 18
+  74 2.2 22
+  75 0.39 4
+  76 2.6 26
+  77 4.4 44
+  78 1 10
+  87 0.13 1
+  88 1.6 16
+  89 6.7 67
+  90 2.6 26
+  101 0.28 3
+  102 2 20
+  103 1.1 11
+  104 3.9 39
+  113 0.17 2
+  114 2.4 24
+  115 25.5 255
+  116 9.5 95
+  117 0.55 6
+  128 3.4 34
+  129 2.2 22
+  140 2.5 25
+  141 0.26 3
+  142 20.2 202
+  143 99.99 999
+  144 11.1 111
+  157 3.8 38
+//

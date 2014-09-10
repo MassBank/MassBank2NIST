@@ -1,0 +1,34 @@
+ACCESSION: JP007023
+RECORD_TITLE: 1-HYDROXY-2-PROPANONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-HYDROXY-2-PROPANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H6O2
+CH$EXACT_MASS: 74.03678
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  14 3.14 31
+  15 14.91 149
+  26 2.06 21
+  27 4.22 42
+  28 1.09 11
+  29 13.47 135
+  30 1.58 16
+  31 22.47 225
+  41 1.14 11
+  42 6.91 69
+  43 99.99 999
+  44 1.99 20
+  45 2.09 21
+  74 7.37 74
+//

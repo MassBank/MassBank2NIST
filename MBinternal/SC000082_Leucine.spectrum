@@ -1,0 +1,14 @@
+Name: Leucine
+MW: 131
+Synonym: Leucine
+Comment: SC000082
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+30.0342 39 43.0544 27 44.05 44 86.0971 983 132.102 999 

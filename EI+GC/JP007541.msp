@@ -1,0 +1,21 @@
+Name:  CEDROL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=77-53-2" target="_blank">77-53-2</a>
+MW: 222
+Formula: C15H26O
+Synonym: OCTAHYDRO-3,6,8,8-TETRAMETHYL-1H,3A,7-METHANOAZULEN-6-OL
+Comment: JP007541
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+40:298 67:269 69:307 81:444 82:575 93:185 95:999 105:558 109:362 119:240 
+121:157 133:91 135:243 150:530 151:553 161:85 165:60 207:66 

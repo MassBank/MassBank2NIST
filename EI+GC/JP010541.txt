@@ -1,0 +1,48 @@
+ACCESSION: JP010541
+RECORD_TITLE: ANILINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: NARA WOMEN'S UNIVERSITY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ANILINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H7N
+CH$EXACT_MASS: 93.05785
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=62-53-3" target="_blank">62-53-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  26 1.1 11
+  27 1.78 18
+  37 2.13 21
+  38 5.5 55
+  39 12.98 130
+  40 5.25 53
+  41 7.29 73
+  42 1.47 15
+  46 1.41 14
+  47 6.02 60
+  50 3.65 37
+  51 3.52 35
+  52 4.54 45
+  53 1.09 11
+  54 3.57 36
+  61 1.9 19
+  62 2.4 24
+  63 4.82 48
+  64 2.47 25
+  65 17.88 179
+  66 32.71 327
+  67 4.62 46
+  76 1.16 12
+  78 2.03 20
+  92 11.66 117
+  93 99.99 999
+  94 7.72 77
+//

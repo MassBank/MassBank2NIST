@@ -1,0 +1,21 @@
+Name:  (E)-2-METHYLCROTONIC ACID METHYL ESTER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=6622-76-0" target="_blank">6622-76-0</a>
+MW: 114
+Formula: C6H10O2
+Synonym: TIGLIC ACID METHYL ESTER
+Comment: JP004219
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+38:44 50:19 51:44 53:12 54:128 55:999 56:44 71:3 82:166 83:647 
+84:38 99:17 114:602 115:38 

@@ -1,0 +1,96 @@
+ACCESSION: BD000557
+RECORD_TITLE: 3-(3,4-Dihydroxyphenyl)propionic acid; ; ESI-TOF; CE:10 eV; [M+H]+
+DATE: 2007.11.08
+AUTHORS: MGR
+COPYRIGHT: Copyright(C) 2007
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C10447
+CH$NAME: 3-(3,4-Dihydroxyphenyl)propionic acid
+CH$NAME: Dihydrocaffeic acid
+CH$NAME: 3-(3,4-Dihydroxyphenyl)propanoate
+CH$NAME: 3-(3,4-Dihydroxyphenyl)propionate
+CH$NAME: 3-(3,4-Dihydroxyphenyl)propionic acid
+CH$NAME: 3,4-Dihydroxy-(6CI,7CI,8CI)hydrocinnamate
+CH$NAME: 3,4-Dihydroxy-(6CI,7CI,8CI)hydrocinnamic acid
+CH$NAME: 3,4-Dihydroxybenzenepropanoic acid
+CH$NAME: 3,4-Dihydroxybenzenepropionic acid
+CH$NAME: 3,4-Dihydroxybenzenepropionate
+CH$NAME: 3,4-Dihydroxyphenylpropionic acid
+CH$NAME: 3,4-Dihydroxy-beta-phenylpropionate
+CH$NAME: 3,4-Dihydroxy-beta-phenylpropionic acid
+CH$NAME: 3,4-Dihydroxy-b-phenylpropionate
+CH$NAME: 3,4-Dihydroxy-b-phenylpropionic acid
+CH$NAME: 3,4-Dihydroxydihydrocinnamate
+CH$NAME: 3,4-Dihydroxydihydrocinnamic acid
+CH$NAME: 3,4-Dihydroxyhydrocinnamate
+CH$NAME: 3,4-Dihydroxyhydrocinnamic acid
+CH$NAME: 3,4-Dihydroxyphenylpropionate
+CH$NAME: DHCA
+CH$NAME: 3,4-HPA
+CH$NAME: Dihydrocaffeate
+CH$NAME: Hydrocaffeate
+CH$NAME: Hydrocaffeic acid
+CH$NAME: HYKOP
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C9H10O4
+CH$EXACT_MASS: 182.0579088
+CH$SMILES: OC(=O)CCC=1C=CC(O)=C(O)C=1
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:348154
+CH$LINK: CAS 1078-61-1
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 10 eV
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.025
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 137.4
+AC$ANALYTICAL_CONDITION: Mass 44.7915-395.043
+MS$FOCUSED_ION: PRECURSOR_M/Z 181.052
+MS$FOCUSED_ION: PRECURSOR_TYPE [M+H]+
+MS$FOCUSED_ION: BASE_PEAK 123.047
+PK$NUM_PEAK: 38
+PK$PEAK: m/z int. rel.int.
+  77.038 8 8
+  91.053 6 6
+  95.049 11 11
+  105.036 20 20
+  107.050 14 14
+  119.051 5 5
+  123.044 999 999
+  124.047 77 77
+  125.050 7 7
+  135.044 88 88
+  136.048 11 11
+  137.059 72 72
+  138.063 7 7
+  139.039 34 34
+  149.023 8 8
+  151.042 4 4
+  153.054 19 19
+  163.039 87 87
+  164.043 9 9
+  165.055 405 405
+  166.058 42 42
+  167.056 5 5
+  179.036 3 3
+  181.050 150 150
+  182.056 79 79
+  183.065 471 471
+  184.068 44 44
+  185.071 6 6
+  203.032 358 358
+  204.035 36 36
+  205.047 154 154
+  206.052 15 15
+  221.043 45 45
+  222.048 4 4
+  223.059 8 8
+  224.129 4 4
+  345.101 87 87
+  346.104 18 18
+//

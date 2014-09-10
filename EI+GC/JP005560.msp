@@ -1,0 +1,18 @@
+Name:  5-FLUOROURACIL; EI-MS
+MW: 130
+Formula: C4H3FN2O2
+Comment: JP005560
+Comment: N/A
+Comment: JEOL JMS-01-SG-2
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 75 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 75 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+28:280 29:50 58:90 59:1 60:320 87:470 88:90 130:999 131:160 

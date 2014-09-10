@@ -1,0 +1,35 @@
+Name:  2-Methyl benzoic acid (o-Toluic Acid); GC-EI-TOF-MS; RT:459.609 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=118-90-1" target="_blank">118-90-1</a>
+MW: 136
+Formula: C8H8O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C07215" target="_blank">C07215</a>
+Comment: OUF00035
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 459.609  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 96
+85:4 86:4 87:4 88:5 89:163 90:218 91:659 92:57 93:8 94:1 
+95:2 96:18 97:8 100:1 103:6 105:18 106:1 107:4 108:1 109:1 
+113:1 114:1 115:2 116:1 117:6 118:358 119:999 120:94 121:28 122:2 
+127:2 131:3 132:1 133:37 134:6 135:13 136:6 137:1 138:1 144:1 
+145:3 146:2 147:8 148:19 149:357 150:61 151:18 152:3 155:1 159:1 
+163:2 164:2 168:1 171:1 177:5 178:1 180:1 192:44 193:493 194:87 
+195:29 196:2 204:1 206:1 207:4 208:143 209:29 210:9 224:1 225:1 
+236:1 237:1 242:1 247:1 252:1 254:1 276:1 282:1 316:1 334:1 
+336:1 347:1 351:1 378:1 390:1 413:1 416:1 417:1 418:1 427:1 
+434:1 436:1 456:1 473:1 474:1 484:1 

@@ -1,0 +1,21 @@
+Name:  DIMETHYL MALEATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=624-48-6" target="_blank">624-48-6</a>
+MW: 144
+Formula: C6H8O4
+Comment: JP008247
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+15:281 26:105 27:32 28:17 29:49 30:14 31:13 32:10 39:20 41:11 
+42:12 45:10 53:42 54:68 55:43 57:13 59:264 82:28 85:89 113:999 
+114:85 115:17 144:7 

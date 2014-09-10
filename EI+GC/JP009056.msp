@@ -1,0 +1,21 @@
+Name:  3,4-DIHYDRO-2H-PYRAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-87-2" target="_blank">110-87-2</a>
+MW: 84
+Formula: C5H8O
+Comment: JP009056
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+29:257 30:12 31:34 37:17 38:34 39:320 40:28 41:250 42:34 43:58 
+44:11 45:21 49:12 50:70 51:76 52:25 53:161 54:270 55:999 56:321 
+57:110 65:13 66:15 69:136 81:11 83:353 84:776 85:37 

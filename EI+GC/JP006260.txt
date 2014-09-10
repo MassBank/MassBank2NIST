@@ -1,0 +1,63 @@
+ACCESSION: JP006260
+RECORD_TITLE: BENZYL ALCOHOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZYL ALCOHOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H8O
+CH$EXACT_MASS: 108.05751
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-51-6" target="_blank">100-51-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 42
+PK$PEAK: m/z int. rel.int.
+  26 2.15 22
+  27 7.7 77
+  28 2.31 23
+  29 6.94 69
+  30 0.88 9
+  31 5.64 56
+  37 2.29 23
+  38 4.89 49
+  39 14.53 145
+  40 1.19 12
+  41 1.11 11
+  49 1.59 16
+  50 14.14 141
+  51 27.66 277
+  52 7.52 75
+  53 6.29 63
+  54 0.99 10
+  55 0.97 10
+  61 1.7 17
+  62 3.85 39
+  63 8.02 80
+  64 1.73 17
+  65 7.39 74
+  66 0.78 8
+  73 0.98 10
+  74 4.45 45
+  75 2.56 26
+  76 2.17 22
+  77 53.62 536
+  78 12.99 130
+  79 99.99 999
+  80 10.62 106
+  81 0.97 10
+  89 6.76 68
+  90 7.81 78
+  91 17.53 175
+  92 1.49 15
+  105 5.37 54
+  106 2.4 24
+  107 63.38 634
+  108 88.51 885
+  109 7.01 70
+//

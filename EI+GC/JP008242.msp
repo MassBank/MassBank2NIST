@@ -1,0 +1,22 @@
+Name: BIS(2-CYANOETHYL)AMINE
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=111-94-4" target="_blank">111-94-4</a>
+MW: 123
+Formula: C6H9N3
+Synonym: BIS(2-CYANOETHYL)AMINE
+Comment: JP008242
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+15:34 26:46 27:103 28:306 29:53 30:175 38:6 39:21 40:61 41:76 
+42:999 43:127 51:14 52:61 53:20 54:523 55:42 56:59 57:11 66:12 
+67:9 81:58 82:23 83:859 84:52 123:6 

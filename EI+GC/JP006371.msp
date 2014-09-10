@@ -1,0 +1,21 @@
+Name:  4-BROMO-1-BUTENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5162-44-7" target="_blank">5162-44-7</a>
+MW: 133
+Formula: C4H7Br
+Comment: JP006371
+Comment: N/A
+Comment: JEOL JMS-DX-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: HISAHIRO HAGIWARA, CHEMICAL RESEARCH INSTITUTE OF NON-AQUEOUSSOLUTIONS TOHOKU UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+37:20 38:31 39:177 40:14 41:155 42:76 43:993 44:22 50:16 53:59 
+54:34 55:999 56:53 57:15 58:484 59:16 80:19 82:19 108:15 134:62 
+136:60 

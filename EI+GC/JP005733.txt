@@ -1,0 +1,67 @@
+ACCESSION: JP005733
+RECORD_TITLE: (1R)-(+)-ALPHA-PINENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (1R)-(+)-ALPHA-PINENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H16
+CH$EXACT_MASS: 136.1252
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=7785-70-8" target="_blank">7785-70-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 46
+PK$PEAK: m/z int. rel.int.
+  41 6.72 67
+  42 1.48 15
+  43 18.57 186
+  45 1.78 18
+  53 1.78 18
+  55 9.94 99
+  56 2.33 23
+  57 3.56 36
+  58 2.99 30
+  59 3.99 40
+  67 11.97 120
+  68 9.04 90
+  69 11.9 119
+  70 4.16 42
+  71 2.79 28
+  77 8.25 83
+  78 1.86 19
+  79 19.18 192
+  80 11.69 117
+  81 7.98 80
+  82 8.38 84
+  83 6.83 68
+  84 4.39 44
+  85 1.41 14
+  91 12.77 128
+  92 40.56 406
+  93 99.99 999
+  94 15.18 152
+  96 2.39 24
+  97 3.31 33
+  98 1.63 16
+  105 4.99 50
+  106 1.67 17
+  107 8.24 82
+  108 3.26 33
+  109 12.5 125
+  110 2.05 21
+  111 0.96 10
+  119 4.24 42
+  120 0.83 8
+  121 13.25 133
+  122 1.42 14
+  134 1.4 14
+  135 1.8 18
+  136 7.35 74
+  137 3.53 35
+//

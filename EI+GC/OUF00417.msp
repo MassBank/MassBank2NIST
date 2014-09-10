@@ -1,0 +1,31 @@
+Name:  Phenanthrene; GC-EI-TOF-MS; RT:706.361 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=85-01-8" target="_blank">85-01-8</a>
+MW: 178
+Formula: C14H10
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C11422" target="_blank">C11422</a>
+Comment: OUF00417
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 706.361  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 57
+85:11 86:31 87:63 88:148 89:157 90:3 97:3 98:38 99:24 100:11 
+101:8 102:11 103:1 109:4 110:11 111:13 112:2 113:10 114:1 115:4 
+120:1 121:2 122:10 123:6 124:4 125:9 126:26 127:9 128:9 129:1 
+134:2 135:2 137:4 138:3 139:15 140:2 146:1 148:1 149:18 150:96 
+151:106 152:159 153:27 154:2 162:3 163:5 164:1 173:3 174:33 175:41 
+176:243 177:142 178:999 179:154 180:12 181:1 184:4 

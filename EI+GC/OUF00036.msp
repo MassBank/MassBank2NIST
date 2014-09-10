@@ -1,0 +1,37 @@
+Name:  2-MethylGlutarate; GC-EI-TOF-MS; RT:505.385 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=617-62-9" target="_blank">617-62-9</a>
+MW: 146
+Formula: C6H10O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C05282" target="_blank">C05282</a>
+Comment: OUF00036
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 505.385  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 111
+85:31 86:59 87:24 88:28 89:24 90:2 91:3 92:2 93:3 95:6 
+97:6 98:2 99:40 100:8 101:60 102:13 103:22 104:4 105:10 106:1 
+107:1 109:3 110:3 111:35 112:5 113:36 114:6 115:43 116:120 117:90 
+118:14 119:14 120:1 123:1 125:4 127:3 128:5 129:217 130:146 131:86 
+132:21 133:116 134:21 135:11 136:1 139:1 141:15 142:4 143:97 144:107 
+145:38 146:67 147:999 148:169 149:312 150:44 151:20 152:1 155:1 156:2 
+157:181 158:26 159:23 160:2 161:1 162:22 163:9 164:2 165:2 171:3 
+172:302 173:75 174:20 175:4 176:1 185:4 188:1 189:52 190:24 191:9 
+192:2 199:1 200:47 201:23 202:5 203:18 204:190 205:47 206:19 207:3 
+217:22 218:22 219:7 220:1 231:104 232:50 233:22 234:5 235:1 240:1 
+243:1 247:81 248:44 249:22 250:5 251:1 266:1 275:189 276:79 277:27 
+278:5 

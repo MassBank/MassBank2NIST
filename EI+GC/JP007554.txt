@@ -1,0 +1,36 @@
+ACCESSION: JP007554
+RECORD_TITLE: GERANYL ACETATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: GERANYL ACETATE
+CH$NAME: ACETIC ACID (E)-3,7-DIMETHYL-2,6-OCTADIEN-1-OL ESTER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H20O2
+CH$EXACT_MASS: 196.14633
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=105-87-3" target="_blank">105-87-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  55 2.54 25
+  68 61.16 612
+  69 99.99 999
+  80 24.56 246
+  85 9.28 93
+  92 12.16 122
+  93 45.85 459
+  107 7.15 72
+  108 3.23 32
+  121 21.98 220
+  123 3.54 35
+  136 25.59 256
+  137 3.03 30
+  154 3 30
+//

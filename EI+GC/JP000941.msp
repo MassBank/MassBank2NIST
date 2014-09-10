@@ -1,0 +1,20 @@
+Name:  1,1-DICHLOROETHYLENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-35-4" target="_blank">75-35-4</a>
+MW: 95
+Formula: C2H2Cl2
+Comment: JP000941
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+35:92 36:23 37:35 47:6 49:28 59:39 60:189 61:999 62:84 63:319 
+96:443 98:29 100:41 

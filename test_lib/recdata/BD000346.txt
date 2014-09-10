@@ -1,0 +1,63 @@
+ACCESSION: BD000346
+RECORD_TITLE: Hordenine; MS/MS; ESI-TOF; CE:10 eV; [M+H]+
+DATE: 2008.01.29
+AUTHORS: BSC
+COPYRIGHT: Copyright(C) 2008
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C06199
+CH$NAME: Hordenine
+CH$NAME: Anhalin
+CH$NAME: 4-[2-(Dimethylamino)ethyl]phenol,4-(2-dimethylaminoethyl)phenol ,Anhalin ,Anhaline ,Cactine ,Eremursine ,Hordenin ,Hordetin ,N,N-dimethyl-p-hydroxyphenethylamine ,N,N-dimethyltyramine ,Ordenina ,Ordenine ,Peyocactine ,p-(2-dimethylaminoethyl)phenol ,p-hydroxy-N,N-dimethylphenethylamine ,p-[2-(dimethylamino)ethyl]phenol
+CH$NAME: p-Hydroxy-N,N-dimethylphenethylamine
+CH$NAME: 4-[2-(Dimethylamino)ethyl]phenol
+CH$NAME: N,N-Dimethyl-p-hydroxyphenethylamine
+CH$NAME: Anhaline
+CH$NAME: Hordenin
+CH$NAME: Cactine
+CH$NAME: Eremursine
+CH$NAME: Ordenina
+CH$NAME: Hordetin
+CH$NAME: 4-(2-Dimethylaminoethyl)phenol
+CH$NAME: Ordenine
+CH$NAME: N,N-Dimethyltyramine
+CH$NAME: Peyocactine
+CH$NAME: p-(2-Dimethylaminoethyl)phenol
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C10H15NO
+CH$EXACT_MASS: 165.1153641
+CH$SMILES: CN(C)CCC=1C=CC(O)=CC=1
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:68313
+CH$LINK: CAS 539-15-1
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 10 eV
+AC$ANALYTICAL_CONDITION: MS_TYPE MS/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.029
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 33.24
+AC$ANALYTICAL_CONDITION: Mass 44.9439-395.143
+MS$FOCUSED_ION: PRECURSOR_M/Z 166.123
+MS$FOCUSED_ION: PRECURSOR_TYPE [M+H]+
+MS$FOCUSED_ION: BASE_PEAK 121.066
+PK$NUM_PEAK: 13
+PK$PEAK: m/z int. rel.int.
+  77.039 7 7
+  91.054 37 37
+  93.070 81 81
+  94.074 9 9
+  95.047 14 14
+  103.054 75 75
+  105.045 8 8
+  108.015 11 11
+  121.065 999 999
+  122.069 94 94
+  123.991 16 16
+  152.964 14 14
+  166.122 27 27
+//

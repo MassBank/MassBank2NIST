@@ -1,0 +1,14 @@
+Name: Syringic_acid
+MW: 198
+Synonym: Syringic acid
+Comment: SC001876
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+39.024 121 95.0138 156 121.028 214 123.008 358 153.055 135 166.998 133 182.021 358 197.045 999 

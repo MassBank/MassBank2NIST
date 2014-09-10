@@ -1,0 +1,21 @@
+Name:  1,6-HEXANEDIAMINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=124-09-4" target="_blank">124-09-4</a>
+MW: 116
+Formula: C6H16N2
+Comment: JP007354
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+18:65 27:19 28:49 29:14 30:999 31:38 39:18 41:40 42:43 43:32 
+44:52 45:51 55:27 56:135 57:11 58:28 69:17 70:27 72:24 73:14 
+86:43 87:90 100:59 101:29 

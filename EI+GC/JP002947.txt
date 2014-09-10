@@ -1,0 +1,27 @@
+ACCESSION: JP002947
+RECORD_TITLE: DIMETHOXY METHANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIMETHOXY METHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H8O2
+CH$EXACT_MASS: 76.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  14 3.35 34
+  15 33.79 338
+  29 28.71 287
+  31 8.28 83
+  44 2.35 24
+  45 99.99 999
+  47 3.34 33
+  75 40.84 408
+//

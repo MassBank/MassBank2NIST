@@ -1,0 +1,19 @@
+Name: N8-Acetylspermidine
+CAS: 34450-15-2
+MW: 187
+Formula: C9H21N3O
+Synonym: C01029
+Synonym: N8-Acetylspermidine
+Comment: XX002272
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 26
+30.100 11 39.100 2 40.900 19 42.200 20 43.000 62 44.100 5 55.200 125 56.100 15 58.300 349 60.200 49 
+67.100 6 68.200 4 69.300 5 70.200 106 72.000 668 79.000 1 82.100 29 82.900 2 84.300 999 87.000 1 
+90.600 1 96.100 2 97.100 2 98.100 2 112.400 22 114.400 25 

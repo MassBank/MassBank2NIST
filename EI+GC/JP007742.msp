@@ -1,0 +1,23 @@
+Name:  2-OCTANOYLFURAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5456-77-9" target="_blank">5456-77-9</a>
+MW: 194
+Formula: C12H18O2
+Synonym: 1-(2-FURANYL)-1-OCTANONE
+Comment: JP007742
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 37
+27:19 29:80 39:88 40:10 41:120 42:31 43:100 53:20 55:150 56:19 
+57:30 61:10 67:39 68:86 69:23 70:10 79:10 80:10 81:68 82:40 
+83:10 84:10 94:18 95:652 96:45 97:40 98:10 109:10 110:999 111:178 
+112:10 123:325 124:40 137:10 151:29 152:10 194:8 

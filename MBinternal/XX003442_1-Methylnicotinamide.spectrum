@@ -1,0 +1,19 @@
+Name: 1-Methylnicotinamide
+CAS: 3106-60-3
+MW: 137
+Formula: C7H9N2O
+Synonym: C02918
+Synonym: 1-Methylnicotinamide
+Comment: XX003442
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 28
+41.200 1 55.000 1 58.500 1 60.200 1 63.300 1 69.800 1 72.900 1 75.200 1 75.900 1 76.900 1 
+78.200 1 78.900 1 80.700 1 83.200 1 86.800 1 87.500 1 88.600 1 91.800 1 94.100 2 101.900 1 
+104.900 8 106.600 1 108.100 1 109.900 1 119.400 1 119.900 2 137.100 999 138.000 1 

@@ -1,0 +1,20 @@
+Name:  ISOXAZOLE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=288-14-2" target="_blank">288-14-2</a>
+MW: 69
+Formula: C3H3NO
+Comment: JP008272
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+13:49 14:491 15:43 18:300 25:44 26:85 27:41 29:347 30:36 31:18 
+37:53 38:160 39:194 40:841 41:405 42:118 51:12 68:725 69:999 70:65 

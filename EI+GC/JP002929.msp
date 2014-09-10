@@ -1,0 +1,18 @@
+Name:  METHYL CYANOFORMATE; EI-MS
+MW: 85
+Formula: C3H3NO2
+Comment: JP002929
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+14:61 15:361 26:104 27:70 28:129 29:303 30:51 31:480 41:386 42:27 
+44:54 45:282 54:999 55:114 59:209 84:93 

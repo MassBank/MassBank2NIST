@@ -1,0 +1,172 @@
+ACCESSION: OUF00468
+RECORD_TITLE: Sulfanilamide; GC-EI-TOF-MS; RT:827.624 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Sulfanilamide
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C6H8N2O2S
+CH$EXACT_MASS: 172.03065
+CH$SMILES: Nc(c1)ccc(c1)S(N)(=O)=O
+CH$IUPAC: InChI=1/C6H8N2O2S/c7-5-1-3-6(4-2-5)11(8,9)10/h1-4H,7H2,(H2,8,9,10)/f/h8H2
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=63-74-1" target="_blank">63-74-1</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:45373" target="_blank">45373</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:9333" target="_blank">9333</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C07458" target="_blank">C07458</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=5333" target="_blank">5333</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/5142" target="_blank">5142</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 827.624  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 141
+PK$PEAK: m/z int. rel.int.
+  85 6 6
+  86 8 8
+  87 9 9
+  88 4 4
+  89 8 8
+  90 10 10
+  91 26 26
+  92 14 14
+  93 19 19
+  94 9 9
+  95 12 12
+  96 7 7
+  97 3 3
+  98 3 3
+  99 2 2
+  100 13 13
+  101 4 4
+  102 6 6
+  103 14 14
+  104 10 10
+  105 19 19
+  106 16 16
+  107 12 12
+  108 12 12
+  109 5 5
+  110 9 9
+  111 4 4
+  113 3 3
+  114 2 2
+  115 14 14
+  116 5 5
+  117 11 11
+  118 9 9
+  119 25 25
+  120 48 48
+  121 19 19
+  122 13 13
+  123 3 3
+  124 1 1
+  125 1 1
+  130 19 19
+  131 33 33
+  132 43 43
+  133 67 67
+  134 80 80
+  135 22 22
+  136 13 13
+  137 32 32
+  138 10 10
+  139 2 2
+  140 2 2
+  141 1 1
+  143 8 8
+  144 2 2
+  145 2 2
+  146 19 19
+  147 999 999
+  148 217 217
+  149 132 132
+  150 30 30
+  151 12 12
+  152 2 2
+  153 1 1
+  154 1 1
+  158 2 2
+  160 3 3
+  161 3 3
+  162 15 15
+  163 59 59
+  164 41 41
+  165 11 11
+  166 7 7
+  167 2 2
+  168 1 1
+  176 2 2
+  177 5 5
+  178 24 24
+  179 21 21
+  180 56 56
+  181 10 10
+  182 5 5
+  183 1 1
+  190 1 1
+  191 1 1
+  192 2 2
+  193 2 2
+  194 14 14
+  195 4 4
+  196 8 8
+  197 2 2
+  198 1 1
+  205 2 2
+  206 2 2
+  207 1 1
+  208 6 6
+  209 2 2
+  210 117 117
+  211 72 72
+  212 35 35
+  213 8 8
+  214 2 2
+  219 1 1
+  220 2 2
+  221 2 2
+  222 10 10
+  223 4 4
+  224 2 2
+  225 1 1
+  226 1 1
+  228 1 1
+  229 3 3
+  230 1 1
+  235 6 6
+  236 11 11
+  237 9 9
+  238 5 5
+  239 1 1
+  251 15 15
+  252 4 4
+  253 2 2
+  285 6 6
+  286 1 1
+  299 4 4
+  300 4 4
+  301 19 19
+  302 6 6
+  303 3 3
+  310 1 1
+  316 8 8
+  317 2 2
+  372 6 6
+  373 82 82
+  374 34 34
+  375 19 19
+  376 5 5
+  377 1 1
+  387 2 2
+  388 16 16
+  389 8 8
+  390 4 4
+  391 1 1
+//

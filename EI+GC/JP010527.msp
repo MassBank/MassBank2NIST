@@ -1,0 +1,22 @@
+Name:  4-ACETYLBENZONITRILE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1443-80-7" target="_blank">1443-80-7</a>
+MW: 145
+Formula: C9H7NO
+Synonym: 4'-CYANOACETOPHENONE
+Comment: JP010527
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+15:17 38:12 39:18 42:15 43:162 50:69 51:85 52:15 62:16 63:25 
+64:12 74:31 75:127 76:94 89:15 99:10 101:13 102:501 103:57 130:999 
+131:92 145:256 146:30 

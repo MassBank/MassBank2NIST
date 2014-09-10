@@ -1,0 +1,18 @@
+Name:  BIPHENYL; EI-MS
+MW: 154
+Formula: C12H10
+Comment: JP003617
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+39:60 50:78 51:110 52:3 62:25 63:71 64:72 74:5 75:50 76:175 
+77:100 115:6 126:30 127:28 128:40 151:8 152:205 153:263 154:999 155:128 

@@ -1,0 +1,21 @@
+Name:  1,4-DIBROMOBUTANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-52-1" target="_blank">110-52-1</a>
+MW: 213
+Formula: C4H8Br2
+Comment: JP009888
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 29
+26:40 27:182 28:54 29:180 39:107 41:100 50:10 51:12 53:50 54:15 
+55:999 56:44 79:17 80:31 81:17 82:32 95:36 106:45 107:136 108:46 
+109:132 134:102 135:844 136:137 137:808 138:33 214:9 216:17 218:8 

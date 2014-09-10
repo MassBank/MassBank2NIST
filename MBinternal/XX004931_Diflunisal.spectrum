@@ -1,0 +1,17 @@
+Name: Diflunisal
+CAS: 22494-42-4
+MW: 250
+Formula: C13H8F2O3
+Synonym: C01691
+Synonym: Diflunisal
+Comment: XX004931
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 5
+45.9915 999 92.0294 459 121.0379 297 162.0234 270 205.0440 378 

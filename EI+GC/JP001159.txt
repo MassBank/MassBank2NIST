@@ -1,0 +1,65 @@
+ACCESSION: JP001159
+RECORD_TITLE: 7-ACETOXYCOUMARIN; EI-MS
+DATE: 2008.10.21
+AUTHORS: NAKAYAMA M, MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 7-ACETOXYCOUMARIN
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H8O4
+CH$EXACT_MASS: 204.04226
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMS-4
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 80 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 45
+PK$PEAK: m/z int. rel.int.
+  41 3 30
+  42 3 30
+  43 59 590
+  44 2 20
+  45 1 10
+  49 1 10
+  50 8 80
+  51 21 210
+  52 4 40
+  53 3 30
+  54 2 20
+  55 3 30
+  56 1 10
+  57 3 30
+  61 2 20
+  62 6 60
+  63 11 110
+  64 3 30
+  65 4 40
+  66 1 10
+  69 7 70
+  70 1 10
+  71 2 20
+  74 3 30
+  75 1 10
+  76 3 30
+  77 13 130
+  78 12 120
+  79 3 30
+  89 4 40
+  92 2 20
+  93 1 10
+  105 13 130
+  106 5 50
+  133 6 60
+  134 99.99 999
+  135 9 90
+  136 1 10
+  161 2 20
+  162 91 910
+  163 10 100
+  164 1 10
+  204 15 150
+  205 4 40
+  206 1 10
+//

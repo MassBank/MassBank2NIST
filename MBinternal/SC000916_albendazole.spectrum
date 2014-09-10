@@ -1,0 +1,14 @@
+Name: albendazole
+MW: 265
+Synonym: albendazole
+Comment: SC000916
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+136.009 13 159.042 183 163.02 35 191.015 384 192.022 127 234.07 808 266.096 999 266.299 49 

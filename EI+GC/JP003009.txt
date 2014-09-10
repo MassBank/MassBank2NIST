@@ -1,0 +1,32 @@
+ACCESSION: JP003009
+RECORD_TITLE: 3-TERT-BUTYLMERCAPTO-4-PHENYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-TERT-BUTYLMERCAPTO-4-PHENYLPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C15H17NS
+CH$EXACT_MASS: 243.10817
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 13
+PK$PEAK: m/z int. rel.int.
+  32 55 550
+  35 10 100
+  41 5 50
+  47 2.2 22
+  49 17 170
+  57 12 120
+  84 99.99 999
+  86 0.62 6
+  88 11 110
+  115 6 60
+  186 21 210
+  187 0.24 2
+  243 3 30
+//

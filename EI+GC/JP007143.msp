@@ -1,0 +1,23 @@
+Name:  BENZYLIDENEACETONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1896-62-4" target="_blank">1896-62-4</a>
+MW: 146
+Formula: C10H10O
+Synonym: TRANS-4-PHENYL-3-BUTEN-2-ONE
+Comment: JP007143
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 36
+15:53 26:12 27:35 38:25 39:70 42:19 43:324 50:147 51:383 52:49 
+53:15 58:13 62:34 63:83 64:11 65:21 73:12 74:58 75:57 76:70 
+77:557 78:40 87:10 89:14 91:28 101:20 102:141 103:962 104:73 115:35 
+117:22 131:999 132:79 145:463 146:604 147:53 

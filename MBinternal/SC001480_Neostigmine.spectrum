@@ -1,0 +1,14 @@
+Name: Neostigmine
+MW: 223
+Synonym: Neostigmine
+Comment: SC001480
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+44.0496 6 72.0452 468 135.104 7 137.083 7 150.091 23 151.099 11 208.121 343 223.144 999 

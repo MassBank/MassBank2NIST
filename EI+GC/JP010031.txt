@@ -1,0 +1,53 @@
+ACCESSION: JP010031
+RECORD_TITLE: 6-HYDROXY-6-METHYL-2-HEPTANONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 6-HYDROXY-6-METHYL-2-HEPTANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H16O2
+CH$EXACT_MASS: 144.11503
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 33
+PK$PEAK: m/z int. rel.int.
+  27 5.8 58
+  29 3.2 32
+  31 12.3 123
+  39 0.55 6
+  41 17.9 179
+  42 4.1 41
+  43 74.8 748
+  44 0.2 2
+  45 3.2 32
+  53 2.1 21
+  55 14.7 147
+  56 1.62 16
+  57 1.8 18
+  58 78.2 782
+  59 99.99 999
+  60 0.44 4
+  67 2.9 29
+  68 2.3 23
+  69 15.2 152
+  71 9.09 91
+  72 4.2 42
+  83 7.4 74
+  85 3.4 34
+  86 0.55 6
+  93 2.7 27
+  108 10.5 105
+  109 4.1 41
+  111 2.23 22
+  112 1.7 17
+  116 23.6 236
+  117 1.5 15
+  126 0.58 6
+  129 7.1 71
+//

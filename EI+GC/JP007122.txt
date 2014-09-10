@@ -1,0 +1,50 @@
+ACCESSION: JP007122
+RECORD_TITLE: TRANS-P-MENTHANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TRANS-P-MENTHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H20
+CH$EXACT_MASS: 140.1565
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1678-82-6" target="_blank">1678-82-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 29
+PK$PEAK: m/z int. rel.int.
+  27 11.48 115
+  29 10.28 103
+  39 12.33 123
+  40 1.76 18
+  41 29.95 300
+  42 4.91 49
+  43 13.65 137
+  51 1.08 11
+  53 6.41 64
+  54 6.23 62
+  55 99.99 999
+  56 8.4 84
+  57 3.39 34
+  65 1.08 11
+  67 7.71 77
+  68 4.38 44
+  69 17.87 179
+  70 1.98 20
+  77 1.36 14
+  79 1.42 14
+  81 20.47 205
+  82 1.9 19
+  83 6.9 69
+  95 1.21 12
+  96 52.29 523
+  97 91.15 912
+  98 8.04 80
+  140 14.16 142
+  141 1.35 14
+//

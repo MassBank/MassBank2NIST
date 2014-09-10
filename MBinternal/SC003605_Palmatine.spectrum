@@ -1,0 +1,14 @@
+Name: Palmatine
+MW: 352
+Synonym: Palmatine
+Comment: SC003605
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+336.124 15 337.132 31 352.155 999 352.389 28 

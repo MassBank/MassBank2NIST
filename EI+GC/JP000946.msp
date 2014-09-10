@@ -1,0 +1,21 @@
+Name: ISOPHORONE
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=78-59-1" target="_blank">78-59-1</a>
+MW: 138
+Formula: C9H14O
+Synonym: ISOPHORONE
+Comment: JP000946
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+51:29 53:69 54:148 55:5 67:53 77:29 79:27 82:999 83:53 95:48 
+138:122 

@@ -1,0 +1,21 @@
+Name:  4-AMINOBENZOPHENONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1137-41-3" target="_blank">1137-41-3</a>
+MW: 197
+Formula: C13H11NO
+Comment: JP009534
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+39:11 51:16 65:76 66:10 77:73 78:13 92:118 93:16 105:64 120:999 
+121:82 141:14 167:14 168:20 169:16 180:13 195:16 196:39 197:801 198:152 
+199:15 

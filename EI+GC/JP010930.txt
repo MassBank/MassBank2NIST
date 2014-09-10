@@ -1,0 +1,42 @@
+ACCESSION: JP010930
+RECORD_TITLE: BIS(3-METHYL-2-BUTENYL) ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BIS(3-METHYL-2-BUTENYL) ETHER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H18O
+CH$EXACT_MASS: 154.13577
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  27 9.1 91
+  29 16.3 163
+  39 11.2 112
+  40 1.5 15
+  41 88.1 881
+  42 10.8 108
+  43 6.3 63
+  53 8.3 83
+  55 23.1 231
+  56 2 20
+  57 17 170
+  67 11.6 116
+  68 9.2 92
+  69 99.99 999
+  70 32.8 328
+  71 12.7 127
+  83 4.5 45
+  85 38.6 386
+  86 3.1 31
+  110 3.3 33
+  139 30.5 305
+  140 2.5 25
+//

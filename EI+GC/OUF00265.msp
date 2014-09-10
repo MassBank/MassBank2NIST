@@ -1,0 +1,31 @@
+Name:  Hippurate; GC-EI-TOF-MS; RT:714.009 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=495-69-2" target="_blank">495-69-2</a>
+MW: 179
+Formula: C9H9NO3
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01586" target="_blank">C01586</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00855" target="_blank">D00855</a>
+Comment: OUF00265
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 714.009  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 55
+85:1 86:16 87:19 88:15 89:11 90:6 91:12 92:1 93:2 96:10 
+100:5 101:5 102:9 103:14 104:29 105:999 106:84 107:6 116:17 117:24 
+118:17 119:3 121:4 130:5 131:2 132:4 133:7 134:16 135:12 146:1 
+147:1 148:4 149:5 161:6 162:3 163:10 164:1 176:1 177:12 178:2 
+179:2 190:45 191:11 192:14 193:1 204:2 205:1 206:356 207:94 208:24 
+209:3 236:49 237:8 238:1 251:1 

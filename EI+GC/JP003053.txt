@@ -1,0 +1,51 @@
+ACCESSION: JP003053
+RECORD_TITLE: 3,4-DICHLORO-1,1,1,4,4-PENTAFLUORO-2-BUTENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3,4-DICHLORO-1,1,1,4,4-PENTAFLUORO-2-BUTENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4HCl2F5
+CH$EXACT_MASS: 213.93755
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  31 0.4 4
+  36 5.1 51
+  38 1.6 16
+  51 0.04 0
+  69 5.4 54
+  75 2.3 23
+  85 6.5 65
+  87 0.21 2
+  109 4.2 42
+  111 1 10
+  113 5.9 59
+  125 0.04 0
+  129 36.5 365
+  131 11.9 119
+  145 26.3 263
+  147 1.61 16
+  149 2.8 28
+  159 0.5 5
+  160 0.4 4
+  161 0.02 0
+  163 1.7 17
+  165 1.1 11
+  167 0.3 3
+  179 99.99 999
+  181 32.5 325
+  194 2 20
+  195 2.2 22
+  196 0.14 1
+  197 1.7 17
+  214 20.4 204
+  216 13.6 136
+  218 2 20
+//

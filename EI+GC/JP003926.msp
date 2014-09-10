@@ -1,0 +1,18 @@
+Name:  PYRIDINE; EI-MS
+MW: 79
+Formula: C5H5N
+Comment: JP003926
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+1:26 25:29 26:223 27:7 28:57 37:48 38:55 39:12 40:29 49:56 
+50:347 51:43 52:738 53:102 75:32 76:2 78:75 79:999 80:61 

@@ -1,0 +1,20 @@
+Name:  FURAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-00-9" target="_blank">110-00-9</a>
+MW: 68
+Formula: C4H4O
+Comment: JP007322
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+14:19 25:11 26:22 28:25 29:118 34:27 36:16 37:91 38:150 39:999 
+40:149 41:10 42:84 68:869 69:39 

@@ -1,0 +1,21 @@
+Name:  ACRYLIC ACID 2-HYDROXYETHYL ESTER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=818-61-1" target="_blank">818-61-1</a>
+MW: 116
+Formula: C5H8O3
+Synonym: 2-PROPENOIC ACID 2-HYDROXYETHYL ESTER
+Comment: JP007333
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+15:25 26:47 27:331 28:26 29:49 31:93 42:14 43:45 44:67 45:48 
+55:999 56:42 57:11 58:46 73:170 85:77 86:149 

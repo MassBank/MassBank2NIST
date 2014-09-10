@@ -1,0 +1,44 @@
+ACCESSION: JP003721
+RECORD_TITLE: BENZIMINO ETHYL ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZIMINO ETHYL ETHER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H11NO
+CH$EXACT_MASS: 149.08406
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  43 1.5 15
+  44 5.5 55
+  45 3 30
+  46 0.13 1
+  50 15 150
+  51 27.5 275
+  52 6 60
+  63 0.18 2
+  64 1 10
+  65 1.8 18
+  73 1 10
+  74 0.04 0
+  75 5 50
+  76 15.5 155
+  77 55 550
+  78 0.09 1
+  103 30 300
+  104 65.5 655
+  105 99.99 999
+  106 0.85 9
+  121 50 500
+  122 5 50
+  134 1.5 15
+  148 1.85 19
+  149 4.5 45
+//

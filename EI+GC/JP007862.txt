@@ -1,0 +1,43 @@
+ACCESSION: JP007862
+RECORD_TITLE: PHENYL 2-PYRIDYL KETONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PHENYL 2-PYRIDYL KETONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H9NO
+CH$EXACT_MASS: 183.06841
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=91-02-1" target="_blank">91-02-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  27 1.84 18
+  39 2.13 21
+  50 13.21 132
+  51 30.51 305
+  52 3.61 36
+  74 4.71 47
+  75 4.21 42
+  76 1.03 10
+  77 23.41 234
+  78 17.01 170
+  79 3.64 36
+  104 1.82 18
+  105 85 850
+  106 8.01 80
+  107 1.04 10
+  154 28.01 280
+  155 99.99 999
+  156 11.68 117
+  182 75.13 751
+  183 79.06 791
+  184 10.26 103
+  185 0.76 8
+//

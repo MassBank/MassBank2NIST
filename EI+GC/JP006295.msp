@@ -1,0 +1,22 @@
+Name:  N-METHYLFORMAMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=123-39-7" target="_blank">123-39-7</a>
+MW: 59
+Formula: C2H5NO
+Synonym: N-FORMYLMETHYLAMINE
+Comment: JP006295
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+12:10 13:21 14:38 15:137 16:15 18:9 26:12 27:117 28:857 29:365 
+30:999 31:39 32:13 38:12 39:13 40:17 41:26 42:16 43:23 44:13 
+58:74 59:807 60:67 

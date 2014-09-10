@@ -1,0 +1,18 @@
+Name: Naringin
+MW: 580
+Formula: C27H32O14
+Synonym: C09789
+Synonym: CID: 442428
+Synonym: (2S)-7-[(2S,3R,4S,5S,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-5-hydroxy-2-(4-hydroxyphenyl)chroman-4-one, Naringin
+Comment: PB000802
+Contributor: Boettcher C, Institute of Plant Biochemistry, Halle, Germany
+InstType: TOF
+InstName: API QSTAR Pulsar i
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 55
+Date: 2008-03-25 14:48:36+02:00
+Num: 14
+57.035 13 71.050 97 85.031 116 119.049 14 121.064 19 123.044 9 147.044 193 153.019 999 165.023 9 171.033 35 
+179.038 14 195.033 27 219.030 14 273.076 239 

@@ -1,0 +1,23 @@
+Name:  DECANAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-31-2" target="_blank">112-31-2</a>
+MW: 156
+Formula: C10H20O
+Comment: JP008768
+Comment: N/A
+Comment: HP 5970
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UOEH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 41
+39:345 41:999 42:297 43:803 44:433 45:132 51:14 52:11 53:79 54:132 
+55:569 56:337 57:711 58:50 65:16 66:57 67:259 68:296 69:222 70:319 
+71:301 72:62 77:9 79:31 80:21 81:229 82:316 83:228 84:102 85:28 
+95:149 96:118 97:39 99:24 100:12 109:64 110:91 112:124 113:19 128:25 
+138:12 

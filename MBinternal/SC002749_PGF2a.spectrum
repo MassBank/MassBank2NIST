@@ -1,0 +1,14 @@
+Name: PGF2a
+MW: 354
+Synonym: PGF2a
+Comment: SC002749
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+291.193 23 299.026 34 309.207 65 316.204 27 335.219 24 352.224 59 353.017 58 353.232 999 

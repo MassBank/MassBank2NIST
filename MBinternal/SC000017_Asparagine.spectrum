@@ -1,0 +1,14 @@
+Name: Asparagine
+MW: 132
+Synonym: Asparagine
+Comment: SC000017
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+74.0254 30 87.0558 132 88.0383 21 116.034 27 133.061 999 

@@ -1,0 +1,18 @@
+Name:  5-TERT-BUTYLMERCAPTO-2-PICOLINE; EI-MS
+MW: 181
+Formula: C10H15NS
+Comment: JP003013
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+29:120 32:90 39:100 41:23 53:100 57:430 81:90 84:1 97:50 124:100 
+125:999 126:1 127:50 166:30 181:140 182:17 

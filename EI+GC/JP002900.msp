@@ -1,0 +1,18 @@
+Name:  BIS(2-CYANOETHYL)ETHER; EI-MS
+MW: 124
+Formula: C6H8N2O
+Comment: JP002900
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+15:46 26:53 27:128 28:242 29:69 31:213 40:42 41:51 42:51 52:53 
+54:999 55:64 84:252 97:35 

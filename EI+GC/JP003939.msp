@@ -1,0 +1,17 @@
+Name:  2-N-PROPYLPYRIDINE; EI-MS
+MW: 121
+Formula: C8H11N
+Comment: JP003939
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+27:404 65:86 78:112 79:9 92:94 93:999 106:306 120:15 121:44 

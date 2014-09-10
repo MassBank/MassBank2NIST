@@ -1,0 +1,14 @@
+Name: Quinic_acid
+MW: 192
+Synonym: Quinic acid
+Comment: SC002518
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+44.9983 26 59.0144 32 85.0298 136 87.0088 24 93.0345 40 109.029 11 127.04 20 191.056 999 

@@ -1,0 +1,22 @@
+Name:  NORCAMPHOR; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=497-38-1" target="_blank">497-38-1</a>
+MW: 110
+Formula: C7H10O
+Synonym: BICYCLO(2.2.1)HEPTAN-2-ONE
+Comment: JP007646
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+41:35 43:16 53:10 54:168 55:22 56:11 66:999 67:545 68:160 69:19 
+79:22 80:11 81:93 82:40 84:14 91:11 92:52 93:13 94:52 109:41 
+110:742 111:57 

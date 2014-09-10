@@ -1,0 +1,21 @@
+Name:  BENZYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=140-11-4" target="_blank">140-11-4</a>
+MW: 150
+Formula: C9H10O2
+Comment: JP004946
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+42:35 43:477 44:32 45:13 50:44 51:112 52:25 53:10 62:14 63:49 
+64:16 65:116 74:12 77:155 78:41 79:232 80:23 89:108 90:431 91:500 
+92:40 105:57 106:32 107:171 108:999 109:81 150:248 151:27 

@@ -1,0 +1,18 @@
+Name:  NAPHTHALENE (1,2,3,4,5,6,7,8-D8); EI-MS
+MW: 128
+Formula: C10H8
+Comment: JP010463
+Comment: N/A
+Comment: HITACHI M-80A
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+42:15 54:12 66:15 108:40 132:19 134:35 135:108 136:999 137:109 138:15 

@@ -1,0 +1,19 @@
+Name:  HEXAMETHYLDISILAZANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=999-97-3" target="_blank">999-97-3</a>
+MW: 161
+Formula: C6H19NSi2
+Comment: JP009519
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 16 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 16 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+75:11 130:59 131:10 146:999 147:858 148:180 149:60 161:61 162:10 

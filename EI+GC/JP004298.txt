@@ -1,0 +1,54 @@
+ACCESSION: JP004298
+RECORD_TITLE: 1,4-BUTANEDICARBONITRILE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,4-BUTANEDICARBONITRILE
+CH$NAME: HEXANEDINITRILE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H8N2
+CH$EXACT_MASS: 108.06875
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=111-69-3" target="_blank">111-69-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  15 1.53 15
+  26 2.86 29
+  27 7.8 78
+  28 7.31 73
+  29 1.04 10
+  37 2.02 20
+  38 3.2 32
+  39 16.85 169
+  40 5.57 56
+  41 99.99 999
+  42 6.82 68
+  43 4.81 48
+  44 2.79 28
+  50 1.95 20
+  51 3.83 38
+  52 6.69 67
+  53 5.22 52
+  54 40.53 405
+  55 18.66 187
+  64 1.53 15
+  66 3.48 35
+  67 2.44 24
+  68 41.16 412
+  69 2.86 29
+  70 1.53 15
+  77 1.53 15
+  80 2.44 24
+  105 1.53 15
+  106 1.04 10
+  107 2.09 21
+  108 1 10
+  109 2.86 29
+//

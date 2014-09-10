@@ -1,0 +1,20 @@
+Name:  ETHYL FORMATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-94-4" target="_blank">109-94-4</a>
+MW: 74
+Formula: C3H6O2
+Comment: JP008267
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+14:52 15:66 16:107 17:135 27:449 28:581 29:477 31:999 42:28 43:97 
+45:345 56:59 57:27 70:26 71:22 74:31 

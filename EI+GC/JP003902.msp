@@ -1,0 +1,18 @@
+Name:  METHYL N-BUTYL ETHER; EI-MS
+MW: 88
+Formula: C5H12O
+Comment: JP003902
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+14:32 15:122 26:34 27:14 28:57 29:169 31:28 33:2 39:81 41:100 
+42:23 43:4 45:999 46:35 47:30 55:3 56:191 57:32 59:29 88:20 

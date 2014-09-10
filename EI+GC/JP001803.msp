@@ -1,0 +1,20 @@
+Name:  ETHYL METHYL KETONE; EI-MS
+MW: 72
+Formula: C4H8O
+Synonym: 2-BUTANONE
+Comment: JP001803
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+15:30 18:33 26:11 27:46 28:14 29:143 39:13 41:12 42:33 43:999 
+44:26 57:83 71:10 72:280 73:16 

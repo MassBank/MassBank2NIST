@@ -1,0 +1,18 @@
+Name:  META-TERT-BUTYLPHENOL; EI-MS
+MW: 150
+Formula: C10H14O
+Comment: JP004064
+Comment: N/A
+Comment: HITACHI RMU-6L
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+39:70 41:136 76:71 95:15 107:327 135:999 136:103 150:309 

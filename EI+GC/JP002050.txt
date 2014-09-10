@@ -1,0 +1,48 @@
+ACCESSION: JP002050
+RECORD_TITLE: 5-BUTYL-2-METHYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-BUTYL-2-METHYLPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H15N
+CH$EXACT_MASS: 149.12045
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MX-1303
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 50 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 28
+PK$PEAK: m/z int. rel.int.
+  39 3.9 39
+  41 2.7 27
+  43 1.4 14
+  44 0.55 6
+  51 2.7 27
+  52 1.8 18
+  53 2.9 29
+  63 0.1 1
+  65 3.7 37
+  66 1.2 12
+  77 13.4 134
+  78 0.36 4
+  79 9.5 95
+  80 1.2 12
+  91 2.3 23
+  92 0.9 9
+  93 2.3 23
+  104 1 10
+  105 1.4 14
+  106 99.99 999
+  107 15.7 157
+  108 1.2 12
+  118 1.6 16
+  120 0.41 4
+  121 2.5 25
+  134 2 20
+  149 34.8 348
+  150 4.1 41
+//

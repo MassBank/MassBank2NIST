@@ -1,0 +1,21 @@
+Name:  ISOBUTYL SALICYLATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=87-19-4" target="_blank">87-19-4</a>
+MW: 194
+Formula: C11H14O3
+Comment: JP008988
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+27:57 29:61 38:16 39:156 41:137 43:26 53:24 55:15 56:17 57:99 
+63:39 64:50 65:158 66:12 92:172 93:74 120:999 121:337 122:26 138:297 
+139:25 194:126 195:15 

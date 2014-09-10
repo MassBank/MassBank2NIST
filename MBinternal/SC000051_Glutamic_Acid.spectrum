@@ -1,0 +1,14 @@
+Name: Glutamic_Acid
+MW: 147
+Synonym: Glutamic Acid
+Comment: SC000051
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+41.0388 80 56.0504 138 64.016 84 65.0193 42 84.0448 762 102.055 272 130.049 250 148.06 999 

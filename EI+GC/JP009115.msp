@@ -1,0 +1,21 @@
+Name:  DIISOBUTYL DISULFIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1518-72-5" target="_blank">1518-72-5</a>
+MW: 178
+Formula: C8H18S2
+Comment: JP009115
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+27:110 29:273 39:108 40:11 41:384 42:18 43:87 45:61 46:30 47:30 
+53:15 55:66 56:16 57:999 58:43 59:11 73:13 79:20 87:47 88:19 
+122:92 178:174 179:15 180:16 

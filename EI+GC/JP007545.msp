@@ -1,0 +1,21 @@
+Name:  NERAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-26-3" target="_blank">106-26-3</a>
+MW: 152
+Formula: C10H16O
+Synonym: (Z)-3,7-DIMETHYL-2,6-OCTADIENAL
+Comment: JP007545
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+55:93 59:257 67:135 69:999 82:196 84:275 94:244 95:184 107:41 109:256 
+119:78 123:37 134:50 137:50 

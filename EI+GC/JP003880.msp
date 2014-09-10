@@ -1,0 +1,17 @@
+Name:  CYCLOHEXYL AMINE; EI-MS
+MW: 99
+Formula: C6H13N
+Comment: JP003880
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+27:90 28:140 30:140 41:6 42:80 43:280 56:999 99:100 

@@ -1,0 +1,21 @@
+Name: 2_4-Dinitrophenol
+CAS: 51-28-5
+MW: 184
+Formula: C6H4N2O5
+Synonym: C02496
+Synonym: 2,4-Dinitrophenol
+Comment: XX000645
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 42
+39.100 1 42.200 1 46.000 1 50.900 1 52.300 1 53.900 1 59.200 1 64.100 1 65.300 1 66.200 1 
+69.200 1 69.400 1 72.700 1 79.100 11 81.400 1 83.100 1 84.400 1 85.400 1 92.000 1 92.600 1 
+95.200 11 96.300 1 101.200 1 107.000 1 108.100 2 109.200 15 110.500 1 111.900 1 120.100 1 120.800 1 
+123.000 135 125.300 1 136.100 1 137.100 90 139.000 1 140.000 1 151.900 1 153.000 194 166.100 1 180.800 1 
+182.000 1 183.100 999 

@@ -1,0 +1,33 @@
+ACCESSION: JP006286
+RECORD_TITLE: BUTYROPHENONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BUTYROPHENONE
+CH$NAME: PHENYL N-PROPYL KETONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H12O
+CH$EXACT_MASS: 148.08882
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=495-40-9" target="_blank">495-40-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 35 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 11
+PK$PEAK: m/z int. rel.int.
+  28 12.45 125
+  39 3.97 40
+  41 7.73 77
+  43 24.34 243
+  65 3.2 32
+  76 2.82 28
+  77 51.39 514
+  79 4.03 40
+  105 99.99 999
+  106 6.41 64
+  148 9.82 98
+//

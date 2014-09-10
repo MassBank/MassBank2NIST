@@ -1,0 +1,50 @@
+ACCESSION: JP003635
+RECORD_TITLE: CYCLOHEXYLMETHANOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CYCLOHEXYLMETHANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H14O
+CH$EXACT_MASS: 114.10447
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 31
+PK$PEAK: m/z int. rel.int.
+  15 2.6 26
+  26 3.2 32
+  27 20.5 205
+  29 1.81 18
+  31 11 110
+  38 2.9 29
+  39 17.3 173
+  40 0.2 2
+  41 57.8 578
+  42 6 60
+  43 6.7 67
+  51 0.28 3
+  53 5 50
+  54 11.2 112
+  55 99.99 999
+  56 0.85 9
+  57 6 60
+  66 3 30
+  67 32.5 325
+  68 1.2 12
+  69 4 40
+  77 3 30
+  79 2.2 22
+  81 2.85 29
+  82 22 220
+  83 54.5 545
+  93 2.4 24
+  95 0.3 3
+  96 13 130
+  97 3 30
+  84 4 40
+//

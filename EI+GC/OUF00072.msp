@@ -1,0 +1,35 @@
+Name:  5-Aminovaleric acid; GC-EI-TOF-MS; RT:612.492 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=660-88-8" target="_blank">660-88-8</a>
+MW: 117
+Formula: C5H11NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00431" target="_blank">C00431</a>
+Comment: OUF00072
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 612.492  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 98
+85:19 86:222 87:29 88:16 89:5 96:2 97:4 98:8 99:20 100:137 
+101:32 102:27 103:10 104:2 105:2 110:1 111:1 112:24 113:13 114:14 
+115:15 116:58 117:29 118:7 119:7 120:1 126:5 127:2 128:17 129:98 
+130:78 131:65 132:20 133:42 134:7 135:3 138:1 140:1 141:1 142:5 
+143:5 144:6 145:3 146:24 147:175 148:30 149:20 150:2 151:1 152:7 
+153:1 154:25 155:4 156:23 157:5 158:16 159:6 160:5 161:3 162:3 
+170:11 171:2 172:20 173:6 174:999 175:193 176:87 177:11 178:2 184:1 
+186:8 187:2 188:3 189:1 200:53 201:13 202:8 203:4 204:3 205:1 
+217:2 221:4 222:1 228:17 229:5 230:8 231:2 244:13 245:4 246:2 
+260:5 261:2 318:33 319:22 320:9 321:2 333:3 334:2 

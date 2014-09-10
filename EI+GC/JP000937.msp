@@ -1,0 +1,20 @@
+Name:  CHLOROFORM; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=67-66-3" target="_blank">67-66-3</a>
+MW: 117
+Formula: CHCl3
+Comment: JP000937
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+35:144 36:25 37:48 47:30 48:119 49:105 50:39 82:4 83:999 84:38 
+85:647 87:95 

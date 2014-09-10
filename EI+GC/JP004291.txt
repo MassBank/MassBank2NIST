@@ -1,0 +1,46 @@
+ACCESSION: JP004291
+RECORD_TITLE: VALERIC  ACID METHYL ESTER; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: VALERIC  ACID METHYL ESTER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H12O2
+CH$EXACT_MASS: 116.08373
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=624-24-8" target="_blank">624-24-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  15 11.17 112
+  27 12.57 126
+  28 3.91 39
+  29 26.63 266
+  31 3.54 35
+  39 6.7 67
+  40 1.77 18
+  41 25.42 254
+  42 5.77 58
+  43 39.76 398
+  44 4.66 47
+  45 2.7 27
+  55 13.04 130
+  56 6.7 67
+  57 36.59 366
+  58 1.96 20
+  59 21.04 210
+  73 1.68 17
+  74 99.99 999
+  75 4 40
+  85 36.31 363
+  86 2.61 26
+  87 28.86 289
+  88 2.79 28
+  101 1.96 20
+//

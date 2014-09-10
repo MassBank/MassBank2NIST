@@ -1,0 +1,19 @@
+Name:  ETHYL PIVALATE; EI-MS
+MW: 130
+Formula: C7H14O2
+Comment: JP010874
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+15:13 27:87 29:225 39:87 41:292 42:32 43:21 45:16 55:20 56:185 
+57:999 58:50 59:80 75:51 85:83 87:74 130:54 

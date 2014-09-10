@@ -1,0 +1,29 @@
+Name:  Isonicotinic acid; GC-EI-TOF-MS; 1 TMS; BP:180
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=55-22-1" target="_blank">55-22-1</a>
+MW: 123
+Formula: C6H5NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C07446" target="_blank">C07446</a>
+Comment: KZ000040
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 649.663 sec
+Comment: RETENTION_INDEX 1427.2
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 1 TMS
+Comment: BASE_PEAK 180
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 54
+82:3 83:21 84:6 85:3 86:2 89:1 90:52 91:4 92:4 93:9 
+94:6 95:4 96:3 97:1 99:2 104:1 105:16 106:646 107:50 108:7 
+109:10 110:9 111:1 119:2 120:10 121:2 122:9 123:6 124:1 132:1 
+134:2 135:3 136:523 137:72 138:22 139:2 150:3 151:2 152:2 153:1 
+162:1 164:3 165:2 166:1 179:5 180:999 181:146 182:46 183:5 184:1 
+194:5 195:33 196:6 197:1 

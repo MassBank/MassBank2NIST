@@ -1,0 +1,46 @@
+ACCESSION: JP007368
+RECORD_TITLE: ADIPONITRILE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ADIPONITRILE
+CH$NAME: HEXANEDINITRILE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H8N2
+CH$EXACT_MASS: 108.06875
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=111-69-3" target="_blank">111-69-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  15 3.15 32
+  26 6.57 66
+  27 19.52 195
+  28 10.93 109
+  37 2.97 30
+  38 4.13 41
+  39 19.5 195
+  40 8.58 86
+  41 99.99 999
+  42 6.31 63
+  50 1.74 17
+  51 4.13 41
+  52 9.42 94
+  53 5.28 53
+  54 68.04 680
+  55 38.27 383
+  56 1.68 17
+  64 2.93 29
+  66 5.74 57
+  67 3.48 35
+  68 82.95 830
+  69 4.04 40
+  80 2.36 24
+  107 1.02 10
+//

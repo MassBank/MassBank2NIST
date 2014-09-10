@@ -1,0 +1,18 @@
+Name:  2-PHENOXY ETHANOL; EI-MS
+MW: 138
+Formula: C8H10O2
+Comment: JP002864
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+17:51 18:71 27:51 28:107 39:77 45:83 51:79 65:75 66:91 77:233 
+79:23 94:999 95:128 107:52 108:46 109:48 137:33 138:279 

@@ -1,0 +1,47 @@
+ACCESSION: JP002423
+RECORD_TITLE: (6S)-2,6-DIMETHYL-7-OCTENE-2,3-DIOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: ITO S, DEPT. OF CHEM., TOHOKU UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (6S)-2,6-DIMETHYL-7-OCTENE-2,3-DIOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H20O2
+CH$EXACT_MASS: 172.14633
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-52
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 11 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  55 6.6 66
+  57 5.5 55
+  59 11 110
+  60 1.86 19
+  68 7.9 79
+  70 76.4 764
+  71 11 110
+  73 1.04 10
+  81 99.99 999
+  82 12.8 128
+  84 4.8 48
+  85 0.93 9
+  93 7.6 76
+  94 3.1 31
+  96 52.7 527
+  97 3.45 35
+  102 1.7 17
+  107 2.1 21
+  110 9.3 93
+  113 4.36 44
+  114 30.9 309
+  117 3.8 38
+  121 2.4 24
+  138 0.21 2
+  139 6.6 66
+  154 24.5 245
+  155 1.7 17
+//

@@ -1,0 +1,21 @@
+Name:  OCTANAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=124-13-0" target="_blank">124-13-0</a>
+MW: 128
+Formula: C8H16O
+Comment: JP008766
+Comment: N/A
+Comment: HP 5970
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UOEH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+38:51 39:458 40:94 41:999 42:395 43:794 44:623 45:171 53:83 54:88 
+55:525 56:526 57:573 58:64 66:54 67:174 68:206 69:299 71:113 72:110 
+81:203 82:229 83:52 84:348 85:88 100:78 110:54 

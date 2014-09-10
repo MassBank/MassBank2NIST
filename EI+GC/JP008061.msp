@@ -1,0 +1,18 @@
+Name:  BUTYRONITRILE; EI-MS
+MW: 69
+Formula: C4H7N
+Comment: JP008061
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+27:143 28:23 29:570 30:14 39:17 41:999 42:37 54:13 68:10 

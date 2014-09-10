@@ -1,0 +1,55 @@
+ACCESSION: JP007133
+RECORD_TITLE: TERT-BUTYLBENZENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TERT-BUTYLBENZENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H14
+CH$EXACT_MASS: 134.10955
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=98-06-6" target="_blank">98-06-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 34
+PK$PEAK: m/z int. rel.int.
+  15 1.52 15
+  27 3.41 34
+  28 1.86 19
+  29 2.35 24
+  39 10.75 108
+  41 19.57 196
+  50 3.09 31
+  51 10.62 106
+  52 2.22 22
+  53 1.38 14
+  57 1.04 10
+  58 2.01 20
+  63 2.74 27
+  65 4.25 43
+  74 1.01 10
+  75 1.15 12
+  76 1.11 11
+  77 13.17 132
+  78 4.88 49
+  79 9.67 97
+  89 1.35 14
+  91 61.67 617
+  92 4.15 42
+  102 1.81 18
+  103 5.74 57
+  104 1.69 17
+  115 3.24 32
+  116 1.01 10
+  117 2.51 25
+  118 1.11 11
+  119 99.99 999
+  120 9.19 92
+  134 24.1 241
+  135 2.37 24
+//

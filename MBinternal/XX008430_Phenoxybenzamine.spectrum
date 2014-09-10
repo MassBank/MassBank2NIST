@@ -1,0 +1,17 @@
+Name: Phenoxybenzamine
+MW: 304
+Formula: C18H23ClNO
+Synonym: C07436
+Synonym: Phenoxybenzamine, Transferred to D00507
+Comment: XX008430
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 17
+39.0226 100 41.0415 233 43.0559 193 55.0537 280 55.0603 186 69.067 999 91.0578 93 106.0661 406 111.112 160 111.1214 93 
+120.0828 346 121.0897 766 155.0672 107 156.0664 400 183.0949 273 197.1087 753 198.1161 286 

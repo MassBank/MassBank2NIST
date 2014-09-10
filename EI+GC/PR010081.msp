@@ -1,0 +1,38 @@
+Name:  1-Amino-1-cyclopentanecarboxylic acid; GC-EI-TOF-MS; 2 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=52-52-8" target="_blank">52-52-8</a>
+MW: 129
+Formula: C6H11NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C03969" target="_blank">C03969</a>
+Synonym: 1-Aminocyclopentanecarboxylate, 1-Aminocyclopentanecarboxylic acid
+Comment: PR010081
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 333.172 sec
+Comment: RETENTION_INDEX 1365.8
+Comment: FILE std3_GCTMS_PR051214MSinfo.txt
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: DERIVATIVE_FORM C12H27NO2Si2
+Comment: DERIVATIVE_MASS 273.15803
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 112
+60:20 61:19 62:2 63:1 65:8 66:19 67:32 68:1 69:2 70:12 
+71:10 72:26 73:999 74:113 75:95 76:10 77:13 78:1 79:3 80:7 
+81:4 82:29 83:10 84:75 85:15 86:11 87:6 88:2 89:2 90:2 
+91:1 92:1 93:2 94:8 95:9 96:5 97:5 98:16 99:8 100:20 
+101:7 102:3 103:8 104:1 105:2 106:1 107:1 108:2 109:1 110:6 
+111:3 112:11 113:5 114:10 115:6 116:3 117:9 118:2 119:3 123:1 
+124:5 125:3 126:22 127:5 128:6 129:3 130:3 131:14 132:8 133:28 
+134:5 135:2 138:4 139:1 140:32 141:8 142:3 143:2 144:1 146:6 
+147:94 148:16 149:10 150:2 152:1 154:17 155:7 156:972 157:147 158:46 
+159:10 160:1 168:45 169:11 170:3 172:1 174:2 175:1 182:1 184:1 
+186:1 200:1 202:1 214:5 215:1 216:1 230:56 231:16 232:7 233:1 
+258:6 259:1 

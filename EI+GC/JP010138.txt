@@ -1,0 +1,74 @@
+ACCESSION: JP010138
+RECORD_TITLE: 5,9,13-TRIMETHYL-(8E,12)-TETRADECADIENE-5-OL; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5,9,13-TRIMETHYL-(8E,12)-TETRADECADIENE-5-OL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C17H32O
+CH$EXACT_MASS: 252.24532
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 54
+PK$PEAK: m/z int. rel.int.
+  27 4 40
+  29 8 80
+  39 4 40
+  41 4.8 48
+  42 2 20
+  43 31 310
+  45 10 100
+  53 0.6 6
+  55 32 320
+  56 3 30
+  57 11 110
+  58 0.6 6
+  59 4 40
+  67 17 170
+  68 8 80
+  69 99.99 999
+  70 6 60
+  71 9 90
+  79 4 40
+  80 0.2 2
+  81 77 770
+  82 9 90
+  83 15 150
+  85 0.9 9
+  91 2 20
+  93 13 130
+  94 3 30
+  95 4.9 49
+  96 6 60
+  97 10 100
+  101 19 190
+  107 0.6 6
+  108 2 20
+  109 52 520
+  110 6 60
+  111 0.3 3
+  113 3 30
+  121 13 130
+  122 4 40
+  123 2.8 28
+  124 3 30
+  125 2 20
+  135 2 20
+  136 2.3 23
+  137 8 80
+  139 2 20
+  149 2 20
+  165 4.6 46
+  166 6 60
+  177 13 130
+  178 2 20
+  191 1 10
+  234 17 170
+  235 3 30
+//

@@ -1,0 +1,14 @@
+Name: Physostigmine
+MW: 275
+Synonym: Physostigmine
+Comment: SC001670
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+162.091 257 176.107 38 188.107 8 219.114 821 233.128 62 245.129 13 276.173 999 276.376 92 

@@ -1,0 +1,56 @@
+ACCESSION: JP003207
+RECORD_TITLE: KOJIC ACID; EI-MS
+DATE: 2008.10.21
+AUTHORS: NAKATA H, DEPT. OF CHEMISTRY, AICHI KYOIKU UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: KOJIC ACID
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H6O4
+CH$EXACT_MASS: 142.02661
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6E
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 36
+PK$PEAK: m/z int. rel.int.
+  25 10 100
+  27 7 70
+  28 11 110
+  29 53 530
+  30 5 50
+  31 15 150
+  32 11 110
+  38 9 90
+  39 40 400
+  40 6 60
+  41 12 120
+  42 12 120
+  43 6 60
+  44 10 100
+  53 10 100
+  54 6 60
+  55 20 200
+  56 9 90
+  57 30 300
+  67 7 70
+  68 10 100
+  69 74 740
+  70 5 50
+  71 8 80
+  83 5 50
+  84 8 80
+  85 22 220
+  86 5 50
+  96 5 50
+  97 14 140
+  113 36 360
+  114 8 80
+  140 9 90
+  141 5 50
+  142 99.99 999
+  143 8 80
+//

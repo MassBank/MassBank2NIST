@@ -1,0 +1,35 @@
+ACCESSION: JP003002
+RECORD_TITLE: 3-METHYLMERCAPTOPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-METHYLMERCAPTOPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H7NS
+CH$EXACT_MASS: 125.02992
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  39 24 240
+  45 8 80
+  50 8 80
+  51 1.3 13
+  52 6 60
+  57 7 70
+  78 9 90
+  79 0.15 2
+  80 7 70
+  83 19 190
+  92 10 100
+  110 0.22 2
+  124 9 90
+  125 99.99 999
+  126 8 80
+  127 5 50
+//

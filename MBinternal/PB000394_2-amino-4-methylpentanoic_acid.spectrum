@@ -1,0 +1,18 @@
+Name: 2-amino-4-methylpentanoic_acid
+MW: 131
+Formula: C6H13NO2
+Synonym: C00123
+Synonym: CID: 857
+Synonym: 2-amino-4-methylpentanoic acid, Leucine
+Comment: PB000394
+Contributor: Boettcher C, Institute of Plant Biochemistry, Halle, Germany
+InstType: TOF
+InstName: API QSTAR Pulsar i
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2008-01-02 14:48:36+02:00
+Num: 19
+39.024 80 41.040 490 42.029 0 43.019 3 43.055 604 44.052 999 45.034 11 53.046 6 55.021 49 55.057 74 
+56.053 12 57.061 18 58.046 1 59.051 2 62.932 16 67.060 1 69.072 24 73.030 6 73.066 7 

@@ -1,0 +1,22 @@
+Name:  BETA-IONONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-77-6" target="_blank">79-77-6</a>
+MW: 192
+Formula: C13H20O
+Synonym: (E)-4-(2,6,6-TRIMETHYL-1-CYCLOHEXEN-1-YL)-3-BUTEN-2-ONE
+Comment: JP007558
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+32:28 43:559 55:51 59:243 69:85 71:129 79:30 81:66 93:111 95:116 
+107:75 109:86 121:92 122:83 133:64 135:154 149:88 159:56 177:999 178:126 
+192:71 

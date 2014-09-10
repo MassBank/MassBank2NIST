@@ -1,0 +1,83 @@
+ACCESSION: JP006019
+RECORD_TITLE: 1,1,2,2-TETRAMETHYLDISILANE (SI-D2); EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,1,2,2-TETRAMETHYLDISILANE (SI-D2)
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H14Si2
+CH$EXACT_MASS: 118.0634
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 63
+PK$PEAK: m/z int. rel.int.
+  27 0.5 5
+  28 3.2 32
+  29 5 50
+  30 0.09 1
+  31 7.6 76
+  32 5.1 51
+  33 0.6 6
+  39 0.12 1
+  42 2.6 26
+  43 37 370
+  44 9.8 98
+  45 0.66 7
+  46 3.2 32
+  47 1.5 15
+  50 1.3 13
+  51 0.14 1
+  52 1.9 19
+  53 2 20
+  54 0.7 7
+  55 0.17 2
+  56 0.9 9
+  57 1.6 16
+  58 66.7 667
+  59 1.2 12
+  60 99.99 999
+  61 8.5 85
+  62 3.5 35
+  68 0.05 1
+  69 4 40
+  70 2.4 24
+  71 1.8 18
+  72 0.16 2
+  73 76.3 763
+  74 11.7 117
+  75 3.6 36
+  76 0.09 1
+  77 1.5 15
+  78 9.5 95
+  79 0.6 6
+  81 0.1 1
+  83 0.8 8
+  84 0.8 8
+  85 1.7 17
+  86 0.28 3
+  87 1.3 13
+  88 1.8 18
+  89 0.9 9
+  99 0.08 1
+  100 0.9 9
+  101 3.9 39
+  102 3.3 33
+  103 0.98 10
+  104 2.4 24
+  105 30.9 309
+  106 4.1 41
+  107 0.25 3
+  116 0.8 8
+  117 0.6 6
+  118 4.8 48
+  119 0.15 2
+  120 32.6 326
+  121 4.9 49
+  122 2.5 25
+//

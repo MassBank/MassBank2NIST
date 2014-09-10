@@ -1,0 +1,33 @@
+Name:  Ketoisoleucine; GC-EI-TOF-MS; RT:367.303 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1460-34-0" target="_blank">1460-34-0</a>
+MW: 130
+Formula: C6H10O3
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C03465" target="_blank">C03465</a>
+Comment: OUF00286
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 367.303  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 75
+85:169 86:59 87:11 88:11 89:999 90:87 91:51 92:3 93:3 94:9 
+95:2 96:3 97:7 98:29 99:54 100:50 101:8 102:2 103:12 104:2 
+105:11 106:1 109:1 110:120 111:11 112:17 113:201 114:136 115:27 116:62 
+117:34 118:7 119:1 126:20 127:11 128:22 129:18 130:5 131:2 133:1 
+140:19 141:7 142:7 143:6 144:3 145:2 147:1 154:5 155:1 156:30 
+157:7 158:11 159:1 160:2 166:1 172:107 173:20 174:8 175:1 182:1 
+183:1 184:5 185:2 187:1 189:205 190:29 191:9 200:174 201:29 202:6 
+203:79 204:11 205:2 216:29 217:3 

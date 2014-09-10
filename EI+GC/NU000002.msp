@@ -1,0 +1,25 @@
+Name:  3alpha-Hydroxy-5alpha-cholan-24-oic Acid Methyl ester; EI-MS
+MW: 390
+Formula: C25H42O3
+Synonym: Allolithocholic Acid Methyl ester
+Comment: NU000002
+Comment: Natural Product; BILE ACID
+Comment: Hitachi type M-80 B double focusing mass spectrometer
+Comment: EI-MS
+Comment: IONIZATION_POTENTIAL 70 eV
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: SOURCE_TEMPERATURE 180 C
+Comment: COMMENT Sample was directly injected and heated to 120 C
+Comment: ION_TYPE [M]+*
+Contributor: Takashi Iida, Department of Chemistry, College of Humanities and Sciences, Nihon University
+InstType: EI
+IoniMethod: _POTENTIAL 70 eV
+IonPolarity: pos
+Date: 2008-09-03 14:48:36+02:00
+Num: 46
+201:139 202:31 203:66 204:35 206:56 213:25 215:999 216:362 217:379 218:110 
+219:149 220:42 229:52 230:153 231:82 232:46 233:774 234:384 235:60 248:465 
+249:120 257:49 262:29 264:128 265:72 290:54 291:28 299:25 318:28 323:25 
+325:38 341:137 342:39 343:25 357:245 358:62 359:39 372:681 373:201 374:33 
+375:136 376:39 388:29 390:508 391:156 392:30 

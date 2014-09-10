@@ -1,0 +1,74 @@
+ACCESSION: JP011665
+RECORD_TITLE: 4,4'-BIS-(1-PHENYL-3-METHYL-5-PYRAZOLONE); EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4,4'-BIS-(1-PHENYL-3-METHYL-5-PYRAZOLONE)
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C20H18N4O2
+CH$EXACT_MASS: 346.14298
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=7477-67-0" target="_blank">7477-67-0</a>
+CH$LINK: NIKKAJI <a href="http://nikkajiweb.jst.go.jp/nikkaji_web/pages/top.jsp?SN=J8.939G&CONTENT=syosai" target="_blank">J8.939G</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 52
+PK$PEAK: m/z int. rel.int.
+  18 3.86 39
+  39 1.87 19
+  40 1.1 11
+  41 1.22 12
+  42 3.07 31
+  51 4.21 42
+  52 1.32 13
+  53 1.38 14
+  64 1.51 15
+  65 1.86 19
+  67 1.55 16
+  77 31.55 316
+  78 2.97 30
+  91 4.15 42
+  92 2.21 22
+  93 4.39 44
+  94 1.74 17
+  105 4.21 42
+  106 2.34 23
+  115 1.02 10
+  118 1.55 16
+  119 1.02 10
+  122 2.59 26
+  128 1.71 17
+  132 1.39 14
+  142 1.48 15
+  143 1.39 14
+  144 1.26 13
+  158 1.04 10
+  172 1.23 12
+  173 17.19 172
+  174 2.42 24
+  184 1.57 16
+  185 4.2 42
+  186 1.12 11
+  198 2.39 24
+  202 1.01 10
+  212 1.27 13
+  213 12.96 130
+  214 2.09 21
+  225 1.07 11
+  226 4.8 48
+  227 1.78 18
+  241 7.11 71
+  242 1.28 13
+  254 3.91 39
+  255 1.57 16
+  276 1.12 11
+  345 2.18 22
+  346 99.99 999
+  347 24 240
+  348 3.18 32
+//

@@ -1,0 +1,19 @@
+Name:  ACETOIN; EI-MS
+MW: 88
+Formula: C4H8O2
+Comment: JP009143
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+14:34 15:144 19:66 26:28 27:134 28:14 29:120 30:11 31:13 39:10 
+41:14 42:74 43:715 44:29 45:999 46:21 73:15 88:72 

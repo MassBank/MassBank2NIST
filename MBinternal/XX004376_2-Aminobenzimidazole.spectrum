@@ -1,0 +1,17 @@
+Name: 2-Aminobenzimidazole
+CAS: 934-32-7
+MW: 133
+Formula: C7H7N3
+Synonym: C10901
+Synonym: 2-Aminobenzimidazole
+Comment: XX004376
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 6
+26.0018 37 41.0142 17 131.051 22 132.0564 999 132.1331 18 132.1433 22 

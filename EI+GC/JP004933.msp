@@ -1,0 +1,20 @@
+Name:  GAMMA-BUTYROLACTONE; EI-MS
+MW: 86
+Formula: C4H6O2
+Synonym: DIHYDRO-2(3H)-FURANONE
+Comment: JP004933
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+40:164 42:999 43:65 44:31 53:14 55:91 56:316 57:60 85:142 86:363 
+87:18 

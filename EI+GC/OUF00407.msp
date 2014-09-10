@@ -1,0 +1,30 @@
+Name:  Oxalate; GC-EI-TOF-MS; RT:336.159 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=144-62-7" target="_blank">144-62-7</a>
+MW: 89
+Formula: C2H2O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00209" target="_blank">C00209</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01790" target="_blank">D01790</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02567" target="_blank">D02567</a>
+Comment: OUF00407
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 336.159  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 42
+85:2 86:1 87:17 88:3 89:8 91:1 92:1 93:4 95:1 99:1 
+101:8 102:27 103:28 104:4 105:10 106:1 113:2 115:16 116:5 117:24 
+118:4 119:4 131:46 132:9 133:60 134:9 135:4 146:1 147:999 148:161 
+149:84 150:9 151:2 175:22 176:6 177:2 190:57 191:10 192:4 219:36 
+220:6 221:3 

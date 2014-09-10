@@ -1,0 +1,18 @@
+Name: Harmaline
+CAS: 304-21-2
+MW: 214
+Formula: C13H14N2O
+Synonym: C06536
+Synonym: Harmaline
+Comment: XX001022
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 15
+41.900 8 64.100 27 64.900 12 77.100 23 78.600 19 154.100 39 155.200 31 167.300 15 168.000 100 169.000 104 
+170.200 270 182.100 228 182.500 19 196.200 131 197.300 999 

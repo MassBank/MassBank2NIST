@@ -1,0 +1,36 @@
+ACCESSION: JP004938
+RECORD_TITLE: ETHYL ACRYLATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL ACRYLATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H8O2
+CH$EXACT_MASS: 100.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=140-88-5" target="_blank">140-88-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 15
+PK$PEAK: m/z int. rel.int.
+  43 9.19 92
+  44 1.31 13
+  45 10.83 108
+  53 1.23 12
+  54 4.43 44
+  55 99.99 999
+  56 13.02 130
+  57 1.84 18
+  58 4.94 49
+  72 1.61 16
+  73 10.8 108
+  82 4.96 50
+  85 5.15 52
+  99 9.01 90
+  100 3.42 34
+//

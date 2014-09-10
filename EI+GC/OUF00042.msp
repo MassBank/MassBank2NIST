@@ -1,0 +1,31 @@
+Name:  2-Picolinate; GC-EI-TOF-MS; RT:459.821 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=98-98-6" target="_blank">98-98-6</a>
+MW: 123
+Formula: C6H5NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C10164" target="_blank">C10164</a>
+Comment: OUF00042
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 459.821  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 58
+85:6 86:4 87:1 90:3 91:2 92:23 93:85 94:20 95:14 96:6 
+97:7 98:3 99:4 100:2 103:1 104:3 105:1 106:157 107:34 108:29 
+109:29 110:10 111:1 119:1 120:21 121:3 122:38 123:4 124:2 132:2 
+134:6 135:4 136:636 137:88 138:27 139:2 147:1 148:2 149:13 150:91 
+151:61 152:132 153:20 154:6 155:1 164:1 165:1 166:21 167:64 168:11 
+169:3 179:1 180:999 181:144 182:47 183:4 194:2 195:1 

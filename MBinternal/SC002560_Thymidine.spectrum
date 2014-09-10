@@ -1,0 +1,14 @@
+Name: Thymidine
+MW: 242
+Synonym: Thymidine
+Comment: SC002560
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 7
+81.0341 83 99.0434 64 117.054 96 127.05 999 207.076 28 225.088 30 243.101 409 

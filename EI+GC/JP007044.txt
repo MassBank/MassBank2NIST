@@ -1,0 +1,45 @@
+ACCESSION: JP007044
+RECORD_TITLE: 3-DECANONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-DECANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H20O
+CH$EXACT_MASS: 156.15142
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  26 1.2 12
+  27 20.56 206
+  29 51 510
+  39 9.32 93
+  41 27.74 277
+  42 7.03 70
+  43 31.47 315
+  44 1.03 10
+  53 1.96 20
+  55 10.48 105
+  56 2.68 27
+  57 99.99 999
+  58 3.93 39
+  67 2.04 20
+  69 1.02 10
+  71 1.47 15
+  72 60.61 606
+  73 10.99 110
+  82 1.15 12
+  83 1.02 10
+  85 10.23 102
+  109 2.33 23
+  127 22.08 221
+  128 1.71 17
+  156 2.18 22
+//

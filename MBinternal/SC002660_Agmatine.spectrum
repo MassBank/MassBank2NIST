@@ -1,0 +1,14 @@
+Name: Agmatine
+MW: 130
+Synonym: Agmatine
+Comment: SC002660
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+60.0564 64 72.0811 63 114.102 52 131.129 999 

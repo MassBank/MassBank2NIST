@@ -1,0 +1,23 @@
+Name:  HEXADECANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=544-76-3" target="_blank">544-76-3</a>
+MW: 226
+Formula: C16H34
+Comment: JP007690
+Comment: N/A
+Comment: SHIMADZU QP-1000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KYOTO INSTITUTE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 42
+40:23 41:450 42:117 43:97 44:39 53:15 54:17 55:18 56:137 57:999 
+58:45 67:1 68:12 69:69 70:86 71:52 72:29 82:12 83:36 84:4 
+85:286 86:19 97:24 98:3 99:70 111:9 112:18 113:3 126:12 127:18 
+140:8 141:1 154:5 155:8 168:3 169:1 182:1 183:3 196:1 197:0 
+226:7 227:1 

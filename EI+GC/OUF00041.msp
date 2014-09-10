@@ -1,0 +1,33 @@
+Name:  2-Phenylpropionate; GC-EI-TOF-MS; RT:453.918 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=492-37-5" target="_blank">492-37-5</a>
+MW: 261
+Formula: C13H11BrO
+Comment: OUF00041
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 453.918  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 90
+85:9 86:13 87:21 88:7 89:150 90:82 91:89 92:16 93:10 94:2 
+95:3 96:46 97:6 98:1 99:3 100:1 101:15 102:105 103:574 104:495 
+105:770 106:79 107:16 108:2 109:4 110:2 115:20 116:5 117:179 118:34 
+119:18 120:6 121:14 122:3 123:1 124:1 125:1 129:33 131:43 132:67 
+133:24 134:2 135:55 136:10 137:109 138:14 139:3 145:24 146:5 147:23 
+148:14 149:11 150:9 151:1 152:1 156:1 161:12 162:7 163:13 164:6 
+165:1 166:1 176:2 177:2 178:999 179:182 180:44 181:2 182:1 189:1 
+190:3 192:6 193:1 205:4 206:6 207:745 208:121 209:35 210:5 220:1 
+221:3 222:44 223:7 257:1 320:2 327:1 352:1 353:1 422:1 476:1 

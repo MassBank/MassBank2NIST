@@ -1,0 +1,44 @@
+ACCESSION: JP007646
+RECORD_TITLE: NORCAMPHOR; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: NORCAMPHOR
+CH$NAME: BICYCLO(2.2.1)HEPTAN-2-ONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H10O
+CH$EXACT_MASS: 110.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=497-38-1" target="_blank">497-38-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 15 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  41 3.53 35
+  43 1.64 16
+  53 1.01 10
+  54 16.84 168
+  55 2.21 22
+  56 1.14 11
+  66 99.99 999
+  67 54.47 545
+  68 15.96 160
+  69 1.89 19
+  79 2.21 22
+  80 1.14 11
+  81 9.34 93
+  82 4.04 40
+  84 1.39 14
+  91 1.07 11
+  92 5.24 52
+  93 1.26 13
+  94 5.17 52
+  109 4.1 41
+  110 74.16 742
+  111 5.68 57
+//

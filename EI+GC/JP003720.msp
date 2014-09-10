@@ -1,0 +1,18 @@
+Name:  O-PENTYLHYDROXYLAMINE; EI-MS
+MW: 103
+Formula: C5H13NO
+Comment: JP003720
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+38:164 39:117 41:391 42:30 43:999 44:195 45:39 46:4 53:23 55:273 
+56:59 57:6 58:70 69:23 70:195 71:3 72:16 86:8 103:12 

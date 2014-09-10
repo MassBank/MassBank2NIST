@@ -1,0 +1,21 @@
+Name:  ETHYL BROMOACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=105-36-2" target="_blank">105-36-2</a>
+MW: 165
+Formula: C4H7BrO2
+Comment: JP004657
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+41:80 42:178 43:225 44:154 45:218 59:999 60:290 61:218 70:97 73:33 
+87:43 88:398 89:35 93:73 94:43 95:68 96:30 103:27 121:125 123:133 
+138:53 140:58 166:21 168:30 

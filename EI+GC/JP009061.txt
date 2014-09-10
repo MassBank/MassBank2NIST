@@ -1,0 +1,52 @@
+ACCESSION: JP009061
+RECORD_TITLE: 2-METHYLBUTYL HEXANOATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-METHYLBUTYL HEXANOATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H22O2
+CH$EXACT_MASS: 186.16198
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2601-13-0" target="_blank">2601-13-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 31
+PK$PEAK: m/z int. rel.int.
+  27 15.45 155
+  29 25.43 254
+  31 1.65 17
+  41 31.05 311
+  42 15.97 160
+  43 72.17 722
+  44 1.85 19
+  45 2.82 28
+  53 1.95 20
+  55 26.11 261
+  57 6.38 64
+  60 11.21 112
+  61 2.08 21
+  69 4.41 44
+  70 99.99 999
+  71 53.1 531
+  72 3.36 34
+  73 6.7 67
+  74 1.16 12
+  85 1.08 11
+  87 5.15 52
+  99 94.44 944
+  100 6.35 64
+  101 1.01 10
+  115 1.19 12
+  116 3.64 36
+  117 10.21 102
+  129 1.17 12
+  130 1.14 11
+  39 10.8 108
+  56 4.78 48
+//

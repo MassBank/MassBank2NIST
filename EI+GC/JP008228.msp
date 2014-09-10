@@ -1,0 +1,21 @@
+Name:  METHYL 3-PENTENOATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=818-58-6" target="_blank">818-58-6</a>
+MW: 114
+Formula: C6H10O2
+Comment: JP008228
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+15:311 16:14 26:27 27:249 28:49 29:357 39:173 40:19 41:44 42:47 
+43:66 50:17 51:28 53:100 54:145 55:999 56:48 59:379 71:33 72:125 
+74:17 81:11 82:104 83:85 99:14 114:297 115:20 

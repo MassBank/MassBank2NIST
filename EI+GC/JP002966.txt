@@ -1,0 +1,53 @@
+ACCESSION: JP002966
+RECORD_TITLE: 5-CHLORO-4-HYDROXY-3-PHENYLISOTHIAZOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-CHLORO-4-HYDROXY-3-PHENYLISOTHIAZOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H6ClNOS
+CH$EXACT_MASS: 210.98586
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 34
+PK$PEAK: m/z int. rel.int.
+  38 2.3 23
+  39 6.8 68
+  44 6.8 68
+  45 1.25 13
+  50 17 170
+  51 31.8 318
+  52 6.8 68
+  62 0.34 3
+  63 5.7 57
+  64 3.4 34
+  72 13.6 136
+  73 0.45 5
+  74 6.8 68
+  75 10.2 102
+  76 23.9 239
+  77 0.67 7
+  78 11.4 114
+  79 38.6 386
+  80 8 80
+  81 1.36 14
+  82 3.4 34
+  102 4.5 45
+  103 17 170
+  104 1.14 11
+  105 28.4 284
+  106 2.3 23
+  108 6.8 68
+  110 0.23 2
+  147 4.5 45
+  211 99.99 999
+  212 13.6 136
+  213 3.41 34
+  214 5.7 57
+  215 3.4 34
+//

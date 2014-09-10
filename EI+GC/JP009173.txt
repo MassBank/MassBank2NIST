@@ -1,0 +1,42 @@
+ACCESSION: JP009173
+RECORD_TITLE: P-PROPYLANISOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: P-PROPYLANISOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H14O
+CH$EXACT_MASS: 150.10447
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  15 1.82 18
+  27 4.61 46
+  29 2.87 29
+  39 4.52 45
+  41 2.29 23
+  50 1.41 14
+  51 4.62 46
+  52 2.5 25
+  53 1.41 14
+  63 2.24 22
+  64 1.07 11
+  65 4.94 49
+  77 8.98 90
+  78 9.93 99
+  79 1.55 16
+  89 1.72 17
+  90 1.24 12
+  91 7.33 73
+  121 99.99 999
+  122 8.08 81
+  150 18.17 182
+  151 1.68 17
+//

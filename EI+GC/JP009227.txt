@@ -1,0 +1,53 @@
+ACCESSION: JP009227
+RECORD_TITLE: TRANS-2-HEXENYL LACTATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TRANS-2-HEXENYL LACTATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H16O3
+CH$EXACT_MASS: 172.10994
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 33
+PK$PEAK: m/z int. rel.int.
+  15 2.8 28
+  18 1.4 14
+  19 2.2 22
+  26 0.17 2
+  27 19.2 192
+  29 14.7 147
+  31 1 10
+  38 0.11 1
+  39 18.2 182
+  41 45.1 451
+  42 4.1 41
+  43 1.35 14
+  44 6.4 64
+  45 99.99 999
+  46 1.9 19
+  50 0.13 1
+  51 2.1 21
+  52 1.2 12
+  53 6.6 66
+  54 0.94 9
+  55 48.5 485
+  56 6.8 68
+  57 10 100
+  65 0.18 2
+  67 20.3 203
+  68 1.2 12
+  71 1.5 15
+  81 0.26 3
+  82 8.5 85
+  83 32.2 322
+  84 2.8 28
+  99 0.12 1
+  100 1 10
+//

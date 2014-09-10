@@ -1,0 +1,20 @@
+Name:  METHYL CYANIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-05-8" target="_blank">75-05-8</a>
+MW: 41
+Formula: C2H3N
+Synonym: ACETONITRILE
+Comment: JP004294
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+14:43 26:14 27:10 28:10 38:85 39:164 40:504 41:999 42:42 

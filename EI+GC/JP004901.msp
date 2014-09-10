@@ -1,0 +1,21 @@
+Name:  3-BROMOPROPYL PHENYL SULFIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=3238-98-0" target="_blank">3238-98-0</a>
+MW: 229
+Formula: C9H11BrS
+Comment: JP004901
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+41:84 45:147 65:11 66:27 73:29 77:22 79:20 91:20 109:101 110:436 
+111:43 112:22 117:14 121:11 123:999 124:94 125:49 137:17 149:12 151:96 
+168:22 188:12 190:11 230:558 231:64 232:565 233:65 234:28 

@@ -1,0 +1,32 @@
+Name:  L-Glutathione; GC-EI-TOF-MS; x TMS; BP:156
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=70-18-8" target="_blank">70-18-8</a>
+MW: 307
+Formula: C10H17N3O6S
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00051" target="_blank">C00051</a>
+Comment: KZ000226
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 786.663 sec
+Comment: RETENTION_INDEX 0.0000
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE x TMS
+Comment: BASE_PEAK 156
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 83
+82:7 83:7 84:34 85:22 86:27 87:9 88:2 89:7 93:2 94:2 
+95:1 96:3 97:3 98:8 99:17 100:20 101:5 102:5 103:7 104:1 
+105:5 108:1 110:6 111:3 112:30 113:9 114:16 115:9 116:3 117:11 
+118:2 119:3 122:3 124:1 125:1 126:4 127:3 128:3 129:5 130:2 
+131:21 132:5 133:37 134:5 135:3 139:2 140:31 141:10 142:8 143:2 
+144:1 147:197 148:33 149:19 150:2 154:9 155:6 156:999 157:139 158:49 
+159:4 160:1 168:2 170:3 171:1 172:2 173:1 174:2 175:1 186:1 
+190:1 203:1 214:10 215:2 228:2 230:64 231:13 232:5 233:1 258:49 
+259:10 260:4 273:1 

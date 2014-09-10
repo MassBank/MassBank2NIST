@@ -1,0 +1,18 @@
+Name: Picolinamide
+CAS: 1452-77-3
+MW: 122
+Formula: C6H6N2O
+Synonym: C01950
+Synonym: Picolinamide
+Comment: XX003874
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 19
+43.100 1 55.100 1 60.200 1 62.000 1 69.500 1 74.000 2 77.400 13 78.000 999 80.100 3 96.000 516 
+97.000 1 97.800 1 105.500 36 106.000 859 108.300 1 110.900 1 123.200 194 124.200 139 155.100 1 

@@ -1,0 +1,18 @@
+Name:  TRIETHYL BORATE; EI-MS
+MW: 146
+Formula: C6H15BO3
+Comment: JP003691
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+27:130 28:120 29:120 31:9 43:110 44:260 45:999 58:1 59:110 73:740 
+87:330 89:1 101:790 103:70 117:390 118:1 131:570 132:60 145:170 146:440 

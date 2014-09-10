@@ -1,0 +1,50 @@
+ACCESSION: JP009873
+RECORD_TITLE: 2-VINYLOXY-1,1'-BICYCLOHEXENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-VINYLOXY-1,1'-BICYCLOHEXENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C14H24O
+CH$EXACT_MASS: 208.18272
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 30
+PK$PEAK: m/z int. rel.int.
+  26 2 20
+  28 4.2 42
+  41 19.2 192
+  43 2 20
+  53 2.3 23
+  54 2 20
+  55 62.3 623
+  56 2.5 25
+  67 15.6 156
+  68 1.6 16
+  69 17 170
+  77 1.5 15
+  79 4.8 48
+  80 1.2 12
+  81 22.5 225
+  82 8.6 86
+  83 99.99 999
+  84 8.5 85
+  93 1.5 15
+  95 27.8 278
+  96 3 30
+  97 21.2 212
+  98 1.2 12
+  109 43 430
+  110 3.8 38
+  123 7 70
+  166 53.5 535
+  167 7 70
+  193 2 20
+  208 2.8 28
+//

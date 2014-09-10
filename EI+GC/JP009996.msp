@@ -1,0 +1,20 @@
+Name:  4-CHLORO-3-BUTEN-2-ONE; EI-MS
+MW: 104
+Formula: C4H5ClO
+Synonym: -BUTENE-3-ONE-1-CHLORO
+Comment: JP009996
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+26:19 43:306 60:11 61:18 62:11 63:58 89:999 90:3 91:338 92:13 
+104:270 105:1 106:90 

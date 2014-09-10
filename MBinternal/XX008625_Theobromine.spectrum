@@ -1,0 +1,18 @@
+Name: Theobromine
+CAS: 83-67-0
+MW: 180
+Formula: C7H8N4O2
+Synonym: C07480
+Synonym: Theobromine
+Comment: XX008625
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 20
+38.9670 47 42.034 734 43.018 68 45.0349 68 52.0125 47 53.0155 107 54.0347 77 56.0489 124 57.9372 47 67.0038 43 
+67.0293 999 68.0388 162 69.0448 260 69.0522 213 79.0269 56 83.0615 115 95.0418 43 95.0505 81 108.0556 77 122.0589 128 

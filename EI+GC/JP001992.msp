@@ -1,0 +1,18 @@
+Name:  7-METHOXY-2,3-DIMETHYLINDOLE; EI-MS
+MW: 175
+Formula: C11H13NO
+Comment: JP001992
+Comment: N/A
+Comment: MX-1303
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 50 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 50 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+45:30 87:30 131:41 132:32 144:36 159:63 160:274 174:30 175:999 176:106 

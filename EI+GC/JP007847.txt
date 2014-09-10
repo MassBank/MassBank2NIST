@@ -1,0 +1,47 @@
+ACCESSION: JP007847
+RECORD_TITLE: 5-ETHYL-2-METHYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-ETHYL-2-METHYLPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H11N
+CH$EXACT_MASS: 121.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=104-90-5" target="_blank">104-90-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 26
+PK$PEAK: m/z int. rel.int.
+  27 8.42 84
+  28 1.01 10
+  29 1.31 13
+  39 14.57 146
+  40 1.16 12
+  41 4.71 47
+  51 9.62 96
+  52 3.06 31
+  53 8.12 81
+  63 1.78 18
+  64 1.99 20
+  65 11.42 114
+  66 4.81 48
+  77 31.09 311
+  78 7.38 74
+  79 33.34 333
+  80 2.03 20
+  91 5.72 57
+  92 3.34 33
+  93 9.02 90
+  105 1.28 13
+  106 99.99 999
+  107 9.92 99
+  120 22.53 225
+  121 54.06 541
+  122 4.69 47
+//

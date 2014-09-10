@@ -1,0 +1,34 @@
+Name:  DL-Homocysteine; GC-EI-TOF-MS; RT:949.941 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=454-29-5" target="_blank">454-29-5</a>
+MW: 135
+Formula: C4H9NO2S
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C05330" target="_blank">C05330</a>
+Comment: OUF00193
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 949.941  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 85
+85:7 86:18 87:9 88:96 89:6 90:9 91:14 92:2 98:9 99:1 
+100:139 101:14 102:8 103:26 104:2 105:17 112:9 114:44 115:23 116:5 
+117:10 118:13 119:15 120:1 126:7 128:999 129:144 130:64 131:21 132:24 
+133:34 134:5 135:3 144:3 146:12 147:144 148:18 149:12 156:1 157:2 
+158:2 159:1 160:360 161:92 162:100 163:11 164:1 165:2 172:5 173:1 
+174:6 188:14 189:2 190:4 191:1 193:1 194:5 202:20 203:4 206:3 
+208:1 213:1 217:1 218:117 219:21 220:6 221:1 222:4 223:2 246:2 
+253:1 277:5 278:230 279:64 280:27 281:5 291:5 292:2 312:15 313:2 
+322:1 338:1 346:1 374:1 437:1 

@@ -1,0 +1,19 @@
+Name:  2-METHYL-5-PHENYLPYRIDINE; EI-MS
+MW: 169
+Formula: C12H11N
+Comment: JP004385
+Comment: N/A
+Comment: MX-1303
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 50 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 50 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+51:57 53:57 77:60 102:8 115:119 141:191 155:17 167:9 168:169 169:999 
+170:136 

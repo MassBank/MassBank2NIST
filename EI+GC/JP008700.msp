@@ -1,0 +1,19 @@
+Name:  FURFURAL; EI-MS
+MW: 96
+Formula: C5H4O2
+Comment: JP008700
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+25:13 26:22 29:247 36:19 37:149 38:245 39:761 40:52 41:23 42:52 
+49:20 50:32 51:31 53:22 66:13 67:47 68:16 95:892 96:999 97:49 

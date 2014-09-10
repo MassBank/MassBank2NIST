@@ -1,0 +1,21 @@
+Name:  5-ETHYL-2-METHYLPYRIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=104-90-5" target="_blank">104-90-5</a>
+MW: 121
+Formula: C8H11N
+Comment: JP007847
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+27:84 28:10 29:13 39:146 40:12 41:47 51:96 52:31 53:81 63:18 
+64:20 65:114 66:48 77:311 78:74 79:333 80:20 91:57 92:33 93:90 
+105:13 106:999 107:99 120:225 121:541 122:47 

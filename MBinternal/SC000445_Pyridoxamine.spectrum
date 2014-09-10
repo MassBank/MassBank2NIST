@@ -1,0 +1,14 @@
+Name: Pyridoxamine
+MW: 168
+Synonym: Pyridoxamine
+Comment: SC000445
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+129.013 93 129.513 72 130.011 63 151.086 225 152.07 81 168.019 101 168.52 85 169.097 999 

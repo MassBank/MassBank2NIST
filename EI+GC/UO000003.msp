@@ -1,0 +1,30 @@
+Name:  2,3-di-O-phytanyl-sn-glycerol acetate; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=38607-78-2" target="_blank">38607-78-2</a>
+MW: 694
+Formula: C45H90O4
+Comment: UO000003
+Comment: Glycerolipids; Diradylglycerols; Dialkylglycerols
+Comment: JMS DX-300/JMS-3500 data system, Japan Electron Optics Laboratory, Japan
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: COMMENT Ionizing Curr 300 uA, Chamber Temp 200 C, Accel Volt 3KV, Ion Multi 1.0 KV,
+Comment: IONIZATION_POTENTIAL 30 eV
+Comment: SCANNING 5 Sec
+Comment: SOURCE_TEMPERATURE 200 C
+Comment: ION_TYPE [M]+*
+Contributor: Hiroyuki Morii, Department of Chemistry, University of Occupational and Environmental Health
+InstType: EI
+IoniMethod: _POTENTIAL 30 eV
+IonPolarity: pos
+Date: 2009-05-29 14:48:36+02:00
+Num: 83
+41.0:26 43.0:86 44.0:29 55.0:88 57.0:225 59.0:438 60.0:77 69.0:108 70.0:47 71.0:225 
+72.0:253 85.0:180 87.0:111 97.0:121 99.0:127 100.0:105 101.0:48 103.0:35 105.0:90 110.0:26 
+111.0:111 112.0:39 113.0:108 114.0:39 117.0:56 123.0:68 124.0:37 125.0:83 126.0:48 127.0:98 
+128.0:35 139.0:47 140.0:21 141.0:75 153.0:39 155.0:55 167.0:20 169.0:45 183.0:38 197.0:41 
+211.0:21 236.0:31 256.0:21 257.0:20 278.0:48 280.0:21 281.0:59 353.0:8 354.0:7 355.0:4 
+357.0:4 367.0:2 368.0:22 369.0:11 370.0:2 378.0:2 379.0:2 380.0:2 381.0:17 382.0:13 
+383.0:999 384.0:274 385.0:45 386.0:7 394.0:4 395.0:13 396.0:12 397.0:79 398.0:26 399.0:6 
+409.0:2 410.0:3 412.0:3 415.0:25 416.0:9 620.0:2 634.0:27 635.0:13 636.0:5 679.0:3 
+680.0:2 693.0:2 694.0:3 

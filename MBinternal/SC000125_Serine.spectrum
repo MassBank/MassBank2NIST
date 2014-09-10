@@ -1,0 +1,14 @@
+Name: Serine
+MW: 105
+Synonym: Serine
+Comment: SC000125
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 2
+74.0252 198 104.035 999 

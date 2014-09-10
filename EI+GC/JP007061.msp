@@ -1,0 +1,21 @@
+Name:  2-PHENYLETHYL FORMATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=104-62-1" target="_blank">104-62-1</a>
+MW: 150
+Formula: C9H10O2
+Comment: JP007061
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+27:29 29:73 31:76 38:11 39:84 41:14 50:36 51:84 52:18 62:12 
+63:46 65:123 77:82 78:69 79:29 89:21 91:523 92:59 103:75 104:999 
+105:119 

@@ -1,0 +1,24 @@
+Name: GERANIOL
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-24-1" target="_blank">106-24-1</a>
+MW: 154
+Formula: C10H18O
+Synonym: GERANIOL
+Comment: JP005514
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 47
+28:10 29:25 41:348 42:2 43:23 53:11 55:39 56:2 57:35 59:34 
+67:56 68:20 69:999 70:71 71:60 72:1 78:6 79:19 80:66 81:5 
+82:11 83:25 84:83 85:2 86:4 91:11 92:34 93:16 94:27 95:19 
+96:33 97:2 98:14 105:6 107:18 108:1 109:13 110:13 111:66 112:1 
+121:57 122:6 123:103 136:4 137:5 139:22 154:26 

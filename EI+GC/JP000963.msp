@@ -1,0 +1,22 @@
+Name: BIS(2-CHLORO-2-PROPYL) ETHER
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=39638-32-9" target="_blank">39638-32-9</a>
+MW: 170
+Formula: C6H12Cl2O
+Synonym: BIS(2-CHLORO-2-PROPYL) ETHER
+Comment: JP000963
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+41:641 42:83 43:105 45:999 46:20 49:111 51:35 57:2 59:25 71:35 
+76:22 77:26 79:183 81:32 89:21 93:2 107:107 109:30 121:691 122:4 
+123:240 

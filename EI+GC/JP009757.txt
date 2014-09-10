@@ -1,0 +1,40 @@
+ACCESSION: JP009757
+RECORD_TITLE: 5-METHYL-2-HEXANONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-METHYL-2-HEXANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H14O
+CH$EXACT_MASS: 114.10447
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  29 3.2 32
+  41 6 60
+  42 1 10
+  43 99.99 999
+  44 2.6 26
+  55 3.2 32
+  56 6 60
+  57 2.8 28
+  58 91.3 913
+  59 24.3 243
+  60 1.4 14
+  70 0.12 1
+  71 16.7 167
+  72 2.4 24
+  81 8.3 83
+  85 0.36 4
+  86 3 30
+  99 5.4 54
+  114 13.9 139
+  115 1.6 16
+//

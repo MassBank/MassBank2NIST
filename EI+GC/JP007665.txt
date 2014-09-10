@@ -1,0 +1,39 @@
+ACCESSION: JP007665
+RECORD_TITLE: DIBUTYL ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIBUTYL ETHER
+CH$NAME: 1-BUTOXYBUTANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H18O
+CH$EXACT_MASS: 130.13577
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=142-96-1" target="_blank">142-96-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 17
+PK$PEAK: m/z int. rel.int.
+  18 1.32 13
+  27 9.31 93
+  28 4.4 44
+  29 26.73 267
+  31 2.45 25
+  39 5.91 59
+  41 37.86 379
+  42 2.2 22
+  43 3.14 31
+  45 2.2 22
+  55 4.53 45
+  56 15.03 150
+  57 99.99 999
+  58 4.4 44
+  73 1.26 13
+  87 12.33 123
+  101 4.4 44
+//

@@ -1,0 +1,41 @@
+ACCESSION: JP009543
+RECORD_TITLE: 4-IODONITROBENZENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: NARA WOMEN'S UNIVERSITY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-IODONITROBENZENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H4INO2
+CH$EXACT_MASS: 248.92867
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=636-98-6" target="_blank">636-98-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  30 4.74 47
+  46 1.52 15
+  50 10.27 103
+  63 2.63 26
+  64 4.67 47
+  73 1.15 12
+  74 6.68 67
+  75 7.16 72
+  76 33.22 332
+  77 2.57 26
+  92 10.26 103
+  127 5.05 51
+  191 12.24 122
+  203 17.19 172
+  204 1.68 17
+  219 23.22 232
+  220 2.17 22
+  233 7.59 76
+  249 99.99 999
+  250 7.98 80
+//

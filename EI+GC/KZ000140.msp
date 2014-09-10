@@ -1,0 +1,32 @@
+Name:  Glycerol; GC-EI-TOF-MS; 3 TMS; BP:147
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-81-5" target="_blank">56-81-5</a>
+MW: 92
+Formula: C3H8O3
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00116" target="_blank">C00116</a>
+Comment: KZ000140
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 547.844 sec
+Comment: RETENTION_INDEX 0.0000
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 3 TMS
+Comment: BASE_PEAK 147
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 89
+85:4 87:6 88:4 89:12 90:2 99:6 101:87 102:10 103:407 104:39 
+105:17 106:2 107:1 111:1 113:11 114:1 115:27 116:41 117:444 118:46 
+119:35 120:3 121:2 128:4 129:79 130:9 131:54 132:10 133:236 134:29 
+135:15 136:1 143:2 145:4 146:2 147:999 148:132 149:77 150:8 151:3 
+159:6 160:1 161:4 162:2 163:19 164:3 165:2 166:1 168:1 169:1 
+170:1 171:1 172:1 173:2 174:6 175:55 176:10 177:36 178:5 179:3 
+180:1 181:1 182:1 183:1 184:1 185:1 186:1 187:1 188:1 189:9 
+190:3 191:37 192:6 193:3 203:94 204:118 205:908 206:152 207:63 208:7 
+209:2 217:38 218:228 219:41 220:14 221:6 222:1 263:2 293:6 

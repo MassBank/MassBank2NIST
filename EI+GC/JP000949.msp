@@ -1,0 +1,20 @@
+Name:  CHLOROBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-90-7" target="_blank">108-90-7</a>
+MW: 112
+Formula: C6H5Cl
+Comment: JP000949
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+37:52 38:73 39:26 45:12 49:46 50:250 51:258 56:3 61:22 73:61 
+74:114 75:10 76:62 77:676 78:44 89:3 112:999 113:70 114:314 

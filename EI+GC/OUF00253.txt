@@ -1,0 +1,135 @@
+ACCESSION: OUF00253
+RECORD_TITLE: Glyceric acid; GC-EI-TOF-MS; RT:455.644 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Glyceric acid
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C3H6O4
+CH$EXACT_MASS: 106.02661
+CH$SMILES: OCC([H])(O)C(O)=O
+CH$IUPAC: InChI=1/C3H6O4/c4-1-2(5)3(6)7/h2,4-5H,1H2,(H,6,7)/t2-/m1/s1/f/h6H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=473-81-4" target="_blank">473-81-4</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16659" target="_blank">16659</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:32398" target="_blank">32398</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00258" target="_blank">C00258</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=439194" target="_blank">439194</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/388334" target="_blank">388334</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 455.644  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 104
+PK$PEAK: m/z int. rel.int.
+  85 17 17
+  86 5 5
+  87 23 23
+  88 18 18
+  89 69 69
+  90 7 7
+  91 4 4
+  92 2 2
+  93 3 3
+  95 2 2
+  97 1 1
+  98 1 1
+  99 13 13
+  100 4 4
+  101 147 147
+  102 433 433
+  103 442 442
+  104 56 56
+  105 34 34
+  106 3 3
+  107 2 2
+  113 5 5
+  114 1 1
+  115 37 37
+  116 49 49
+  117 260 260
+  118 29 29
+  119 47 47
+  120 6 6
+  121 4 4
+  127 1 1
+  129 21 21
+  130 130 130
+  131 101 101
+  132 21 21
+  133 442 442
+  134 63 63
+  135 47 47
+  136 5 5
+  137 2 2
+  142 6 6
+  143 12 12
+  144 4 4
+  145 6 6
+  146 3 3
+  147 999 999
+  148 157 157
+  149 98 98
+  150 11 11
+  151 7 7
+  152 1 1
+  157 1 1
+  159 4 4
+  160 1 1
+  161 4 4
+  162 1 1
+  163 12 12
+  164 2 2
+  165 1 1
+  173 6 6
+  174 1 1
+  175 45 45
+  176 8 8
+  177 25 25
+  178 4 4
+  179 2 2
+  189 563 563
+  190 119 119
+  191 63 63
+  192 9 9
+  193 3 3
+  203 2 2
+  204 18 18
+  205 121 121
+  206 25 25
+  207 16 16
+  208 3 3
+  209 1 1
+  217 42 42
+  218 8 8
+  219 16 16
+  220 3 3
+  221 19 19
+  222 4 4
+  223 2 2
+  231 1 1
+  232 3 3
+  233 1 1
+  265 2 2
+  266 1 1
+  279 2 2
+  291 2 2
+  292 187 187
+  293 58 58
+  294 28 28
+  295 6 6
+  296 1 1
+  306 1 1
+  307 46 46
+  308 14 14
+  309 7 7
+  310 1 1
+  322 6 6
+  323 2 2
+//

@@ -1,0 +1,21 @@
+Name:  9,10-DIBROMOANTHRACENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=523-27-3" target="_blank">523-27-3</a>
+MW: 333
+Formula: C14H8Br2
+Comment: JP008779
+Comment: N/A
+Comment: HP 5970
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UOEH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+43:61 44:120 62:138 63:97 74:171 75:215 86:105 87:211 88:516 89:58 
+98:132 111:72 149:95 150:175 168:158 174:188 175:249 176:999 177:164 334:477 
+336:793 337:175 338:422 339:82 

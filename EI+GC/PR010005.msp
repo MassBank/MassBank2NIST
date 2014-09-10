@@ -1,0 +1,44 @@
+Name:  (-)-Shikimic acid; GC-EI-TOF-MS; 4 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=138-59-0" target="_blank">138-59-0</a>
+MW: 174
+Formula: C7H10O5
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00493" target="_blank">C00493</a>
+Synonym: Shikimate, 3,4,5-Trihydroxy-1-cyclohexenecarboxylic acid, Shikimic acid
+Comment: PR010005
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 439.761 sec
+Comment: RETENTION_INDEX 1788.2
+Comment: FILE std1_GCTMS_PR051203MSinfo.txt
+Comment: DERIVATIVE_TYPE 4 TMS
+Comment: DERIVATIVE_FORM C19H42O5Si4
+Comment: DERIVATIVE_MASS 462.21093
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 171
+60:3 61:8 62:1 63:1 65:11 66:10 67:3 70:2 71:3 72:11 
+73:999 74:87 75:82 76:7 77:21 78:3 79:5 80:1 81:4 83:4 
+84:1 85:3 87:3 88:1 89:2 91:10 92:3 93:14 94:3 95:5 
+96:3 97:3 98:1 99:3 101:10 102:1 103:22 104:2 105:11 106:1 
+107:2 108:1 109:5 111:6 112:1 113:2 115:4 116:8 117:8 118:1 
+119:7 120:1 121:6 122:1 123:4 124:1 125:4 126:1 127:1 129:6 
+130:1 131:21 132:3 133:58 134:8 135:8 136:1 137:2 139:3 140:1 
+141:12 142:2 143:3 145:1 147:238 148:36 149:26 150:3 151:11 152:2 
+153:3 154:1 155:2 156:1 157:1 159:1 161:1 163:2 164:1 165:4 
+166:3 167:12 168:2 169:4 177:4 179:2 180:6 181:9 182:3 183:2 
+189:31 190:7 191:17 192:3 193:13 194:2 195:7 196:1 197:1 204:491 
+205:100 206:45 207:8 208:1 209:2 210:1 211:1 215:1 217:3 221:8 
+222:2 223:4 224:1 225:2 229:1 239:9 240:3 241:3 243:6 244:1 
+253:2 254:27 255:38 256:11 257:4 258:3 265:4 266:1 267:9 268:2 
+269:2 281:2 282:17 283:10 284:3 285:1 305:2 312:2 313:1 329:1 
+331:6 332:2 333:1 342:1 343:1 344:1 346:1 355:2 356:5 357:18 
+358:6 359:3 371:1 372:18 373:6 374:3 447:4 448:1 462:7 463:3 
+464:1 

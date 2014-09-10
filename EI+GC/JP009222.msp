@@ -1,0 +1,19 @@
+Name:  PROPYL LACTATE; EI-MS
+MW: 132
+Formula: C6H12O3
+Comment: JP009222
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+15:19 19:16 26:13 27:13 29:73 30:12 31:23 39:3 41:106 42:20 
+43:246 44:2 45:999 46:21 59:15 75:59 

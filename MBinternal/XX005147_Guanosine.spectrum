@@ -1,0 +1,17 @@
+Name: Guanosine
+CAS: 118-00-3
+MW: 283
+Formula: C10H13N5O5
+Synonym: C00387
+Synonym: Guanosine
+Comment: XX005147
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 5
+45.9928 999 59.0119 488 59.0221 289 108.0229 244 133.0181 355 

@@ -1,0 +1,22 @@
+Name:  HEXACOSANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=630-01-3" target="_blank">630-01-3</a>
+MW: 366
+Formula: C26H54
+Comment: JP009123
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 40
+27:51 29:163 39:20 41:351 42:85 43:997 44:13 53:16 54:22 55:273 
+56:183 57:999 58:41 67:24 68:25 69:137 70:79 71:635 72:30 82:26 
+83:81 84:45 85:376 86:15 96:10 97:60 98:33 99:83 111:21 112:20 
+113:49 125:11 126:12 127:33 140:14 141:23 155:14 168:13 169:18 197:13 

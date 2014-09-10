@@ -1,0 +1,17 @@
+Name:  DICYCLOHEXYLAMINE; EI-MS
+MW: 181
+Formula: C12H23N
+Comment: JP003606
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+28:180 41:240 44:140 55:25 56:750 138:999 139:160 181:180 

@@ -1,0 +1,22 @@
+Name:  TERT-BUTYLBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=98-06-6" target="_blank">98-06-6</a>
+MW: 134
+Formula: C10H14
+Comment: JP007133
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 34
+15:15 27:34 28:19 29:24 39:108 41:196 50:31 51:106 52:22 53:14 
+57:10 58:20 63:27 65:43 74:10 75:12 76:11 77:132 78:49 79:97 
+89:14 91:617 92:42 102:18 103:57 104:17 115:32 116:10 117:25 118:11 
+119:999 120:92 134:241 135:24 

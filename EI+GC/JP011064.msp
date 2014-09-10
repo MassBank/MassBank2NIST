@@ -1,0 +1,23 @@
+Name:  BENZOTRIAZOLE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=95-14-7" target="_blank">95-14-7</a>
+MW: 119
+Formula: C6H5N3
+Synonym: 1,2,3-BENZOTRIAZOLE
+Comment: JP011064
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 31
+26:31 27:31 28:32 29:34 37:93 38:210 39:148 40:37 41:83 44:15 
+46:13 49:19 50:47 51:56 52:217 53:14 60:12 61:83 62:126 63:480 
+64:623 65:192 75:10 76:21 87:14 88:15 90:51 91:779 92:58 119:999 
+120:112 

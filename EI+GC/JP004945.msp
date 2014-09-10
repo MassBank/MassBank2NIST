@@ -1,0 +1,20 @@
+Name:  METHYL BENZOATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=93-58-3" target="_blank">93-58-3</a>
+MW: 136
+Formula: C8H8O2
+Comment: JP004945
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+44:18 50:101 51:233 52:13 53:10 74:31 75:27 76:35 77:612 78:612 
+91:21 92:21 105:999 106:83 135:19 136:397 137:31 

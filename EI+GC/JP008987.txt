@@ -1,0 +1,42 @@
+ACCESSION: JP008987
+RECORD_TITLE: BUTYL SALICYLATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BUTYL SALICYLATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H14O3
+CH$EXACT_MASS: 194.09429
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2052-14-4" target="_blank">2052-14-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  38 1.19 12
+  39 12.06 121
+  41 9.43 94
+  53 2.14 21
+  55 1.44 14
+  56 1.35 14
+  57 2.37 24
+  63 3.46 35
+  64 3.97 40
+  65 13.42 134
+  66 1.15 12
+  81 1.04 10
+  92 19.2 192
+  93 6.2 62
+  120 99.99 999
+  121 26.08 261
+  122 1.91 19
+  138 20.07 201
+  139 1.96 20
+  194 15.45 155
+  195 1.65 17
+//

@@ -1,0 +1,88 @@
+ACCESSION: BD000549
+RECORD_TITLE: 3-(3-Hydroxyphenyl)propionic acid; ; ESI-TOF; CE:10 eV; [M+H]+
+DATE: 2007.11.08
+AUTHORS: MGR
+COPYRIGHT: Copyright(C) 2007
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C01198
+CH$NAME: 3-(3-Hydroxyphenyl)propionic acid
+CH$NAME: Beta-(3-hydroxyphenyl)propionic acid
+CH$NAME: 3-(3-Hydroxy-phenyl)propanoic acid
+CH$NAME: 3-Hydroxydihydrocinnamic acid
+CH$NAME: 3-(m-Hydroxyphenyl)propionic acid
+CH$NAME: 3-(3-Hydroxyphenyl)propionate
+CH$NAME: 3-(m-Hydroxyphenyl)propionate
+CH$NAME: b-(3-Hydroxyphenyl)propionic acid
+CH$NAME: 3HPP
+CH$NAME: 3-Hydroxybenzenepropanoic acid
+CH$NAME: 3-Hydroxyphenylpropionic acid
+CH$NAME: 3-(3-Hydroxyphenyl)propanoate
+CH$NAME: Dihydro-3-coumaric acid
+CH$NAME: 3-Hydroxyphenylpropanoate
+CH$NAME: 3-Hydroxyphenylpropionate
+CH$NAME: m-Hydroxyphenylpropionate
+CH$NAME: b-(3-Hydroxyphenyl)propionate
+CH$NAME: b-(m-Hydroxyphenyl)propionic acid
+CH$NAME: b-(m-Hydroxyphenyl)propionate
+CH$NAME: m-Hydroxy-hydrocinnamic acid
+CH$NAME: Beta-(3-hydroxyphenyl)propionate
+CH$NAME: Beta-(m-hydroxyphenyl)propionic acid
+CH$NAME: Beta-(m-hydroxyphenyl)propionate
+CH$NAME: 3-Hydroxydihydrocinnamate
+CH$NAME: Dihydro-m-coumarate
+CH$NAME: Dihydro-m-coumaric acid
+CH$NAME: MHPP
+CH$NAME: m-Hydroxy-hydrocinnamate
+CH$NAME: m-Hydroxyphenylpropionic acid
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C9H10O3
+CH$EXACT_MASS: 166.06299417999998
+CH$SMILES: OC(=O)CCC=1C=CC=C(O)C=1
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:91
+CH$LINK: CAS 621-54-5
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 10 eV
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.027
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 187.62
+AC$ANALYTICAL_CONDITION: Mass 44.7882-395.024
+MS$FOCUSED_ION: PRECURSOR_M/Z 181.051
+MS$FOCUSED_ION: PRECURSOR_TYPE [M+H]+
+MS$FOCUSED_ION: BASE_PEAK 149.059
+PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  77.038 8 8
+  79.053 3 3
+  91.054 30 30
+  92.057 2 2
+  93.070 38 38
+  94.073 3 3
+  95.049 21 21
+  102.046 2 2
+  103.054 54 54
+  104.058 5 5
+  105.045 11 11
+  107.049 121 121
+  108.053 9 9
+  121.065 922 922
+  122.069 79 79
+  123.070 5 5
+  148.599 2 2
+  149.060 999 999
+  150.063 97 97
+  151.065 9 9
+  166.062 3 3
+  167.070 192 192
+  168.074 18 18
+  169.075 2 2
+  189.052 384 384
+  190.056 33 33
+  191.059 4 4
+//

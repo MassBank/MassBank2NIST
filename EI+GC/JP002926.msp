@@ -1,0 +1,18 @@
+Name:  DIMETHYL FUMARATE; EI-MS
+MW: 144
+Formula: C6H8O4
+Comment: JP002926
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+15:393 26:158 27:45 29:93 31:24 39:50 41:39 53:148 54:111 55:32 
+59:310 81:42 82:62 85:485 86:24 100:25 113:999 114:195 144:26 

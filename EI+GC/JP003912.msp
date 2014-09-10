@@ -1,0 +1,18 @@
+Name:  DI-N-PROPYL ETHER; EI-MS
+MW: 102
+Formula: C6H14O
+Comment: JP003912
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+15:38 17:28 18:40 26:4 27:229 28:45 29:84 31:6 39:76 40:29 
+41:182 42:4 43:999 44:45 45:33 55:3 57:28 59:42 73:160 102:74 

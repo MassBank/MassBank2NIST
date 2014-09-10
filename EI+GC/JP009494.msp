@@ -1,0 +1,21 @@
+Name: 2-DIMETHYLAMINOETHANOL
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-01-0" target="_blank">108-01-0</a>
+MW: 89
+Formula: C4H11NO
+Synonym: 2-DIMETHYLAMINOETHANOL
+Comment: JP009494
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+15:76 18:10 27:36 28:52 29:49 30:111 31:58 40:12 41:30 42:223 
+43:68 44:150 45:35 56:23 57:37 58:999 59:52 88:23 89:73 90:12 

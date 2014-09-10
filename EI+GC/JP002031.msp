@@ -1,0 +1,19 @@
+Name:  5-METHOXYPYRIMIDINE; EI-MS
+MW: 110
+Formula: C5H6N2O
+Comment: JP002031
+Comment: N/A
+Comment: MS-902
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+38:12 39:35 40:130 41:1 42:24 51:35 52:66 53:1 56:413 57:14 
+66:14 67:1 68:211 79:13 83:92 94:1 110:999 111:73 

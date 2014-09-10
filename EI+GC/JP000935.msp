@@ -1,0 +1,21 @@
+Name:  2-CHLORONAPHTHALENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=91-58-7" target="_blank">91-58-7</a>
+MW: 162
+Formula: C10H7Cl
+Comment: JP000935
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+50:43 51:41 61:22 62:4 63:82 68:26 74:62 75:8 76:28 77:53 
+81:68 82:3 87:22 98:25 99:24 101:4 125:21 126:172 127:334 128:4 
+162:999 163:107 164:288 165:32 

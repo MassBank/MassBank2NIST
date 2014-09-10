@@ -1,0 +1,35 @@
+Name:  Melatonine; GC-EI-TOF-MS; RT:932.974 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=73-31-4" target="_blank">73-31-4</a>
+MW: 232
+Formula: C13H16N2O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01598" target="_blank">C01598</a>
+Comment: OUF00348
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 932.974  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 95
+86:6 87:15 88:16 89:139 90:141 91:39 92:7 94:4 96:1 98:3 
+100:3 101:21 102:59 103:60 104:24 105:1 106:1 109:2 113:5 114:8 
+115:44 116:75 117:337 118:58 119:8 121:1 127:5 128:34 129:38 130:119 
+131:37 132:19 133:2 141:3 142:14 143:16 144:53 145:350 146:65 147:14 
+148:3 152:1 154:2 155:6 156:9 157:8 158:196 159:64 160:999 161:120 
+162:13 164:2 165:3 169:3 170:2 171:5 172:33 173:925 174:128 175:13 
+184:4 186:3 188:3 189:15 190:1 194:1 200:1 206:2 215:1 230:1 
+232:121 233:22 234:1 239:1 253:1 256:1 260:1 276:2 291:2 320:1 
+329:2 355:1 370:2 372:2 390:1 409:1 410:1 411:2 416:1 430:1 
+444:2 462:1 470:1 471:1 493:1 

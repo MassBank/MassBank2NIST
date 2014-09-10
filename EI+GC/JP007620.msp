@@ -1,0 +1,22 @@
+Name: CYCLOALANYLALANINE
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5625-46-7" target="_blank">5625-46-7</a>
+MW: 142
+Formula: C6H10N2O2
+Synonym: CYCLOALANYLALANINE
+Comment: JP007620
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+14:12 15:136 26:32 27:10 28:306 29:20 30:10 40:3 41:44 42:163 
+43:109 44:999 45:28 55:30 56:100 70:2 71:89 99:319 100:28 114:2 
+142:101 143:12 

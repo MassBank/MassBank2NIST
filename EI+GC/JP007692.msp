@@ -1,0 +1,23 @@
+Name:  OCTADECANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=593-45-3" target="_blank">593-45-3</a>
+MW: 254
+Formula: C18H38
+Comment: JP007692
+Comment: N/A
+Comment: SHIMADZU QP-1000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KYOTO INSTITUTE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 46
+40:18 41:445 42:110 43:94 44:38 53:15 54:20 55:20 56:137 57:999 
+58:43 67:2 68:15 69:80 70:82 71:53 72:30 82:16 83:47 84:4 
+85:288 86:20 97:31 98:3 99:79 111:14 112:18 113:4 126:11 127:25 
+140:8 141:1 154:5 155:9 168:4 169:1 182:3 183:4 196:2 197:0 
+210:1 211:2 224:1 225:0 254:5 255:1 

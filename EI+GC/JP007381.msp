@@ -1,0 +1,20 @@
+Name:  2-NAPHTHYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1523-11-1" target="_blank">1523-11-1</a>
+MW: 186
+Formula: C12H10O2
+Comment: JP007381
+Comment: N/A
+Comment: ESCO EMD-05A
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+39:29 43:115 50:11 51:20 63:48 86:15 87:14 88:16 89:49 95:19 
+113:14 115:225 116:63 143:14 144:999 145:97 171:14 186:103 187:18 

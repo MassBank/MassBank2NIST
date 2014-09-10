@@ -1,0 +1,20 @@
+Name:  2,5-DIMETHYLPYRAZINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=123-32-0" target="_blank">123-32-0</a>
+MW: 108
+Formula: C6H8N2
+Comment: JP007768
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+39:169 40:408 41:30 42:999 43:57 53:10 54:10 61:10 66:21 67:60 
+80:76 81:301 82:21 107:80 108:610 109:167 

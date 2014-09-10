@@ -1,0 +1,19 @@
+Name:  DIBUTYLAMINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=111-92-2" target="_blank">111-92-2</a>
+MW: 129
+Formula: C8H19N
+Comment: JP011313
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 120 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 120 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+30:47 44:248 57:19 72:12 86:999 87:61 114:14 128:17 129:263 130:27 

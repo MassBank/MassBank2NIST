@@ -1,0 +1,58 @@
+ACCESSION: JP006334
+RECORD_TITLE: O-HYDROXYACETOPHENONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: EGUCHI S, FAC. OF SCIENCE, HIROSHIMA UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: O-HYDROXYACETOPHENONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H8O2
+CH$EXACT_MASS: 136.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 38
+PK$PEAK: m/z int. rel.int.
+  43 19.5 195
+  44 3.3 33
+  49 1.9 19
+  50 0.68 7
+  51 9 90
+  52 3.5 35
+  53 10 100
+  54 0.35 4
+  55 5 50
+  61 5.5 55
+  62 8.2 82
+  63 1.45 15
+  64 7.5 75
+  65 35.5 355
+  66 9.5 95
+  75 0.47 5
+  76 4 40
+  77 9.5 95
+  78 4.5 45
+  79 0.4 4
+  80 5.5 55
+  81 4 40
+  89 3.8 38
+  90 0.48 5
+  91 3.5 35
+  92 5.5 55
+  93 27.2 272
+  94 0.95 10
+  95 4 40
+  104 1 10
+  105 4.5 45
+  106 0.1 1
+  107 4.5 45
+  121 99.99 999
+  122 10.5 105
+  123 0.1 1
+  136 44 440
+  137 6.5 65
+//

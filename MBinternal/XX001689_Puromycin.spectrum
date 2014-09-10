@@ -1,0 +1,18 @@
+Name: Puromycin
+CAS: 53-79-2
+MW: 471
+Formula: C22H29N7O5
+Synonym: C01610
+Synonym: Puromycin
+Comment: XX001689
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 13
+70.800 1 85.500 1 92.600 4 112.100 1 136.600 1 147.200 7 162.200 999 167.700 1 192.900 2 219.000 1 
+249.200 1 259.100 1 307.500 1 

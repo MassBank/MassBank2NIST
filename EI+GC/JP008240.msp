@@ -1,0 +1,21 @@
+Name:  1,4-DINITROBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-25-4" target="_blank">100-25-4</a>
+MW: 168
+Formula: C6H4N2O4
+Comment: JP008240
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+38:74 39:83 41:76 44:27 50:637 51:46 57:19 62:38 63:169 64:247 
+65:118 73:43 74:227 75:796 76:511 77:40 92:299 108:32 122:304 138:79 
+141:8 142:7 152:28 168:776 169:68 

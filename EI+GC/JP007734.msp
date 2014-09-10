@@ -1,0 +1,21 @@
+Name:  2-OCTYLFURAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4179-38-8" target="_blank">4179-38-8</a>
+MW: 180
+Formula: C12H20O
+Comment: JP007734
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 29
+29:33 39:10 41:63 43:98 53:62 54:19 55:43 57:91 67:66 68:59 
+69:29 79:17 80:44 81:999 82:569 83:55 84:11 94:38 95:373 96:97 
+109:35 110:10 123:127 124:49 136:27 137:63 151:22 180:166 181:10 

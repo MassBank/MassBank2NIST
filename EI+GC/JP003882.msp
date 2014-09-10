@@ -1,0 +1,17 @@
+Name:  CYCLOPENTANONE OXIME; EI-MS
+MW: 99
+Formula: C5H9NO
+Comment: JP003882
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+27:260 28:230 41:380 54:62 55:999 67:310 82:310 99:700 

@@ -1,0 +1,32 @@
+ACCESSION: JP007568
+RECORD_TITLE: GAMMA-TERPINENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: GAMMA-TERPINENE
+CH$NAME: 1-METHYL-4-(1-METHYLETHYL)-1,4-CYCLOHEXADIENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H16
+CH$EXACT_MASS: 136.1252
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=99-85-4" target="_blank">99-85-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 10
+PK$PEAK: m/z int. rel.int.
+  77 14.63 146
+  79 12.95 130
+  92 21.27 213
+  93 99.99 999
+  105 5.55 56
+  107 6.67 67
+  119 3.48 35
+  121 29.44 294
+  136 36.17 362
+  137 3.71 37
+//

@@ -1,0 +1,19 @@
+Name: Trifluoperazine
+CAS: 117-89-5
+MW: 407
+Formula: C21H24F3N3S
+Synonym: C07168
+Synonym: Trifluoperazine
+Comment: XX004231
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 29
+113.100 1 141.500 1 149.000 1 152.300 1 160.400 1 192.000 1 203.500 1 206.100 1 220.000 1 239.100 1 
+244.600 1 250.100 1 261.600 1 279.300 1 280.400 1 283.200 1 289.100 1 304.200 1 308.000 1 332.300 1 
+346.200 1 347.900 1 359.300 1 368.500 1 371.800 1 375.800 1 388.500 1 391.600 2 408.700 999 

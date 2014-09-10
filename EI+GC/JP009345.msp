@@ -1,0 +1,19 @@
+Name:  PENTANE; EI-MS
+MW: 72
+Formula: C5H12
+Comment: JP009345
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+26:16 27:219 28:34 29:19 39:106 40:18 41:373 42:61 43:999 44:27 
+55:28 56:2 57:145 72:140 

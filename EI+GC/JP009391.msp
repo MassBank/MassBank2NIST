@@ -1,0 +1,20 @@
+Name:  METHANOL (D4); EI-MS
+MW: 32
+Formula: CH4O
+Synonym: METHYL ALCOHOL (D4)
+Comment: JP009391
+Comment: N/A
+Comment: HITACHI M-80A
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+2:13 4:14 18:390 20:14 28:10 30:531 33:70 34:999 35:61 36:645 
+37:17 38:81 

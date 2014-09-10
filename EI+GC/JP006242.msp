@@ -1,0 +1,24 @@
+Name:  METHYL CAPROATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-70-7" target="_blank">106-70-7</a>
+MW: 130
+Formula: C7H14O2
+Synonym: METHYL HEXANOATE
+Comment: JP006242
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 41
+38:3 39:75 40:20 41:314 42:115 43:469 44:21 45:23 51:3 52:1 
+53:13 54:6 55:138 56:23 57:43 58:4 59:196 60:7 61:3 67:4 
+68:4 69:32 70:35 71:91 72:6 73:14 74:999 75:50 76:5 83:6 
+87:287 88:38 89:3 97:5 98:5 99:177 100:11 101:72 102:5 130:6 
+131:4 

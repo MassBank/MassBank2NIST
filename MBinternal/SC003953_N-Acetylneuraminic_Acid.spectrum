@@ -1,0 +1,14 @@
+Name: N-Acetylneuraminic_Acid
+MW: 309
+Synonym: N-Acetylneuraminic Acid
+Comment: SC003953
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+60.044 85 121.025 82 167.032 94 197.04 75 256.083 74 274.093 535 292.102 282 310.112 999 

@@ -1,0 +1,18 @@
+Name: Trimethylsulfonium
+CAS: 676-84-6
+MW: 77
+Formula: C3H9S
+Synonym: C01008
+Synonym: Trimethylsulfonium
+Comment: XX004199
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+35.200 13 38.300 1 41.200 4 42.200 3 43.100 12 45.100 192 46.000 176 47.000 869 58.300 3 61.000 174 
+62.000 999 73.300 3 77.200 144 85.200 3 

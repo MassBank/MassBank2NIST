@@ -1,0 +1,14 @@
+Name: Melatonin
+MW: 232
+Synonym: Melatonin
+Comment: SC000229
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 2
+174.091 167 233.128 999 

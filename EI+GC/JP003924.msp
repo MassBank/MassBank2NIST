@@ -1,0 +1,18 @@
+Name:  ETHYL ISOPROPYL ETHER; EI-MS
+MW: 88
+Formula: C5H12O
+Comment: JP003924
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+14:29 15:95 19:18 24:2 27:161 28:25 29:145 31:5 39:52 41:93 
+42:39 43:31 44:38 45:999 46:20 59:6 73:278 74:31 88:20 

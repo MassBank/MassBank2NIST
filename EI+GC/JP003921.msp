@@ -1,0 +1,17 @@
+Name:  DIISOAMYL ETHER; EI-MS
+MW: 158
+Formula: C10H22O
+Comment: JP003921
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+29:115 41:231 43:938 55:20 69:461 70:999 71:701 101:24 158:22 

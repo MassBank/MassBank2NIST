@@ -1,0 +1,64 @@
+ACCESSION: JP010848
+RECORD_TITLE: BUTYL LAURATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HAMAMATSU UNIV. SCHOOL OF MEDICINE
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BUTYL LAURATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C16H32O2
+CH$EXACT_MASS: 256.24023
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 44
+PK$PEAK: m/z int. rel.int.
+  29 1.2 12
+  41 2.1 21
+  43 5 50
+  55 0.25 3
+  56 99.99 999
+  57 22.4 224
+  58 1.2 12
+  60 1.54 15
+  61 12.9 129
+  69 2.1 21
+  70 7.5 75
+  71 0.75 8
+  73 13.3 133
+  74 2.1 21
+  81 1.2 12
+  83 0.29 3
+  85 4.6 46
+  87 3.3 33
+  95 1.7 17
+  97 0.29 3
+  98 2.9 29
+  99 1.2 12
+  101 6.6 66
+  109 0.12 1
+  111 1.2 12
+  115 3.7 37
+  116 14.9 149
+  117 0.5 5
+  129 11.2 112
+  130 1.2 12
+  131 1.2 12
+  143 0.25 3
+  157 4.6 46
+  171 2.5 25
+  181 1.2 12
+  183 1.74 17
+  184 2.5 25
+  185 2.5 25
+  200 7.1 71
+  201 3.69 37
+  202 5 50
+  213 1.2 12
+  256 6.6 66
+  257 1.7 17
+//

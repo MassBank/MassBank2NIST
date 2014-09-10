@@ -1,0 +1,40 @@
+ACCESSION: JP002996
+RECORD_TITLE: 4-TERT-BUTYLMERCAPTOPYRIDINECAPTOPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-TERT-BUTYLMERCAPTOPYRIDINECAPTOPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H13NS
+CH$EXACT_MASS: 167.07687
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  29 31 310
+  32 9 90
+  39 24 240
+  41 5 50
+  51 1 10
+  55 6 60
+  56 5 50
+  57 99.99 999
+  58 6 60
+  59 7 70
+  67 12 120
+  83 0.05 1
+  84 3 30
+  110 4 40
+  111 84 840
+  112 0.2 2
+  113 5 50
+  152 4 40
+  167 22 220
+  168 0.03 0
+  169 1.5 15
+//

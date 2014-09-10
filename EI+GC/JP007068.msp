@@ -1,0 +1,20 @@
+Name:  BUTYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=123-86-4" target="_blank">123-86-4</a>
+MW: 116
+Formula: C6H12O2
+Comment: JP007068
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+15:50 27:83 28:29 29:81 31:14 39:53 41:163 42:43 43:999 44:31 
+55:70 56:398 57:39 58:16 61:138 71:13 73:165 87:13 

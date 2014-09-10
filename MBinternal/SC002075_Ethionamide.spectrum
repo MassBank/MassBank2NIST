@@ -1,0 +1,14 @@
+Name: Ethionamide
+MW: 166
+Synonym: Ethionamide
+Comment: SC002075
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+106.065 35 107.073 415 118.052 28 125.029 54 133.076 93 134.083 124 140.053 528 167.063 999 

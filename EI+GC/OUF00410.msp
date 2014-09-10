@@ -1,0 +1,36 @@
+Name:  Paeonol; GC-EI-TOF-MS; RT:620.077 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=552-41-0" target="_blank">552-41-0</a>
+MW: 166
+Formula: C9H10O3
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C10712" target="_blank">C10712</a>
+Comment: OUF00410
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 620.077  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 108
+85:30 86:1 87:2 88:5 89:53 90:16 91:45 92:18 93:16 94:4 
+95:28 96:2 97:6 99:8 101:3 102:1 103:18 104:137 105:36 106:19 
+107:24 108:10 109:12 110:13 111:9 112:4 113:4 116:3 118:3 119:10 
+120:3 121:39 122:7 123:13 124:1 125:2 129:1 130:1 131:4 133:7 
+134:3 135:18 136:4 137:31 138:6 139:4 147:18 148:5 149:41 150:64 
+151:79 152:8 153:2 161:6 162:8 163:15 164:4 165:68 166:20 167:9 
+169:3 176:1 177:8 179:38 180:279 181:103 182:21 183:9 184:1 189:4 
+191:12 192:7 193:43 194:11 195:3 196:4 201:1 205:49 206:16 207:19 
+208:18 209:13 214:1 217:3 221:2 222:2 223:999 224:191 225:60 226:7 
+228:1 229:1 238:14 239:2 245:1 246:2 251:1 275:1 302:2 322:1 
+324:1 330:3 333:1 339:1 367:2 392:1 441:1 464:1 

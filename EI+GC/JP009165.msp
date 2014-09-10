@@ -1,0 +1,19 @@
+Name:  S-PROPYL THIOACETATE; EI-MS
+MW: 118
+Formula: C5H10OS
+Comment: JP009165
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+15:36 27:67 29:12 39:57 41:85 42:68 43:999 44:21 45:54 46:24 
+47:58 58:15 59:16 61:11 74:36 75:25 76:34 77:32 118:118 

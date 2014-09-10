@@ -1,0 +1,22 @@
+Name:  MANNITOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=69-65-8" target="_blank">69-65-8</a>
+MW: 182
+Formula: C6H14O6
+Comment: JP010511
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 39
+26:26 27:76 28:83 32:21 40:39 42:42 43:281 44:229 45:262 46:12 
+47:17 55:73 56:226 57:223 58:16 59:15 60:192 61:763 62:26 69:47 
+71:79 72:19 73:999 74:422 75:34 85:119 86:21 87:16 89:15 91:72 
+97:12 103:608 104:57 115:26 116:12 133:187 134:11 146:23 183:22 

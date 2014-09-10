@@ -1,0 +1,57 @@
+ACCESSION: JP006257
+RECORD_TITLE: N-BENZYLETHANOLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-BENZYLETHANOLAMINE
+CH$NAME: 2-BENZYLAMINOETHANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H13NO
+CH$EXACT_MASS: 151.09971
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=104-63-2" target="_blank">104-63-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 35
+PK$PEAK: m/z int. rel.int.
+  27 1.24 12
+  28 3.83 38
+  29 1.48 15
+  30 2.85 29
+  31 2.85 29
+  39 3.29 33
+  41 1.33 13
+  42 1.12 11
+  43 0.85 9
+  50 0.95 10
+  51 2.49 25
+  52 0.75 8
+  56 1.08 11
+  63 2.06 21
+  64 0.64 6
+  65 8.75 88
+  66 0.53 5
+  74 1.34 13
+  77 2.23 22
+  78 0.83 8
+  79 1.18 12
+  89 2.07 21
+  90 1.21 12
+  91 99.99 999
+  92 8.83 88
+  104 0.85 9
+  105 1.13 11
+  106 2.89 29
+  117 0.56 6
+  118 1.71 17
+  120 48.53 485
+  121 4.62 46
+  150 0.64 6
+  151 2.58 26
+  152 1.07 11
+//

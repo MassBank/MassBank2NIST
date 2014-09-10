@@ -1,0 +1,14 @@
+Name: 6-Methylmercaptopurine
+MW: 166
+Synonym: 6-Methylmercaptopurine
+Comment: SC000790
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+117.019 38 119.034 34 149.999 496 165.022 999 

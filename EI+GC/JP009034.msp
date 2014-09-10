@@ -1,0 +1,22 @@
+Name:  4-ETHYLPYRIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=536-75-4" target="_blank">536-75-4</a>
+MW: 107
+Formula: C7H9N
+Comment: JP009034
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 36
+15:16 26:44 27:112 28:69 29:12 37:18 38:53 39:250 40:23 41:46 
+49:14 50:144 51:253 52:154 53:68 54:73 62:18 63:67 64:28 65:269 
+66:39 67:10 74:11 75:13 76:15 77:101 78:76 79:245 80:111 92:455 
+93:25 104:17 105:10 106:835 107:999 108:80 

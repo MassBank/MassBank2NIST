@@ -1,0 +1,33 @@
+ACCESSION: JP008928
+RECORD_TITLE: ETHYLENE GLYCOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYLENE GLYCOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H6O2
+CH$EXACT_MASS: 62.03678
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 13
+PK$PEAK: m/z int. rel.int.
+  27 3.3 33
+  28 1.8 18
+  29 4.2 42
+  30 0.11 1
+  31 99.99 999
+  32 12.1 121
+  33 41.5 415
+  42 0.12 1
+  43 7.4 74
+  44 2.8 28
+  45 1.9 19
+  61 0.21 2
+  62 6.1 61
+//

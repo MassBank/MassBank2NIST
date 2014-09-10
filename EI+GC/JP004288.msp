@@ -1,0 +1,21 @@
+Name:  NITROMETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-52-5" target="_blank">75-52-5</a>
+MW: 61
+Formula: CH3NO2
+Comment: JP004288
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+14:37 15:272 16:69 17:193 18:687 26:73 27:346 28:174 29:138 30:999 
+31:14 38:18 39:28 40:73 41:147 42:36 43:69 44:453 45:102 46:351 
+60:45 61:483 

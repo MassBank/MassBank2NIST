@@ -1,0 +1,19 @@
+Name:  OXEPAN-2-ONE; EI-MS
+MW: 114
+Formula: C6H10O2
+Comment: JP003980
+Comment: N/A
+Comment: HITACHI RMU-6L
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+27:240 28:232 29:184 39:25 40:82 41:581 42:999 43:9 55:951 56:437 
+57:62 70:19 84:279 114:180 

@@ -1,0 +1,22 @@
+Name:  1-METHYLNAPHTHALENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=90-12-0" target="_blank">90-12-0</a>
+MW: 142
+Formula: C11H10
+Comment: JP007134
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 37
+26:14 27:41 38:20 39:99 50:66 51:84 52:16 58:68 61:12 62:44 
+63:135 64:18 65:32 69:13 70:36 71:82 74:45 75:41 76:22 77:22 
+86:28 87:37 88:16 89:59 91:18 98:11 102:14 113:24 114:16 115:414 
+116:38 126:14 139:102 140:32 141:768 142:999 143:107 

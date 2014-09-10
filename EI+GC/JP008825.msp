@@ -1,0 +1,19 @@
+Name:  PERYLENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=198-55-0" target="_blank">198-55-0</a>
+MW: 252
+Formula: C20H12
+Comment: JP008825
+Comment: N/A
+Comment: JEOL JMS-DX-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HISAHIRO HAGIWARA, CHEMICAL RESEARCH INSTITUTE OF NON-AQUEOUSSOLUTIONS TOHOKU UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 7
+34:13 40:25 44:85 250:16 252:999 253:225 254:27 

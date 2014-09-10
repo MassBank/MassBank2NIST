@@ -1,0 +1,46 @@
+ACCESSION: JP003733
+RECORD_TITLE: O-ISOBUTYLHYDROXYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: O-ISOBUTYLHYDROXYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H11NO
+CH$EXACT_MASS: 89.08406
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  39 27.3 273
+  40 4 40
+  41 78.7 787
+  42 2.73 27
+  43 99.99 999
+  44 9.3 93
+  45 3.3 33
+  46 0.08 1
+  47 1 10
+  50 0.7 7
+  51 1 10
+  53 0.27 3
+  54 0.7 7
+  55 24 240
+  56 20 200
+  57 0.54 5
+  58 6.7 67
+  59 1.4 14
+  60 1 10
+  69 0.14 1
+  70 8.7 87
+  71 24 240
+  72 3.3 33
+  73 0.01 0
+  74 2 20
+  75 0.7 7
+  89 0.7 7
+//

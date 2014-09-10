@@ -1,0 +1,30 @@
+ACCESSION: JP004917
+RECORD_TITLE: FURFURAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: FURFURAL
+CH$NAME: 2-FURALDEHYDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H4O2
+CH$EXACT_MASS: 96.02113
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=98-01-1" target="_blank">98-01-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  50 2.19 22
+  51 2.64 26
+  53 1.74 17
+  67 2.27 23
+  68 1.21 12
+  95 91.9 919
+  96 99.99 999
+  97 6.05 61
+//

@@ -1,0 +1,19 @@
+Name:  METHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=74-82-8" target="_blank">74-82-8</a>
+MW: 16
+Formula: CH4
+Comment: JP001582
+Comment: N/A
+Comment: HITACHI RMU-5B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 80 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 80 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 6
+12:27 13:76 14:154 15:831 16:999 17:11 

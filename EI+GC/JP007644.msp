@@ -1,0 +1,20 @@
+Name:  NORBORNYLENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=498-66-8" target="_blank">498-66-8</a>
+MW: 94
+Formula: C7H10
+Synonym: BICYCLO(2.2.1)HEPT-2-ENE
+Comment: JP007644
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+66:999 67:64 77:11 79:94 80:11 93:22 94:344 95:28 

@@ -1,0 +1,51 @@
+ACCESSION: JP001208
+RECORD_TITLE: PHENETHYL ACETATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PHENETHYL ACETATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H12O2
+CH$EXACT_MASS: 164.08373
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6D
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 31
+PK$PEAK: m/z int. rel.int.
+  15 3 30
+  17 3.5 35
+  18 19.5 195
+  27 0.1 1
+  28 9 90
+  37 1 10
+  38 3 30
+  41 0.05 1
+  42 0.5 5
+  43 60 600
+  44 1 10
+  50 0.1 1
+  51 4 40
+  52 1 10
+  62 1 10
+  63 0.15 2
+  64 1 10
+  65 6 60
+  66 1 10
+  71 0.1 1
+  73 1 10
+  75 4 40
+  76 4 40
+  77 0.2 2
+  89 1 10
+  91 18.5 185
+  92 2.5 25
+  93 0.1 1
+  103 4.5 45
+  105 99.99 999
+  106 12.5 125
+//

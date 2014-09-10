@@ -1,0 +1,18 @@
+Name:  2-PYRUVOYLAMINOBENZAMIDE; EI-MS
+MW: 206
+Formula: C10H10N2O3
+Comment: JP003729
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+39:61 41:82 42:41 43:12 44:999 45:82 55:41 57:4 64:41 90:61 
+119:41 145:3 146:122 163:82 188:92 206:5 208:31 

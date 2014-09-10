@@ -1,0 +1,20 @@
+Name:  1-NAPHTHYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=830-81-9" target="_blank">830-81-9</a>
+MW: 186
+Formula: C12H10O2
+Comment: JP007380
+Comment: N/A
+Comment: ESCO EMD-05A
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+15:39 39:15 43:136 63:41 89:49 114:22 115:302 116:164 144:999 145:119 
+186:151 187:20 

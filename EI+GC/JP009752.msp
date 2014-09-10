@@ -1,0 +1,18 @@
+Name:  2-PENTANONE; EI-MS
+MW: 86
+Formula: C5H10O
+Comment: JP009752
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+27:30 41:82 42:16 43:999 44:24 58:150 71:164 72:1 86:322 87:21 

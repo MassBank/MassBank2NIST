@@ -1,0 +1,21 @@
+Name:  4-AMINOPYRIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=504-24-5" target="_blank">504-24-5</a>
+MW: 94
+Formula: C5H6N2
+Comment: JP011886
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+26:24 27:11 28:60 37:19 38:41 39:104 40:84 41:188 42:38 43:14 
+50:28 51:38 52:61 53:15 54:46 64:10 65:24 66:86 67:351 68:47 
+93:92 94:999 95:75 

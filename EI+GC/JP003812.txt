@@ -1,0 +1,47 @@
+ACCESSION: JP003812
+RECORD_TITLE: PHENYLDICHLOROPHOSPHINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PHENYLDICHLOROPHOSPHINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H5Cl2P
+CH$EXACT_MASS: 177.95059
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  50 5 50
+  51 1.5 15
+  56 2.5 25
+  57 0.21 2
+  63 1.6 16
+  64 1.7 17
+  74 2 20
+  75 0.14 1
+  76 1.4 14
+  77 25 250
+  78 2.5 25
+  80 0.28 3
+  81 3.6 36
+  101 1.4 14
+  107 14.1 141
+  108 0.38 4
+  112 1.4 14
+  114 0.5 5
+  143 99.99 999
+  144 0.77 8
+  145 33 330
+  146 3 30
+  154 3.1 31
+  178 4.75 48
+  179 3.6 36
+  180 30.9 309
+  181 2.1 21
+//

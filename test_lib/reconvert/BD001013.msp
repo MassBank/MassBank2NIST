@@ -1,0 +1,21 @@
+Name: 5-Hydroxy-6-methyluracil
+MW: 156
+Formula: C6H8N2O3
+Synonym: MassBank: BD001013
+Synonym: 5-Hydroxy-6-methyluracil
+Contributor: Bruker Library
+InstType: ESI
+InstName: micrOTOF-Q
+IoniMethod: ESI
+IonPolarity: pos
+IsolWidth: 10
+TargetGas: Nitrogen
+ColEnergy: 10
+PeakWidth: 0.026
+ChargeDecon: 2
+Date: 2010-10-09 19:48:36+02:00
+Column: Synergi Fusion RP 2.5 u
+Mass: 44.9446-395.147
+Num Peaks: 15
+96.045 483 97.048 30 138.676 6 139.051 999 140.054 76 141.055 8 146.961 4 149.023 26 157.062 332 158.064 24 
+159.970 9 163.943 5 165.067 30 179.044 136 180.044 11 

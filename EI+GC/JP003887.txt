@@ -1,0 +1,32 @@
+ACCESSION: JP003887
+RECORD_TITLE: DIETHYLENE GLYCOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIETHYLENE GLYCOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H10O3
+CH$EXACT_MASS: 106.06299
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 13
+PK$PEAK: m/z int. rel.int.
+  15 5 50
+  18 2.3 23
+  19 9.2 92
+  27 1.33 13
+  28 9.5 95
+  29 11 110
+  31 13.5 135
+  43 1 10
+  44 9.2 92
+  45 99.99 999
+  46 2.9 29
+  75 1.81 18
+  76 9.2 92
+//

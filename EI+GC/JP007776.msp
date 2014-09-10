@@ -1,0 +1,21 @@
+Name:  2-PENTYLTHIOPHENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4861-58-9" target="_blank">4861-58-9</a>
+MW: 154
+Formula: C9H14S
+Comment: JP007776
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+27:13 29:104 39:22 41:112 42:10 43:86 53:87 55:21 63:19 65:12 
+67:32 77:24 78:11 79:23 84:106 85:64 97:999 98:515 99:237 100:38 
+110:22 111:162 112:35 121:11 125:11 154:375 155:76 156:34 

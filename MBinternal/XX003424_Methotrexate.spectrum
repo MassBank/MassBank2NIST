@@ -1,0 +1,18 @@
+Name: Methotrexate
+CAS: 59-05-2
+MW: 454
+Formula: C20H22N8O5
+Synonym: C01937
+Synonym: Methotrexate
+Comment: XX003424
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 19
+112.100 999 117.000 5 129.800 1 134.200 4 174.900 4 177.400 2 180.800 1 198.900 4 203.100 3 228.400 29 
+239.300 12 245.400 3 246.200 1 275.000 3 301.700 2 308.500 93 326.400 1 329.300 2 455.400 9 

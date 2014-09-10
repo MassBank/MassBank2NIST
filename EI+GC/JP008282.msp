@@ -1,0 +1,22 @@
+Name:  URACIL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=66-22-8" target="_blank">66-22-8</a>
+MW: 112
+Formula: C4H4N2O2
+Synonym: 2,4(1H,3H)-PYRIMIDINEDIONE
+Comment: JP008282
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+14:89 15:20 16:240 17:409 26:51 27:44 28:374 29:50 36:167 38:87 
+39:51 40:279 41:304 42:586 43:48 44:96 45:87 59:12 60:32 68:184 
+69:698 70:79 73:25 88:22 112:999 113:71 116:50 

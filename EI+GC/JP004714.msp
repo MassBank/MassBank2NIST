@@ -1,0 +1,21 @@
+Name:  ALLYLBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=300-57-2" target="_blank">300-57-2</a>
+MW: 118
+Formula: C9H10
+Comment: JP004714
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+50:34 51:85 52:21 57:14 58:68 62:20 63:56 64:13 65:99 74:12 
+75:12 76:11 77:52 78:62 89:47 90:23 91:339 92:32 102:16 103:79 
+115:271 116:74 117:999 118:830 119:80 

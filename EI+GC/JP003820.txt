@@ -1,0 +1,50 @@
+ACCESSION: JP003820
+RECORD_TITLE: 4-AMINOANTIPYRIN; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-AMINOANTIPYRIN
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H13N3O
+CH$EXACT_MASS: 203.10586
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 30
+PK$PEAK: m/z int. rel.int.
+  39 4.9 49
+  40 2.9 29
+  41 3.9 39
+  42 3.09 31
+  43 3.4 34
+  44 3.9 39
+  51 7.9 79
+  52 0.29 3
+  53 1.9 19
+  54 6.9 69
+  55 3.9 39
+  56 99.99 999
+  57 63.9 639
+  58 1.9 19
+  77 13.9 139
+  82 0.49 5
+  83 26.9 269
+  84 64.9 649
+  85 3.9 39
+  91 0.89 9
+  92 2.9 29
+  93 11.9 119
+  103 2.4 24
+  104 0.24 2
+  109 2.9 29
+  119 10.4 104
+  201 3.9 39
+  202 0.69 7
+  203 43.9 439
+  204 3.9 39
+//

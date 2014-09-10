@@ -1,0 +1,17 @@
+Name:  CYCLOHEXANEPENTOL; EI-MS
+MW: 164
+Formula: C6H12O5
+Comment: JP003636
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+43:351 57:350 60:946 71:59 73:999 74:335 87:359 128:342 

@@ -1,0 +1,21 @@
+Name:  HEXACHLOROETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=67-72-1" target="_blank">67-72-1</a>
+MW: 233
+Formula: C2Cl6
+Comment: JP000955
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+47:304 49:99 59:140 61:4 82:217 83:82 84:137 94:31 96:179 98:30 
+117:999 119:83 121:286 123:31 129:101 131:9 133:31 164:231 166:323 168:16 
+170:31 199:347 201:578 203:38 205:116 

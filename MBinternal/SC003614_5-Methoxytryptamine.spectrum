@@ -1,0 +1,14 @@
+Name: 5-Methoxytryptamine
+MW: 190
+Synonym: 5-Methoxytryptamine
+Comment: SC003614
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+130.065 44 131.073 104 142.065 20 143.073 99 144.08 22 159.068 304 174.091 999 191.118 453 

@@ -1,0 +1,18 @@
+Name: Pralidoxime
+CAS: 6735-59-7
+MW: 137
+Formula: C7H9N2O
+Synonym: C07400
+Synonym: Pralidoxime
+Comment: XX008262
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+81.0712 2 93.0571 7 104.9915 10 118.9819 2 119.0596 27 120.0718 15 120.1059 2 137.0219 11 137.074 999 137.1574 2 
+137.1991 3 137.2355 2 137.6216 2 138.0762 3 

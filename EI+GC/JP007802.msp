@@ -1,0 +1,21 @@
+Name:  4-METHYL-5-THIAZOLEETHANOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=137-00-8" target="_blank">137-00-8</a>
+MW: 143
+Formula: C6H9NOS
+Comment: JP007802
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+31:39 45:171 53:31 55:20 68:31 71:32 72:51 80:10 85:322 86:72 
+87:21 98:22 99:11 100:40 112:999 113:722 114:107 115:31 125:11 143:444 
+144:51 145:23 

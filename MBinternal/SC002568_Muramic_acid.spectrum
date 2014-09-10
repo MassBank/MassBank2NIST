@@ -1,0 +1,14 @@
+Name: Muramic_acid
+MW: 251
+Synonym: Muramic acid
+Comment: SC002568
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+144.064 19 216.087 23 234.096 67 252.108 999 

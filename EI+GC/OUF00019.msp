@@ -1,0 +1,31 @@
+Name:  2-Aminoethanol; GC-EI-TOF-MS; RT:420.944 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=141-43-5" target="_blank">141-43-5</a>
+MW: 61
+Formula: C2H7NO
+Comment: OUF00019
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 420.944  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 69
+85:10 86:378 87:46 88:28 89:16 90:2 91:1 98:3 99:7 100:393 
+101:56 102:62 103:28 104:5 105:7 106:1 112:1 113:10 114:53 115:27 
+116:26 117:36 118:9 119:16 120:2 121:1 128:2 129:5 130:67 131:57 
+132:17 133:116 134:17 135:9 136:1 142:2 143:2 144:11 145:4 146:8 
+147:213 148:34 149:17 150:2 156:1 158:12 159:4 160:3 161:1 170:1 
+171:1 172:25 173:7 174:999 175:183 176:83 177:10 178:2 186:1 187:2 
+188:14 189:4 190:3 204:3 205:1 246:1 262:18 263:5 264:2 

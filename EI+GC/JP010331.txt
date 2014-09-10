@@ -1,0 +1,36 @@
+ACCESSION: JP010331
+RECORD_TITLE: DI-IODOMETHANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DI-IODOMETHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: CH2I2
+CH$EXACT_MASS: 267.82459
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-11-6" target="_blank">75-11-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80A
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 15
+PK$PEAK: m/z int. rel.int.
+  12 2.14 21
+  13 4.77 48
+  14 9.03 90
+  127 69.27 693
+  128 2.58 26
+  134 1.38 14
+  139 8.91 89
+  140 8.98 90
+  141 89.56 896
+  142 1.08 11
+  254 14.97 150
+  266 1 10
+  267 1.64 16
+  268 99.99 999
+  269 1.14 11
+//

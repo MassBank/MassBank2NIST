@@ -1,0 +1,21 @@
+Name:  N-OCTADECANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=593-45-3" target="_blank">593-45-3</a>
+MW: 254
+Formula: C18H38
+Comment: JP001646
+Comment: N/A
+Comment: VARIAN MAT-44
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 29
+41:277 42:88 43:845 44:49 54:16 55:159 56:137 57:999 58:43 67:12 
+68:13 69:66 70:75 71:502 72:28 82:14 83:36 84:37 85:249 86:15 
+97:21 98:22 99:69 112:14 113:32 126:10 127:20 141:13 254:12 

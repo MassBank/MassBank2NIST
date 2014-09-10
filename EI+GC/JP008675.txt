@@ -1,0 +1,49 @@
+ACCESSION: JP008675
+RECORD_TITLE: CIS-3-HEXENAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CIS-3-HEXENAL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H10O
+CH$EXACT_MASS: 98.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 29
+PK$PEAK: m/z int. rel.int.
+  15 1.84 18
+  26 2.48 25
+  27 24.44 244
+  28 1.78 18
+  29 16 160
+  37 1.2 12
+  38 3.11 31
+  39 33.82 338
+  40 3.37 34
+  41 99.99 999
+  42 17.55 176
+  43 9.49 95
+  50 2.17 22
+  51 2.73 27
+  52 1.06 11
+  53 8.93 89
+  54 3.22 32
+  55 22.95 230
+  56 3.22 32
+  57 1.29 13
+  65 1.25 13
+  67 2.73 27
+  68 30.86 309
+  70 8.01 80
+  79 1.09 11
+  80 5.73 57
+  83 7.2 72
+  97 1.11 11
+  98 5.64 56
+//

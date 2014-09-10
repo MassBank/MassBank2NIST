@@ -1,0 +1,21 @@
+Name:  BUTYL ACRYLATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=141-32-2" target="_blank">141-32-2</a>
+MW: 128
+Formula: C7H12O2
+Synonym: ACRYLIC ACID BUTYL ESTER
+Comment: JP004267
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+26:14 27:194 28:63 29:87 31:27 39:25 41:154 43:27 55:999 56:502 
+57:45 68:12 69:14 70:13 73:321 74:11 85:59 99:11 

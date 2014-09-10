@@ -1,0 +1,21 @@
+Name:  ETHYLENE-OXIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-21-8" target="_blank">75-21-8</a>
+MW: 44
+Formula: C2H4O
+Synonym: OXIRANE
+Comment: JP001575
+Comment: N/A
+Comment: HITACHI RMU-5B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 80 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 80 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+12:27 14:218 15:542 16:72 26:59 27:42 28:58 29:999 30:23 41:13 
+42:120 43:157 44:618 45:15 

@@ -1,0 +1,29 @@
+ACCESSION: JP009301
+RECORD_TITLE: BUTANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BUTANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H10
+CH$EXACT_MASS: 58.07825
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 9
+PK$PEAK: m/z int. rel.int.
+  27 7.3 73
+  28 19.1 191
+  29 24.5 245
+  41 1.72 17
+  42 11.9 119
+  43 99.99 999
+  44 3.1 31
+  57 0.28 3
+  58 13.1 131
+//

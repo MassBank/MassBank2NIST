@@ -1,0 +1,135 @@
+ACCESSION: OUF00347
+RECORD_TITLE: Melatonin; GC-EI-TOF-MS; RT:912.026 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Melatonin
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C13H16N2O2
+CH$EXACT_MASS: 232.12118
+CH$SMILES: CC(=O)NCCc(c1)c(c2)c(ccc(OC)2)n1
+CH$IUPAC: InChI=1/C13H16N2O2/c1-9(16)14-6-5-10-8-15-13-4-3-11(17-2)7-12(10)13/h3-4,7-8,15H,5-6H2,1-2H3,(H,14,16)/f/h14H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=73-31-4" target="_blank">73-31-4</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16796" target="_blank">16796</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01598" target="_blank">C01598</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=896" target="_blank">896</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/872" target="_blank">872</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 912.026  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 104
+PK$PEAK: m/z int. rel.int.
+  85 4 4
+  86 34 34
+  87 7 7
+  88 5 5
+  89 31 31
+  90 6 6
+  91 5 5
+  92 1 1
+  93 1 1
+  95 1 1
+  99 2 2
+  100 8 8
+  101 10 10
+  102 171 171
+  103 39 39
+  104 7 7
+  105 4 4
+  106 1 1
+  107 1 1
+  113 1 1
+  114 5 5
+  115 29 29
+  116 30 30
+  117 18 18
+  118 1 1
+  119 1 1
+  127 1 1
+  128 11 11
+  129 48 48
+  130 34 34
+  131 17 17
+  132 4 4
+  133 3 3
+  134 1 1
+  141 1 1
+  142 10 10
+  143 11 11
+  144 114 114
+  145 32 32
+  146 10 10
+  147 21 21
+  148 4 4
+  149 3 3
+  156 8 8
+  157 4 4
+  158 23 23
+  159 22 22
+  160 24 24
+  161 4 4
+  162 2 2
+  169 1 1
+  170 6 6
+  171 3 3
+  172 16 16
+  173 19 19
+  174 14 14
+  175 9 9
+  176 1 1
+  184 5 5
+  185 4 4
+  186 12 12
+  187 8 8
+  188 6 6
+  189 3 3
+  197 1 1
+  198 1 1
+  199 2 2
+  200 19 19
+  201 7 7
+  202 31 31
+  203 9 9
+  204 1 1
+  213 4 4
+  214 6 6
+  215 8 8
+  216 10 10
+  217 8 8
+  218 6 6
+  219 2 2
+  228 3 3
+  229 6 6
+  230 32 32
+  231 16 16
+  232 999 999
+  233 208 208
+  234 64 64
+  235 7 7
+  244 11 11
+  245 261 261
+  246 103 103
+  247 26 26
+  248 5 5
+  285 1 1
+  287 2 2
+  304 3 3
+  318 1 1
+  324 1 1
+  361 18 18
+  362 5 5
+  375 1 1
+  376 35 35
+  377 14 14
+  378 4 4
+  421 1 1
+//

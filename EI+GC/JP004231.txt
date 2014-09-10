@@ -1,0 +1,43 @@
+ACCESSION: JP004231
+RECORD_TITLE: 2-QUINOLINECARBOXYLIC ACID METHYL ESTER; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-QUINOLINECARBOXYLIC ACID METHYL ESTER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H9NO2
+CH$EXACT_MASS: 187.06333
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=19575-07-6" target="_blank">19575-07-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  50 4.3 43
+  51 7.9 79
+  52 1.2 12
+  63 0.17 2
+  64 4.6 46
+  75 8.7 87
+  76 3.5 35
+  77 0.77 8
+  78 1.5 15
+  100 2 20
+  101 15.1 151
+  102 0.79 8
+  103 1 10
+  127 2.8 28
+  128 37.2 372
+  129 99.99 999
+  130 10.2 102
+  156 2 20
+  157 20 200
+  158 0.2 2
+  187 8.7 87
+  188 1 10
+//

@@ -1,0 +1,21 @@
+Name:  PHENYL 2-PYRIDYL KETONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=91-02-1" target="_blank">91-02-1</a>
+MW: 183
+Formula: C12H9NO
+Comment: JP007862
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+27:18 39:21 50:132 51:305 52:36 74:47 75:42 76:10 77:234 78:170 
+79:36 104:18 105:850 106:80 107:10 154:280 155:999 156:117 182:751 183:791 
+184:103 185:8 

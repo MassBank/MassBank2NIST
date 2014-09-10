@@ -1,0 +1,18 @@
+Name: Milrinone
+CAS: 78415-72-2
+MW: 211
+Formula: C12H9N3O
+Synonym: C07224
+Synonym: Milrinone
+Comment: XX005691
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 15
+127.9993 3 150.0535 6 150.0589 10 150.0807 3 177.0126 3 177.0245 6 177.0955 45 178.0264 17 209.9653 2 209.9846 3 
+210.0685 999 210.1652 16 210.1781 17 210.1975 15 210.2104 13 

@@ -1,0 +1,19 @@
+Name: Pentamidine
+MW: 340
+Formula: C19H24N4O2
+Synonym: C08004
+Synonym: Pentamidine, Transferred to D00834
+Comment: XX008433
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 31
+149.0294 4 177.05 34 188.1087 5 197.0206 10 214.0543 6 215.0583 8 239.0121 7 259.1687 3 282.9942 4 283.0092 4 
+307.1335 8 307.1491 6 324.1731 400 324.2372 13 324.2612 8 324.3253 3 325.1595 3 325.1836 4 340.9983 6 341.023 9 
+341.0723 6 341.0887 5 341.2038 999 341.2696 58 341.3683 5 341.4012 5 341.4176 4 342.1664 4 342.1747 7 342.1994 5 
+342.2158 5 

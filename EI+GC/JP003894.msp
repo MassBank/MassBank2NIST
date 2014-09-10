@@ -1,0 +1,17 @@
+Name:  GLUTARIC ACID; EI-MS
+MW: 132
+Formula: C5H8O4
+Comment: JP003894
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+39:357 41:564 42:999 45:53 55:700 58:329 60:567 86:762 

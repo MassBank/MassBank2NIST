@@ -1,0 +1,17 @@
+Name: Purine
+CAS: 120-73-0
+MW: 120
+Formula: C5H4N4
+Synonym: C00465
+Synonym: Purine
+Comment: XX003752
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 7
+40.200 67 52.000 61 66.400 16 67.000 999 77.000 35 94.100 191 121.000 23 

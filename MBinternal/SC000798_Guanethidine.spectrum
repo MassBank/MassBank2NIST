@@ -1,0 +1,14 @@
+Name: Guanethidine
+MW: 198
+Synonym: Guanethidine
+Comment: SC000798
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+44.0506 6 72.0816 6 86.0719 152 140.143 250 199.193 999 

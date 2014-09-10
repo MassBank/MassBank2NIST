@@ -1,0 +1,19 @@
+Name: D-Ornithine
+CAS: 348-66-3
+MW: 132
+Formula: C5H12N2O2
+Synonym: C00515
+Synonym: D-Ornithine
+Comment: XX003637
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 24
+34.900 10 50.100 33 51.200 19 54.900 17 58.600 3 64.900 3 68.700 10 69.900 60 71.800 4 73.100 56 
+74.000 8 78.100 7 79.100 27 83.100 558 86.900 4 87.800 15 89.200 1 97.800 11 98.900 5 99.600 5 
+100.900 61 115.300 246 116.200 999 133.100 771 

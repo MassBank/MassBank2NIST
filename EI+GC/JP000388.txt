@@ -1,0 +1,45 @@
+ACCESSION: JP000388
+RECORD_TITLE: 1,1-DIBUTYLHYDRAZINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,1-DIBUTYLHYDRAZINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H20N2
+CH$EXACT_MASS: 144.16265
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: SHIMADZU LKB-2091
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  27 5.5 55
+  28 3 30
+  29 14.3 143
+  30 0.35 4
+  31 1.2 12
+  39 2.6 26
+  41 12.1 121
+  42 0.37 4
+  43 4.8 48
+  44 4.5 45
+  45 51.3 513
+  46 0.29 3
+  55 2 20
+  56 1.2 12
+  57 14.1 141
+  58 0.18 2
+  59 15.2 152
+  70 1.2 12
+  84 1.6 16
+  86 0.12 1
+  87 1 10
+  101 99.99 999
+  102 10.1 101
+  144 1.77 18
+  145 2.9 29
+//

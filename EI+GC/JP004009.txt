@@ -1,0 +1,51 @@
+ACCESSION: JP004009
+RECORD_TITLE: ORTHO-METHOXYPHENOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ORTHO-METHOXYPHENOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H8O2
+CH$EXACT_MASS: 124.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 31
+PK$PEAK: m/z int. rel.int.
+  15 2 20
+  18 2.1 21
+  26 2.8 28
+  27 0.73 7
+  28 2.5 25
+  29 2.4 24
+  37 2.5 25
+  38 0.27 3
+  39 7 70
+  41 1.8 18
+  50 2.3 23
+  51 0.56 6
+  52 6.1 61
+  53 12.6 126
+  54 1.7 17
+  55 0.29 3
+  62 1.9 19
+  63 3.3 33
+  64 1.5 15
+  65 0.42 4
+  66 2.1 21
+  77 2.7 27
+  79 1.9 19
+  80 0.17 2
+  81 42.2 422
+  82 3 30
+  95 1.7 17
+  109 99.99 999
+  110 7.1 71
+  124 77.9 779
+  125 7.6 76
+//

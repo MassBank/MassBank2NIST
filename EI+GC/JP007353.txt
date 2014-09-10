@@ -1,0 +1,40 @@
+ACCESSION: JP007353
+RECORD_TITLE: 1,4-BUTANEDIAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,4-BUTANEDIAMINE
+CH$NAME: PUTRESCINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H12N2
+CH$EXACT_MASS: 88.10005
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-60-1" target="_blank">110-60-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  15 1.47 15
+  18 7.66 77
+  27 2.36 24
+  28 11.16 112
+  29 1.56 16
+  30 99.99 999
+  31 10.4 104
+  39 1.94 19
+  41 4.68 47
+  42 5.44 54
+  43 32.59 326
+  44 10.41 104
+  56 2.18 22
+  58 1.28 13
+  59 12.68 127
+  70 3.45 35
+  71 7.14 71
+  88 1.76 18
+//

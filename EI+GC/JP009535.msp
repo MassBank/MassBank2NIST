@@ -1,0 +1,20 @@
+Name:  2-AMINOPYRIMIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-12-6" target="_blank">109-12-6</a>
+MW: 95
+Formula: C4H5N3
+Comment: JP009535
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+26:39 27:24 28:105 38:14 39:26 40:115 41:189 42:247 43:84 51:20 
+52:58 53:44 66:18 67:95 68:319 69:17 94:44 95:999 96:154 

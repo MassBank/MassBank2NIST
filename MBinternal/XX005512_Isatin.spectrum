@@ -1,0 +1,17 @@
+Name: Isatin
+CAS: 91-56-5
+MW: 147
+Formula: C8H5NO2
+Synonym: C11129
+Synonym: Isatin
+Comment: XX005512
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 8
+41.9784 4 41.9986 999 42.0216 14 68.9978 251 69.0422 5 118.033 27 118.0524 5 146.0318 4 

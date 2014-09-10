@@ -1,0 +1,19 @@
+Name: Diethanolamine
+CAS: 111-42-2
+MW: 105
+Formula: C4H11NO2
+Synonym: C06772
+Synonym: Diethanolamine
+Comment: XX002656
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 21
+11.300 34 23.500 58 25.800 10 26.900 82 30.500 29 33.500 63 36.700 48 38.800 48 40.200 24 42.000 280 
+43.100 222 44.100 714 45.100 999 54.100 58 55.400 164 56.300 29 64.800 14 68.000 43 70.200 188 74.400 77 
+79.800 14 

@@ -1,0 +1,14 @@
+Name: Thiabendazole
+MW: 201
+Synonym: Thiabendazole
+Comment: SC002236
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+65.0392 111 92.0497 62 104.05 31 131.06 255 134.006 11 143.06 24 175.032 233 202.044 999 

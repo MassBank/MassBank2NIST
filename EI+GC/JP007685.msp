@@ -1,0 +1,21 @@
+Name:  UNDECANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1120-21-4" target="_blank">1120-21-4</a>
+MW: 156
+Formula: C11H24
+Comment: JP007685
+Comment: N/A
+Comment: SHIMADZU QP-1000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KYOTO INSTITUTE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 30
+40:25 41:511 42:151 43:999 44:38 53:17 54:11 55:11 56:112 57:610 
+58:27 67:1 68:3 69:27 70:56 71:20 72:12 73:17 83:7 84:3 
+85:95 86:11 98:16 99:1 112:6 113:8 126:2 127:0 156:7 157:1 

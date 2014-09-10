@@ -1,0 +1,22 @@
+Name:  DODECANAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-54-9" target="_blank">112-54-9</a>
+MW: 184
+Formula: C12H24O
+Comment: JP008770
+Comment: N/A
+Comment: HP 5970
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UOEH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 36
+39:295 41:999 42:263 43:789 44:349 45:104 53:75 54:126 55:667 56:376 
+57:777 58:43 66:73 67:358 68:338 69:309 70:243 71:273 72:63 80:36 
+81:284 82:444 83:207 84:103 85:141 95:195 96:228 97:134 98:65 109:83 
+110:134 111:75 123:41 124:42 138:56 140:72 

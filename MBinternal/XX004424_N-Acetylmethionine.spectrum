@@ -1,0 +1,18 @@
+Name: N-Acetylmethionine
+CAS: 65-82-7
+MW: 191
+Formula: C7H13NO3S
+Synonym: C02712
+Synonym: N-Acetylmethionine
+Comment: XX004424
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 16
+31.9723 12 36.9637 4 40.0218 4 41.0046 25 41.9963 8 42.0367 3 45.9913 13 46.9619 5 46.9741 8 46.9955 999 
+47.023 24 54.0372 3 57.0345 22 58.0335 4 59.0138 7 84.0472 57 

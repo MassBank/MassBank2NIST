@@ -1,0 +1,45 @@
+ACCESSION: JP007818
+RECORD_TITLE: 2-METHYL-8-QUINOLINOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-METHYL-8-QUINOLINOL
+CH$NAME: 8-HYDROXY-2-METHYLQUINOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H9NO
+CH$EXACT_MASS: 159.06841
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=826-81-3" target="_blank">826-81-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  27 2.18 22
+  28 1.42 14
+  29 1.96 20
+  38 3.61 36
+  39 9.14 91
+  50 6.41 64
+  51 11.44 114
+  63 10.95 110
+  655 7.31 73
+  77 12.41 124
+  89 6.22 62
+  102 4.01 40
+  103 9.18 92
+  104 4.06 41
+  116 2.71 27
+  129 3.36 34
+  130 25.01 250
+  131 50.11 501
+  132 5.93 59
+  158 3.21 32
+  159 99.99 999
+  160 12.21 122
+  161 1.31 13
+//

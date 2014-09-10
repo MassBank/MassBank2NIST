@@ -1,0 +1,52 @@
+ACCESSION: JP000891
+RECORD_TITLE: 4,5-DIMETHYL-2-PYRAZOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4,5-DIMETHYL-2-PYRAZOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H10N2
+CH$EXACT_MASS: 98.0844
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: SHIMADZU LKB-2091
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  26 3.2 32
+  27 12.1 121
+  28 44.1 441
+  29 0.78 8
+  30 3.5 35
+  38 1.2 12
+  39 8.8 88
+  40 0.15 2
+  41 14.4 144
+  42 44.1 441
+  43 8.8 88
+  44 1.15 12
+  51 1.2 12
+  52 1.2 12
+  53 2.4 24
+  54 0.5 5
+  55 2.6 26
+  56 26 260
+  57 1.7 17
+  66 0.06 1
+  67 0.7 7
+  68 1.4 14
+  69 4.1 41
+  70 0.22 2
+  81 1.7 17
+  82 0.9 9
+  83 99.99 999
+  84 0.52 5
+  95 0.4 4
+  97 5.6 56
+  98 47.1 471
+  99 2.9 29
+//

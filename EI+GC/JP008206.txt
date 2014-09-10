@@ -1,0 +1,32 @@
+ACCESSION: JP008206
+RECORD_TITLE: HEXANOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: HEXANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H14O
+CH$EXACT_MASS: 102.10447
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  41 31.94 319
+  42 42.39 424
+  43 62.69 627
+  44 9.85 99
+  54 2.69 27
+  55 43.28 433
+  56 99.99 999
+  57 29.85 299
+  69 2.69 27
+  71 2.69 27
+  82 3.88 39
+  84 8.96 90
+//

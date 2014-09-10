@@ -1,0 +1,22 @@
+Name:  N-HEXYLACETAMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=7501-79-3" target="_blank">7501-79-3</a>
+MW: 143
+Formula: C8H17NO
+Synonym: ACETYLAMINOHEXANE
+Comment: JP007636
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+30:950 31:23 42:21 43:233 44:332 45:73 55:16 56:53 58:96 59:14 
+60:481 61:12 71:17 72:869 73:999 74:43 86:438 87:164 100:349 101:121 
+114:315 115:27 128:156 129:12 143:329 144:84 

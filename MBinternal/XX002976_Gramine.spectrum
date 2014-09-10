@@ -1,0 +1,19 @@
+Name: Gramine
+CAS: 87-52-5
+MW: 174
+Formula: C11H14N2
+Synonym: C08304
+Synonym: Gramine
+Comment: XX002976
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 23
+41.200 2 46.000 34 56.100 1 57.100 3 62.600 1 70.200 4 70.400 1 72.200 1 76.900 4 83.000 1 
+83.400 1 86.100 2 88.200 7 95.600 1 98.700 1 101.700 4 103.100 24 104.600 1 106.000 1 127.800 9 
+130.100 999 145.900 1 158.400 2 

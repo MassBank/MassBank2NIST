@@ -1,0 +1,21 @@
+Name:  2-ETHYLPYRIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-71-0" target="_blank">100-71-0</a>
+MW: 107
+Formula: C7H9N
+Comment: JP007853
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+27:63 28:42 29:45 37:18 38:30 39:220 40:13 41:10 50:23 51:160 
+52:150 53:68 54:20 62:10 63:21 64:11 65:60 66:10 76:19 77:74 
+78:150 79:250 80:44 92:20 105:46 106:999 107:421 108:35 

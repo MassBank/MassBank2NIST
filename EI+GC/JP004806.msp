@@ -1,0 +1,21 @@
+Name:  CHLOROISOPROPYLMETHYLPHENYLSILANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=51657-50-2" target="_blank">51657-50-2</a>
+MW: 198
+Formula: C10H15ClSi
+Comment: JP004806
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+43:13 51:20 53:14 63:131 65:50 77:15 78:17 79:24 91:108 93:18 
+103:16 105:27 119:18 120:14 137:69 140:14 141:19 155:999 156:132 157:359 
+158:43 159:14 198:52 200:20 

@@ -1,0 +1,18 @@
+Name:  ISOPROPYL BENZOATE; EI-MS
+MW: 164
+Formula: C10H12O2
+Comment: JP003145
+Comment: N/A
+Comment: HITACHI RMU-7L
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NAKAYAMA M, MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 7
+51:230 57:300 77:370 105:999 106:70 123:240 164:70 

@@ -1,0 +1,18 @@
+Name:  1-CHLOROBIPHENYL; EI-MS
+MW: 188
+Formula: C12H9Cl
+Comment: JP003618
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+50:21 51:30 62:39 63:7 74:25 75:45 76:178 77:2 94:34 126:30 
+127:25 150:3 151:97 152:334 153:225 154:3 188:999 189:130 190:314 191:40 

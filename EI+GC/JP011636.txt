@@ -1,0 +1,46 @@
+ACCESSION: JP011636
+RECORD_TITLE: 2',4'-DIHYDROXYACETOPHENONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2',4'-DIHYDROXYACETOPHENONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H8O3
+CH$EXACT_MASS: 152.04734
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=89-84-9" target="_blank">89-84-9</a>
+CH$LINK: NIKKAJI <a href="http://nikkajiweb.jst.go.jp/nikkaji_web/pages/top.jsp?SN=J4.309E&CONTENT=syosai" target="_blank">J4.309E</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  18 1.72 17
+  27 2.57 26
+  38 1.05 11
+  39 2.93 29
+  42 1.21 12
+  43 6.98 70
+  44 1 10
+  50 1.39 14
+  51 2.96 30
+  52 1.77 18
+  53 3.96 40
+  55 1.82 18
+  62 1.78 18
+  63 1.84 18
+  69 5.77 58
+  77 1.29 13
+  81 8.66 87
+  108 1.28 13
+  109 2.85 29
+  123 1.15 12
+  137 99.99 999
+  138 7.88 79
+  152 53.06 531
+  153 4.88 49
+//

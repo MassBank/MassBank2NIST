@@ -1,0 +1,14 @@
+Name: Palmitoleic_acid
+MW: 254
+Synonym: Palmitoleic acid
+Comment: SC000388
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 3
+253.217 999 253.421 4 253.656 3 

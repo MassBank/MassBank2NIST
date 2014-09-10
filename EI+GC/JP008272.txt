@@ -1,0 +1,41 @@
+ACCESSION: JP008272
+RECORD_TITLE: ISOXAZOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: UBE SCIENTIFIC ANALYSIS LABORATORY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ISOXAZOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H3NO
+CH$EXACT_MASS: 69.02146
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=288-14-2" target="_blank">288-14-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  13 4.88 49
+  14 49.14 491
+  15 4.34 43
+  18 30.04 300
+  25 4.4 44
+  26 8.47 85
+  27 4.09 41
+  29 34.65 347
+  30 3.62 36
+  31 1.79 18
+  37 5.27 53
+  38 15.98 160
+  39 19.44 194
+  40 84.06 841
+  41 40.53 405
+  42 11.78 118
+  51 1.17 12
+  68 72.47 725
+  69 99.99 999
+  70 6.53 65
+//

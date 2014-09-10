@@ -1,0 +1,14 @@
+Name: Uridine
+MW: 244
+Synonym: Uridine
+Comment: SC000271
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+41.9986 173 82.0295 79 110.024 219 111.018 119 140.028 73 153.026 90 200.056 181 243.061 999 

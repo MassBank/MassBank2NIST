@@ -1,0 +1,19 @@
+Name:  (Z)-3-HEXENOL; EI-MS
+MW: 100
+Formula: C6H12O
+Comment: JP008204
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+39:86 41:999 42:266 43:30 44:86 45:33 53:59 54:136 55:391 56:80 
+57:151 67:805 68:59 69:254 70:89 72:30 82:420 100:30 

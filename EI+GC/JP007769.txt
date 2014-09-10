@@ -1,0 +1,35 @@
+ACCESSION: JP007769
+RECORD_TITLE: 2,3-DIMETHLPYRAZINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,3-DIMETHLPYRAZINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H8N2
+CH$EXACT_MASS: 108.06875
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5910-89-4" target="_blank">5910-89-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  41 37.01 370
+  42 40.1 401
+  52 1 10
+  53 3.99 40
+  54 3.98 40
+  66 8.12 81
+  67 99.99 999
+  68 17.23 172
+  80 2 20
+  81 3.04 30
+  93 8.22 82
+  107 4.25 43
+  108 73.23 732
+  109 20.58 206
+//

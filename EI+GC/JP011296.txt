@@ -1,0 +1,55 @@
+ACCESSION: JP011296
+RECORD_TITLE: N-METHYL-D-GLUCAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-METHYL-D-GLUCAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H17NO5
+CH$EXACT_MASS: 195.11067
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=6284-40-8" target="_blank">6284-40-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 34
+PK$PEAK: m/z int. rel.int.
+  15 3.45 35
+  18 1.08 11
+  19 1.81 18
+  27 2.1 21
+  28 4.53 45
+  29 2.92 29
+  30 7.05 71
+  31 5.8 58
+  32 5.51 55
+  41 1.29 13
+  42 4.41 44
+  43 6.83 68
+  44 99.99 999
+  45 6.69 67
+  55 1.01 10
+  56 3.49 35
+  57 2.27 23
+  58 1.84 18
+  60 2.27 23
+  61 3.61 36
+  66 1.02 10
+  73 3.63 36
+  74 19.09 191
+  75 3.49 35
+  86 2.13 21
+  87 1.28 13
+  88 1.2 12
+  104 5.75 58
+  105 1.31 13
+  116 4.48 45
+  134 4.82 48
+  164 2.63 26
+  196 13.79 138
+  197 1.08 11
+//

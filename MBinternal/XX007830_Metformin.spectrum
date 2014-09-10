@@ -1,0 +1,18 @@
+Name: Metformin
+MW: 129
+Formula: C4H11N5
+Synonym: C08143
+Synonym: Transferred to D00944, Metformin
+Comment: XX007830
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 30
+30.0355 15 30.0380 18 39.0211 14 41.0401 19 42.0182 15 42.0355 82 43.0136 51 43.0311 758 44.0472 143 44.0532 148 
+46.0426 15 46.0517 19 46.0668 314 51.0239 22 51.0302 19 55.0292 122 55.0490 15 56.0075 14 56.0375 180 60.0518 81 
+60.0587 73 68.0264 260 71.0286 16 71.0399 26 71.0624 999 75.0258 15 77.04 60 85.0555 47 88.0910 21 103.0565 36 

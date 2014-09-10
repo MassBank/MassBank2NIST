@@ -1,0 +1,20 @@
+Name:  BENZALDEHYDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-52-7" target="_blank">100-52-7</a>
+MW: 106
+Formula: C7H6O
+Comment: JP008775
+Comment: N/A
+Comment: HP 5970
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UOEH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+37:69 38:83 39:105 49:55 50:378 51:581 52:142 53:19 61:16 62:22 
+63:29 73:26 74:104 75:46 77:999 78:178 105:838 106:862 107:62 

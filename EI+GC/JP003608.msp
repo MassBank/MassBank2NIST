@@ -1,0 +1,17 @@
+Name:  N-(3-AMINOPROPYL)CYCLOHEXYLAMINE; EI-MS
+MW: 156
+Formula: C9H20N2
+Comment: JP003608
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+30:999 41:333 44:439 55:29 56:500 57:344 70:903 98:51 156:30 

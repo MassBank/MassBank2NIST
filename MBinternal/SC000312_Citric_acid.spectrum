@@ -1,0 +1,14 @@
+Name: Citric_acid
+MW: 192
+Synonym: Citric acid
+Comment: SC000312
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+57.0349 38 67.0194 36 85.0296 123 87.009 197 111.009 510 129.019 29 173.008 22 191.019 999 

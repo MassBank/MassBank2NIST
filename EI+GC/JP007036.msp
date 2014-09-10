@@ -1,0 +1,19 @@
+Name:  2-OCTANONE; EI-MS
+MW: 128
+Formula: C8H16O
+Comment: JP007036
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+15:40 27:124 29:102 39:91 41:171 42:46 43:999 44:20 53:12 55:45 
+57:38 58:789 59:147 68:12 70:15 71:153 72:11 85:47 113:20 128:51 

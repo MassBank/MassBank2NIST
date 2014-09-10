@@ -1,0 +1,21 @@
+Name:  ETHYL ISOVALERATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-64-5" target="_blank">108-64-5</a>
+MW: 130
+Formula: C7H14O2
+Comment: JP004943
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+40:229 42:115 43:300 44:16 45:192 53:11 55:56 56:87 57:668 58:28 
+59:137 60:479 61:270 69:44 70:203 71:16 73:91 83:12 84:10 85:783 
+86:46 87:141 88:999 89:51 101:14 103:47 115:103 130:17 

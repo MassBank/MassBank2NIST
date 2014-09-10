@@ -1,0 +1,42 @@
+ACCESSION: JP000762
+RECORD_TITLE: 3,7-BIS(BROMOMETHYL)TROPOLONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: ITO S, DEPT. OF CHEM., TOHOKU UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3,7-BIS(BROMOMETHYL)TROPOLONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H8Br2O2
+CH$EXACT_MASS: 305.8891
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 25 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  65 17.5 175
+  79 3.5 35
+  80 8.5 85
+  81 0.3 3
+  82 9 90
+  89 4.5 45
+  90 4 40
+  91 5.8 58
+  92 6 60
+  119 99.99 999
+  120 9 90
+  148 4.7 47
+  149 7 70
+  198 5 50
+  200 4 40
+  227 2.1 21
+  228 3.5 35
+  229 21.5 215
+  230 2 20
+  306 0.35 4
+  308 7 70
+  310 3 30
+//

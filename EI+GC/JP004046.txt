@@ -1,0 +1,48 @@
+ACCESSION: JP004046
+RECORD_TITLE: MALEIC ACID; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: MALEIC ACID
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H4O4
+CH$EXACT_MASS: 116.01096
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 28
+PK$PEAK: m/z int. rel.int.
+  12 2.9 29
+  13 3 30
+  14 3.2 32
+  17 1.25 13
+  18 60.7 607
+  24 2.8 28
+  25 12 120
+  26 9.11 91
+  27 4.9 49
+  28 9.1 91
+  29 4 40
+  32 0.21 2
+  36 2.3 23
+  37 3.1 31
+  41 6.5 65
+  42 0.25 3
+  44 6.2 62
+  45 4.5 45
+  52 3.2 32
+  53 1.08 11
+  54 99.99 999
+  55 4.1 41
+  73 3.5 35
+  77 0.19 2
+  96 3.5 35
+  98 52.2 522
+  99 2.3 23
+  105 2.2 22
+//

@@ -1,0 +1,18 @@
+Name: 5-Methoxytryptamine
+CAS: 608-07-1
+MW: 190
+Formula: C11H14N2O
+Synonym: C05659
+Synonym: 5-Methoxytryptamine
+Comment: XX005697
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 15
+44.9988 346 59.0116 351 82.9475 59 84.941 237 128.9318 99 129.05565 163 129.0935 786 129.1239 54 143.1098 272 144.0375 143 
+144.0482 178 171.0610 64 174.083 999 174.1945 49 189.1061 129 

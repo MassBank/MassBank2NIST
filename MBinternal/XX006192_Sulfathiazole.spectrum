@@ -1,0 +1,17 @@
+Name: Sulfathiazole
+CAS: 72-14-0
+MW: 255
+Formula: C9H9N3O2S2
+Synonym: C11169
+Synonym: Sulfathiazole
+Comment: XX006192
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 10
+63.9596 103 63.9667 138 68.9978 112 69.0015 129 78.9616 336 92.0482 112 92.0567 112 97.9939 655 112.9878 86 156.0144 999 

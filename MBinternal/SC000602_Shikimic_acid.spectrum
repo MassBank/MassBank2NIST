@@ -1,0 +1,14 @@
+Name: Shikimic_acid
+MW: 174
+Synonym: Shikimic acid
+Comment: SC000602
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+73.0296 126 83.0505 52 93.0346 222 99.0444 37 111.045 94 137.023 88 155.034 52 173.045 999 

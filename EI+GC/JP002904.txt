@@ -1,0 +1,50 @@
+ACCESSION: JP002904
+RECORD_TITLE: P-CHLOROPHENOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: P-CHLOROPHENOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H5ClO
+CH$EXACT_MASS: 128.00289
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 31
+PK$PEAK: m/z int. rel.int.
+  18 2.23 22
+  31 2.24 22
+  32 2.28 23
+  37 5.97 60
+  38 7.7 77
+  39 15.47 155
+  46 4.41 44
+  49 2.52 25
+  50 5.33 53
+  51 2.58 26
+  53 4.81 48
+  55 2.04 20
+  61 4.76 48
+  62 6.57 66
+  63 12.44 124
+  64 17.41 174
+  65 33.08 331
+  66 3.54 35
+  73 7.64 76
+  74 3.12 31
+  75 4.74 47
+  92 2.79 28
+  93 4.15 42
+  99 6.09 61
+  100 10.32 103
+  101 3.03 30
+  102 4.19 42
+  128 99.99 999
+  129 7.26 73
+  130 34.22 342
+  131 2.27 23
+//

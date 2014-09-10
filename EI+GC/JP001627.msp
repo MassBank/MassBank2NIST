@@ -1,0 +1,21 @@
+Name:  PYRAZINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=290-37-9" target="_blank">290-37-9</a>
+MW: 80
+Formula: C4H4N2
+Synonym: 1,4-DIAZINE
+Comment: JP001627
+Comment: N/A
+Comment: VARIAN MAT-44
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+32:21 38:46 39:53 40:39 44:10 50:26 51:146 52:218 53:697 54:27 
+79:20 80:999 81:60 

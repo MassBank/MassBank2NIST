@@ -1,0 +1,35 @@
+ACCESSION: JP003013
+RECORD_TITLE: 5-TERT-BUTYLMERCAPTO-2-PICOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-TERT-BUTYLMERCAPTO-2-PICOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H15NS
+CH$EXACT_MASS: 181.09252
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  29 12 120
+  32 9 90
+  39 10 100
+  41 2.3 23
+  53 10 100
+  57 43 430
+  81 9 90
+  84 0.07 1
+  97 5 50
+  124 10 100
+  125 99.99 999
+  126 0.11 1
+  127 5 50
+  166 3 30
+  181 14 140
+  182 1.7 17
+//

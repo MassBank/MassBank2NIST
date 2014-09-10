@@ -1,0 +1,32 @@
+Name:  Ethylmalonic acid; GC-EI-TOF-MS; RT:428.809 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=601-75-2" target="_blank">601-75-2</a>
+MW: 132
+Formula: C5H8O4
+Comment: OUF00226
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 428.809  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 80
+85:16 86:3 87:8 88:2 89:6 90:1 92:2 93:4 95:2 97:14 
+98:4 99:28 100:5 101:7 102:3 103:11 104:2 105:6 111:1 113:3 
+115:11 116:3 117:21 118:3 119:7 123:6 127:14 128:2 129:64 130:8 
+131:36 132:6 133:75 134:11 135:7 142:2 143:40 144:7 145:6 146:2 
+147:999 148:159 149:106 150:12 151:4 157:3 158:1 159:8 160:2 161:1 
+171:13 172:1 173:16 174:3 175:2 186:4 187:1 189:2 190:2 191:2 
+203:1 204:13 205:4 206:1 217:97 218:21 219:9 220:1 232:15 233:6 
+234:2 245:4 246:1 248:13 249:3 250:1 261:42 262:10 263:4 276:1 

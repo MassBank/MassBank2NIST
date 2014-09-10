@@ -1,0 +1,14 @@
+Name: Phloretin
+MW: 274
+Synonym: Phloretin
+Comment: SC002578
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+81.0336 69 93.0338 19 119.049 100 123.044 170 125.023 56 167.033 407 179.032 22 273.075 999 

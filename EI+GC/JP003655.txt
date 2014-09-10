@@ -1,0 +1,31 @@
+ACCESSION: JP003655
+RECORD_TITLE: BENZYL OXALATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZYL OXALATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C16H14O4
+CH$EXACT_MASS: 270.08921
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  91 79.4 794
+  92 11.3 113
+  107 13.7 137
+  108 0.18 2
+  179 34 340
+  180 99.99 999
+  181 14.5 145
+  182 0.12 1
+  197 0.6 6
+  270 5.6 56
+  271 1.1 11
+  272 0.2 2
+//

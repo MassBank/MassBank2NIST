@@ -1,0 +1,14 @@
+Name: 3-Amino-3-(4-hydroxyphenyl)propanoate
+MW: 181
+Synonym: 3-Amino-3-(4-hydroxyphenyl)propanoate
+Comment: SC003592
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+101.004 97 102.006 21 102.999 76 121.066 140 123.045 98 165.055 999 181.014 51 182.082 229 

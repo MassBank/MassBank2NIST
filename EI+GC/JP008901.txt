@@ -1,0 +1,60 @@
+ACCESSION: JP008901
+RECORD_TITLE: 1,2,3,5-TETRAMETHYLBENZENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2,3,5-TETRAMETHYLBENZENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H14
+CH$EXACT_MASS: 134.10955
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 40
+PK$PEAK: m/z int. rel.int.
+  27 5.6 56
+  29 1 10
+  38 1.1 11
+  39 1.1 11
+  40 1.5 15
+  41 8.3 83
+  50 2.6 26
+  51 0.76 8
+  52 2.6 26
+  53 4.1 41
+  57.5 1.1 11
+  58 0.1 1
+  62 1.5 15
+  63 4.1 41
+  64 2.2 22
+  65 0.69 7
+  66 2.1 21
+  67 1.7 17
+  74 1.1 11
+  75 0.12 1
+  77 9.5 95
+  78 3.2 32
+  79 4.3 43
+  89 0.15 2
+  91 16 160
+  92 1.8 18
+  93 1.8 18
+  102 0.12 1
+  103 4.1 41
+  104 2.8 28
+  105 4.3 43
+  115 0.65 7
+  116 2.5 25
+  117 6.9 69
+  118 2.6 26
+  119 99.99 999
+  120 10.1 101
+  133 10.7 107
+  134 54.7 547
+  135 6.6 66
+//

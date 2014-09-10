@@ -1,0 +1,31 @@
+Name:  Cystamine; GC-EI-TOF-MS; RT:848.580 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=51-85-4" target="_blank">51-85-4</a>
+MW: 152
+Formula: C4H12N2S2
+Comment: OUF00147
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 848.580  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 69
+85:11 86:318 87:32 88:15 89:7 90:3 91:16 92:1 93:1 98:8 
+99:8 100:308 101:44 102:26 103:6 104:4 105:19 106:2 107:1 113:11 
+114:34 115:14 116:61 117:20 118:20 119:5 120:2 128:1 129:5 130:101 
+131:29 132:44 133:9 134:5 135:1 142:1 144:5 145:1 146:24 147:9 
+148:15 149:7 150:2 151:1 158:8 159:2 160:1 163:1 172:44 173:9 
+174:999 175:188 176:90 177:11 178:2 187:2 188:63 189:13 190:70 191:13 
+192:9 193:1 204:7 205:3 206:3 220:89 221:18 222:12 223:1 

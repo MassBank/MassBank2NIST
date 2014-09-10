@@ -1,0 +1,17 @@
+Name: Sulindac
+CAS: 38194-50-2
+MW: 356
+Formula: C20H17FO3S
+Synonym: C01531
+Synonym: Sulindac
+Comment: XX004051
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 6
+62.700 35 69.300 97 233.200 999 234.100 80 247.500 186 248.300 292 

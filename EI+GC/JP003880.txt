@@ -1,0 +1,27 @@
+ACCESSION: JP003880
+RECORD_TITLE: CYCLOHEXYL AMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CYCLOHEXYL AMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H13N
+CH$EXACT_MASS: 99.1048
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  27 9 90
+  28 14 140
+  30 14 140
+  41 0.6 6
+  42 8 80
+  43 28 280
+  56 99.99 999
+  99 10 100
+//

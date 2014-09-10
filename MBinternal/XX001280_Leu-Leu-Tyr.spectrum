@@ -1,0 +1,17 @@
+Name: Leu-Leu-Tyr
+CAS: 20368-24-5
+MW: 407
+Formula: C21H33N3O5
+Synonym: C11331
+Synonym: LLY, Leu-leu-tyr, Leu-Leu-Tyr
+Comment: XX001280
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 8
+115.200 1 218.400 7 245.500 5 263.400 1 346.500 1 362.500 1 370.500 3 406.600 999 

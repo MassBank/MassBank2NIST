@@ -1,0 +1,21 @@
+Name:  1-PROPANOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=71-23-8" target="_blank">71-23-8</a>
+MW: 60
+Formula: C3H8O
+Synonym: PROPYL ALCOHOL
+Comment: JP007679
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+15:13 19:10 26:21 27:102 28:54 29:101 30:15 31:999 32:22 33:11 
+39:32 41:73 42:133 43:43 45:13 55:13 57:29 59:121 60:43 

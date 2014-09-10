@@ -1,0 +1,32 @@
+Name:  Methylmalonic acid; GC-EI-TOF-MS; 2 TMS; BP:147
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=516-05-2" target="_blank">516-05-2</a>
+MW: 118
+Formula: C4H6O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C02170" target="_blank">C02170</a>
+Comment: KZ000060
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 566.759 sec
+Comment: RETENTION_INDEX 1298.3
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: BASE_PEAK 147
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 83
+83:91 84:10 85:19 86:55 87:26 88:6 89:10 90:1 91:1 92:1 
+93:3 94:36 95:4 97:1 99:15 100:3 101:10 102:12 103:26 104:4 
+105:16 106:2 107:1 112:1 113:118 114:15 115:60 116:39 117:58 118:7 
+119:12 120:1 121:1 128:1 129:46 130:27 131:61 132:10 133:83 134:11 
+135:6 143:1 145:1 146:1 147:999 148:166 149:89 150:10 151:2 157:18 
+158:3 159:2 163:8 164:1 165:1 172:16 173:4 174:1 175:5 176:1 
+187:2 189:1 190:7 191:4 192:1 203:33 204:7 205:3 217:6 218:123 
+219:26 220:11 221:2 231:12 232:3 233:1 247:126 248:26 249:12 250:1 
+262:12 263:2 264:1 

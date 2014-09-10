@@ -1,0 +1,14 @@
+Name: Ampicillin
+MW: 349
+Synonym: Ampicillin
+Comment: SC000812
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+41.9973 65 104.05 61 132.044 42 175.051 33 270.125 246 311.095 83 348.102 999 348.604 68 

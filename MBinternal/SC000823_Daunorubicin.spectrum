@@ -1,0 +1,14 @@
+Name: Daunorubicin
+MW: 527
+Synonym: Daunorubicin
+Comment: SC000823
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+321.038 82 335.057 72 336.063 158 337.074 56 361.073 135 364.063 59 379.081 615 526.171 999 

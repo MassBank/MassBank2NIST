@@ -1,0 +1,20 @@
+Name:  BENZYL SALICYLATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=118-58-1" target="_blank">118-58-1</a>
+MW: 228
+Formula: C14H12O3
+Comment: JP008996
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+53:11 63:27 64:16 65:124 77:16 89:16 91:999 92:98 93:13 121:25 
+228:108 229:15 

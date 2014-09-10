@@ -1,0 +1,19 @@
+Name: 4-Fluoroaniline
+CAS: 371-40-4
+MW: 111
+Formula: C6H6FN
+Synonym: C11014
+Synonym: 4-Fluoroaniline
+Comment: XX007329
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 29
+40.0166 8 41.0422 2 42.0318 37 42.0491 4 43.0244 3 44.0108 2 52.0124 13 52.0285 4 65.0392 3 67.0319 22 
+68.0156 28 69.0472 146 70.0605 5 70.0679 9 71.0249 9 92.0448 13 94.0388 163 95.0211 530 95.1165 2 111.9014 2 
+112.0473 999 112.1322 2 112.1604 3 112.1793 3 112.1887 2 112.5425 2 112.5567 3 112.7457 2 113.0530 2 

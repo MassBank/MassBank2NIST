@@ -1,0 +1,21 @@
+Name:  1,1,2,2-TETRACHLOROETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-34-5" target="_blank">79-34-5</a>
+MW: 165
+Formula: C2H2Cl4
+Comment: JP004908
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+47:14 48:13 60:42 61:45 62:15 63:14 83:999 84:13 85:652 87:105 
+95:80 96:55 97:51 98:34 130:12 131:78 132:13 133:72 135:29 137:10 
+166:53 168:67 170:32 

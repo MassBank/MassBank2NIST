@@ -1,0 +1,39 @@
+ACCESSION: JP009048
+RECORD_TITLE: METHYL 2-FUROATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: METHYL 2-FUROATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H6O3
+CH$EXACT_MASS: 126.03169
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=611-13-2" target="_blank">611-13-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  15 3.37 34
+  27 1.38 14
+  29 5.15 52
+  37 4.69 47
+  38 10.65 107
+  39 23.92 239
+  41 1.08 11
+  51 1 10
+  53 1.76 18
+  59 1.24 12
+  66 1.32 13
+  67 3.02 30
+  68 4.72 47
+  81 1.03 10
+  95 99.99 999
+  96 9.02 90
+  126 34.53 345
+  127 2.18 22
+//

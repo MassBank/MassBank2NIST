@@ -1,0 +1,39 @@
+ACCESSION: JP007596
+RECORD_TITLE: TETRADECAN-2-OL; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TETRADECAN-2-OL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C14H30O
+CH$EXACT_MASS: 214.22967
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4706-81-4" target="_blank">4706-81-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  31 2.31 23
+  43 30.47 305
+  45 99.99 999
+  55 21.85 219
+  57 20.36 204
+  69 13.09 131
+  71 8.73 87
+  83 10.03 100
+  84 5.32 53
+  97 8.11 81
+  98 3.36 34
+  111 4.24 42
+  112 2.27 23
+  125 1.97 20
+  126 1.36 14
+  168 1.59 16
+  196 1.39 14
+  199 1.06 11
+//

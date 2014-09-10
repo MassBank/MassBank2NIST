@@ -1,0 +1,42 @@
+ACCESSION: JP009494
+RECORD_TITLE: N,N-DIMETHYLETHANOLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: NARA WOMEN'S UNIVERSITY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N,N-DIMETHYLETHANOLAMINE
+CH$NAME: 2-DIMETHYLAMINOETHANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H11NO
+CH$EXACT_MASS: 89.08406
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-01-0" target="_blank">108-01-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  15 7.61 76
+  18 1.04 10
+  27 3.64 36
+  28 5.17 52
+  29 4.9 49
+  30 11.07 111
+  31 5.84 58
+  40 1.22 12
+  41 3.03 30
+  42 22.32 223
+  43 6.81 68
+  44 14.97 150
+  45 3.5 35
+  56 2.34 23
+  57 3.68 37
+  58 99.99 999
+  59 5.16 52
+  88 2.27 23
+  89 7.3 73
+  90 1.2 12
+//

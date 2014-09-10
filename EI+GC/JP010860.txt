@@ -1,0 +1,50 @@
+ACCESSION: JP010860
+RECORD_TITLE: 4-METHYLCYCLOHEXANONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-METHYLCYCLOHEXANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H12O
+CH$EXACT_MASS: 112.08882
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 30
+PK$PEAK: m/z int. rel.int.
+  15 1.5 15
+  26 4.2 42
+  27 26.1 261
+  28 5.2 52
+  29 14.5 145
+  38 1.6 16
+  39 23.6 236
+  40 3.7 37
+  41 47.9 479
+  42 20 200
+  43 7.8 78
+  50 2.3 23
+  51 3.9 39
+  52 1.4 14
+  53 6.8 68
+  54 3.2 32
+  55 99.99 999
+  56 39.8 398
+  57 17.6 176
+  67 3.3 33
+  68 5.9 59
+  69 12.1 121
+  70 15.4 154
+  79 4.4 44
+  83 24.3 243
+  84 16.3 163
+  94 6.9 69
+  97 5.8 58
+  112 33.6 336
+  113 3.4 34
+//

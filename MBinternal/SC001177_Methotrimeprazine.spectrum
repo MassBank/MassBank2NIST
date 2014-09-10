@@ -1,0 +1,14 @@
+Name: Methotrimeprazine
+MW: 328
+Synonym: Methotrimeprazine
+Comment: SC001177
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+58.0659 6 100.113 14 242.063 2 328.161 2 329.17 999 329.389 11 329.731 3 329.973 2 

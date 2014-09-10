@@ -1,0 +1,18 @@
+Name:  1-TERT-BUTYL-3-PIVALOYLCYCLOPROPENE; EI-MS
+MW: 180
+Formula: C12H20O
+Comment: JP003652
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+39:60 40:60 41:160 43:9 44:999 53:30 55:150 57:1 67:170 93:30 
+95:550 123:0 165:170 180:30 

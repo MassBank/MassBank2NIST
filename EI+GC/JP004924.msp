@@ -1,0 +1,21 @@
+Name:  4-METHYLPENTAN-2-ONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-10-1" target="_blank">108-10-1</a>
+MW: 100
+Formula: C6H12O
+Synonym: 4-METHYL-2-PENTANONE
+Comment: JP004924
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+42:39 43:999 44:15 55:13 56:15 57:177 58:459 59:33 67:15 85:147 
+100:150 101:11 

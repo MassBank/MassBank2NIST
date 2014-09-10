@@ -1,0 +1,14 @@
+Name: Hypoxanthine
+MW: 136
+Synonym: Hypoxanthine
+Comment: SC000242
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+65.0154 43 66.009 17 92.0252 462 133.016 16 135.031 999 

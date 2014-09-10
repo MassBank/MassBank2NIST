@@ -1,0 +1,56 @@
+ACCESSION: JP003935
+RECORD_TITLE: 3-ETHYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-ETHYLPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H9N
+CH$EXACT_MASS: 107.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 37
+PK$PEAK: m/z int. rel.int.
+  25 1.8 18
+  26 10.4 104
+  27 20.2 202
+  28 1.35 14
+  29 3.8 38
+  37 5.2 52
+  38 12.5 125
+  39 3.71 37
+  40 5.9 59
+  41 4.8 48
+  49 3.2 32
+  50 1.64 16
+  51 28.2 282
+  52 13.9 139
+  53 7.9 79
+  54 0.38 4
+  61 2.2 22
+  62 3.7 37
+  63 8.4 84
+  64 0.28 3
+  65 33.6 336
+  66 3.7 37
+  67 3.6 36
+  74 0.39 4
+  75 3.3 33
+  76 3.3 33
+  77 11.1 111
+  78 0.85 9
+  79 18.2 182
+  80 4 40
+  91 2.6 26
+  92 99.99 999
+  93 7.8 78
+  104 3.2 32
+  105 3 30
+  106 4.45 45
+  107 82.8 828
+//

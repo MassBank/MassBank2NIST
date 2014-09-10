@@ -1,0 +1,39 @@
+Name:  trans-Cinnamic acid; GC-EI-TOF-MS; 1 TMS; BP:77
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=140-10-3" target="_blank">140-10-3</a>
+MW: 148
+Formula: C9H8O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00423" target="_blank">C00423</a>
+Synonym: trans-Cinnamate
+Comment: PR010191
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 417.244 sec
+Comment: RETENTION_INDEX 1554
+Comment: FILE std6_GCTMS_PR060121MSinfo.txt
+Comment: DERIVATIVE_TYPE 1 TMS
+Comment: DERIVATIVE_FORM C12H16O2Si
+Comment: DERIVATIVE_MASS 220.09196
+Comment: BASE_PEAK 77
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 125
+60:45 61:92 62:50 63:119 64:13 65:18 66:7 67:7 69:2 70:6 
+71:7 72:29 73:248 74:172 75:695 76:271 77:999 78:85 79:44 80:3 
+81:5 83:5 84:4 85:31 86:9 87:13 88:4 89:19 90:9 91:31 
+92:6 93:6 94:2 95:2 96:1 97:1 98:11 99:34 100:5 101:42 
+102:459 103:912 104:88 105:20 106:2 107:4 108:1 109:2 111:1 113:1 
+114:1 115:27 116:9 117:13 118:9 119:6 120:2 121:7 122:1 123:1 
+127:2 128:6 129:29 130:29 131:790 132:83 133:44 134:7 135:197 136:28 
+137:9 138:1 141:1 142:10 143:15 144:5 145:340 146:59 147:28 148:36 
+149:6 150:2 151:1 152:1 153:1 154:1 155:1 156:1 157:1 158:1 
+159:53 160:12 161:597 162:97 163:27 164:3 175:1 176:17 177:4 178:1 
+179:1 180:1 182:1 185:1 186:1 187:1 188:1 189:2 190:1 191:1 
+192:17 193:4 194:1 201:1 203:2 204:3 205:601 206:107 207:31 208:4 
+219:20 220:166 221:32 222:8 223:1 

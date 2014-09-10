@@ -1,0 +1,21 @@
+Name:  BENZYL ISOVALERATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=103-38-8" target="_blank">103-38-8</a>
+MW: 192
+Formula: C12H16O2
+Comment: JP007077
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+27:58 29:127 39:76 41:123 50:12 51:46 52:12 55:15 56:11 57:360 
+58:13 63:24 65:104 77:61 78:13 79:42 85:114 89:35 90:54 91:999 
+92:91 105:13 107:33 108:164 109:11 192:125 193:14 

@@ -1,0 +1,14 @@
+Name: N-acetylaspartate
+MW: 175
+Synonym: N-acetylaspartate
+Comment: SC002730
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+41.9988 54 58.0301 243 59.0136 65 88.0397 453 114.019 75 115.002 47 130.05 89 174.04 999 

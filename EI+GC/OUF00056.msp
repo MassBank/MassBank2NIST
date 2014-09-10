@@ -1,0 +1,34 @@
+Name:  3-Hydroxypyruvate; GC-EI-TOF-MS; RT:431.597 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1113-60-6" target="_blank">1113-60-6</a>
+MW: 104
+Formula: C3H4O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00168" target="_blank">C00168</a>
+Comment: OUF00056
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 431.597  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 85
+85:138 86:81 87:29 88:46 89:570 90:49 91:22 94:1 98:22 99:10 
+100:494 101:52 102:148 103:413 104:45 105:19 106:1 110:5 114:714 115:95 
+116:38 117:41 118:1 119:11 128:251 129:27 130:47 131:100 132:11 133:111 
+134:14 137:2 138:1 141:1 142:9 143:3 144:1 146:6 147:999 148:182 
+149:81 156:13 157:2 158:20 159:6 160:65 161:1 162:2 163:68 164:9 
+172:37 177:83 178:5 186:25 187:4 188:11 189:5 191:7 199:5 201:14 
+202:5 204:41 205:2 216:8 230:2 234:15 235:5 237:3 246:25 247:2 
+258:4 262:264 263:53 264:11 280:3 287:2 316:1 321:1 332:3 340:2 
+353:1 378:4 389:1 391:3 415:4 

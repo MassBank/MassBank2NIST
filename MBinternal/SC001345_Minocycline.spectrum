@@ -1,0 +1,14 @@
+Name: Minocycline
+MW: 457
+Synonym: Minocycline
+Comment: SC001345
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+286.107 13 371.16 27 394.093 5 413.171 42 439.15 23 456.177 999 456.906 5 457.171 7 

@@ -1,0 +1,17 @@
+Name: Ethylamine
+CAS: 75-04-7
+MW: 45
+Formula: C2H7N
+Synonym: C00797
+Synonym: Ethylamine
+Comment: XX007276
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 2
+27.0256 999 46.0678 555 

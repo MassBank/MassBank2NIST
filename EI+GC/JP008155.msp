@@ -1,0 +1,21 @@
+Name:  PIPERONYLIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=94-53-1" target="_blank">94-53-1</a>
+MW: 166
+Formula: C8H6O4
+Comment: JP008155
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 25 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 25 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 30
+28:22 29:39 39:13 40:10 52:28 53:16 57:54 63:50 64:16 65:118 
+66:20 69:10 79:10 80:10 81:38 82:17 91:43 93:10 109:10 119:106 
+120:20 121:110 122:12 137:10 149:253 150:42 165:670 166:999 167:105 168:10 

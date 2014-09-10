@@ -1,0 +1,22 @@
+Name:  METHYL2-FUROATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=611-13-2" target="_blank">611-13-2</a>
+MW: 126
+Formula: C6H6O3
+Synonym: 2-FURANCARBOXYLIC ACID METHYL ESTER
+Comment: JP007744
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+27:31 29:21 38:20 39:438 40:31 41:10 42:10 45:11 51:10 53:20 
+55:10 59:23 66:11 67:52 68:126 69:11 95:999 96:124 97:11 126:470 
+127:42 

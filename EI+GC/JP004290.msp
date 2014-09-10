@@ -1,0 +1,22 @@
+Name:  2,6-DIAMINOTOLUENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=823-40-5" target="_blank">823-40-5</a>
+MW: 122
+Formula: C7H10N2
+Comment: JP004290
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 31
+30:25 38:24 39:77 41:54 42:36 51:57 52:60 53:45 54:42 61:57 
+65:64 66:65 67:36 77:150 78:107 79:61 80:60 81:81 92:30 93:133 
+94:202 95:42 104:240 105:149 106:332 107:131 119:25 120:26 121:547 122:999 
+123:95 

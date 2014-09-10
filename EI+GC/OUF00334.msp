@@ -1,0 +1,34 @@
+Name:  L-Valine; GC-EI-TOF-MS; 1 TMS; RT:310.593 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=72-18-4" target="_blank">72-18-4</a>
+MW: 117
+Formula: C5H11NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00183" target="_blank">C00183</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00039" target="_blank">D00039</a>
+Comment: OUF00334
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 310.593  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Comment: 1 TMS
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 76
+85:135 86:203 87:555 88:145 89:61 90:18 91:199 92:19 93:35 95:5 
+97:12 98:8 99:1 100:89 101:16 102:291 103:850 104:95 105:15 112:14 
+113:138 114:44 115:11 117:54 118:51 125:1 128:452 129:142 130:886 131:253 
+132:68 133:5 143:21 144:22 146:999 147:169 148:51 156:743 157:196 158:84 
+159:30 160:8 163:1 168:5 174:602 175:74 176:24 186:7 194:2 205:1 
+209:1 210:4 212:1 225:3 258:1 295:1 319:7 338:4 340:5 350:6 
+384:1 390:8 398:7 402:5 405:1 406:8 407:12 408:10 409:1 426:8 
+430:1 431:5 454:1 473:5 474:5 482:3 

@@ -1,0 +1,19 @@
+Name:  2-PENTENOL; EI-MS
+MW: 86
+Formula: C5H10O
+Comment: JP008202
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+39:58 40:29 41:195 42:58 43:91 44:263 45:39 53:26 55:114 57:999 
+59:39 67:55 68:179 71:39 86:26 

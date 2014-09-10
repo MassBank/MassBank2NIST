@@ -1,0 +1,40 @@
+ACCESSION: JP007546
+RECORD_TITLE: CITRONELLAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CITRONELLAL
+CH$NAME: 3,7-DIMETHYL-6-OCTENAL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H18O
+CH$EXACT_MASS: 154.13577
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-23-0" target="_blank">106-23-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  41 52.04 520
+  43 22.08 221
+  55 43.98 440
+  56 39.78 398
+  69 99.99 999
+  70 18.19 182
+  83 15.64 156
+  84 19.57 196
+  95 50.72 507
+  98 11.7 117
+  110 20.22 202
+  111 19.07 191
+  121 22.65 227
+  123 3.51 35
+  136 7.98 80
+  139 7.01 70
+  154 10.31 103
+  155 1.13 11
+//

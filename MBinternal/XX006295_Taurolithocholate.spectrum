@@ -1,0 +1,17 @@
+Name: Taurolithocholate
+MW: 561
+Formula: C26H38H5NO8S2
+Synonym: C11247
+Synonym: Taurolithocholate
+Comment: XX006295
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 16
+479.8437 1 481.5997 2 481.6290 2 482.1174 1 482.303 999 482.5083 9 482.5278 11 482.5474 11 482.5962 17 482.6158 18 
+482.7038 1 482.7233 1 482.8113 1 482.8602 2 483.2905 6 483.3198 7 

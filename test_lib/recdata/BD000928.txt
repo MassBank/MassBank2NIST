@@ -1,0 +1,59 @@
+ACCESSION: BD000928
+RECORD_TITLE: 2-Deoxyguanosine; MS/MS; ESI-TOF; CE:23 eV; [M+H]+
+DATE: 2007.11.05
+AUTHORS: MGR
+COPYRIGHT: Copyright(C) 2007
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C00330
+CH$NAME: 2-Deoxyguanosine
+CH$NAME: Guanine deoxy nucleoside
+CH$NAME: Desoxyguanosine
+CH$NAME: Guanine deoxyriboside
+CH$NAME: 2-Amino-9-(2-deoxy-9-beta-D-ribofuranosyl)-9H-purin-6-ol,dG,9-(2-Deoxy-b-D-erythro-pentofuranosyl)guanine
+CH$NAME: 2-Amino-9-[(2R,4R,5S)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-3H-purin-6-one
+CH$NAME: 2-Amino-9-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-3H-purin-6-one
+CH$NAME: 9-(2-Deoxy-b-D-erythro-pentofuranosyl)-guanine
+CH$NAME: 9-(2-Deoxy-beta-D-ribofuranosyl)guanine
+CH$NAME: Deoxyguanosine
+CH$NAME: 2'-Deoxyguanosine
+CH$NAME: 2'-Deoxy-guanosine
+CH$NAME: 2'-Deoxyguanosine monohydrate
+CH$NAME: Guanine-2'-deoxyriboside
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C10H13N5O4
+CH$EXACT_MASS: 267.09675389600005
+CH$SMILES: NC=2NC(=O)C=3N=CN(C1CC(O)C(CO)O1)C=3(N=2)
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:638
+CH$LINK: CAS 961-07-9
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 23 eV
+AC$ANALYTICAL_CONDITION: MS_TYPE MS/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.027
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 70.2
+AC$ANALYTICAL_CONDITION: Mass 44.7915-395.04
+MS$FOCUSED_ION: PRECURSOR_M/Z 268.105
+MS$FOCUSED_ION: PRECURSOR_TYPE [M+H]+
+MS$FOCUSED_ION: BASE_PEAK 152.056
+PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  71.048 2 2
+  73.027 4 4
+  99.043 21 21
+  110.034 7 7
+  117.055 35 35
+  118.057 2 2
+  128.045 4 4
+  135.030 10 10
+  151.589 2 2
+  152.057 999 999
+  153.054 72 72
+  154.055 4 4
+//

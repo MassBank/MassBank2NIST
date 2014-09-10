@@ -1,0 +1,20 @@
+Name:  BIS(2-CHLOROETHYL) ETHER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=111-44-4" target="_blank">111-44-4</a>
+MW: 141
+Formula: C4H8Cl2O
+Comment: JP000932
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+43:22 49:54 62:24 63:58 64:20 65:166 93:999 94:4 95:344 106:30 
+142:29 

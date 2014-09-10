@@ -1,0 +1,30 @@
+Name:  Phenyl pyruvate; GC-EI-TOF-MS; RT:431.028 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=156-06-9" target="_blank">156-06-9</a>
+MW: 164
+Formula: C9H8O3
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00166" target="_blank">C00166</a>
+Comment: OUF00420
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 431.028  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 46
+85:3 86:1 90:49 91:4 92:1 93:7 94:5 95:3 96:2 97:1 
+99:1 105:9 106:533 107:41 108:6 109:8 110:7 111:1 119:2 120:10 
+121:2 122:9 123:5 132:1 134:2 135:3 136:492 137:68 138:20 150:4 
+151:2 152:1 162:1 164:3 165:1 166:1 179:4 180:999 181:136 182:43 
+183:4 186:2 194:4 195:36 196:5 197:1 

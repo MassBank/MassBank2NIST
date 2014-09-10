@@ -1,0 +1,31 @@
+Name:  Anthracene; GC-EI-TOF-MS; RT:710.694 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=120-12-7" target="_blank">120-12-7</a>
+MW: 178
+Formula: C14H10
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C14315" target="_blank">C14315</a>
+Comment: OUF00114
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 710.694  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 59
+85:9 86:30 87:61 88:132 89:184 90:3 97:3 98:36 99:24 100:12 
+101:9 102:13 103:1 109:3 110:11 111:14 112:2 113:11 114:1 115:7 
+117:1 121:1 122:9 123:6 124:5 125:10 126:29 127:12 128:13 129:2 
+132:1 133:1 134:2 135:2 137:5 138:3 139:17 140:1 146:1 149:17 
+150:92 151:100 152:138 153:21 154:2 161:1 162:3 163:6 164:2 169:1 
+173:2 174:29 175:39 176:235 177:126 178:999 179:156 180:13 181:1 

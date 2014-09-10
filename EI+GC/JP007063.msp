@@ -1,0 +1,20 @@
+Name:  METHYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-20-9" target="_blank">79-20-9</a>
+MW: 74
+Formula: C3H6O2
+Comment: JP007063
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+14:40 15:228 29:79 30:10 31:21 41:10 42:103 43:999 44:22 45:10 
+59:69 74:193 

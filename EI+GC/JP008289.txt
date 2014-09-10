@@ -1,0 +1,43 @@
+ACCESSION: JP008289
+RECORD_TITLE: 2-METHYLIMIDAZOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: UBE SCIENTIFIC ANALYSIS LABORATORY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-METHYLIMIDAZOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H8N2
+CH$EXACT_MASS: 84.06875
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=534-26-9" target="_blank">534-26-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  15 10.77 108
+  27 2.15 22
+  28 6.48 65
+  29 2.26 23
+  30 99.99 999
+  31 12.82 128
+  41 2.28 23
+  42 10.41 104
+  43 67.64 676
+  44 19.69 197
+  45 5.16 52
+  54 1.95 20
+  55 7.98 80
+  58 3.89 39
+  59 3.18 32
+  60 3.32 33
+  72 0.71 7
+  73 25.42 254
+  74 0.82 8
+  83 2.21 22
+  84 3.33 33
+  85 1.47 15
+//

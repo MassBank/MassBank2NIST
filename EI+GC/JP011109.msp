@@ -1,0 +1,22 @@
+Name:  N,N'-DIISOPROPYLTHIOUREA; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2986-17-6" target="_blank">2986-17-6</a>
+MW: 160
+Formula: C7H16N2S
+Comment: JP011109
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 32
+14:14 17:23 26:52 27:42 29:17 32:13 39:36 40:11 41:145 42:90 
+43:267 44:126 57:15 58:999 59:46 60:129 61:10 62:14 64:33 69:16 
+70:39 75:22 85:62 90:14 102:11 103:11 117:39 128:11 159:29 160:492 
+161:53 162:24 

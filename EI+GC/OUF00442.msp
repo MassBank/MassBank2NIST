@@ -1,0 +1,32 @@
+Name:  R,S-Hydroorotate; GC-EI-TOF-MS; RT:671.723 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=155-54-4" target="_blank">155-54-4</a>
+MW: 158
+Formula: C5H6N2O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00337" target="_blank">C00337</a>
+Comment: OUF00442
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 671.723  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 65
+85:32 86:26 87:26 88:2 92:1 93:3 95:7 96:18 98:16 99:143 
+100:240 101:41 102:18 103:5 105:2 113:4 115:7 116:17 117:15 122:1 
+125:1 126:7 128:11 129:12 131:34 133:42 134:1 142:43 143:6 144:16 
+147:448 148:76 149:30 158:1 168:3 169:48 170:10 172:3 173:1 174:16 
+184:28 185:999 186:158 187:38 191:3 234:1 241:4 252:2 257:11 258:6 
+259:89 260:26 261:8 287:58 288:12 304:2 315:1 325:1 367:2 370:1 
+383:1 414:2 436:3 443:1 453:1 

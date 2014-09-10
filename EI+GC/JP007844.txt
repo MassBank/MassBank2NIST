@@ -1,0 +1,44 @@
+ACCESSION: JP007844
+RECORD_TITLE: 2,4,6-TRIMETHYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,4,6-TRIMETHYLPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H11N
+CH$EXACT_MASS: 121.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-75-8" target="_blank">108-75-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  27 15.62 156
+  28 6.82 68
+  39 26.83 268
+  40 2.31 23
+  41 6.64 66
+  42 11.12 111
+  51 11.22 112
+  52 1.12 11
+  53 9.22 92
+  63 4.61 46
+  65 4.51 45
+  77 13.22 132
+  78 3.2 32
+  79 25.73 257
+  91 1.08 11
+  93 4.81 48
+  94 2.31 23
+  105 3.31 33
+  106 16.93 169
+  107 3.62 36
+  120 23.83 238
+  121 99.99 999
+  122 8.69 87
+//

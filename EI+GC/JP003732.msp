@@ -1,0 +1,18 @@
+Name:  O-ISOPENTYLHYDROXYLAMINE; EI-MS
+MW: 103
+Formula: C5H13NO
+Comment: JP003732
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+39:142 40:34 41:333 42:15 43:999 44:75 45:34 46:6 53:24 54:8 
+55:200 56:8 57:58 58:58 69:17 70:1 71:250 72:17 103:9 

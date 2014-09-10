@@ -1,0 +1,38 @@
+ACCESSION: JP007358
+RECORD_TITLE: BIS(2-METHOXYETHYL) ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BIS(2-METHOXYETHYL) ETHER
+CH$NAME: DIGLYME
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H14O3
+CH$EXACT_MASS: 134.09429
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=111-96-6" target="_blank">111-96-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  15 13.07 131
+  27 3.32 33
+  28 4.85 49
+  29 20.69 207
+  31 20.87 209
+  33 1.01 10
+  41 1.38 14
+  43 7.67 77
+  44 1.1 11
+  45 26.88 269
+  58 44.71 447
+  59 99.99 999
+  60 3.37 34
+  87 1.8 18
+  89 16.99 170
+  102 1.89 19
+//
