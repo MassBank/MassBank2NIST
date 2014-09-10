@@ -1,0 +1,14 @@
+Name: tartaric_acid
+MW: 150
+Synonym: tartaric acid
+Comment: SC003169
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+43.0189 42 59.0143 68 72.9933 98 75.0086 9 87.0088 172 103.004 31 105.019 12 149.009 999 

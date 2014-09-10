@@ -1,0 +1,19 @@
+Name:  10-(2-DIMETHYLAMINOPROPYL)-PHENOTHIAZINE; EI-MS
+MW: 284
+Formula: C17H20N2S
+Synonym: PHENERGAN
+Comment: JP003830
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+72:999 73:39 180:19 198:3 199:19 213:29 284:39 285:9 

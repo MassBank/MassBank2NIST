@@ -1,0 +1,37 @@
+Name:  Glycylglycine; GC-EI-TOF-MS; 4 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=556-50-3" target="_blank">556-50-3</a>
+MW: 132
+Formula: C4H8N2O3
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C02037" target="_blank">C02037</a>
+Comment: PR010161
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 479.02 sec
+Comment: RETENTION_INDEX 1816.8
+Comment: FILE std5-2_GCTMS_PR060116MSinfo.txt
+Comment: DERIVATIVE_TYPE 4 TMS
+Comment: DERIVATIVE_FORM C16H40N2O3Si4
+Comment: DERIVATIVE_MASS 420.2116
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 112
+60:20 61:26 62:2 63:2 66:4 67:1 69:10 70:16 71:9 72:49 
+73:999 74:99 75:139 76:13 77:26 78:4 79:22 80:1 83:2 84:7 
+85:7 86:256 87:32 88:21 89:4 90:1 92:1 93:1 97:4 98:4 
+99:6 100:122 101:30 102:56 103:14 104:4 105:2 113:5 114:10 115:9 
+116:33 117:35 118:7 119:7 120:1 126:1 127:2 128:3 129:19 130:37 
+131:21 132:10 133:28 134:4 135:3 141:12 142:5 143:5 144:10 145:3 
+146:10 147:103 148:18 149:14 150:2 151:1 153:1 156:1 157:1 158:10 
+159:4 160:17 161:4 162:3 169:3 171:2 172:21 173:6 174:645 175:120 
+176:112 177:18 178:5 179:1 187:11 188:5 189:3 190:2 191:1 199:1 
+201:4 202:2 203:1 204:2 213:1 214:4 215:14 216:5 217:2 218:1 
+221:1 232:1 243:16 244:5 245:3 248:1 317:1 332:3 333:40 334:12 
+335:6 336:1 

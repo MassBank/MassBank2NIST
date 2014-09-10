@@ -1,0 +1,70 @@
+ACCESSION: JP009464
+RECORD_TITLE: 5,10-DIHYDROPHENAZINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: EGUCHI S, FAC. OF SCIENCE, HIROSHIMA UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5,10-DIHYDROPHENAZINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H10N2
+CH$EXACT_MASS: 182.0844
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 50
+PK$PEAK: m/z int. rel.int.
+  50 4.5 45
+  51 5 50
+  52 3.5 35
+  53 4.5 45
+  65 1.5 15
+  66 2.5 25
+  67 3.5 35
+  68 1.5 15
+  74 1.5 15
+  75 3 30
+  76 4 40
+  77 16 160
+  78 4 40
+  89 1.5 15
+  90 6 60
+  90.5 4.5 45
+  91 1.5 15
+  91.5 2.5 25
+  99 1 10
+  100 1 10
+  101 1.5 15
+  102 4.5 45
+  103 2 20
+  104 1.5 15
+  105 1.5 15
+  125 2 20
+  126 3 30
+  127 2.5 25
+  128 3.5 35
+  129 2 20
+  130 1.5 15
+  137 1 10
+  138 1 10
+  139 1 10
+  140 1 10
+  141 1 10
+  149 1 10
+  150 1 10
+  151 1 10
+  152 2 20
+  153 3 30
+  154 3.5 35
+  155 1 10
+  156 1 10
+  179 6 60
+  180 11 110
+  181 46 460
+  182 99.99 999
+  183 15 150
+  184 2.5 25
+//

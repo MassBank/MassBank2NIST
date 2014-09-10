@@ -1,0 +1,17 @@
+Name: Naproxen
+CAS: 22204-53-1
+MW: 230
+Formula: C14H14O3
+Synonym: C01517
+Synonym: Naproxen
+Comment: XX001527
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 3
+78.900 41 140.600 36 169.300 999 

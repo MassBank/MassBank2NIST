@@ -1,0 +1,28 @@
+ACCESSION: JP008199
+RECORD_TITLE: 1-PENTEN-3-OL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-PENTEN-3-OL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H10O
+CH$EXACT_MASS: 86.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  41 64.94 649
+  43 14.61 146
+  55 7.14 71
+  57 99.99 999
+  58 3.25 33
+  59 1.63 16
+  71 9.09 91
+  86 1.62 16
+//

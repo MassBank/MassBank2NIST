@@ -1,0 +1,21 @@
+Name:  3-METHOXY-1-BUTANOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2517-43-3" target="_blank">2517-43-3</a>
+MW: 104
+Formula: C5H12O2
+Comment: JP007372
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+14:16 15:46 27:51 28:17 29:105 31:176 33:82 39:34 41:64 42:47 
+43:66 45:42 55:43 56:15 57:47 58:29 59:999 60:37 71:39 72:22 
+86:22 89:65 

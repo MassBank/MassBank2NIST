@@ -1,0 +1,17 @@
+Name:  METHYL ISOPENTYL ETHER; EI-MS
+MW: 102
+Formula: C6H14O
+Comment: JP003907
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+27:140 31:69 39:67 41:18 43:999 44:48 73:148 102:66 

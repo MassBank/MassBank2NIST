@@ -1,0 +1,18 @@
+Name: 1-Methyladenine
+CAS: 5142-22-3
+MW: 149
+Formula: C6H7N5
+Synonym: C02216
+Synonym: 1-Methyladenine
+Comment: XX005759
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 19
+41.0038 637 41.9984 482 43.0195 379 44.0145 207 45.0000 224 45.9934 913 59.0161 706 59.9874 396 65.0167 310 66.0070 327 
+66.0107 586 82.0428 224 106.0312 741 107.0416 534 117.0282 207 132.0365 999 133.0354 224 133.0405 310 133.0508 189 

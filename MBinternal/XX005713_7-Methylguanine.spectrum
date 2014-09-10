@@ -1,0 +1,17 @@
+Name: 7-Methylguanine
+CAS: 578-76-7
+MW: 165
+Formula: C6H7N5O
+Synonym: C02242
+Synonym: 7-Methylguanine
+Comment: XX005713
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 2
+42.0001 999 106.0296 809 

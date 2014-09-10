@@ -1,0 +1,50 @@
+ACCESSION: JP007734
+RECORD_TITLE: 2-OCTYLFURAN; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-OCTYLFURAN
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H20O
+CH$EXACT_MASS: 180.15142
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4179-38-8" target="_blank">4179-38-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 29
+PK$PEAK: m/z int. rel.int.
+  29 3.28 33
+  39 1.02 10
+  41 6.33 63
+  43 9.82 98
+  53 6.15 62
+  54 1.86 19
+  55 4.26 43
+  57 9.05 91
+  67 6.64 66
+  68 5.91 59
+  69 2.9 29
+  79 1.74 17
+  80 4.38 44
+  81 99.99 999
+  82 56.85 569
+  83 5.46 55
+  84 1.06 11
+  94 3.76 38
+  95 37.31 373
+  96 9.7 97
+  109 3.49 35
+  110 1.03 10
+  123 12.69 127
+  124 4.93 49
+  136 2.74 27
+  137 6.28 63
+  151 2.16 22
+  180 16.62 166
+  181 1.04 10
+//

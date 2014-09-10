@@ -1,0 +1,38 @@
+ACCESSION: JP005090
+RECORD_TITLE: 4-(P-TOLYL)PYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-(P-TOLYL)PYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H11N
+CH$EXACT_MASS: 169.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MX-1303
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 50 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  39 4.5 45
+  51 4.7 47
+  63 4.8 48
+  65 0.38 4
+  70 3.8 38
+  83.5 4.4 44
+  89 3.5 35
+  91 1.27 13
+  115 10.2 102
+  139 5.2 52
+  140 3.9 39
+  141 1.02 10
+  154 5 50
+  166 5.4 54
+  167 21.6 216
+  168 5.96 60
+  169 99.99 999
+  170 13.5 135
+//

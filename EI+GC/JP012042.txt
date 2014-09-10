@@ -1,0 +1,57 @@
+ACCESSION: JP012042
+RECORD_TITLE: BUTYLDIMETHYLSILANE (D6); EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BUTYLDIMETHYLSILANE (D6)
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H16Si
+CH$EXACT_MASS: 116.10213
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 37
+PK$PEAK: m/z int. rel.int.
+  27 5.7 57
+  28 2 20
+  29 3.3 33
+  30 3.3 33
+  33 5.2 52
+  34 4.2 42
+  39 2.3 23
+  41 2 20
+  43 2.1 21
+  44 2 20
+  45 4.2 42
+  46 12.2 122
+  47 3.6 36
+  48 11.1 111
+  49 1.6 16
+  55 1.8 18
+  56 3.4 34
+  61 2.3 23
+  62 20.4 204
+  63 2.4 24
+  64 16.6 166
+  65 99.99 999
+  66 9.1 91
+  67 3.6 36
+  74 1.6 16
+  75 3.6 36
+  76 8.2 82
+  78 2.3 23
+  79 3.3 33
+  91 1 10
+  92 7.2 72
+  93 24.3 243
+  94 3 30
+  104 6.4 64
+  120 8.8 88
+  121 4.9 49
+  122 1.8 18
+//

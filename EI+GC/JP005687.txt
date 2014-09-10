@@ -1,0 +1,44 @@
+ACCESSION: JP005687
+RECORD_TITLE: 2-OCTANOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-OCTANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H18O
+CH$EXACT_MASS: 130.13577
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  27 1 10
+  29 2.52 25
+  41 6.03 60
+  42 3.41 34
+  43 9.7 97
+  44 7.1 71
+  45 99.99 999
+  46 2.33 23
+  55 18.98 190
+  56 6.58 66
+  57 6.3 63
+  69 5.56 56
+  70 6.54 65
+  71 2.71 27
+  82 1.1 11
+  83 4.37 44
+  84 7.94 79
+  85 1.04 10
+  97 9.54 95
+  112 5.83 58
+  113 1.48 15
+  115 4.87 49
+  129 0.56 6
+  130 0.04 0
+//

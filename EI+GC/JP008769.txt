@@ -1,0 +1,57 @@
+ACCESSION: JP008769
+RECORD_TITLE: UNDECANAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: UOEH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: UNDECANAL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H22O
+CH$EXACT_MASS: 170.16707
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-45-8" target="_blank">112-45-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HP 5970
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 36
+PK$PEAK: m/z int. rel.int.
+  39 31.9 319
+  40 7.92 79
+  41 99.99 999
+  42 24.48 245
+  43 94.19 942
+  44 38.09 381
+  45 16.86 169
+  46 3.89 39
+  51 3.12 31
+  53 10.52 105
+  54 15.1 151
+  55 56.83 568
+  56 34.81 348
+  57 70.05 701
+  58 4.95 50
+  66 6.83 68
+  67 30.37 304
+  68 38.93 389
+  69 27.08 271
+  70 22.86 229
+  71 32.25 323
+  72 7.85 79
+  81 23.36 234
+  82 45.21 452
+  83 16.91 169
+  84 13.83 138
+  85 13.68 137
+  95 17.96 180
+  96 21.64 216
+  97 16.45 165
+  98 7.94 79
+  109 7.02 70
+  110 6.94 69
+  123 4.73 47
+  124 5.98 60
+  126 9.34 93
+//

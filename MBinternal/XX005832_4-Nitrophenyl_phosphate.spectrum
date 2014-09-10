@@ -1,0 +1,17 @@
+Name: 4-Nitrophenyl_phosphate
+CAS: 330-13-2
+MW: 218
+Formula: C6H6NO6P
+Synonym: C03360
+Synonym: 4-Nitrophenyl phosphate
+Comment: XX005832
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 7
+45.9938 31 62.9671 9 78.9261 5 78.9340 6 78.9616 999 79.0051 15 79.0131 13 

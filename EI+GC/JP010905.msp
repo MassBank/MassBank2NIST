@@ -1,0 +1,19 @@
+Name:  DIPHENETHYL SUCCINATE; EI-MS
+MW: 326
+Formula: C20H22O4
+Comment: JP010905
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+27:18 39:15 51:18 55:15 56:19 65:28 77:65 78:26 79:59 91:82 
+101:10 103:49 104:999 105:388 106:24 

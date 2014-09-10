@@ -1,0 +1,19 @@
+Name:  2,3-DIMETHYL-2,3-BUTANEDIOL; EI-MS
+MW: 118
+Formula: C6H14O2
+Comment: JP009146
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+15:27 27:17 29:35 31:123 39:35 41:112 42:24 43:218 55:13 57:165 
+58:28 59:999 60:37 83:15 85:114 101:11 103:17 

@@ -1,0 +1,17 @@
+Name: 2-amino-3-hydroxybutanoic_acid
+MW: 119
+Formula: C4H9NO3
+Synonym: C00188
+Synonym: CID: 205
+Synonym: 2-amino-3-hydroxybutanoic acid, Threonine
+Comment: PB000405
+Contributor: Boettcher C, Institute of Plant Biochemistry, Halle, Germany
+InstType: TOF
+InstName: API QSTAR Pulsar i
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2008-01-02 14:48:36+02:00
+Num: 8
+46.030 9 56.051 872 57.034 82 58.067 5 74.061 999 84.045 92 102.056 138 120.067 26 

@@ -1,0 +1,32 @@
+Name:  a-MethylBenzylamine; GC-EI-TOF-MS; RT:395.658 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=618-36-0" target="_blank">618-36-0</a>
+MW: 121
+Formula: C8H11N
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C02455" target="_blank">C02455</a>
+Comment: OUF00496
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 395.658  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 70
+85:3 86:15 87:3 88:2 89:21 90:6 91:49 92:8 93:15 94:3 
+95:4 96:2 98:3 99:1 100:48 101:7 102:13 103:79 104:94 105:110 
+106:57 107:21 108:3 109:4 110:1 114:10 115:10 116:95 117:21 118:16 
+119:24 120:27 121:19 122:3 123:1 129:1 130:3 131:7 132:25 133:18 
+134:7 135:338 136:50 137:14 138:1 143:2 144:1 145:22 146:16 147:8 
+148:9 149:3 150:1 159:9 160:7 161:25 162:34 163:7 164:2 174:1 
+176:26 177:8 178:999 179:166 180:47 181:5 190:1 191:1 192:8 193:6 

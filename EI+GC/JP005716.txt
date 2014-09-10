@@ -1,0 +1,64 @@
+ACCESSION: JP005716
+RECORD_TITLE: 4-NITROBENZONITRILE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-NITROBENZONITRILE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H4N2O2
+CH$EXACT_MASS: 148.02728
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=619-72-7" target="_blank">619-72-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 43
+PK$PEAK: m/z int. rel.int.
+  18 3.73 37
+  26 1.14 11
+  27 3.5 35
+  28 2.6 26
+  30 51.72 517
+  37 4.71 47
+  38 4.32 43
+  39 4.96 50
+  46 4.06 41
+  49 3.23 32
+  50 21.28 213
+  51 23.89 239
+  52 5.58 56
+  61 2.49 25
+  62 3.79 38
+  63 7.19 72
+  64 5.83 58
+  65 0.71 7
+  73 2.48 25
+  74 8.64 86
+  75 38.79 388
+  76 21.83 218
+  77 1.58 16
+  86 0.57 6
+  87 0.81 8
+  88 0.82 8
+  89 1.06 11
+  90 29.13 291
+  91 2.31 23
+  99 2.99 30
+  100 2.06 21
+  101 1.58 16
+  102 99.99 999
+  103 8.53 85
+  104 0.47 5
+  105 0.89 9
+  118 9.89 99
+  119 0.92 9
+  132 2.38 24
+  148 69.1 691
+  149 6.48 65
+  150 0.99 10
+  151 0.34 3
+//

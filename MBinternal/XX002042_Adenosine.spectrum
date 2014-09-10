@@ -1,0 +1,19 @@
+Name: Adenosine
+CAS: 58-61-7
+MW: 267
+Formula: C10H13N5O4
+Synonym: C00212
+Synonym: Adenosine
+Comment: XX002042
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 27
+41.100 5 43.100 9 44.800 8 55.300 29 57.200 42 59.000 10 61.400 15 69.100 30 71.200 30 73.100 22 
+74.000 9 76.700 1 78.900 3 79.100 3 84.900 21 92.000 5 93.100 5 94.300 39 97.100 2 104.300 1 
+109.400 16 111.800 1 119.100 241 121.200 13 134.200 2 136.100 999 137.300 11 

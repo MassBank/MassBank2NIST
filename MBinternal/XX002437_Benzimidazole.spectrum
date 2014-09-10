@@ -1,0 +1,19 @@
+Name: Benzimidazole
+CAS: 51-17-2
+MW: 118
+Formula: C7H6N2
+Synonym: C02009
+Synonym: Benzimidazole
+Comment: XX002437
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 25
+39.100 55 41.300 2 51.200 23 53.900 2 63.000 25 65.100 999 66.000 23 67.100 2 70.700 1 74.200 2 
+74.900 11 76.000 3 77.100 39 77.600 1 78.900 1 82.900 1 89.300 1 89.800 6 91.000 24 91.900 203 
+93.100 1 102.100 7 116.800 1 118.000 13 119.100 59 

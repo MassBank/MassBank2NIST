@@ -1,0 +1,21 @@
+Name:  N-ISOPROPYLACETAMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1118-69-0" target="_blank">1118-69-0</a>
+MW: 101
+Formula: C5H11NO
+Synonym: ACETYLAMINOISOPROPANE
+Comment: JP007641
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+30:20 42:21 43:42 44:999 45:23 57:24 58:72 60:52 72:23 73:12 
+86:418 87:18 101:456 102:54 

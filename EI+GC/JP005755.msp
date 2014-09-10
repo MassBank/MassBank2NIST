@@ -1,0 +1,22 @@
+Name:  TRIDECANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=629-50-5" target="_blank">629-50-5</a>
+MW: 184
+Formula: C13H28
+Comment: JP005755
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 36
+39:48 40:15 41:406 42:93 43:999 44:37 53:21 54:23 55:191 56:103 
+57:969 58:42 67:15 68:13 69:81 70:122 71:584 72:34 82:10 83:31 
+84:71 85:333 97:15 98:49 99:65 111:3 112:32 113:48 126:19 127:36 
+140:9 141:22 154:6 155:11 184:47 185:7 

@@ -1,0 +1,19 @@
+Name:  METHYL ISOPROPYL ETHER; EI-MS
+MW: 74
+Formula: C4H10O
+Comment: JP003925
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+23:25 24:39 25:247 26:4 27:184 28:40 29:331 30:3 31:181 32:26 
+37:20 38:2 39:119 40:31 41:170 42:10 43:287 44:21 45:35 59:999 
+60:42 73:44 74:65 

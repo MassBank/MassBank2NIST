@@ -1,0 +1,14 @@
+Name: Dopamine
+MW: 153
+Synonym: Dopamine
+Comment: SC000194
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 6
+65.0396 5 91.0545 89 109.065 7 119.049 75 137.06 999 154.086 790 

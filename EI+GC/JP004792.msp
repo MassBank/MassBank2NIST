@@ -1,0 +1,21 @@
+Name:  PROPIOPHENONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=93-55-0" target="_blank">93-55-0</a>
+MW: 134
+Formula: C9H10O
+Synonym: 1-PHENYL-1-PROPANONE
+Comment: JP004792
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+50:39 51:139 52:11 74:11 76:17 77:454 78:37 105:999 106:80 134:111 
+135:11 

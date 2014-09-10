@@ -1,0 +1,47 @@
+ACCESSION: JP000956
+RECORD_TITLE: 1,1,2,2,-TETRACHLOROETHANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,1,2,2,-TETRACHLOROETHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H2Cl4
+CH$EXACT_MASS: 165.89106
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-34-5" target="_blank">79-34-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 26
+PK$PEAK: m/z int. rel.int.
+  35 8.4 84
+  36 2.6 26
+  37 2.8 28
+  45 0.2 2
+  47 5.4 54
+  48 4.1 41
+  49 2.5 25
+  60 1.41 14
+  61 11.9 119
+  62 4.6 46
+  63 3.8 38
+  83 99.99 999
+  85 66.3 663
+  87 9.8 98
+  95 15.6 156
+  96 1.11 11
+  97 10.8 108
+  98 6 60
+  130 2.6 26
+  131 0.87 9
+  132 2.9 29
+  133 8.4 84
+  135 2.6 26
+  166 0.77 8
+  168 9.9 99
+  170 4.1 41
+//

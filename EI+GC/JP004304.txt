@@ -1,0 +1,73 @@
+ACCESSION: JP004304
+RECORD_TITLE: 1,2,3-TRIMETHYLINDOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2,3-TRIMETHYLINDOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H13N
+CH$EXACT_MASS: 159.1048
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1971-46-6" target="_blank">1971-46-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MX-1303
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 50 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 52
+PK$PEAK: m/z int. rel.int.
+  26 1.2 12
+  27 3.5 35
+  39 5.1 51
+  41 0.27 3
+  42 2.2 22
+  43 1.1 11
+  50 1.7 17
+  51 0.57 6
+  52 1.7 17
+  53 1.5 15
+  55 1.4 14
+  63 0.35 4
+  64 1.5 15
+  65 3.2 32
+  71.5 2 20
+  72 0.23 2
+  75 3.2 32
+  76 4.2 42
+  77 11.8 118
+  78 0.23 2
+  78.5 6.1 61
+  79 2.4 24
+  79.5 7.3 73
+  80 0.12 1
+  89 4 40
+  90 1.7 17
+  91 5.7 57
+  101 0.26 3
+  102 6.9 69
+  103 4.4 44
+  104 1.2 12
+  115 1.75 18
+  116 7.1 71
+  117 6.1 61
+  118 1.6 16
+  127 0.28 3
+  128 9 90
+  129 5.3 53
+  130 4.1 41
+  131 0.15 2
+  140 1.6 16
+  141 1.4 14
+  142 7.6 76
+  143 2.05 21
+  144 56.8 568
+  145 7.3 73
+  154 1.5 15
+  156 0.56 6
+  157 7.1 71
+  158 99.99 999
+  159 87.5 875
+  160 10.8 108
+//

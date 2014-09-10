@@ -1,0 +1,19 @@
+Name:  1-BUTYLAMINE; EI-MS
+MW: 73
+Formula: C4H11N
+Comment: JP000230
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+15:13 18:33 27:54 28:7 29:21 30:999 31:19 39:3 41:30 42:22 
+43:12 44:2 56:10 73:78 

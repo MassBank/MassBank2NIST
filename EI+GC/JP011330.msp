@@ -1,0 +1,20 @@
+Name:  2,5-DICHLOROPHENYLTHIOGLYCOLIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=6274-27-7" target="_blank">6274-27-7</a>
+MW: 235
+Formula: C8H6Cl2O2S
+Comment: JP011330
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+144:14 191:40 193:28 201:60 203:22 236:999 237:98 238:704 239:68 240:132 
+241:13 

@@ -1,0 +1,14 @@
+Name: Xanthurenic_acid
+MW: 205
+Synonym: Xanthurenic acid
+Comment: SC003415
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+58.0672 36 77.0391 225 104.05 113 105.034 36 132.044 499 160.039 857 188.033 222 206.044 999 

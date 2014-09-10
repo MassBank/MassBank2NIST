@@ -1,0 +1,60 @@
+ACCESSION: JP003860
+RECORD_TITLE: PHENYLTOLOXAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PHENYLTOLOXAMINE
+CH$NAME: N,N-DIMETHYL-2-(2-(BENZYL)PHENOXY)ETHYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C17H21NO
+CH$EXACT_MASS: 255.16231
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 39
+PK$PEAK: m/z int. rel.int.
+  39 0.9 9
+  40 6.9 69
+  41 0.9 9
+  42 0.39 4
+  43 1.9 19
+  44 2.9 29
+  45 0.9 9
+  46 0.29 3
+  50 0.4 4
+  51 0.9 9
+  54 0.4 4
+  55 0.09 1
+  56 2.9 29
+  57 1.9 19
+  58 99.99 999
+  59 0.39 4
+  70 1.4 14
+  71 3.9 39
+  72 4.9 49
+  73 0.04 0
+  76 0.4 4
+  77 1.9 19
+  78 1.9 19
+  79 0.04 0
+  90 0.4 4
+  91 3.4 34
+  92 0.4 4
+  164 0.04 0
+  165 1.9 19
+  166 0.9 9
+  167 0.4 4
+  181 0.09 1
+  182 0.4 4
+  183 0.9 9
+  184 1.9 19
+  210 0.34 3
+  211 0.4 4
+  255 9.9 99
+  256 1.9 19
+//

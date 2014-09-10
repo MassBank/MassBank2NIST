@@ -1,0 +1,31 @@
+ACCESSION: JP004281
+RECORD_TITLE: 2-METHOXYETHANOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-METHOXYETHANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H8O2
+CH$EXACT_MASS: 76.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-86-4" target="_blank">109-86-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 10
+PK$PEAK: m/z int. rel.int.
+  15 8.94 89
+  27 3.04 30
+  29 19.39 194
+  31 16.06 161
+  43 6.56 66
+  45 99.99 999
+  46 2.85 29
+  47 7.13 71
+  58 1.24 12
+  76 1.33 13
+//

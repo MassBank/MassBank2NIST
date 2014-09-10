@@ -1,0 +1,61 @@
+ACCESSION: JP006276
+RECORD_TITLE: HYDROCINNAMIC ACID; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: HYDROCINNAMIC ACID
+CH$NAME: 3-PHENYLPROPIONIC ACID
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H10O2
+CH$EXACT_MASS: 150.06808
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=501-52-0" target="_blank">501-52-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 39
+PK$PEAK: m/z int. rel.int.
+  38 1.25 13
+  39 7.37 74
+  40 0.54 5
+  41 1.17 12
+  42 1.32 13
+  45 7.64 76
+  50 4.93 49
+  51 11.73 117
+  52 2.85 29
+  53 1.39 14
+  62 1.6 16
+  63 5.36 54
+  64 1.05 11
+  65 9.98 100
+  66 0.84 8
+  73 0.51 5
+  74 2.18 22
+  75 1.69 17
+  76 1.73 17
+  77 16.7 167
+  78 15.84 158
+  79 9.25 93
+  80 0.61 6
+  89 2.62 26
+  90 0.97 10
+  91 99.99 999
+  92 7.97 80
+  102 1.85 19
+  103 10.81 108
+  104 63.47 635
+  105 21.18 212
+  106 1.6 16
+  107 1.26 13
+  131 1.87 19
+  132 0.9 9
+  133 1.04 10
+  150 48.41 484
+  151 4.87 49
+  152 0.4 4
+//

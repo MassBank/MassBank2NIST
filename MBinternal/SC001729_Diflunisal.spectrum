@@ -1,0 +1,14 @@
+Name: Diflunisal
+MW: 250
+Synonym: Diflunisal
+Comment: SC001729
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+54.5471 34 100.899 34 112.981 28 138.14 27 177.287 35 205.053 76 222.253 28 249.041 999 

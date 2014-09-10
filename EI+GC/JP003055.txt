@@ -1,0 +1,76 @@
+ACCESSION: JP003055
+RECORD_TITLE: 2,3-DICHLORO-1,1,1,4,4,4-HEXAFLUORO-2-BUTENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,3-DICHLORO-1,1,1,4,4,4-HEXAFLUORO-2-BUTENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4Cl2F6
+CH$EXACT_MASS: 231.92812
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 57
+PK$PEAK: m/z int. rel.int.
+  31 10.4 104
+  35 1.4 14
+  37 0.4 4
+  47 0.2 2
+  49 0.7 7
+  50 2 20
+  55 5.1 51
+  59 0.01 0
+  62 1.2 12
+  66 1.4 14
+  68 0.4 4
+  69 99.99 999
+  70 1.4 14
+  74 9.6 96
+  78 1.4 14
+  80 0.04 0
+  85 10.2 102
+  87 3.7 37
+  90 2 20
+  93 3.11 31
+  94 3.4 34
+  96 1.2 12
+  97 0.8 8
+  98 0.07 1
+  109 19.2 192
+  110 1.1 11
+  111 6.3 63
+  112 0.51 5
+  124 2.4 24
+  128 1.5 15
+  130 0.8 8
+  132 0.05 1
+  143 2.8 28
+  147 34 340
+  148 1.5 15
+  149 1.13 11
+  150 0.5 5
+  163 96.7 967
+  164 3.9 39
+  165 0.61 6
+  166 2.7 27
+  167 9.6 96
+  168 0.6 6
+  182 0.36 4
+  184 2.4 24
+  186 0.6 6
+  197 25.5 255
+  199 0.85 9
+  213 16.4 164
+  215 10.7 107
+  217 1.7 17
+  232 7.12 71
+  233 3.4 34
+  234 45.8 458
+  235 1.8 18
+  236 0.73 7
+  237 0.3 3
+//

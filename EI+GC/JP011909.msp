@@ -1,0 +1,21 @@
+Name:  GLYCOLIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-14-1" target="_blank">79-14-1</a>
+MW: 76
+Formula: C2H4O3
+Synonym: HYDROXYACETIC ACID
+Comment: JP011909
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+14:13 19:34 28:31 29:271 30:53 31:999 32:320 42:25 44:17 45:125 
+46:13 47:17 49:141 77:100 

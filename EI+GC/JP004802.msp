@@ -1,0 +1,21 @@
+Name:  OCTAMETHYLTRISILANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=3704-44-7" target="_blank">3704-44-7</a>
+MW: 204
+Formula: C8H24Si3
+Comment: JP004802
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+43:30 45:85 59:51 73:834 74:73 75:36 85:15 99:25 101:72 113:13 
+115:119 116:466 117:85 118:38 129:55 130:20 131:999 132:168 133:84 145:54 
+173:20 187:23 189:284 190:67 191:38 204:357 205:89 206:47 

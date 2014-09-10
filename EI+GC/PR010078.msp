@@ -1,0 +1,38 @@
+Name:  beta-Alanine; GC-EI-TOF-MS; 3 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=107-95-9" target="_blank">107-95-9</a>
+MW: 89
+Formula: C3H7NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00099" target="_blank">C00099</a>
+Synonym: 3-Aminopropanoate, 3-Aminopropionic acid
+Comment: PR010078
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 350.859 sec
+Comment: RETENTION_INDEX 1422
+Comment: FILE std2_GCTMS_PR051207MSinfo.txt
+Comment: DERIVATIVE_TYPE 3 TMS
+Comment: DERIVATIVE_FORM C12H31NO2Si3
+Comment: DERIVATIVE_MASS 305.16626
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 112
+60:22 61:18 62:1 63:1 66:13 67:1 69:1 70:17 71:12 72:34 
+73:999 74:91 75:86 76:7 77:13 78:1 79:3 83:2 84:7 85:13 
+86:310 87:34 88:14 89:2 95:5 96:1 97:1 98:2 99:33 100:210 
+101:39 102:30 103:12 104:2 105:3 112:1 113:10 114:11 115:12 116:16 
+117:33 118:5 119:10 120:1 126:1 128:1 129:9 130:87 131:50 132:17 
+133:139 134:21 135:10 136:1 138:1 140:1 142:12 143:2 144:4 145:2 
+146:32 147:322 148:50 149:26 150:3 157:1 158:5 159:1 160:26 161:5 
+162:2 163:2 171:1 172:12 173:9 174:490 175:91 176:48 177:5 178:1 
+187:1 188:8 189:3 190:4 191:1 200:1 202:4 203:1 204:5 205:2 
+206:1 216:3 217:1 218:2 219:1 232:21 233:4 234:2 248:323 249:93 
+250:47 251:9 252:2 288:5 289:2 290:88 291:25 292:12 293:2 304:8 
+305:2 306:1 

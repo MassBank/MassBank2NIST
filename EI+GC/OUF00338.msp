@@ -1,0 +1,31 @@
+Name:  Malonic acid; GC-EI-TOF-MS; RT:383.143 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=141-82-2" target="_blank">141-82-2</a>
+MW: 104
+Formula: C3H4O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00383" target="_blank">C00383</a> <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C02028" target="_blank">C02028</a> <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C04025" target="_blank">C04025</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01794" target="_blank">D01794</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01860" target="_blank">D01860</a>
+Comment: OUF00338
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 383.143  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 54
+85:3 86:2 87:18 88:9 89:6 90:1 91:1 92:1 93:3 95:1 
+98:1 99:47 100:5 101:22 102:6 103:13 104:2 105:8 109:15 110:1 
+113:2 115:15 116:10 117:19 118:3 119:5 130:1 131:36 132:7 133:48 
+134:7 135:4 143:26 144:3 145:2 146:2 147:999 148:161 149:90 150:10 
+151:2 159:1 162:1 173:4 189:5 190:1 204:1 217:6 218:1 233:48 
+234:10 235:4 248:7 249:1 

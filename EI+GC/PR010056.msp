@@ -1,0 +1,33 @@
+Name:  L-Alanine; GC-EI-TOF-MS; 3 TMS; BP:116
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-41-7" target="_blank">56-41-7</a>
+MW: 89
+Formula: C3H7NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00041" target="_blank">C00041</a>
+Synonym: L-2-Aminopropionic acid, L-alpha-Alanine
+Comment: PR010056
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 244.996 sec
+Comment: RETENTION_INDEX 1096.1
+Comment: FILE std2_GCTMS_PR051207MSinfo.txt
+Comment: DERIVATIVE_TYPE 3 TMS
+Comment: DERIVATIVE_FORM C12H31NO2Si3
+Comment: DERIVATIVE_MASS 305.16626
+Comment: BASE_PEAK 116
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 63
+60:18 61:26 62:2 63:1 66:23 67:3 69:1 70:12 71:5 72:20 
+73:813 74:81 75:71 76:7 77:11 78:1 79:3 83:1 84:4 85:2 
+86:18 87:6 88:6 89:2 93:1 94:17 95:2 98:1 99:1 100:47 
+101:12 102:12 103:36 104:3 105:3 113:1 114:9 115:10 116:999 117:127 
+118:45 119:5 128:13 129:2 130:3 131:12 132:5 133:19 134:3 135:1 
+144:2 146:2 147:177 148:29 149:16 150:1 174:1 190:36 191:8 192:3 
+218:12 219:2 220:1 

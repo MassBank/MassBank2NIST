@@ -1,0 +1,22 @@
+Name:  DODECANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-40-3" target="_blank">112-40-3</a>
+MW: 170
+Formula: C12H26
+Comment: JP007686
+Comment: N/A
+Comment: SHIMADZU QP-1000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KYOTO INSTITUTE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 32
+40:87 41:480 42:137 43:999 44:54 53:17 54:14 55:13 56:137 57:822 
+58:34 67:1 68:6 69:43 70:80 71:36 72:20 82:5 83:17 84:5 
+85:166 86:17 97:7 98:3 99:26 112:14 113:15 126:1 127:10 141:5 
+170:11 171:1 

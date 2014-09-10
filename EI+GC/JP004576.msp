@@ -1,0 +1,22 @@
+Name:  TETRAHYDRO-2-PYRONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=542-28-9" target="_blank">542-28-9</a>
+MW: 100
+Formula: C5H8O2
+Synonym: TETRAHYDROPYRAN-2-ONE
+Comment: JP004576
+Comment: N/A
+Comment: SHIMADZU LKB-9000B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: HAYASHI A, DEPT. OF CHEMISTRY, FAC. OF SCI. AND TECHNOLOGY, KINKI UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 30
+37:21 38:35 39:220 41:83 42:999 43:88 44:123 45:6 47:6 48:10 
+50:17 51:2 53:17 54:13 55:189 56:70 57:34 68:8 70:151 71:3 
+73:9 75:8 76:9 81:1 83:31 85:19 86:6 99:1 100:241 101:14 

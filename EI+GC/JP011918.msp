@@ -1,0 +1,20 @@
+Name:  GLYCINE ETHYL ESTER HYDROCHLORIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=623-33-6" target="_blank">623-33-6</a>
+MW: 139
+Formula: C4H10ClNO2
+Comment: JP011918
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+14:17 25:18 27:69 28:19 29:44 30:999 31:29 35:37 36:199 37:14 
+38:78 40:12 42:25 43:15 45:23 46:14 60:29 74:19 104:65 

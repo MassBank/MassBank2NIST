@@ -1,0 +1,19 @@
+Name:  BUTANE (2-D1); EI-MS
+MW: 58
+Formula: C4H10
+Comment: JP009303
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+27:101 28:258 29:365 30:23 39:10 41:206 42:273 43:95 44:999 45:34 
+56:15 57:6 58:50 59:277 60:12 

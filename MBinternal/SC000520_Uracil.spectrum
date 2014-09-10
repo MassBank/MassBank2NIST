@@ -1,0 +1,14 @@
+Name: Uracil
+MW: 112
+Synonym: Uracil
+Comment: SC000520
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+40.019 48 42.034 28 43.0183 37 68.0146 25 70.0294 221 95.0235 25 96.0085 160 113.035 999 

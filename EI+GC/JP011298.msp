@@ -1,0 +1,22 @@
+Name:  META-TOLUOYL CHLORIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1711-06-4" target="_blank">1711-06-4</a>
+MW: 154
+Formula: C8H7ClO
+Synonym: 3-METHYLBENZOYL CHLORIDE
+Comment: JP011298
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 29
+27:14 37:14 38:30 39:102 41:16 46:11 50:68 51:58 52:16 61:26 
+62:62 63:139 64:34 65:190 66:11 74:25 75:19 76:14 85:10 86:16 
+87:13 89:107 90:53 91:642 92:53 119:999 120:89 154:72 156:22 

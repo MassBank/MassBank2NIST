@@ -1,0 +1,74 @@
+ACCESSION: JP007696
+RECORD_TITLE: TETRADECYL BROMIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KYOTO INSTITUTE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TETRADECYL BROMIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C14H29Br
+CH$EXACT_MASS: 276.14526
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-71-0" target="_blank">112-71-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: SHIMADZU QP-1000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 53
+PK$PEAK: m/z int. rel.int.
+  40 2.9 29
+  41 75.5 755
+  42 17.3 173
+  43 99.99 999
+  44 3.9 39
+  53 3.6 36
+  54 3.4 34
+  55 4.95 50
+  56 14.9 149
+  57 76.9 769
+  58 3.4 34
+  67 0.31 3
+  68 2 20
+  69 26.2 262
+  70 7.1 71
+  71 3.05 31
+  72 1.7 17
+  81 1.1 11
+  82 1.5 15
+  83 1.02 10
+  84 2.8 28
+  85 15.1 151
+  86 1 10
+  97 0.51 5
+  98 1.2 12
+  99 2.7 27
+  107 1 10
+  109 0.1 1
+  111 1.2 12
+  112 0.5 5
+  113 1.2 12
+  121 0.05 1
+  123 0.5 5
+  125 0.3 3
+  127 0.9 9
+  134 0.19 2
+  135 24.6 246
+  136 2 20
+  137 24 240
+  138 0.11 1
+  141 0.5 5
+  148 0.4 4
+  149 4 40
+  150 0.06 1
+  151 4.1 41
+  152 0.2 2
+  155 0.2 2
+  163 0.05 1
+  164 0.2 2
+  165 0.4 4
+  177 0.1 1
+  179 0.01 0
+  191 0.1 1
+//

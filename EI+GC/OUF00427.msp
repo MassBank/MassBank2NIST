@@ -1,0 +1,35 @@
+Name:  Prephenate; GC-EI-TOF-MS; RT:597.718 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=126-49-8" target="_blank">126-49-8</a>
+MW: 226
+Formula: C10H10O6
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00254" target="_blank">C00254</a>
+Comment: OUF00427
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 597.718  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 92
+85:24 86:21 87:40 88:26 89:819 90:357 91:924 92:81 93:12 94:1 
+95:4 96:2 98:7 99:5 100:11 101:4 102:18 103:29 104:17 105:55 
+106:7 107:6 108:4 109:1 110:8 114:12 115:26 116:999 117:340 118:44 
+119:11 120:3 121:30 122:19 123:2 125:10 126:1 127:1 128:4 129:4 
+130:16 131:14 132:14 133:17 134:3 135:15 136:2 137:6 142:10 143:18 
+144:28 145:9 146:24 147:73 148:35 149:8 150:2 151:22 152:3 158:2 
+159:1 160:9 161:2 162:4 163:2 164:1 173:1 174:33 175:36 176:14 
+177:3 179:4 188:2 189:230 190:51 191:60 192:12 193:4 204:1 218:2 
+219:1 220:1 234:1 235:2 250:200 251:39 252:12 253:1 264:1 265:114 
+266:26 267:8 

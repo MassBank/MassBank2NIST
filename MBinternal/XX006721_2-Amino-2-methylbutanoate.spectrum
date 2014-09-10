@@ -1,0 +1,17 @@
+Name: 2-Amino-2-methylbutanoate
+MW: 117
+Formula: C5H11NO2
+Synonym: C03571
+Synonym: 2-Amino-2-methylbutanoate
+Comment: XX006721
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 19
+39.0269 69 41.0403 26 42.0356 73 43.0196 24 43.0225 26 44.0533 29 45.0335 170 53.0400 35 55.0291 46 55.0555 822 
+55.0753 26 56.0474 29 57.0414 22 57.0582 192 59.0487 24 59.0522 26 72.0522 44 72.0598 37 72.0824 999 

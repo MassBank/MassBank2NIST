@@ -1,0 +1,17 @@
+Name: Succinylcholine
+MW: 290
+Formula: C14H30N2O4
+Synonym: C07925
+Synonym: Transferred to D00766, Succinylcholine
+Comment: XX004065
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+43.300 15 45.300 6 55.000 129 55.500 18 58.200 215 58.900 43 60.000 25 65.400 18 71.100 196 72.100 113 
+72.800 55 86.200 999 86.800 9 99.100 61 

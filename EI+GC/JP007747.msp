@@ -1,0 +1,22 @@
+Name:  ALLYL 2-FUROATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4208-49-5" target="_blank">4208-49-5</a>
+MW: 152
+Formula: C8H8O3
+Synonym: 2-FURANCARBOXYLIC ACID 2-PROPENYL ESTER
+Comment: JP007747
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+27:10 40:47 41:442 42:30 57:211 59:27 66:39 67:74 68:302 69:18 
+78:30 79:254 80:111 95:999 96:254 97:38 107:76 108:212 112:64 113:32 
+123:159 124:42 152:318 153:41 

@@ -1,0 +1,20 @@
+Name:  2-METHYLPENTANE; EI-MS
+MW: 86
+Formula: C6H14
+Synonym: ISOHEXANE
+Comment: JP008569
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+15:12 27:167 28:14 29:118 38:11 39:160 40:26 41:340 42:534 43:999 
+44:34 53:16 55:76 56:61 57:144 70:110 71:442 72:25 85:11 86:58 

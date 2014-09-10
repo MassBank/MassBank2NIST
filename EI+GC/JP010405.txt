@@ -1,0 +1,43 @@
+ACCESSION: JP010405
+RECORD_TITLE: SUCCINIMIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: SUCCINIMIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H5NO2
+CH$EXACT_MASS: 99.03203
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  41 4 40
+  42 2.3 23
+  43 8.8 88
+  44 0.25 3
+  45 1.7 17
+  54 1.1 11
+  55 7.1 71
+  56 99.99 999
+  57 8 80
+  58 3.5 35
+  60 2.7 27
+  69 0.26 3
+  70 2.3 23
+  71 3.1 31
+  73 1.2 12
+  81 0.1 1
+  83 1.5 15
+  84 1.1 11
+  85 2.3 23
+  97 0.13 1
+  98 1 10
+  99 71.3 713
+  100 3.7 37
+//

@@ -1,0 +1,26 @@
+Name: Allodeoxycholic Acid Methyl ester
+MW: 406
+Formula: C25H42O4
+Synonym: CID: <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=11876104" target="_blank">11876104</a>
+Synonym: Allodeoxycholic Acid Methyl ester, beta-Lagodeoxycholic Acid Methyl ester
+Comment: NU000012
+Comment: Natural Product; BILE ACID
+Comment: Hitachi type M-80 B double focusing mass spectrometer
+Comment: EI-MS
+Comment: IONIZATION_POTENTIAL 20 eV
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: SOURCE_TEMPERATURE 180 C
+Comment: COMMENT Sample was directly injected and heated to 120 C
+Comment: ION_TYPE [M]+*
+Contributor: Takashi Iida, Department of Chemistry, College of Humanities and Sciences, Nihon University
+InstType: EI
+IoniMethod: _POTENTIAL 20 eV
+IonPolarity: pos
+Date: 2008-09-03 14:48:36+02:00
+Num: 50
+201:33 202:10 203:20 205:12 208:62 209:18 213:49 214:17 215:38 216:17 
+217:13 219:28 220:10 227:9 229:22 230:9 231:23 232:26 233:30 234:19 
+246:26 247:12 248:9 249:38 250:17 255:240 256:52 260:10 262:12 263:12 
+271:20 272:63 273:999 274:224 275:31 283:10 291:10 297:12 301:12 302:10 
+355:12 356:15 357:44 358:12 359:10 370:22 373:24 374:11 388:92 389:30 

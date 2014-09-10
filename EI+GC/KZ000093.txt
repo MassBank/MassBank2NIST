@@ -1,0 +1,78 @@
+ACCESSION: KZ000093
+RECORD_TITLE: 1,10-Phenanthroline; GC-EI-TOF-MS; 0 TMS; BP:180
+DATE: 2010.11.17 (original 2009.03.11)
+AUTHORS: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+COPYRIGHT: Copyright(C) 2008-2010 Kazusa DNA Research Institute
+COMMENT: MassBase peak ID: MDGC1_04976_P000062
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,10-Phenanthroline
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C12H8N2
+CH$EXACT_MASS: 180.0687483
+CH$SMILES: c(c3)cc(c1)c(n3)c(n2)c(ccc2)c1
+CH$IUPAC: 1/C12H8N2/c1-3-9-5-6-10-4-2-8-14-12(10)11(9)13-7-1/h1-8H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=66-71-7" target="_blank">66-71-7</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00604" target="_blank">C00604</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE GC-TOF/MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 1171.31 sec
+AC$ANALYTICAL_CONDITION: RETENTION_INDEX 0.0000
+AC$ANALYTICAL_CONDITION: COLUMN_NAME DB-17MS
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: DERIVATIVE_TYPE 0 TMS
+MS$FOCUSED_ION: BASE_PEAK 180
+MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (Leco)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 51
+PK$PEAK: m/z int. rel.int.
+ 84 2 2
+ 85 13 13
+ 86 28 28
+ 87 48 48
+ 88 25 25
+ 89 22 22
+ 90 125 125
+ 91 2 2
+ 97 8 8
+ 98 51 51
+ 99 89 89
+ 100 96 96
+ 101 60 60
+ 102 40 40
+ 103 15 15
+ 104 3 3
+ 109 1 1
+ 110 4 4
+ 111 6 6
+ 112 5 5
+ 113 8 8
+ 114 9 9
+ 115 2 2
+ 121 1 1
+ 122 5 5
+ 123 11 11
+ 124 20 20
+ 125 123 123
+ 126 108 108
+ 127 131 131
+ 128 32 32
+ 129 71 71
+ 130 7 7
+ 138 1 1
+ 139 1 1
+ 140 3 3
+ 141 1 1
+ 150 5 5
+ 151 36 36
+ 152 122 122
+ 153 207 207
+ 154 223 223
+ 155 26 26
+ 156 1 1
+ 177 9 9
+ 178 17 17
+ 179 476 476
+ 180 999 999
+ 181 148 148
+ 182 12 12
+ 183 1 1
+//

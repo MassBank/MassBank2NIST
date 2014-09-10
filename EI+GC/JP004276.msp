@@ -1,0 +1,22 @@
+Name:  3-TOLYL ISOCYANATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=621-29-4" target="_blank">621-29-4</a>
+MW: 133
+Formula: C8H7NO
+Comment: JP004276
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 34
+26:17 27:57 28:43 37:32 38:57 39:147 41:32 44:100 50:76 51:120 
+52:91 53:30 62:32 63:77 64:43 65:69 75:31 76:51 77:179 78:249 
+79:77 80:17 89:35 90:34 91:195 92:15 103:31 104:606 105:226 106:155 
+107:134 132:367 133:999 134:82 

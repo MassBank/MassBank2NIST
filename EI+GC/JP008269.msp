@@ -1,0 +1,21 @@
+Name:  DIMETHOXYMETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-87-5" target="_blank">109-87-5</a>
+MW: 76
+Formula: C3H8O2
+Synonym: FORMALDEHYDE DIMETHYL ACETAL
+Comment: JP008269
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+14:34 15:338 29:287 30:12 31:83 44:24 45:999 46:16 47:33 75:408 
+76:11 

@@ -1,0 +1,41 @@
+ACCESSION: JP007210
+RECORD_TITLE: 3-HEXENYL METHYL ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-HEXENYL METHYL ETHER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H14O
+CH$EXACT_MASS: 114.10447
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  15 1.43 14
+  27 8.59 86
+  29 5.29 53
+  39 8.89 89
+  41 33.64 336
+  42 2.37 24
+  43 3.66 37
+  45 3.1 31
+  53 3.18 32
+  55 4.5 45
+  56 2.26 23
+  57 1.06 11
+  58 4.99 50
+  67 2.92 29
+  69 1.65 17
+  71 99.99 999
+  72 4.86 49
+  82 2.62 26
+  85 4.21 42
+  114 20.5 205
+  115 1.42 14
+//

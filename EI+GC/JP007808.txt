@@ -1,0 +1,44 @@
+ACCESSION: JP007808
+RECORD_TITLE: 2-ETHYLQUINOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-ETHYLQUINOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H11N
+CH$EXACT_MASS: 157.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1613-34-9" target="_blank">1613-34-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  27 1.04 10
+  29 1.86 19
+  39 3.21 32
+  50 1.16 12
+  51 1.51 15
+  63 8.48 85
+  65 1 10
+  75 11.87 119
+  76 7.47 75
+  77 13.57 136
+  89 1.01 10
+  101 8.48 85
+  102 11.87 119
+  103 1.02 10
+  115 6.79 68
+  116 5.09 51
+  128 20.35 204
+  129 30.52 305
+  140 2.04 20
+  142 1.7 17
+  156 99.99 999
+  157 63.73 637
+  158 4.96 50
+//

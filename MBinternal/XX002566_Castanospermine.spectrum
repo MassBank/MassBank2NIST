@@ -1,0 +1,18 @@
+Name: Castanospermine
+CAS: 79831-76-8
+MW: 189
+Formula: C8H15NO4
+Synonym: C02256
+Synonym: Castanospermine
+Comment: XX002566
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 18
+40.800 115 42.300 269 43.900 461 54.800 192 57.000 346 57.900 269 67.100 884 68.100 461 70.200 461 75.500 346 
+78.600 538 80.000 576 81.200 231 83.900 999 86.000 384 86.500 115 99.700 192 112.200 500 

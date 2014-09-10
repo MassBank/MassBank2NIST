@@ -1,0 +1,33 @@
+ACCESSION: JP009978
+RECORD_TITLE: 1-METHOXY-2-PROPANONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-METHOXY-2-PROPANONE
+CH$NAME: PROPANE-2-ONE-1-METHOXY
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H8O2
+CH$EXACT_MASS: 88.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  27 4.6 46
+  28 15.4 154
+  29 21.4 214
+  31 0.25 3
+  32 3.3 33
+  42 6.5 65
+  43 92 920
+  44 0.31 3
+  45 99.99 999
+  46 2.9 29
+  58 41.8 418
+  88 2.6 26
+//

@@ -1,0 +1,40 @@
+Name:  L-(+)-Tartarate; GC-EI-TOF-MS; RT:611.094 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=87-69-4" target="_blank">87-69-4</a>
+MW: 150
+Formula: C4H6O6
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00103" target="_blank">D00103</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00679" target="_blank">D00679</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00837" target="_blank">D00837</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01561" target="_blank">D01561</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01850" target="_blank">D01850</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01852" target="_blank">D01852</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02238" target="_blank">D02238</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02836" target="_blank">D02836</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02981" target="_blank">D02981</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D03825" target="_blank">D03825</a>
+Comment: OUF00293
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 611.094  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 144
+85:12 86:4 87:16 88:5 89:8 90:1 91:1 92:2 93:6 95:3 
+96:2 97:1 98:1 99:20 100:4 101:25 102:142 103:73 104:13 105:13 
+106:1 107:1 113:5 114:1 115:27 116:11 117:47 118:7 119:20 120:3 
+121:2 125:1 127:4 129:6 130:88 131:99 132:20 133:170 134:25 135:16 
+136:2 141:1 142:4 143:136 144:18 145:12 146:3 147:999 148:162 149:109 
+150:13 151:5 157:7 158:1 159:5 160:1 161:6 162:1 163:17 164:3 
+165:2 171:52 172:6 173:10 174:1 175:67 176:11 177:14 178:2 179:1 
+185:2 187:1 188:1 189:316 190:65 191:71 192:16 193:9 194:2 201:2 
+203:1 204:18 205:11 206:4 207:20 208:5 209:3 215:3 216:1 217:55 
+218:12 219:219 220:43 221:104 222:23 223:12 224:2 231:11 232:4 233:2 
+245:2 259:3 261:1 263:21 264:6 265:3 277:19 278:7 279:9 280:2 
+281:1 291:3 292:271 293:83 294:41 295:9 296:2 304:1 305:61 306:23 
+307:12 308:3 321:9 322:3 323:1 333:28 334:10 335:6 336:1 351:6 
+352:3 353:2 354:1 367:5 368:3 369:2 395:1 396:1 422:2 423:43 
+424:22 425:11 426:3 438:2 

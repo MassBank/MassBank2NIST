@@ -1,0 +1,62 @@
+ACCESSION: JP011626
+RECORD_TITLE: 3-(4-HYDROXYPHENYL)PROPIONIC ACID; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-(4-HYDROXYPHENYL)PROPIONIC ACID
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H10O3
+CH$EXACT_MASS: 166.06299
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=501-97-3" target="_blank">501-97-3</a>
+CH$LINK: NIKKAJI <a href="http://nikkajiweb.jst.go.jp/nikkaji_web/pages/top.jsp?SN=J1.565B&CONTENT=syosai" target="_blank">J1.565B</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 40
+PK$PEAK: m/z int. rel.int.
+  17 3.66 37
+  18 79.83 798
+  28 29.02 290
+  32 7.44 74
+  39 1 10
+  41 5.09 51
+  42 2.1 21
+  43 4.18 42
+  44 3.21 32
+  45 2.4 24
+  51 2.16 22
+  53 1.15 12
+  55 2.61 26
+  56 2.91 29
+  57 2.01 20
+  60 2.97 30
+  61 2.08 21
+  63 1.19 12
+  65 2.26 23
+  69 1.32 13
+  73 1.65 17
+  77 7.36 74
+  78 1.7 17
+  81 1.03 10
+  82 1.02 10
+  83 1.17 12
+  91 3.77 38
+  94 1.26 13
+  95 1.18 12
+  103 1.07 11
+  107 99.99 999
+  108 7.84 78
+  119 2.54 25
+  120 5.8 58
+  121 1.87 19
+  123 1.39 14
+  138 7.98 80
+  139 1.09 11
+  166 33.08 331
+  167 3.32 33
+//

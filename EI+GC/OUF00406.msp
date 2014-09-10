@@ -1,0 +1,31 @@
+Name:  Oxalacetic acid; GC-EI-TOF-MS; RT:281.168 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=328-42-7" target="_blank">328-42-7</a>
+MW: 132
+Formula: C4H4O5
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00036" target="_blank">C00036</a>
+Comment: OUF00406
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 281.168  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 52
+85:15 86:21 87:8 88:5 89:647 90:62 91:37 92:2 93:2 96:1 
+98:12 99:224 100:187 101:34 102:9 103:16 104:1 113:2 114:33 115:322 
+116:44 117:84 118:10 119:2 126:1 128:2 130:9 131:2 132:1 142:1 
+143:20 144:5 145:1 146:2 157:1 158:73 159:26 160:4 161:1 174:999 
+175:119 176:47 177:3 189:31 190:3 191:1 195:1 320:1 329:1 359:1 
+367:1 471:1 

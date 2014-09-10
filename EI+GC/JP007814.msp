@@ -1,0 +1,21 @@
+Name:  2,4-DIMETHYLQUINOLINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1198-37-4" target="_blank">1198-37-4</a>
+MW: 157
+Formula: C11H11N
+Comment: JP007814
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+39:60 41:13 50:30 51:40 63:70 75:48 77:61 89:81 101:19 102:20 
+103:10 115:190 116:78 127:16 128:72 129:80 140:43 141:15 142:90 156:215 
+157:999 158:182 159:27 

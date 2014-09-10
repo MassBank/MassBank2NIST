@@ -1,0 +1,110 @@
+ACCESSION: JP000340
+RECORD_TITLE: PLATINUM DIACETYLACETONATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PLATINUM DIACETYLACETONATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H14O4Pt
+CH$EXACT_MASS: 393.05398
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6D
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 90
+PK$PEAK: m/z int. rel.int.
+  15 3 30
+  18 1.3 13
+  26 2 20
+  27 0.8 8
+  28 18.5 185
+  29 3.5 35
+  31 2 20
+  37 0.01 0
+  38 1.7 17
+  39 6 60
+  40 0.8 8
+  41 0.05 1
+  42 6 60
+  43 99.99 999
+  44 4 40
+  45 0.03 0
+  50 0.3 3
+  53 2 20
+  55 3.5 35
+  56 0.03 0
+  57 0.3 3
+  58 4 40
+  69 1.5 15
+  71 0.01 0
+  72 2 20
+  85 30 300
+  86 1 10
+  100 1.98 20
+  101 3 30
+  196 0.3 3
+  197 0.3 3
+  208 0.05 1
+  209 2 20
+  210 0.3 3
+  220 1 10
+  221 0.03 0
+  222 4 40
+  223 3 30
+  224 1 10
+  225 0.07 1
+  233 1 10
+  234 1.3 13
+  235 2 20
+  236 0.02 0
+  237 2.3 23
+  238 1 10
+  239 0.8 8
+  247 0.03 0
+  248 0.3 3
+  249 1 10
+  250 2 20
+  251 0.01 0
+  252 1 10
+  261 0.3 3
+  262 0.3 3
+  263 0.01 0
+  264 2 20
+  265 2 20
+  266 1.3 13
+  267 0.07 1
+  277 0.3 3
+  278 0.3 3
+  279 1.3 13
+  280 0.17 2
+  281 1.7 17
+  282 0.5 5
+  291 0.5 5
+  292 0.17 2
+  293 2.1 21
+  294 2 20
+  295 1.3 13
+  296 0.05 1
+  307 0.5 5
+  308 1 10
+  309 1 10
+  310 0.01 0
+  321 1 10
+  322 1.3 13
+  323 1 10
+  334 0.03 0
+  335 0.3 3
+  336 0.3 3
+  349 1 10
+  350 0.01 0
+  351 1 10
+  392 8 80
+  393 9 90
+  394 0.07 1
+  395 0.5 5
+  396 1.3 13
+//

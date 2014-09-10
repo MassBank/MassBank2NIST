@@ -1,0 +1,20 @@
+Name:  1,2-DIMETHOXYETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-71-4" target="_blank">110-71-4</a>
+MW: 90
+Formula: C4H10O2
+Comment: JP007374
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+15:119 27:25 28:36 29:115 31:51 43:37 45:999 46:23 58:56 59:30 
+60:125 90:108 

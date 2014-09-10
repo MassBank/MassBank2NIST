@@ -1,0 +1,18 @@
+Name:  1-ACETYL-3-(6-METHYL-3-PYRIDYL)-2-PYRAZOLINE; EI-MS
+MW: 203
+Formula: C11H13N3O
+Comment: JP001996
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 50 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 50 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 7
+117:22 119:25 133:25 160:55 161:999 162:67 203:333 

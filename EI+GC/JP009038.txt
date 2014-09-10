@@ -1,0 +1,44 @@
+ACCESSION: JP009038
+RECORD_TITLE: 2,3,5-TRIMETHYLPYRAZINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,3,5-TRIMETHYLPYRAZINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H10N2
+CH$EXACT_MASS: 122.0844
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=14667-55-1" target="_blank">14667-55-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  15 2.86 29
+  26 2.25 23
+  27 11.15 112
+  28 5.43 54
+  37 1.07 11
+  38 5.1 51
+  39 25.23 252
+  40 12.87 129
+  41 4.82 48
+  42 99.99 999
+  43 2 20
+  50 1.89 19
+  51 5.03 50
+  52 6.53 65
+  53 8.2 82
+  54 9.38 94
+  66 1.26 13
+  80 2.11 21
+  81 13.49 135
+  107 1 10
+  121 1.38 14
+  122 47.56 476
+  123 4.17 42
+//

@@ -1,0 +1,19 @@
+Name: 5'-Deoxyadenosine
+CAS: 4754-39-6
+MW: 251
+Formula: C10H13N5O3
+Synonym: C05198
+Synonym: 5'-Deoxyadenosine
+Comment: XX002745
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 27
+41.300 8 43.000 39 44.900 19 55.300 23 57.200 66 66.800 7 68.700 6 70.900 17 72.100 129 73.100 62 
+77.000 93 79.200 287 81.300 10 82.500 6 87.300 4 91.000 17 91.900 13 94.200 84 95.500 8 105.000 64 
+108.800 22 114.500 2 119.300 312 123.300 18 131.300 3 136.200 999 137.100 13 

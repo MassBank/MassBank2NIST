@@ -1,0 +1,50 @@
+ACCESSION: JP003843
+RECORD_TITLE: THONZYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: THONZYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C16H22N4O
+CH$EXACT_MASS: 286.17936
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 30
+PK$PEAK: m/z int. rel.int.
+  56 4.9 49
+  57 3.4 34
+  58 67.9 679
+  59 0.34 3
+  71 13.4 134
+  72 13.9 139
+  77 8.9 89
+  78 1.29 13
+  79 6.9 69
+  80 6.9 69
+  89 2.4 24
+  90 0.34 3
+  91 7.9 79
+  92 1.9 19
+  93 1.9 19
+  100 0.39 4
+  108 4.9 49
+  120 4.9 49
+  121 99.99 999
+  122 0.94 9
+  124 3.9 39
+  184 1.9 19
+  198 2.4 24
+  200 0.19 2
+  215 11.4 114
+  216 8.4 84
+  217 3.9 39
+  228 0.39 4
+  286 8.9 89
+  287 2.1 21
+//

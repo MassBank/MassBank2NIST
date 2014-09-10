@@ -1,0 +1,20 @@
+Name:  PSILOCYBIN; EI-MS
+MW: 284
+Formula: C12H17N2O4P
+Comment: JP002803
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 33
+56:2 57:12 58:999 59:4 60:10 61:1 62:2 63:1 64:1 65:10 
+76:2 77:0 78:12 79:1 80:2 130:1 131:6 132:4 133:1 140:0 
+145:4 146:32 147:4 158:0 159:25 160:14 161:1 202:1 203:2 204:154 
+205:23 206:0 284:1 

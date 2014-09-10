@@ -1,0 +1,19 @@
+Name:  PYRATHIAZINE; EI-MS
+MW: 296
+Formula: C18H20N2S
+Comment: JP003082
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+41:24 42:61 43:9 55:3 56:14 82:24 83:11 84:999 85:59 96:9 
+98:14 99:1 178:4 179:9 180:39 181:0 198:24 199:14 200:7 212:3 
+213:9 296:71 297:17 298:6 

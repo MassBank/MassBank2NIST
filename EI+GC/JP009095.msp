@@ -1,0 +1,20 @@
+Name:  METHYL LACTATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=547-64-8" target="_blank">547-64-8</a>
+MW: 104
+Formula: C4H8O3
+Comment: JP009095
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+14:11 15:96 19:27 26:16 27:83 29:136 30:20 31:18 33:149 42:21 
+43:143 44:19 45:999 46:23 55:12 59:26 61:28 89:10 

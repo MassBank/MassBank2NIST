@@ -1,0 +1,50 @@
+ACCESSION: JP007860
+RECORD_TITLE: 3-BUTYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-BUTYLPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H13N
+CH$EXACT_MASS: 135.1048
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=539-32-2" target="_blank">539-32-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 29
+PK$PEAK: m/z int. rel.int.
+  27 1.22 12
+  29 1.48 15
+  31 2.01 20
+  38 4.43 44
+  39 15.02 150
+  40 1.02 10
+  41 1.98 20
+  42 1.82 18
+  43 10.02 100
+  51 8.02 80
+  52 4.01 40
+  53 1.26 13
+  64 2.18 22
+  65 28.04 280
+  66 8.02 80
+  77 1.41 14
+  78 5.01 50
+  79 5.01 50
+  91 4.84 48
+  92 99.99 999
+  93 91.09 911
+  94 2.74 27
+  105 1.09 11
+  106 14.02 140
+  107 3.01 30
+  119 1.03 10
+  120 2.01 20
+  135 63.07 631
+  136 7.02 70
+//

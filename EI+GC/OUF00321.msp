@@ -1,0 +1,31 @@
+Name:  L-Prolinamide; GC-EI-TOF-MS; RT:518.996 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=7531-52-4" target="_blank">7531-52-4</a>
+MW: 305
+Formula: C18H19N5
+Comment: OUF00321
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 518.996  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 64
+85:17 86:14 87:3 88:1 89:1 92:1 93:1 94:1 95:2 96:2 
+97:2 98:8 99:12 100:65 101:13 102:13 103:3 104:1 105:1 106:1 
+110:1 111:1 112:2 113:8 114:6 115:21 116:8 117:4 118:1 119:1 
+124:4 125:1 126:8 127:5 128:5 129:1 130:6 131:8 132:3 133:4 
+139:1 140:9 141:9 142:999 143:141 144:49 145:4 146:7 147:18 148:3 
+149:1 153:9 154:2 158:2 167:1 169:5 170:1 174:9 175:1 188:1 
+215:3 216:9 217:2 243:3 

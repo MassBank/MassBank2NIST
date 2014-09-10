@@ -1,0 +1,51 @@
+ACCESSION: JP004284
+RECORD_TITLE: NAPHTHALENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: NAPHTHALENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H8
+CH$EXACT_MASS: 128.0626
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=91-20-3" target="_blank">91-20-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 30
+PK$PEAK: m/z int. rel.int.
+  27 1 10
+  37 1.19 12
+  38 1.66 17
+  39 4.12 41
+  50 8.32 83
+  51 10.3 103
+  52 2.22 22
+  61 1.98 20
+  62 4.12 41
+  63 7.84 78
+  64 3.17 32
+  73 1.27 13
+  74 8.56 86
+  75 8.48 85
+  76 6.26 63
+  77 5.39 54
+  78 4.36 44
+  86 1.66 17
+  87 2.77 28
+  89 1.58 16
+  98 2.77 28
+  99 1.58 16
+  100 1.58 16
+  101 3.41 34
+  102 16.56 166
+  103 1.51 15
+  126 7.37 74
+  127 12.68 127
+  128 99.99 999
+  129 11.09 111
+//

@@ -1,0 +1,21 @@
+Name:  PENTYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=628-63-7" target="_blank">628-63-7</a>
+MW: 130
+Formula: C7H14O2
+Comment: JP007071
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+15:46 27:89 28:24 29:89 31:11 39:63 40:11 41:139 42:230 43:999 
+44:24 55:193 56:12 57:12 58:34 61:223 69:67 70:387 71:24 73:114 
+87:12 

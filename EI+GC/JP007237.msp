@@ -1,0 +1,22 @@
+Name: CAFFEIC ACID
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=331-39-5" target="_blank">331-39-5</a>
+MW: 180
+Formula: C9H8O4
+Synonym: CAFFEIC ACID
+Comment: JP007237
+Comment: N/A
+Comment: HITACHI M-52
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 25 eV
+Comment: ION_TYPE [M]+*
+Contributor: ENDO K, PHARMACEUTICAL INST., TOHOKU UNIV.
+InstType: EI
+IoniMethod: _ENERGY 25 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+32:56 43:250 44:166 55:14 56:83 57:694 60:56 69:33 70:56 71:389 
+81:83 83:14 85:166 89:306 90:27 95:6 96:56 97:139 107:27 110:3 
+111:83 129:83 134:166 135:17 136:999 163:111 180:417 

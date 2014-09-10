@@ -1,0 +1,21 @@
+Name: CYCLOGLYCYLGLYCINE
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-57-0" target="_blank">106-57-0</a>
+MW: 114
+Formula: C4H6N2O2
+Synonym: CYCLOGLYCYLGLYCINE
+Comment: JP007621
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+29:30 30:442 31:12 42:5 43:452 44:14 57:12 58:4 71:747 72:34 
+85:12 86:13 114:999 115:64 

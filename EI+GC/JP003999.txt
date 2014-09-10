@@ -1,0 +1,34 @@
+ACCESSION: JP003999
+RECORD_TITLE: ACETONITRILE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ACETONITRILE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H3N
+CH$EXACT_MASS: 41.02655
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  12 5 50
+  13 3.7 37
+  14 11.6 116
+  15 0.25 3
+  24 1 10
+  25 2.1 21
+  26 3.5 35
+  27 0.1 1
+  28 2.5 25
+  38 21 210
+  39 19.5 195
+  40 5.11 51
+  41 99.99 999
+  42 2.6 26
+//

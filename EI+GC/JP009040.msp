@@ -1,0 +1,21 @@
+Name:  2-METHYLPYRAZINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-08-0" target="_blank">109-08-0</a>
+MW: 94
+Formula: C5H6N2
+Comment: JP009040
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+15:28 25:13 26:352 27:72 28:133 37:85 38:164 39:368 40:300 41:127 
+42:189 51:56 52:115 53:210 63:11 64:24 65:13 66:36 67:604 68:25 
+79:12 93:12 94:999 95:65 

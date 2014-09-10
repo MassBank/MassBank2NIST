@@ -1,0 +1,31 @@
+ACCESSION: JP000933
+RECORD_TITLE: BIS(CHLOROMETHYL) ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BIS(CHLOROMETHYL) ETHER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H4Cl2O
+CH$EXACT_MASS: 113.96392
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=542-88-1" target="_blank">542-88-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 10
+PK$PEAK: m/z int. rel.int.
+  29 9.3 93
+  35 2.8 28
+  48 2.9 29
+  49 3.78 38
+  50 1.9 19
+  51 11.9 119
+  78 5.6 56
+  79 99.99 999
+  80 3.7 37
+  81 33.2 332
+//

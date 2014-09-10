@@ -1,0 +1,95 @@
+ACCESSION: OUF00336
+RECORD_TITLE: Maleic acid; GC-EI-TOF-MS; RT:443.612 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Maleic acid
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C8H16O3
+CH$EXACT_MASS: 160.10994
+CH$SMILES: CCCC(O)CC(=O)OCC
+CH$IUPAC: InChI=1/C8H16O3/c1-3-5-7(9)6-8(10)11-4-2/h7,9H,3-6H2,1-2H3
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-16-7" target="_blank">110-16-7</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=61293" target="_blank">61293</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/55232" target="_blank">55232</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 443.612  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 66
+PK$PEAK: m/z int. rel.int.
+  85 21 21
+  86 4 4
+  87 7 7
+  88 1 1
+  89 5 5
+  92 2 2
+  93 7 7
+  94 1 1
+  95 3 3
+  97 2 2
+  98 23 23
+  99 11 11
+  100 3 3
+  101 5 5
+  102 3 3
+  103 14 14
+  104 2 2
+  105 6 6
+  107 1 1
+  111 4 4
+  113 16 16
+  114 2 2
+  115 47 47
+  116 6 6
+  117 17 17
+  118 3 3
+  119 6 6
+  126 24 24
+  127 7 7
+  128 7 7
+  129 5 5
+  131 20 20
+  132 7 7
+  133 58 58
+  134 9 9
+  135 6 6
+  141 1 1
+  142 6 6
+  143 35 35
+  144 4 4
+  145 2 2
+  146 1 1
+  147 999 999
+  148 159 159
+  149 86 86
+  150 9 9
+  151 3 3
+  155 15 15
+  156 3 3
+  157 10 10
+  158 1 1
+  159 3 3
+  170 25 25
+  171 8 8
+  172 2 2
+  173 4 4
+  201 1 1
+  215 9 9
+  216 3 3
+  217 2 2
+  242 6 6
+  243 1 1
+  245 74 74
+  246 15 15
+  247 7 7
+  248 1 1
+//

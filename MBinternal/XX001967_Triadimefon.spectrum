@@ -1,0 +1,19 @@
+Name: Triadimefon
+CAS: 43121-43-3
+MW: 293
+Formula: C14H16ClN3O2
+Synonym: C11156
+Synonym: Triadimefon
+Comment: XX001967
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 27
+35.300 2 40.700 1 42.200 1 58.000 1 65.900 2 67.500 19 68.000 999 74.300 1 79.400 1 87.100 1 
+89.500 1 91.000 1 95.100 11 96.100 1 101.200 2 111.200 4 124.800 1 126.200 3 127.100 75 130.800 1 
+134.000 1 136.000 1 145.200 1 152.300 13 154.100 1 178.200 1 211.400 1 

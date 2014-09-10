@@ -1,0 +1,56 @@
+ACCESSION: JP000944
+RECORD_TITLE: 2,4-DINITROTOLUENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,4-DINITROTOLUENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H6N2O4
+CH$EXACT_MASS: 182.03276
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=121-14-2" target="_blank">121-14-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 35
+PK$PEAK: m/z int. rel.int.
+  40 3 30
+  46 2.2 22
+  50 10.1 101
+  51 1.71 17
+  52 14.5 145
+  53 4.1 41
+  61 3.9 39
+  62 1.41 14
+  63 55 550
+  64 17.1 171
+  65 5.2 52
+  66 0.39 4
+  74 4.1 41
+  75 4.8 48
+  76 3 30
+  77 1.28 13
+  78 19.4 194
+  79 6.3 63
+  80 4.7 47
+  86 0.22 2
+  87 1.9 19
+  89 63.3 633
+  90 22.1 221
+  91 0.72 7
+  92 1.8 18
+  105 4.6 46
+  106 4.8 48
+  107 0.53 5
+  108 2.2 22
+  118 8.9 89
+  119 19.5 195
+  148 0.22 2
+  165 99.99 999
+  166 8.9 89
+  182 7.8 78
+//

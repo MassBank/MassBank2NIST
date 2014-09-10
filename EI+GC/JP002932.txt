@@ -1,0 +1,26 @@
+ACCESSION: JP002932
+RECORD_TITLE: BETA-PHENYL-ETHYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BETA-PHENYL-ETHYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H11N
+CH$EXACT_MASS: 121.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 7
+PK$PEAK: m/z int. rel.int.
+  30 99.99 999
+  39 3.26 33
+  51 2.65 27
+  65 4.4 44
+  91 9.83 98
+  92 4.32 43
+  121 4.07 41
+//

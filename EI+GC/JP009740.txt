@@ -1,0 +1,48 @@
+ACCESSION: JP009740
+RECORD_TITLE: EUGENOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: EUGENOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H12O2
+CH$EXACT_MASS: 164.08373
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 28
+PK$PEAK: m/z int. rel.int.
+  41 1.7 17
+  43 1 10
+  55 8.3 83
+  77 0.69 7
+  78 1.8 18
+  79 2.2 22
+  91 4.1 41
+  93 0.24 2
+  94 1.2 12
+  103 9.3 93
+  104 9.7 97
+  105 0.3 3
+  107 1.6 16
+  121 9.2 92
+  122 2.7 27
+  131 1.38 14
+  132 6.7 67
+  133 11.6 116
+  134 1.4 14
+  135 0.12 1
+  137 10 100
+  147 3.4 34
+  149 24.1 241
+  150 0.25 3
+  163 3.1 31
+  164 99.99 999
+  165 11.4 114
+  166 1.1 11
+//

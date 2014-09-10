@@ -1,0 +1,37 @@
+ACCESSION: JP008266
+RECORD_TITLE: ETHYL NITRITE; EI-MS
+DATE: 2008.10.21
+AUTHORS: UBE SCIENTIFIC ANALYSIS LABORATORY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL NITRITE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H5NO2
+CH$EXACT_MASS: 75.03203
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-95-5" target="_blank">109-95-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  14 6.4 64
+  15 17.43 174
+  16 0.93 9
+  26 3.3 33
+  27 15.85 159
+  28 3.53 35
+  29 48.15 482
+  30 99.99 999
+  31 8.18 82
+  32 0.96 10
+  42 1.51 15
+  43 10.52 105
+  44 1.33 13
+  45 10.69 107
+  46 1.49 15
+  60 32.34 323
+//

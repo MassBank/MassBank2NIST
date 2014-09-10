@@ -1,0 +1,22 @@
+Name:  EPIBROMOHYDRIN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=3132-64-7" target="_blank">3132-64-7</a>
+MW: 135
+Formula: C3H5BrO
+Synonym: 1-BROMO-2,3-EPOXYPROPANE
+Comment: JP009481
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 30
+14:33 15:48 25:17 26:130 27:476 28:72 29:355 30:34 31:292 37:17 
+38:28 39:65 41:12 42:32 43:36 55:11 57:999 58:36 79:45 80:19 
+81:48 82:18 83:56 93:51 95:14 105:27 107:20 108:21 123:18 125:17 

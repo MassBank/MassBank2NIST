@@ -1,0 +1,204 @@
+ACCESSION: OUF00481
+RECORD_TITLE: UDP-D-Glucuronate; GC-EI-TOF-MS; RT:663.173 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: UDP-D-Glucuronate
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C15H22N2O18P2
+CH$EXACT_MASS: 580.03428
+CH$SMILES: O=C(C=3)NC(=O)N(C3)[C@H](O1)[C@H](O)[C@H](O)[C@@H](COP(O)(=O)OP(O)(=O)O[C@@H](O2)[C@H](O)[C@@H](O)[C@H](O)[C@@H](C(O)=O)2)1
+CH$IUPAC: InChI=1/C15H22N2O18P2/c18-5-1-2-17(15(26)16-5)12-9(22)6(19)4(32-12)3-31-36(27,28)35-37(29,30)34-14-10(23)7(20)8(21)11(33-14)13(24)25/h1-2,4,6-12,14,19-23H,3H2,(H,24,25)(H,27,28)(H,29,30)(H,16,18,26)/t4-,6-,7+,8+,9-,10-,11+,12-,14-/m1/s1/f/h16,24,27,29H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2616-64-0" target="_blank">2616-64-0</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17200" target="_blank">17200</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00167" target="_blank">C00167</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=17473" target="_blank">17473</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/16522" target="_blank">16522</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 663.173  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 173
+PK$PEAK: m/z int. rel.int.
+  85 35 35
+  86 14 14
+  87 27 27
+  88 8 8
+  89 37 37
+  90 7 7
+  91 3 3
+  92 1 1
+  94 2 2
+  95 8 8
+  96 3 3
+  97 14 14
+  98 6 6
+  99 41 41
+  100 8 8
+  101 145 145
+  102 24 24
+  103 137 137
+  104 15 15
+  105 19 19
+  106 1 1
+  107 1 1
+  108 1 1
+  109 1 1
+  111 33 33
+  112 5 5
+  113 67 67
+  114 11 11
+  115 37 37
+  116 121 121
+  117 103 103
+  118 17 17
+  119 34 34
+  120 5 5
+  121 3 3
+  123 3 3
+  125 6 6
+  126 1 1
+  127 17 17
+  128 5 5
+  129 263 263
+  130 35 35
+  131 89 89
+  132 34 34
+  133 238 238
+  134 37 37
+  135 32 32
+  136 4 4
+  137 2 2
+  139 1 1
+  141 12 12
+  142 9 9
+  143 168 168
+  144 24 24
+  145 70 70
+  146 9 9
+  147 448 448
+  148 74 74
+  149 89 89
+  150 12 12
+  151 10 10
+  152 1 1
+  153 2 2
+  154 1 1
+  155 2 2
+  156 6 6
+  157 42 42
+  158 9 9
+  159 16 16
+  160 3 3
+  161 6 6
+  162 1 1
+  163 6 6
+  168 1 1
+  169 50 50
+  170 8 8
+  171 27 27
+  172 3 3
+  173 8 8
+  174 1 1
+  175 19 19
+  176 3 3
+  177 17 17
+  178 3 3
+  179 1 1
+  183 1 1
+  184 1 1
+  185 10 10
+  186 2 2
+  187 7 7
+  188 1 1
+  189 122 122
+  190 62 62
+  191 51 51
+  192 11 11
+  193 5 5
+  194 1 1
+  197 7 7
+  198 1 1
+  199 2 2
+  201 3 3
+  202 1 1
+  203 16 16
+  204 197 197
+  205 50 50
+  206 22 22
+  207 6 6
+  213 6 6
+  214 1 1
+  215 21 21
+  216 6 6
+  217 999 999
+  218 216 216
+  219 103 103
+  220 16 16
+  221 18 18
+  222 3 3
+  223 1 1
+  228 2 2
+  229 3 3
+  230 5 5
+  231 30 30
+  232 8 8
+  233 9 9
+  234 1 1
+  243 17 17
+  244 4 4
+  245 19 19
+  246 20 20
+  247 5 5
+  248 3 3
+  257 9 9
+  258 2 2
+  259 30 30
+  260 6 6
+  261 8 8
+  262 1 1
+  265 1 1
+  275 1 1
+  287 13 13
+  288 2 2
+  289 1 1
+  291 15 15
+  292 4 4
+  293 2 2
+  294 1 1
+  303 1 1
+  304 2 2
+  305 69 69
+  306 82 82
+  307 31 31
+  308 11 11
+  309 3 3
+  319 2 2
+  320 1 1
+  331 7 7
+  332 3 3
+  333 4 4
+  334 1 1
+  335 5 5
+  336 1 1
+  346 1 1
+  347 2 2
+  348 10 10
+  349 7 7
+  350 2 2
+  377 2 2
+  378 1 1
+  391 1 1
+  392 35 35
+  393 15 15
+  394 6 6
+  395 1 1
+//

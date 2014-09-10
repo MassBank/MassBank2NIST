@@ -1,0 +1,21 @@
+Name:  METHYL SALICY LATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=119-36-8" target="_blank">119-36-8</a>
+MW: 152
+Formula: C8H8O3
+Comment: JP008983
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+15:60 27:20 29:41 30:10 31:16 37:23 38:71 39:251 50:29 51:19 
+53:88 61:16 62:42 63:158 64:156 65:252 66:24 74:13 76:14 77:11 
+81:16 92:647 93:137 120:999 121:301 122:18 152:445 153:32 

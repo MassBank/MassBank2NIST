@@ -1,0 +1,40 @@
+ACCESSION: JP007151
+RECORD_TITLE: BENZOPHENONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZOPHENONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C13H10O
+CH$EXACT_MASS: 182.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=119-61-9" target="_blank">119-61-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  27 1.96 20
+  39 1.98 20
+  50 10.38 104
+  51 31.56 316
+  52 1.71 17
+  63 1.05 11
+  74 2.87 29
+  75 2.1 21
+  76 4.21 42
+  77 69.37 694
+  78 3.81 38
+  105 99.99 999
+  106 5.89 59
+  152 2.4 24
+  153 1.38 14
+  154 1.56 16
+  181 4.43 44
+  182 41.07 411
+  183 4.47 45
+//

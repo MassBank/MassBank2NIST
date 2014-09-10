@@ -1,0 +1,18 @@
+Name:  ISOXAZOLE; EI-MS
+MW: 69
+Formula: C3H3NO
+Comment: JP002950
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+13:49 14:491 15:33 17:43 18:300 25:44 26:85 27:41 29:347 30:36 
+37:53 38:160 39:194 40:841 41:405 42:118 68:725 69:999 70:65 

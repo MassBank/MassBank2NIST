@@ -1,0 +1,18 @@
+Name:  3BETA-ACETOXY-5ALPHA-LANOST-8-EN-7ALPHA-OL; EI-MS
+MW: 486
+Formula: C32H54O3
+Comment: JP003663
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+171:50 196:50 240:50 241:3 253:80 312:50 339:50 393:2 453:80 454:20 
+468:999 469:4 470:50 486:10 

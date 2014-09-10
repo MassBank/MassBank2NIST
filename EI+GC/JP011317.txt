@@ -1,0 +1,48 @@
+ACCESSION: JP011317
+RECORD_TITLE: 1,2,3-TRIMETHYLBENZENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2,3-TRIMETHYLBENZENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H12
+CH$EXACT_MASS: 120.0939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=526-73-8" target="_blank">526-73-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  27 2.93 29
+  39 5.53 55
+  41 3.11 31
+  50 1.58 16
+  51 4.75 48
+  52 1.52 15
+  53 2.13 21
+  58 2.22 22
+  59 2.76 28
+  63 2.5 25
+  65 3.54 35
+  77 9.29 93
+  78 3.11 31
+  79 6.14 61
+  91 8.23 82
+  92 1.53 15
+  102 1.03 10
+  103 5.3 53
+  104 2.63 26
+  105 99.99 999
+  106 9.1 91
+  115 3.31 33
+  117 3.36 34
+  118 1.24 12
+  119 17.94 179
+  120 72.16 722
+  121 7.01 70
+//

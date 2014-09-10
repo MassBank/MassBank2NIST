@@ -1,0 +1,74 @@
+ACCESSION: OUF00407
+RECORD_TITLE: Oxalate; GC-EI-TOF-MS; RT:336.159 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Oxalate
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C2H2O4
+CH$EXACT_MASS: 89.99531
+CH$SMILES: OC(=O)C(O)=O
+CH$IUPAC: InChI=1/C2H2O4/c3-1(4)2(5)6/h(H,3,4)(H,5,6)/f/h3,5H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=144-62-7" target="_blank">144-62-7</a>
+CH$LINK: LIPIDMAPS LMFA01170031
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16995" target="_blank">16995</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30623" target="_blank">30623</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:31941" target="_blank">31941</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00209" target="_blank">C00209</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01790" target="_blank">D01790</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02567" target="_blank">D02567</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=3819775" target="_blank">3819775</a> <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=971" target="_blank">971</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/946" target="_blank">946</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 336.159  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 42
+PK$PEAK: m/z int. rel.int.
+  85 2 2
+  86 1 1
+  87 17 17
+  88 3 3
+  89 8 8
+  91 1 1
+  92 1 1
+  93 4 4
+  95 1 1
+  99 1 1
+  101 8 8
+  102 27 27
+  103 28 28
+  104 4 4
+  105 10 10
+  106 1 1
+  113 2 2
+  115 16 16
+  116 5 5
+  117 24 24
+  118 4 4
+  119 4 4
+  131 46 46
+  132 9 9
+  133 60 60
+  134 9 9
+  135 4 4
+  146 1 1
+  147 999 999
+  148 161 161
+  149 84 84
+  150 9 9
+  151 2 2
+  175 22 22
+  176 6 6
+  177 2 2
+  190 57 57
+  191 10 10
+  192 4 4
+  219 36 36
+  220 6 6
+  221 3 3
+//

@@ -1,0 +1,21 @@
+Name:  GERANIAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=141-27-5" target="_blank">141-27-5</a>
+MW: 152
+Formula: C10H16O
+Synonym: (E)-3,7-DIMETHYL-2,6-OCTADIENAL
+Comment: JP007544
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+55:46 59:80 69:999 70:101 83:90 84:446 94:198 95:57 109:128 119:29 
+123:110 137:79 152:60 

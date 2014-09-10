@@ -1,0 +1,17 @@
+Name: 2-Cyanopyridine
+CAS: 100-70-9
+MW: 104
+Formula: C6H4N2
+Synonym: C02221
+Synonym: 2-Cyanopyridine
+Comment: XX002590
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 6
+51.000 267 75.800 17 78.200 999 78.900 24 96.300 31 105.000 79 

@@ -1,0 +1,23 @@
+Name:  2-METHYLTETRAHYDROFURAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=96-47-9" target="_blank">96-47-9</a>
+MW: 86
+Formula: C5H10O
+Synonym: TETRAHYDRO-2-METHYLFURAN
+Comment: JP008186
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 39
+14:29 15:128 18:18 26:85 27:373 28:173 29:284 30:30 31:88 32:49 
+37:20 38:48 39:339 40:90 41:625 42:474 43:803 44:40 45:220 50:23 
+51:23 53:35 54:17 55:72 56:199 57:38 58:34 61:17 67:11 69:35 
+70:20 71:999 72:47 73:12 83:14 84:26 85:65 86:192 87:37 

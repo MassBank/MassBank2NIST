@@ -1,0 +1,19 @@
+Name:  P-PROPYLPHENOL; EI-MS
+MW: 136
+Formula: C9H12O
+Comment: JP009217
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+27:54 29:19 39:64 41:16 50:14 51:46 52:20 53:33 55:16 63:21 
+65:27 77:130 78:42 79:19 91:19 94:11 107:999 108:78 136:194 137:16 

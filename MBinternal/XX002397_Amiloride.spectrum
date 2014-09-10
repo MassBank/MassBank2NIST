@@ -1,0 +1,18 @@
+Name: Amiloride
+CAS: 2609-46-3
+MW: 229
+Formula: C6H8ClN7O
+Synonym: C06821
+Synonym: Amiloride
+Comment: XX002397
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 18
+43.000 51 55.200 38 60.100 787 62.000 69 64.000 163 69.200 31 74.000 60 85.700 16 88.900 234 91.100 120 
+94.900 38 100.900 158 105.900 13 108.200 254 115.000 9 116.200 999 143.000 163 161.100 18 

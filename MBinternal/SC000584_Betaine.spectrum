@@ -1,0 +1,14 @@
+Name: Betaine
+MW: 117
+Synonym: Betaine
+Comment: SC000584
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 7
+30.0347 5 42.0342 20 43.0419 16 56.0501 5 58.066 441 59.0739 270 118.086 999 

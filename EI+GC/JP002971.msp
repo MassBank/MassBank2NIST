@@ -1,0 +1,18 @@
+Name:  TETRAFLUOROFORMAMIDINE DIMER; EI-MS
+MW: 231
+Formula: C2F8N4
+Comment: JP002971
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+19:25 20:91 26:31 31:49 33:138 45:102 50:291 52:7 59:83 65:277 
+69:999 83:23 95:165 102:334 109:196 114:3 128:510 

@@ -1,0 +1,58 @@
+ACCESSION: JP003730
+RECORD_TITLE: 2-AMINOXYMETHYLPHENANTHRENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-AMINOXYMETHYLPHENANTHRENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C15H13NO
+CH$EXACT_MASS: 223.09971
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 39
+PK$PEAK: m/z int. rel.int.
+  38 20 200
+  44 6.7 67
+  50 2.5 25
+  51 0.33 3
+  63 5 50
+  74 5 50
+  75 6.7 67
+  76 0.67 7
+  77 1.7 17
+  88 16.7 167
+  89 6.7 67
+  95 0.33 3
+  103 1.7 17
+  104 3.3 33
+  115 1.7 17
+  126 0.33 3
+  139 2.5 25
+  150 7.5 75
+  151 15 150
+  152 0.67 7
+  163 3.3 33
+  165 6.7 67
+  174 3.3 33
+  175 0.05 1
+  176 30 300
+  177 33.3 333
+  178 30 300
+  179 0.45 5
+  180 6.7 67
+  189 26.7 267
+  190 10 100
+  191 99.99 999
+  192 23.3 233
+  205 30 300
+  206 55 550
+  207 0.15 2
+  208 58.3 583
+  209 10 100
+  223 5 50
+//

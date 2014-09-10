@@ -1,0 +1,20 @@
+Name:  TERT-BUTYLAMINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-64-9" target="_blank">75-64-9</a>
+MW: 73
+Formula: C4H11N
+Comment: JP011054
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+15:39 18:61 27:20 28:36 29:26 30:98 39:34 41:143 42:109 43:24 
+55:10 56:20 57:54 58:999 59:43 73:2 74:2 

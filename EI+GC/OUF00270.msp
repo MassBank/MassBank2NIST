@@ -1,0 +1,31 @@
+Name:  HydroxyButyrate; GC-EI-TOF-MS; RT:332.113 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=600-15-7" target="_blank">600-15-7</a>
+MW: 104
+Formula: C4H8O3
+Comment: OUF00270
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 332.113  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 70
+85:26 86:4 87:22 88:5 89:9 90:1 91:1 92:1 93:1 94:2 
+95:27 96:3 97:2 98:1 99:25 100:3 101:34 102:12 103:25 104:4 
+105:11 106:1 107:1 109:7 110:1 111:1 112:1 113:4 114:1 115:52 
+116:12 117:30 118:4 119:10 120:1 129:9 130:19 131:999 132:129 133:149 
+134:17 135:8 143:20 144:2 145:2 146:1 147:860 148:140 149:82 150:8 
+151:2 161:1 175:5 176:1 189:3 190:52 191:14 192:5 193:1 204:1 
+205:76 206:19 207:8 208:1 217:2 219:6 220:1 233:44 234:9 235:4 

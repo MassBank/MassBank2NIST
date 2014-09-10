@@ -1,0 +1,19 @@
+Name: Etodolac
+MW: 287
+Formula: C17H21NO3
+Synonym: C06991
+Synonym: Etodolac, Transferred to D00315
+Comment: XX000741
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 33
+59.200 2 77.100 1 79.300 1 96.800 1 111.300 1 136.000 1 149.400 1 155.600 1 157.000 1 158.400 1 
+170.100 1 181.900 1 184.200 1 185.100 16 186.800 1 194.100 1 197.000 12 198.500 6 207.800 1 209.100 1 
+210.200 1 210.600 1 212.400 853 214.500 2 224.100 6 226.100 2 227.000 1 238.200 1 240.200 1 242.200 999 
+253.400 12 256.200 1 286.500 26 

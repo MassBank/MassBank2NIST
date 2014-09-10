@@ -1,0 +1,18 @@
+Name:  METHYL 4-HYDROXYPHENYLACETATE; EI-MS
+MW: 166
+Formula: C9H10O3
+Comment: JP003527
+Comment: N/A
+Comment: HITACHI M-68
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 5
+53:13 78:40 107:999 108:74 166:230 

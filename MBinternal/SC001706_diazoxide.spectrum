@@ -1,0 +1,14 @@
+Name: diazoxide
+MW: 229
+Synonym: diazoxide
+Comment: SC001706
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+68.9947 41 69.9982 12 112.983 70 113.987 57 114.987 12 165.019 18 227.979 28 228.982 999 

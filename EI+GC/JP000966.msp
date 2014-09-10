@@ -1,0 +1,22 @@
+Name:  TRIBROMOMETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-25-2" target="_blank">75-25-2</a>
+MW: 249
+Formula: CHBr3
+Synonym: BROMOFORM
+Comment: JP000966
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+45:90 79:306 80:27 81:29 82:29 89:20 91:297 92:17 93:296 94:169 
+109:23 158:2 160:50 162:25 171:519 173:999 175:507 250:33 252:108 254:11 
+256:33 

@@ -1,0 +1,36 @@
+ACCESSION: JP007545
+RECORD_TITLE: NERAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: NERAL
+CH$NAME: (Z)-3,7-DIMETHYL-2,6-OCTADIENAL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H16O
+CH$EXACT_MASS: 152.12012
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-26-3" target="_blank">106-26-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  55 9.25 93
+  59 25.67 257
+  67 13.54 135
+  69 99.99 999
+  82 19.59 196
+  84 27.52 275
+  94 24.4 244
+  95 18.39 184
+  107 4.07 41
+  109 25.56 256
+  119 7.76 78
+  123 3.71 37
+  134 4.99 50
+  137 5 50
+//

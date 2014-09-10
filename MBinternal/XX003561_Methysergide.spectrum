@@ -1,0 +1,18 @@
+Name: Methysergide
+CAS: 361-37-5
+MW: 353
+Formula: C21H27N3O2
+Synonym: C07199
+Synonym: Methysergide
+Comment: XX003561
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 18
+44.000 104 153.300 52 167.200 35 181.100 252 182.300 78 193.300 69 194.300 999 196.100 217 204.400 139 205.500 295 
+206.300 174 207.100 495 208.100 122 211.300 182 220.400 78 221.300 721 222.300 912 235.200 78 

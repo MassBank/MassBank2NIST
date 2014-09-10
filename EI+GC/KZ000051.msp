@@ -1,0 +1,31 @@
+Name:  L-Norleucine; GC-EI-TOF-MS; 2 TMS; BP:158
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=327-57-1" target="_blank">327-57-1</a>
+MW: 131
+Formula: C6H13NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01933" target="_blank">C01933</a>
+Comment: KZ000051
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 595.244 sec
+Comment: RETENTION_INDEX 1341.3
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: BASE_PEAK 158
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 80
+82:7 83:4 84:20 85:12 86:45 87:10 88:4 89:3 93:1 94:1 
+95:1 96:5 97:3 98:13 99:4 100:93 101:18 102:39 103:26 104:4 
+105:5 106:1 110:2 111:1 112:5 113:3 114:42 115:27 116:8 117:14 
+118:4 119:5 120:1 126:2 127:1 128:22 129:10 130:20 131:19 132:19 
+133:35 134:7 135:3 142:8 143:3 144:4 145:1 146:4 147:112 148:19 
+149:11 150:1 156:6 157:3 158:999 159:149 160:47 161:5 162:1 163:1 
+170:12 171:3 172:2 174:4 175:1 176:1 186:3 187:1 188:1 202:2 
+203:2 216:1 218:21 219:4 220:1 232:28 233:8 234:3 260:6 261:1 

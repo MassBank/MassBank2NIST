@@ -1,0 +1,21 @@
+Name:  PHENYL SALICYLATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=118-55-8" target="_blank">118-55-8</a>
+MW: 214
+Formula: C13H10O3
+Synonym: SALOL
+Comment: JP008995
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+40:18 50:16 51:25 53:23 62:13 63:45 64:35 65:181 66:25 92:45 
+93:79 94:29 120:24 121:999 122:67 214:77 215:13 

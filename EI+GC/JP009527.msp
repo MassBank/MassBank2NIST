@@ -1,0 +1,24 @@
+Name:  3-CHLORO-2-METHYLPROPENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=563-47-3" target="_blank">563-47-3</a>
+MW: 90
+Formula: C4H7Cl
+Synonym: METHALLYL CHLORIDE
+Comment: JP009527
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 40 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 40 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 42
+13:17 15:86 25:38 26:241 27:104 28:188 32:15 36:11 37:31 39:652 
+40:113 41:246 42:29 43:355 49:119 50:86 51:128 52:44 53:323 54:302 
+55:999 56:371 57:71 58:92 62:49 63:52 64:14 65:22 67:37 68:23 
+69:13 73:15 75:121 77:58 79:26 81:21 89:106 90:308 91:63 92:94 
+93:20 95:49 

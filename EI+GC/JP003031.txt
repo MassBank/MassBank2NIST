@@ -1,0 +1,64 @@
+ACCESSION: JP003031
+RECORD_TITLE: 1,4-DIBENZOXYANTHRACENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,4-DIBENZOXYANTHRACENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C28H22O2
+CH$EXACT_MASS: 390.16198
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 45
+PK$PEAK: m/z int. rel.int.
+  50 0.1 1
+  51 0.4 4
+  63 0.5 5
+  65 0.32 3
+  75 0.1 1
+  76 0.1 1
+  77 0.1 1
+  91 99.99 999
+  92 5.9 59
+  125 0.1 1
+  126 1.2 12
+  127 0.04 0
+  150 0.2 2
+  151 0.1 1
+  152 2 20
+  153 0.02 0
+  154 0.2 2
+  155 0.2 2
+  163 0.2 2
+  164 0.03 0
+  165 0.2 2
+  179 0.1 1
+  180 0.6 6
+  181 0.02 0
+  183 0.1 1
+  193 0.1 1
+  208 2.6 26
+  209 0.01 0
+  210 0.2 2
+  240 0.2 2
+  242 0.1 1
+  253 0.02 0
+  254 0.1 1
+  281 0.7 7
+  282 0.2 2
+  284 0.01 0
+  297 0.4 4
+  298 1.2 12
+  299 4.9 49
+  300 0.12 1
+  301 0.1 1
+  388 0.1 1
+  390 4.1 41
+  391 0.12 1
+  392 0.1 1
+//

@@ -1,0 +1,19 @@
+Name:  BENZIL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=134-81-6" target="_blank">134-81-6</a>
+MW: 210
+Formula: C14H10O2
+Comment: JP010530
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+50:65 51:207 74:11 76:15 77:416 78:37 105:999 106:78 210:37 

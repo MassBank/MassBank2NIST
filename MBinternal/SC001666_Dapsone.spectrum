@@ -1,0 +1,14 @@
+Name: Dapsone
+MW: 248
+Synonym: Dapsone
+Comment: SC001666
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+35.6292 61 59.371 81 84.2286 71 111.892 64 146.908 57 246.807 72 247.053 999 247.981 74 

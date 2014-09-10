@@ -1,0 +1,62 @@
+ACCESSION: JP011927
+RECORD_TITLE: URAMIL; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: URAMIL
+CH$NAME: 5-AMINOBARBITURIC ACID
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H5N3O3
+CH$EXACT_MASS: 143.03309
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=118-78-5" target="_blank">118-78-5</a>
+CH$LINK: NIKKAJI <a href="http://nikkajiweb.jst.go.jp/nikkaji_web/pages/top.jsp?SN=J5.306F&CONTENT=syosai" target="_blank">J5.306F</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 39
+PK$PEAK: m/z int. rel.int.
+  14 1.48 15
+  15 2.38 24
+  16 7.21 72
+  17 16.63 166
+  18 69.75 698
+  26 1.17 12
+  27 8.95 90
+  28 68.59 686
+  29 83.7 837
+  30 5.49 55
+  31 1.53 15
+  32 3.32 33
+  36 4.79 48
+  38 1.82 18
+  39 1.18 12
+  40 1.04 10
+  41 3.63 36
+  42 10.36 104
+  43 18.59 186
+  44 27.3 273
+  45 7.35 74
+  46 2.19 22
+  53 1.32 13
+  54 2.06 21
+  55 2.57 26
+  56 1.46 15
+  57 99.99 999
+  58 3.92 39
+  60 1.09 11
+  69 1.21 12
+  70 4.31 43
+  71 2.24 22
+  72 2.17 22
+  87 1.42 14
+  100 7.5 75
+  114 1.37 14
+  128 1.93 19
+  142 1.18 12
+  143 10.34 103
+//

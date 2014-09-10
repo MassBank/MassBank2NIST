@@ -1,0 +1,14 @@
+Name: N-Acetyl-L-glutamic_acid
+MW: 189
+Synonym: N-Acetyl-L-glutamic acid
+Comment: SC002515
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+58.0296 45 59.0133 110 100.075 59 102.055 243 128.034 273 144.065 89 170.043 87 188.054 999 

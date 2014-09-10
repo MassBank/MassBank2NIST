@@ -1,0 +1,35 @@
+ACCESSION: JP004712
+RECORD_TITLE: DIMETHOXYDIMETHYLSILANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIMETHOXYDIMETHYLSILANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H12O2Si
+CH$EXACT_MASS: 120.06066
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1112-39-6" target="_blank">1112-39-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  43 2.86 29
+  52 1.37 14
+  59 2.53 25
+  61 3.3 33
+  73 2.69 27
+  75 49.41 494
+  76 3.9 39
+  77 2.32 23
+  78 3.81 38
+  89 5.05 51
+  105 99.99 999
+  106 8.76 88
+  107 4.21 42
+  120 0.5 5
+//

@@ -1,0 +1,33 @@
+ACCESSION: JP003663
+RECORD_TITLE: 3BETA-ACETOXY-5ALPHA-LANOST-8-EN-7ALPHA-OL; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3BETA-ACETOXY-5ALPHA-LANOST-8-EN-7ALPHA-OL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C32H54O3
+CH$EXACT_MASS: 486.4073
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  171 5 50
+  196 5 50
+  240 5 50
+  241 0.3 3
+  253 8 80
+  312 5 50
+  339 5 50
+  393 0.15 2
+  453 8 80
+  454 2 20
+  468 99.99 999
+  469 0.4 4
+  470 5 50
+  486 1 10
+//

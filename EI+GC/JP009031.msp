@@ -1,0 +1,22 @@
+Name:  PIPERIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-89-4" target="_blank">110-89-4</a>
+MW: 85
+Formula: C5H11N
+Comment: JP009031
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 31
+15:59 26:57 27:297 28:636 29:494 30:418 38:18 39:203 40:28 41:217 
+42:368 43:329 44:450 45:11 50:16 51:23 52:22 53:34 54:46 55:95 
+56:580 57:505 58:17 67:22 68:23 70:97 80:12 82:19 84:999 85:531 
+86:25 

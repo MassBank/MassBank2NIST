@@ -1,0 +1,28 @@
+Name: archaetidylserine
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=105662-26-8" target="_blank">105662-26-8</a>
+MW: 819
+Formula: C46H94NO8P
+Synonym: archaetidylserine
+Comment: UO000002
+Comment: Glycerophospholipids; Glycerophosphoserines; Dialkylglycerophosphoserines
+Comment: JMS DX-300/JMS-3500 data system, Japan Electron Optics Laboratory, Japan
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: COMMENT Ionizing Curr 300 uA, Chamber Temp 250 C, Accel Volt 3KV, Ion Multi 1.0 KV,
+Comment: IONIZATION_POTENTIAL 30 eV
+Comment: SCANNING 5 Sec
+Comment: SOURCE_TEMPERATURE 320 C
+Comment: ION_TYPE [M]+*
+Contributor: Hiroyuki Morii, Department of Chemistry, University of Occupational and Environmental Health
+InstType: EI
+IoniMethod: _POTENTIAL 30 eV
+IonPolarity: pos
+Date: 2009-05-29 14:48:36+02:00
+Num: 58
+36.0:69 43.0:221 55.0:248 56.0:343 57.0:973 69.0:610 70.0:629 71.0:999 74.0:218 81.0:261 
+82.0:165 83.0:614 84.0:269 85.0:745 95.0:145 96.0:255 97.0:638 98.0:168 99.0:535 111.0:610 
+112.0:239 113.0:438 123.0:423 124.0:331 125.0:716 126.0:514 127.0:427 139.0:175 140.0:331 141.0:335 
+153.0:153 155.0:232 169.0:185 182.0:135 183.0:228 196.0:188 197.0:232 211.0:107 278.0:464 279.0:313 
+280.0:323 281.0:204 296.0:225 297.0:86 309.0:50 325.0:397 326.0:101 340.0:190 341.0:86 343.0:346 
+344.0:85 354.0:73 373.0:188 374.0:60 383.0:91 634.0:640 635.0:302 636.0:70 

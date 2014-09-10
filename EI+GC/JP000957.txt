@@ -1,0 +1,40 @@
+ACCESSION: JP000957
+RECORD_TITLE: 1,1,1-TRICHLOROETHANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,1,1-TRICHLOROETHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H3Cl3
+CH$EXACT_MASS: 131.93003
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=71-55-6" target="_blank">71-55-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  25 3.7 37
+  26 11.8 118
+  27 7.5 75
+  35 0.87 9
+  36 2.7 27
+  37 3.3 33
+  47 3.8 38
+  60 0.96 10
+  61 51.2 512
+  62 6.9 69
+  63 16.3 163
+  82 0.23 2
+  97 99.99 999
+  98 3.2 32
+  99 60.9 609
+  101 1.02 10
+  117 10.7 107
+  119 10.2 102
+  121 3.3 33
+//

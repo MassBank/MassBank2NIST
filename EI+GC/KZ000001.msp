@@ -1,0 +1,29 @@
+Name:  1,10-Phenanthroline; GC-EI-TOF-MS; 0 TMS; BP:180
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=66-71-7" target="_blank">66-71-7</a>
+MW: 180
+Formula: C12H8N2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00604" target="_blank">C00604</a>
+Comment: KZ000001
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 1126.71 sec
+Comment: RETENTION_INDEX 2687.7
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 0 TMS
+Comment: BASE_PEAK 180
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 55
+84:4 85:19 86:42 87:73 88:36 89:30 90:162 91:3 96:1 97:11 
+98:72 99:125 100:134 101:82 102:55 103:21 104:4 109:2 110:6 111:9 
+112:7 113:11 114:12 115:3 116:1 120:1 121:1 122:8 123:15 124:28 
+125:166 126:151 127:180 128:45 129:93 130:9 138:1 139:1 140:3 141:1 
+142:1 150:7 151:52 152:167 153:273 154:284 155:35 156:2 177:9 178:15 
+179:472 180:999 181:149 182:11 183:1 

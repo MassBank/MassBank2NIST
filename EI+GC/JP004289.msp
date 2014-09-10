@@ -1,0 +1,21 @@
+Name:  ETHYL BROMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=74-96-4" target="_blank">74-96-4</a>
+MW: 107
+Formula: C2H5Br
+Synonym: BROMOETHANE
+Comment: JP004289
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+25:21 26:191 27:753 28:281 29:999 30:20 77:30 79:22 81:21 93:41 
+95:29 105:61 108:913 109:19 110:867 111:10 

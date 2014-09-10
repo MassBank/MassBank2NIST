@@ -1,0 +1,14 @@
+Name: Phenylephrine
+MW: 167
+Synonym: Phenylephrine
+Comment: SC000903
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+82.495 144 90.0066 209 91.0549 139 109.065 109 129.013 183 135.068 121 150.091 999 168.102 870 

@@ -1,0 +1,37 @@
+ACCESSION: JP004119
+RECORD_TITLE: PROPIOPHENONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PROPIOPHENONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H10O
+CH$EXACT_MASS: 134.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-68
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 17
+PK$PEAK: m/z int. rel.int.
+  27 2.5 25
+  29 1.8 18
+  39 1 10
+  43 1.5 15
+  50 4.2 42
+  51 10.5 105
+  74 1.4 14
+  75 0.1 1
+  76 1.4 14
+  77 30 300
+  78 2.6 26
+  105 99.99 999
+  106 9.8 98
+  107 0.7 7
+  133 0.6 6
+  134 1.4 14
+  135 5.4 54
+//

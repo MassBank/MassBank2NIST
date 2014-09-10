@@ -1,0 +1,57 @@
+ACCESSION: JP002965
+RECORD_TITLE: (22R,25S)-22,26-EPIMINO-5ALPHA-CHOLEST-5-EN-3BETA-OL; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (22R,25S)-22,26-EPIMINO-5ALPHA-CHOLEST-5-EN-3BETA-OL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C27H45NO
+CH$EXACT_MASS: 399.35012
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 38
+PK$PEAK: m/z int. rel.int.
+  53 1.2 12
+  55 5.8 58
+  56 4.2 42
+  57 0.22 2
+  67 3 30
+  68 1.4 14
+  69 2.8 28
+  70 0.38 4
+  77 1.9 19
+  79 3.4 34
+  81 5 50
+  82 0.02 0
+  83 1 10
+  91 3.3 33
+  93 2.3 23
+  94 0.13 1
+  95 1.7 17
+  96 4 40
+  97 2 20
+  98 99.99 999
+  119 1.1 11
+  124 1.2 12
+  125 2.9 29
+  126 0.01 0
+  244 1 10
+  272 0.9 9
+  273 1 10
+  382 0.03 0
+  383 0.1 1
+  384 0.1 1
+  397 0.2 2
+  398 0.03 0
+  399 0.1 1
+  99 14 140
+  105 2.5 25
+  107 0.15 2
+  111 3 30
+  117 1 10
+//

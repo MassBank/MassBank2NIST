@@ -1,0 +1,19 @@
+Name: Indole-3-acetamide
+CAS: 879-37-8
+MW: 174
+Formula: C10H10N2O
+Synonym: C02693
+Synonym: Indole-3-acetamide
+Comment: XX001223
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 22
+42.300 77 43.900 17 59.100 1 72.600 1 78.900 2 85.100 1 86.900 1 93.000 7 94.900 1 111.000 1 
+116.100 13 127.400 8 128.200 466 128.600 24 130.000 999 130.800 3 136.600 1 143.200 12 145.300 2 146.000 14 
+157.400 3 173.100 59 

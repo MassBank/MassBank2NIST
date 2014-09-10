@@ -1,0 +1,17 @@
+Name:  O,N-DIMETHYLHYDROXYLAMINE; EI-MS
+MW: 61
+Formula: C2H7NO
+Comment: JP003717
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+41:10 42:30 43:20 44:2 45:140 46:999 47:20 60:2 61:900 62:20 

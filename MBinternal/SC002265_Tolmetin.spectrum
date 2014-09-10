@@ -1,0 +1,14 @@
+Name: Tolmetin
+MW: 257
+Synonym: Tolmetin
+Comment: SC002265
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+79.0237 72 101.006 28 119.05 75 180.021 37 218.559 65 219.057 27 257.572 28 258.113 999 

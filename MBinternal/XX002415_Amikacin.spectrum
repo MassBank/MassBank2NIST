@@ -1,0 +1,18 @@
+Name: Amikacin
+CAS: 37517-28-5
+MW: 585
+Formula: C22H43N5O13
+Synonym: C06820
+Synonym: Amikacin
+Comment: XX002415
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 13
+118.200 129 163.000 258 185.000 258 186.000 129 264.000 161 283.100 999 299.500 516 324.300 451 348.000 516 408.100 97 
+425.500 483 485.200 129 586.400 290 

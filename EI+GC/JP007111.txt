@@ -1,0 +1,39 @@
+ACCESSION: JP007111
+RECORD_TITLE: SEC-BUTYL ALCOHOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: SEC-BUTYL ALCOHOL
+CH$NAME: 2-BUTANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H10O
+CH$EXACT_MASS: 74.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=78-92-2" target="_blank">78-92-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 17
+PK$PEAK: m/z int. rel.int.
+  15 2.66 27
+  19 2.04 20
+  26 2.33 23
+  27 13.12 131
+  29 10.92 109
+  31 16.62 166
+  39 3.37 34
+  41 10.46 105
+  42 1.41 14
+  43 10.62 106
+  44 8.44 84
+  45 99.99 999
+  46 2.26 23
+  55 2.16 22
+  57 2.75 28
+  59 21.81 218
+  73 1.17 12
+//

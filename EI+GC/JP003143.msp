@@ -1,0 +1,18 @@
+Name:  ETHYL BENZOATE; EI-MS
+MW: 150
+Formula: C9H10O2
+Comment: JP003143
+Comment: N/A
+Comment: HITACHI RMU-7L
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NAKAYAMA M, MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+29:50 50:90 51:240 77:540 105:999 106:100 122:250 150:110 

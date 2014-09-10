@@ -1,0 +1,19 @@
+Name:  PHENYL BENZOATE; EI-MS
+MW: 198
+Formula: C13H10O2
+Comment: JP008494
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+27:10 38:14 39:87 50:58 51:175 63:17 65:63 74:11 76:17 77:449 
+78:23 105:999 106:73 198:53 

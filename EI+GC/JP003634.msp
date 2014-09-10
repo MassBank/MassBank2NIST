@@ -1,0 +1,17 @@
+Name:  1-HYDROXYMETHYL-2-METHYLCYCLOHEXANE; EI-MS
+MW: 128
+Formula: C8H16O
+Comment: JP003634
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+27:172 29:230 31:243 39:25 41:356 55:999 81:170 97:668 

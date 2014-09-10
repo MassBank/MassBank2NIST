@@ -1,0 +1,78 @@
+ACCESSION: JP003740
+RECORD_TITLE: LYSERGIC ACID ETHYLAMIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: LYSERGIC ACID ETHYLAMIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C18H21N3O
+CH$EXACT_MASS: 295.16846
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 59
+PK$PEAK: m/z int. rel.int.
+  55 4 40
+  56 3 30
+  57 7 70
+  58 0.1 1
+  77 3 30
+  78 1 10
+  89 3 30
+  90 0.02 0
+  110 6 60
+  111 2 20
+  112 10 100
+  113 0.03 0
+  114 4 40
+  127 7 70
+  128 2 20
+  150 0.02 0
+  151 7 70
+  152 9 90
+  153 7 70
+  154 0.19 2
+  155 5 50
+  165 4 40
+  166 3 30
+  167 0.18 2
+  168 5 50
+  169 1 10
+  177 2 20
+  178 0.09 1
+  179 12 120
+  180 28 280
+  181 39 390
+  182 0.1 1
+  183 2 20
+  190 1 10
+  191 5 50
+  192 0.16 2
+  193 8 80
+  194 6 60
+  195 6 60
+  196 0.36 4
+  197 5 50
+  205 11 110
+  206 8 80
+  207 0.21 2
+  208 12 120
+  209 5 50
+  219 3 30
+  220 0.07 1
+  221 51 510
+  222 21 210
+  223 32 320
+  224 0.07 1
+  237 6 60
+  238 1 10
+  252 8 80
+  253 0.02 0
+  295 99.99 999
+  296 19 190
+  297 2 20
+//

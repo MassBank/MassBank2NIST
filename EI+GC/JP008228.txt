@@ -1,0 +1,48 @@
+ACCESSION: JP008228
+RECORD_TITLE: METHYL 3-PENTENOATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: UBE SCIENTIFIC ANALYSIS LABORATORY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: METHYL 3-PENTENOATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H10O2
+CH$EXACT_MASS: 114.06808
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=818-58-6" target="_blank">818-58-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  15 31.11 311
+  16 1.4 14
+  26 2.73 27
+  27 24.93 249
+  28 4.85 49
+  29 35.68 357
+  39 17.34 173
+  40 1.88 19
+  41 4.41 44
+  42 4.66 47
+  43 6.56 66
+  50 1.74 17
+  51 2.75 28
+  53 9.96 100
+  54 14.53 145
+  55 99.99 999
+  56 4.81 48
+  59 37.93 379
+  71 3.31 33
+  72 12.47 125
+  74 1.66 17
+  81 1.1 11
+  82 10.38 104
+  83 8.54 85
+  99 1.41 14
+  114 29.72 297
+  115 1.97 20
+//

@@ -1,0 +1,19 @@
+Name: Pirimicarb
+CAS: 23103-98-2
+MW: 238
+Formula: C11H18N4O2
+Synonym: C11079
+Synonym: Pirimicarb
+Comment: XX003910
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 28
+55.000 2 57.100 10 63.100 6 72.200 999 78.800 11 80.900 3 83.100 24 85.000 74 88.100 5 93.000 6 
+106.000 3 106.900 11 109.400 54 114.500 2 116.200 5 117.100 5 125.300 5 129.800 7 135.200 345 137.300 25 
+138.100 15 144.100 3 145.100 3 150.200 10 152.400 46 162.300 6 167.100 5 182.500 24 

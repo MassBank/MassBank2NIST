@@ -1,0 +1,19 @@
+Name: Ranitidine
+MW: 314
+Formula: C13H22N4O3S
+Synonym: C07791
+Synonym: Transferred to D00673, Ranitidine
+Comment: XX006111
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 31
+32.9789 16 41.9994 5 45.9946 21 55.0333 5 59.0143 5 60.0098 37 91.0244 17 111.9996 44 116.0475 166 116.0715 9 
+142.0247 6 142.0619 523 142.1520 6 153.1034 6 170.0659 999 170.1472 8 170.1704 11 176.0480 5 176.0598 5 195.0492 10 
+195.0616 6 213.1035 8 213.1230 7 253.1359 12 253.2138 85 253.228 88 313.1278 90 313.1514 85 313.1987 7 313.2459 11 
+313.2696 5 

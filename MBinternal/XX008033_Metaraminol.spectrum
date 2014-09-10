@@ -1,0 +1,18 @@
+Name: Metaraminol
+MW: 167
+Formula: C9H13NO2
+Synonym: C08222
+Synonym: Metaraminol, Transferred to D01019
+Comment: XX008033
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 29
+42.035 14 43.0219 8 45.0358 41 56.0464 30 57.0370 5 79.0588 8 81.0739 19 89.06 39 91.0578 5 95.0504 9 
+105.0688 218 105.0961 9 109.0613 60 115.0442 5 115.0537 8 123.0804 8 132.0827 7 133.0666 236 133.1128 6 135.0661 6 
+150.0410 7 150.0519 7 150.0901 999 150.1555 11 151.0731 8 151.0841 5 151.1005 10 168.0917 5 168.1033 5 

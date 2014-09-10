@@ -1,0 +1,14 @@
+Name: Phenylalanine
+MW: 165
+Synonym: Phenylalanine
+Comment: SC000107
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+77.0389 20 79.0543 24 93.0697 33 103.054 130 107.049 18 120.081 884 131.048 33 166.086 999 

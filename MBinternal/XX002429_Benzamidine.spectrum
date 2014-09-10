@@ -1,0 +1,19 @@
+Name: Benzamidine
+CAS: 618-39-3
+MW: 120
+Formula: C7H8N2
+Synonym: C01784
+Synonym: Benzamidine
+Comment: XX002429
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 25
+38.700 1 43.200 1 44.400 1 57.800 1 59.000 1 61.100 1 62.900 2 73.700 1 76.900 9 86.200 1 
+89.100 1 95.100 2 102.200 1 104.100 999 110.900 1 121.000 758 122.100 1 157.000 1 171.100 1 177.100 1 
+190.700 1 199.100 1 201.200 1 203.400 1 215.300 1 

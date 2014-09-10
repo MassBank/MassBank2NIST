@@ -1,0 +1,72 @@
+ACCESSION: JP011883
+RECORD_TITLE: 4-METHOXYBENZYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-METHOXYBENZYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H11NO
+CH$EXACT_MASS: 137.08406
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2393-23-9" target="_blank">2393-23-9</a>
+CH$LINK: NIKKAJI <a href="http://nikkajiweb.jst.go.jp/nikkaji_web/pages/top.jsp?SN=J101.237A&CONTENT=syosai" target="_blank">J101.237A</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 50
+PK$PEAK: m/z int. rel.int.
+  15 3.22 32
+  27 1.53 15
+  28 10.18 102
+  29 1.73 17
+  30 14.9 149
+  38 2.03 20
+  39 6.42 64
+  40 1.16 12
+  41 3.32 33
+  50 3.93 39
+  51 6.41 64
+  52 3.12 31
+  53 1.46 15
+  54 1.32 13
+  62 1.46 15
+  63 4.96 50
+  64 3.3 33
+  65 7.08 71
+  66 5.72 57
+  67 4.24 42
+  74 1.25 13
+  76 1.31 13
+  77 14.95 150
+  78 9.61 96
+  79 5.93 59
+  81 1.21 12
+  89 3.72 37
+  90 1.17 12
+  91 6.76 68
+  92 3.08 31
+  93 8.65 87
+  94 12.77 128
+  95 2.38 24
+  104 4.26 43
+  105 5.68 57
+  106 41.32 413
+  107 4.9 49
+  108 8.77 88
+  109 18.8 188
+  110 1.57 16
+  119 5.25 53
+  120 11.97 120
+  121 40 400
+  122 9.32 93
+  123 1.11 11
+  134 3.14 31
+  135 1.62 16
+  136 99.99 999
+  137 82.86 829
+  138 8.07 81
+//

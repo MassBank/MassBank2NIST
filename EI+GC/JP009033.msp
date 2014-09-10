@@ -1,0 +1,22 @@
+Name:  3-METHYLPYRIDINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-99-6" target="_blank">108-99-6</a>
+MW: 93
+Formula: C6H7N
+Synonym: 3-PICOLINE
+Comment: JP009033
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+26:29 27:36 28:47 37:42 38:108 39:351 40:127 41:30 49:10 50:48 
+51:63 52:34 53:25 54:19 61:27 62:47 63:108 64:44 65:248 66:386 
+67:119 78:35 91:10 92:285 93:999 94:72 

@@ -1,0 +1,37 @@
+ACCESSION: JP002895
+RECORD_TITLE: DIETHYL SUCCINATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIETHYL SUCCINATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H14O4
+CH$EXACT_MASS: 174.08921
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  27 13.62 136
+  28 12.9 129
+  29 39.85 399
+  30 2.12 21
+  31 2.06 21
+  43 3.74 37
+  45 8.97 90
+  55 14.71 147
+  56 9.04 90
+  57 3.92 39
+  73 15.57 156
+  74 9.01 90
+  100 4.64 46
+  101 99.99 999
+  102 12.73 127
+  128 13.88 139
+  129 59.94 599
+  130 4.54 45
+//

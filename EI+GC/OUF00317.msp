@@ -1,0 +1,37 @@
+Name:  L-Methionine; GC-EI-TOF-MS; RT:560.194 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=63-68-3" target="_blank">63-68-3</a>
+MW: 149
+Formula: C5H11NO2S
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00073" target="_blank">C00073</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00019" target="_blank">D00019</a>
+Comment: OUF00317
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 560.194  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 118
+85:23 86:42 87:26 88:20 89:13 90:6 91:20 92:4 93:5 94:1 
+95:2 96:6 97:4 98:31 99:9 100:178 101:38 102:42 103:52 104:62 
+105:62 106:11 107:11 108:1 110:3 112:22 113:9 114:77 115:29 116:27 
+117:32 118:11 119:14 120:3 121:2 123:1 126:7 127:4 128:923 129:131 
+130:82 131:57 132:45 133:59 134:14 135:6 136:1 140:5 141:4 142:5 
+143:4 144:22 145:5 146:12 147:256 148:46 149:27 150:3 151:5 152:1 
+153:1 154:1 155:1 156:6 157:11 158:11 159:7 160:46 161:10 162:4 
+163:3 164:2 172:8 173:8 174:16 175:5 176:999 177:152 178:95 179:12 
+180:3 186:1 188:42 189:8 190:5 202:54 203:27 204:8 205:3 216:2 
+218:45 219:89 220:22 221:15 222:2 230:7 231:2 232:20 233:4 234:1 
+245:1 250:49 251:13 252:7 253:2 255:1 263:5 264:2 265:1 267:1 
+278:5 293:48 294:13 295:7 296:1 297:1 348:1 460:1 

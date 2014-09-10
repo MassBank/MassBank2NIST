@@ -1,0 +1,23 @@
+Name: NEROL
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-25-2" target="_blank">106-25-2</a>
+MW: 154
+Formula: C10H18O
+Synonym: NEROL
+Comment: JP007633
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 34
+41:111 43:23 55:25 56:2 57:24 59:51 67:48 68:23 69:999 70:79 
+71:75 72:4 79:26 80:267 81:84 82:2 83:71 84:331 85:43 91:1 
+92:119 93:478 94:94 107:5 108:19 109:31 110:41 111:16 112:43 121:195 
+136:135 137:2 139:93 154:84 

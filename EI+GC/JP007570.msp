@@ -1,0 +1,21 @@
+Name:  1-TERPINEOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=586-82-3" target="_blank">586-82-3</a>
+MW: 154
+Formula: C10H18O
+Synonym: 1-METHYL-4-(1-METHYLETHYL)-3-CYCLOHEXEN-1-OL
+Comment: JP007570
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+58:675 69:475 71:226 80:403 81:999 93:537 96:523 107:407 111:333 121:505 
+125:166 136:453 139:146 154:70 

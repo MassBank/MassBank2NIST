@@ -1,0 +1,14 @@
+Name: Dobutamine
+MW: 301
+Synonym: Dobutamine
+Comment: SC000827
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+91.0541 18 107.049 160 119.049 14 137.06 234 154.086 18 166.122 33 302.176 999 302.394 49 

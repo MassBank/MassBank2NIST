@@ -1,0 +1,21 @@
+Name:  ACETAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=105-57-7" target="_blank">105-57-7</a>
+MW: 118
+Formula: C6H14O2
+Synonym: 1,1-DIETHOXYETHANE
+Comment: JP007375
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+15:33 26:13 27:91 28:22 29:120 31:35 43:118 44:48 45:999 46:25 
+47:171 61:34 72:13 73:616 74:30 75:59 103:183 104:12 

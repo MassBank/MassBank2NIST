@@ -1,0 +1,36 @@
+ACCESSION: JP003511
+RECORD_TITLE: CAFFEINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CAFFEINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H10N4O2
+CH$EXACT_MASS: 194.08038
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-68
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  28 1.4 14
+  55 7.9 79
+  67 9.7 97
+  68 1 10
+  82 9.3 93
+  83 1.4 14
+  108 1 10
+  109 2.32 23
+  110 8.6 86
+  123 2.9 29
+  138 1.4 14
+  165 0.34 3
+  193 5.6 56
+  194 99.99 999
+  195 19.7 197
+  196 1.7 17
+//

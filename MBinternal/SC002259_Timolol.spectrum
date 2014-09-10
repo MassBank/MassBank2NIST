@@ -1,0 +1,14 @@
+Name: Timolol
+MW: 316
+Synonym: Timolol
+Comment: SC002259
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+56.0495 27 57.0699 35 74.0607 273 188.047 68 243.094 14 244.073 136 261.101 263 317.164 999 

@@ -1,0 +1,45 @@
+ACCESSION: JP008779
+RECORD_TITLE: 9,10-DIBROMOANTHRACENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: UOEH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 9,10-DIBROMOANTHRACENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C14H8Br2
+CH$EXACT_MASS: 333.89928
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=523-27-3" target="_blank">523-27-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HP 5970
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  43 6.1 61
+  44 12.03 120
+  62 13.79 138
+  63 9.68 97
+  74 17.08 171
+  75 21.53 215
+  86 10.52 105
+  87 21.06 211
+  88 51.64 516
+  89 5.76 58
+  98 13.18 132
+  111 7.24 72
+  149 9.45 95
+  150 17.46 175
+  168 15.75 158
+  174 18.78 188
+  175 24.89 249
+  176 99.99 999
+  177 16.42 164
+  334 47.69 477
+  336 79.33 793
+  337 17.46 175
+  338 42.15 422
+  339 8.19 82
+//

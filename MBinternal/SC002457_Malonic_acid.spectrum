@@ -1,0 +1,14 @@
+Name: Malonic_acid
+MW: 104
+Synonym: Malonic acid
+Comment: SC002457
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 3
+41.0035 24 59.0145 730 103.004 999 

@@ -1,0 +1,18 @@
+Name: Loperamide
+CAS: 53179-11-6
+MW: 476
+Formula: C29H33ClN2O2
+Synonym: C07080
+Synonym: Loperamide
+Comment: XX003325
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 13
+72.000 1 167.000 1 193.200 1 206.300 1 210.200 23 221.300 1 222.600 1 224.500 3 238.000 8 263.900 1 
+266.500 999 432.700 1 477.400 1 

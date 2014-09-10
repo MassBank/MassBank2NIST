@@ -1,0 +1,34 @@
+ACCESSION: JP007639
+RECORD_TITLE: N-(1-METHYLPROPYL)ACETAMIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-(1-METHYLPROPYL)ACETAMIDE
+CH$NAME: ACETYLAMINO-1-METHYLPROPANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H13NO
+CH$EXACT_MASS: 115.09971
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1189-05-5" target="_blank">1189-05-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 15 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  43 2.57 26
+  44 99.99 999
+  45 2.44 24
+  56 1.88 19
+  58 23.42 234
+  60 9.92 99
+  72 1.78 18
+  86 76.33 763
+  87 3.99 40
+  100 2.17 22
+  115 12.01 120
+  116 4.7 47
+//

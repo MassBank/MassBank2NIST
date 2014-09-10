@@ -1,0 +1,69 @@
+ACCESSION: NU000006
+RECORD_TITLE: 12alpha-Hydroxy-5alpha-cholan-24-oic Acid Methyl ester; EI-MS
+DATE: 2008.09.03
+AUTHORS: Takashi Iida, Department of Chemistry, College of Humanities and Sciences, Nihon University
+COPYRIGHT: Copyright(C) 2008 Takashi Iida, Department of Chemistry, College of Humanities and Sciences, Nihon University
+PUBLICATION: Iida, T., Tamura, T., and Matsumoto, T. 1988. Mass Spectra of Mono-, Di-, and Trihydroxy Stereoisomers of Methyl 5alpha-Cholanoates. J. Coll. Engin. Nihon Univ. (A). 29: 279 -288.
+COMMENT: Mass spectral data were collected from the publications cited in LipidBank
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 12alpha-Hydroxy-5alpha-cholan-24-oic Acid Methyl ester
+CH$COMPOUND_CLASS: Natural Product; BILE ACID
+CH$FORMULA: C25H42O3
+CH$EXACT_MASS: 390.31340
+CH$SMILES: C(C4)C([H])(C(CCC(OC)=O)C)C(C([H])41)(C)C(O)CC(C(C)23)([H])C(CCC(CCCC3)([H])2)1[H]
+CH$IUPAC: 1/C25H42O3/c1-16(8-13-23(27)28-4)19-11-12-20-18-10-9-17-7-5-6-14-24(17,2)21(18)15-22(26)25(19,20)3/h16-22,26H,5-15H2,1-4H3/t16-,17-,18+,19-,20+,21+,22+,24+,25-/m1/s1
+CH$LINK: LIPIDBANK <a href="http://lipidbank.jp/cgi-bin/detail.cgi?id=BBA0017" target="_blank">BBA0017</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Hitachi type M-80 B double focusing mass spectrometer
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: IONIZATION_POTENTIAL 20 eV
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: SOURCE_TEMPERATURE 180 C
+AC$ANALYTICAL_CONDITION: COMMENT Sample was directly injected and heated to 120 C
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$COMMENT: Fragment ions less than m/z 200 were not shown
+PK$NUM_PEAK: 43
+PK$PEAK: m/z int. rel.int.
+  201 17960 21
+  202 8660 10
+  203 49203 59
+  204 17386 21
+  205 11935 14
+  208 43001 51
+  209 11379 14
+  215 41179 49
+  216 38811 46
+  217 43123 51
+  218 21576 26
+  219 8657 10
+  220 6408 8
+  221 6020 7
+  229 6645 8
+  230 23079 28
+  231 15014 18
+  232 5633 7
+  233 43443 52
+  234 21548 26
+  243 10734 13
+  244 6834 8
+  247 4442 5
+  248 5275 6
+  255 4777 6
+  256 42997 51
+  257 837461 999
+  258 190144 227
+  259 24092 29
+  262 6929 8
+  263 8276 10
+  275 10507 13
+  285 11160 13
+  286 8855 11
+  299 5452 7
+  343 6747 8
+  357 33328 40
+  358 15028 18
+  359 20861 25
+  360 5288 6
+  372 68327 82
+  373 20736 25
+  374 4609 5
+//

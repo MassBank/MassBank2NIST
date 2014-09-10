@@ -1,0 +1,37 @@
+Name:  Mesaconic acid; GC-EI-TOF-MS; 2 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=498-24-8" target="_blank">498-24-8</a>
+MW: 130
+Formula: C5H6O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01732" target="_blank">C01732</a>
+Synonym: Mesaconate, Methylfumaric acid, 2-Methylfumarate
+Comment: PR010190
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 373.617 sec
+Comment: RETENTION_INDEX 1389.3
+Comment: FILE std6_GCTMS_PR060121MSinfo.txt
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: DERIVATIVE_FORM C11H22O4Si2
+Comment: DERIVATIVE_MASS 274.10566
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 103
+60:17 61:48 62:4 63:3 64:1 65:3 66:34 67:145 68:5 69:12 
+70:9 71:14 72:29 73:999 74:102 75:313 76:30 77:36 78:3 79:8 
+80:1 81:7 82:10 83:42 84:7 85:10 86:1 87:6 88:1 89:5 
+92:1 93:1 94:1 95:7 96:8 97:117 98:32 99:26 100:4 101:4 
+102:2 103:8 104:1 105:3 111:3 112:22 113:14 114:2 115:9 116:2 
+117:15 118:2 119:4 122:29 123:2 125:4 126:1 127:9 128:1 129:2 
+131:11 132:3 133:44 134:6 135:4 140:8 141:45 142:10 143:5 144:1 
+145:1 147:429 148:69 149:50 150:6 151:2 155:2 156:12 157:19 158:3 
+159:2 163:3 169:15 170:2 171:5 172:1 173:1 184:244 185:40 186:12 
+187:2 199:2 215:3 229:1 231:11 232:3 233:1 258:1 259:145 260:31 
+261:13 262:2 274:2 

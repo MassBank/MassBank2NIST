@@ -1,0 +1,16 @@
+Name: 2-Mercapto-1-methylimidazole
+MW: 114
+Formula: C4H6N2S
+Synonym: C07190
+Synonym: Transferred to D00401, 2-Mercapto-1-methylimidazole
+Comment: XX003538
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 10
+55.400 4 57.200 48 70.700 12 74.100 40 82.400 6 82.900 28 88.200 52 100.100 3 113.000 4 115.100 999 

@@ -1,0 +1,104 @@
+ACCESSION: OUF00392
+RECORD_TITLE: Nonanoic acid(C9); GC-EI-TOF-MS; RT:477.144 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Nonanoic acid(C9)
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C9H18O2
+CH$EXACT_MASS: 158.13068
+CH$SMILES: CCCCCCCCC(O)=O
+CH$IUPAC: InChI=1/C9H18O2/c1-2-3-4-5-6-7-8-9(10)11/h2-8H2,1H3,(H,10,11)/f/h10H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-05-0" target="_blank">112-05-0</a>
+CH$LINK: LIPIDMAPS LMFA01010009
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:29019" target="_blank">29019</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:32361" target="_blank">32361</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01601" target="_blank">C01601</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=8158" target="_blank">8158</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/7866" target="_blank">7866</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 477.144  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 72
+PK$PEAK: m/z int. rel.int.
+  85 29 29
+  86 23 23
+  87 14 14
+  88 16 16
+  89 30 30
+  90 4 4
+  91 10 10
+  93 12 12
+  94 3 3
+  95 12 12
+  96 10 10
+  97 27 27
+  98 29 29
+  99 34 34
+  100 4 4
+  101 36 36
+  102 5 5
+  103 5 5
+  105 56 56
+  106 2 2
+  107 3 3
+  111 15 15
+  112 13 13
+  113 3 3
+  114 1 1
+  115 14 14
+  116 68 68
+  117 999 999
+  118 96 96
+  119 44 44
+  121 5 5
+  123 2 2
+  124 2 2
+  125 1 1
+  128 2 2
+  129 401 401
+  130 54 54
+  131 274 274
+  132 330 330
+  133 52 52
+  134 14 14
+  139 5 5
+  140 3 3
+  141 5 5
+  143 35 35
+  144 3 3
+  145 121 121
+  146 17 17
+  147 5 5
+  157 12 12
+  159 22 22
+  160 1 1
+  171 33 33
+  172 2 2
+  173 3 3
+  185 10 10
+  187 25 25
+  188 4 4
+  201 18 18
+  215 449 449
+  216 80 80
+  217 27 27
+  218 1 1
+  230 10 10
+  231 1 1
+  254 2 2
+  256 1 1
+  273 1 1
+  311 2 2
+  458 1 1
+  476 1 1
+  498 1 1
+//

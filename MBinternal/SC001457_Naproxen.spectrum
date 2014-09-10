@@ -1,0 +1,14 @@
+Name: Naproxen
+MW: 230
+Synonym: Naproxen
+Comment: SC001457
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+169.064 17 170.073 202 185.097 999 228.204 20 229.086 103 

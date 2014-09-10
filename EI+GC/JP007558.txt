@@ -1,0 +1,43 @@
+ACCESSION: JP007558
+RECORD_TITLE: BETA-IONONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BETA-IONONE
+CH$NAME: (E)-4-(2,6,6-TRIMETHYL-1-CYCLOHEXEN-1-YL)-3-BUTEN-2-ONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C13H20O
+CH$EXACT_MASS: 192.15142
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-77-6" target="_blank">79-77-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  32 2.79 28
+  43 55.87 559
+  55 5.08 51
+  59 24.27 243
+  69 8.47 85
+  71 12.85 129
+  79 2.96 30
+  81 6.61 66
+  93 11.13 111
+  95 11.61 116
+  107 7.52 75
+  109 8.62 86
+  121 9.21 92
+  122 8.29 83
+  133 6.38 64
+  135 15.43 154
+  149 8.77 88
+  159 5.55 56
+  177 99.99 999
+  178 12.62 126
+  192 7.05 71
+//

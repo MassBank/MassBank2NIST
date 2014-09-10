@@ -1,0 +1,44 @@
+ACCESSION: JP009002
+RECORD_TITLE: DIMETHYL MALONATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIMETHYL MALONATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H8O4
+CH$EXACT_MASS: 132.04226
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-59-8" target="_blank">108-59-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  14 4.96 50
+  15 42.75 428
+  27 5.44 54
+  29 26.86 269
+  30 3.05 31
+  31 5.35 54
+  41 5.22 52
+  42 44.99 450
+  43 22.92 229
+  44 1.16 12
+  45 14.08 141
+  57 26.2 262
+  58 5.12 51
+  59 99.99 999
+  60 1.53 15
+  69 10.66 107
+  74 46.85 469
+  75 1.23 12
+  100 3.63 36
+  101 96.68 967
+  102 3.66 37
+  104 2.19 22
+  132 2.64 26
+//

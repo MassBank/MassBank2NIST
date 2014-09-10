@@ -1,0 +1,50 @@
+ACCESSION: JP004837
+RECORD_TITLE: 9,10-DICYANOANTHRACENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 9,10-DICYANOANTHRACENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C16H8N2
+CH$EXACT_MASS: 228.06875
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1217-45-4" target="_blank">1217-45-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 29
+PK$PEAK: m/z int. rel.int.
+  51 1.1 11
+  73 1.21 12
+  74 2.26 23
+  75 2.26 23
+  86 1.21 12
+  87 5.91 59
+  88 1.45 15
+  98 1.16 12
+  99 1.33 13
+  100 2.55 26
+  101 6.5 65
+  114 6.9 69
+  147 1.04 10
+  150 1.16 12
+  151 1.16 12
+  174 2.95 30
+  175 3.59 36
+  176 1.39 14
+  177 1.1 11
+  199 3.54 35
+  200 5.62 56
+  201 8.76 88
+  202 3.07 31
+  207 1.56 16
+  226 3.13 31
+  227 5.74 57
+  228 99.99 999
+  229 18.97 190
+  230 1.68 17
+//

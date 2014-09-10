@@ -1,0 +1,30 @@
+Name:  Nicotinic acid; GC-EI-TOF-MS; RT:443.793 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=59-67-6" target="_blank">59-67-6</a>
+MW: 123
+Formula: C6H5NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00253" target="_blank">C00253</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00049" target="_blank">D00049</a>
+Comment: OUF00390
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 443.793  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 49
+85:4 86:3 87:1 90:53 91:6 92:7 93:15 94:12 95:5 96:3 
+97:1 99:1 104:3 105:32 106:782 107:61 108:10 109:14 110:6 119:1 
+120:19 121:3 122:19 123:8 124:2 132:2 134:8 135:8 136:910 137:125 
+138:39 139:3 150:6 151:2 152:1 153:1 162:5 164:6 165:2 166:1 
+179:6 180:999 181:148 182:48 183:4 194:11 195:45 196:8 197:1 

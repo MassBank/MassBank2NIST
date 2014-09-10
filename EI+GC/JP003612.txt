@@ -1,0 +1,39 @@
+ACCESSION: JP003612
+RECORD_TITLE: N,N-DIMETHYLCYCLOHEXYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N,N-DIMETHYLCYCLOHEXYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H17N
+CH$EXACT_MASS: 127.1361
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  28 2.2 22
+  41 6 60
+  42 13 130
+  43 0.3 3
+  44 8.3 83
+  45 2 20
+  53 3 30
+  54 0.2 2
+  55 3 30
+  56 5.5 55
+  58 6 60
+  70 0.48 5
+  71 15.5 155
+  82 2 20
+  84 99.99 999
+  85 0.6 6
+  98 4 40
+  126 3 30
+  127 12.4 124
+  128 2.5 25
+//

@@ -1,0 +1,47 @@
+ACCESSION: JP009774
+RECORD_TITLE: 3-PHENOXY-1,2-PROPANEDIOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-PHENOXY-1,2-PROPANEDIOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H12O3
+CH$EXACT_MASS: 168.07864
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  27 5.3 53
+  29 4.1 41
+  31 5.8 58
+  39 0.56 6
+  41 3.1 31
+  43 9.7 97
+  45 6.7 67
+  51 0.75 8
+  56 2.8 28
+  57 7.8 78
+  61 3.3 33
+  65 0.72 7
+  66 5.9 59
+  71 12.5 125
+  77 21.3 213
+  78 0.64 6
+  79 4.7 47
+  91 3 30
+  94 99.99 999
+  95 1.31 13
+  99 10.8 108
+  107 7.8 78
+  108 6.3 63
+  119 0.48 5
+  142 5 50
+  143 16.6 166
+  168 18 180
+//

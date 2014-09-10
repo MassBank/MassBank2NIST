@@ -1,0 +1,20 @@
+Name: TRANS-GERANYL NITRILE
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5585-39-7" target="_blank">5585-39-7</a>
+MW: 149
+Formula: C10H15N
+Synonym: TRANS-GERANYL NITRILE
+Comment: JP007630
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+41:86 69:999 70:40 81:4 121:12 134:90 148:20 149:39 

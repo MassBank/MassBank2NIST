@@ -1,0 +1,22 @@
+Name:  3,7,11-TRIMETHYL-2,6,10-DODECATRIENENITRILE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=29789-67-1" target="_blank">29789-67-1</a>
+MW: 217
+Formula: C15H23N
+Comment: JP009899
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 36
+27:30 29:30 39:42 41:310 42:12 43:35 53:70 55:78 67:60 68:62 
+69:999 70:60 77:16 79:25 80:20 81:417 82:30 91:13 93:20 94:13 
+95:45 96:13 106:10 107:10 109:35 121:15 123:16 124:42 136:33 137:46 
+146:16 148:17 161:17 174:35 202:10 217:15 

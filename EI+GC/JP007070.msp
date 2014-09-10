@@ -1,0 +1,20 @@
+Name:  TERT-BUTYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=540-88-5" target="_blank">540-88-5</a>
+MW: 116
+Formula: C6H12O2
+Comment: JP007070
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+15:81 27:76 28:18 29:160 31:27 39:119 40:18 41:326 42:44 43:999 
+44:24 55:28 56:297 57:546 58:26 59:338 61:19 101:159 

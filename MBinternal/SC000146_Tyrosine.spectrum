@@ -1,0 +1,14 @@
+Name: Tyrosine
+MW: 181
+Synonym: Tyrosine
+Comment: SC000146
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 7
+91.0539 45 119.049 77 123.045 105 136.075 507 147.044 79 165.054 350 182.081 999 

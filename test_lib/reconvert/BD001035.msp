@@ -1,0 +1,22 @@
+Name: N-Acetylcarnosine
+MW: 268
+Formula: C11H16N4O4
+Synonym: CID: 91814
+Synonym: MassBank: BD001035
+Synonym: N-Acetylcarnosine
+Contributor: GZ
+InstType: ESI
+InstName: micrOTOF-Q
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+IsolWidth: 10
+TargetGas: Nitrogen
+ColEnergy: 10
+PeakWidth: 0.028
+ChargeDecon: 2
+Date: 2010-10-09 19:48:36+02:00
+Column: Synergi Fusion RP 2.5 u
+Mass: 44.9437-395.145
+Num Peaks: 10
+72.045 45 95.060 31 110.071 999 111.073 71 113.377 18 114.055 159 156.076 699 157.077 52 164.082 53 210.087 35 

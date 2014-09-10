@@ -1,0 +1,18 @@
+Name:  2,3-DIMETHYLANILINE; EI-MS
+MW: 121
+Formula: C8H11N
+Comment: JP003987
+Comment: N/A
+Comment: HITACHI RMU-6L
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+42:82 51:117 60:98 77:23 104:101 105:131 120:999 121:592 

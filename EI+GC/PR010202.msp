@@ -1,0 +1,41 @@
+Name:  Palmitic acid; GC-EI-TOF-MS; 1 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=57-10-3" target="_blank">57-10-3</a>
+MW: 256
+Formula: C16H32O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00249" target="_blank">C00249</a>
+Synonym: Hexadecylic acid, Hexadecanoate, Cetylic acid, Palmitate, Hexadecanoic acid
+Comment: PR010202
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 522.943 sec
+Comment: RETENTION_INDEX 2038.4
+Comment: FILE std6_GCTMS_PR060121MSinfo.txt
+Comment: DERIVATIVE_TYPE 1 TMS
+Comment: DERIVATIVE_FORM C19H40O2Si
+Comment: DERIVATIVE_MASS 328.27976
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 149
+60:21 61:79 62:7 63:5 64:1 65:8 66:3 67:69 68:2 69:60 
+70:25 71:40 72:53 73:999 74:115 75:707 76:70 77:72 78:6 79:37 
+80:4 81:60 82:9 83:64 84:26 85:29 86:13 87:9 88:7 89:25 
+90:4 91:9 92:2 93:20 94:2 95:50 96:7 97:42 98:33 99:22 
+100:3 101:14 102:4 103:4 105:23 106:2 107:9 108:1 109:14 110:2 
+111:18 112:9 113:4 114:2 115:8 116:55 117:807 118:79 119:34 120:2 
+121:7 122:1 123:4 124:2 125:5 126:3 127:4 128:3 129:363 130:48 
+131:122 132:339 133:66 134:17 135:6 136:1 137:2 138:1 139:3 140:2 
+141:2 142:2 143:28 144:3 145:159 146:22 147:7 148:1 149:2 153:2 
+154:3 155:3 157:8 158:1 159:16 160:2 161:1 167:1 168:1 169:1 
+171:15 172:2 173:5 174:3 181:1 182:2 185:20 186:3 187:13 188:4 
+189:1 195:2 196:1 199:6 200:1 201:32 202:6 203:2 209:1 213:5 
+214:1 215:4 216:1 227:5 228:1 229:6 230:1 241:3 243:6 244:1 
+255:1 257:4 258:1 269:8 270:2 271:2 283:1 285:8 286:2 299:1 
+312:6 313:138 314:37 315:10 316:1 327:1 328:16 329:4 330:1 

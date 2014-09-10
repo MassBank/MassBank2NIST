@@ -1,0 +1,37 @@
+ACCESSION: JP005007
+RECORD_TITLE: (29H,31H-PHTHALOCYANINATO(2-)-N(29),N(30),N(31),N(32))PLATINUM; EI-MS
+DATE: 2008.10.21
+AUTHORS: ISA K, FUKUI UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (29H,31H-PHTHALOCYANINATO(2-)-N(29),N(30),N(31),N(32))PLATINUM
+CH$NAME: PHTHALOCYANINEPLATINUM(2)
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C32H16N8Pt
+CH$EXACT_MASS: 707.11457
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=14075-08-2" target="_blank">14075-08-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 15 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 15
+PK$PEAK: m/z int. rel.int.
+  128 1 10
+  322 2 20
+  323 3 30
+  324 3 30
+  353 5 50
+  353.5 9 90
+  354 9 90
+  354.5 7 70
+  706 72 720
+  707 99.99 999
+  708 90 900
+  709 83 830
+  710 26 260
+  711 26 260
+  712 11 110
+//

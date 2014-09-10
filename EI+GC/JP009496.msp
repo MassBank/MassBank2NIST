@@ -1,0 +1,20 @@
+Name:  1H-TETRAZOLE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=288-94-8" target="_blank">288-94-8</a>
+MW: 70
+Formula: CH2N4
+Comment: JP009496
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+12:54 13:208 14:152 15:65 18:17 26:52 27:188 28:322 29:465 40:22 
+41:206 42:999 43:53 70:12 71:5 

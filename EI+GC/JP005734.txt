@@ -1,0 +1,70 @@
+ACCESSION: JP005734
+RECORD_TITLE: (1S)-(-)-BETA-PINENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (1S)-(-)-BETA-PINENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H16
+CH$EXACT_MASS: 136.1252
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=18172-67-3" target="_blank">18172-67-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 49
+PK$PEAK: m/z int. rel.int.
+  14 2.3 23
+  15 3.7 37
+  16 1.5 15
+  17 5.3 53
+  18 18 180
+  26 2.5 25
+  27 28.5 285
+  28 23.8 238
+  29 10.2 102
+  32 7 70
+  38 2.7 27
+  39 39.1 391
+  40 6.5 65
+  41 69.1 691
+  42 3.8 38
+  43 8.7 87
+  50 3.4 34
+  51 9.4 94
+  52 6 60
+  53 16.2 162
+  54 2.3 23
+  55 10.5 105
+  56 1.1 11
+  57 1 10
+  63 2.9 29
+  65 7.8 78
+  66 3 30
+  67 12.6 126
+  68 3.6 36
+  69 43.5 435
+  70 2.4 24
+  77 23 230
+  78 5.6 56
+  79 26.3 263
+  80 11.3 113
+  81 3.9 39
+  82 1.7 17
+  91 19.6 196
+  92 9.2 92
+  93 99.99 999
+  94 13.3 133
+  95 2.7 27
+  105 3.1 31
+  107 4.3 43
+  108 1.4 14
+  121 10.2 102
+  122 0.9 9
+  136 7.2 72
+  137 0.7 7
+//

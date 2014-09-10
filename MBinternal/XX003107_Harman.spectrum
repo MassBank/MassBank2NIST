@@ -1,0 +1,18 @@
+Name: Harman
+CAS: 486-84-0
+MW: 182
+Formula: C12H10N2
+Synonym: C09209
+Synonym: Harman
+Comment: XX003107
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 12
+57.900 18 77.000 35 89.000 84 90.700 14 115.300 999 117.000 7 140.200 35 140.400 21 141.300 60 167.800 28 
+181.900 28 183.100 25 

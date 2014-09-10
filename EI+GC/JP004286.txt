@@ -1,0 +1,43 @@
+ACCESSION: JP004286
+RECORD_TITLE: 1,4-DICHLOROBENZENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,4-DICHLOROBENZENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H4Cl2
+CH$EXACT_MASS: 145.96901
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-46-7" target="_blank">106-46-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  36 3.85 39
+  37 2.64 26
+  49 3.52 35
+  50 20.88 209
+  51 5.71 57
+  55 2.42 24
+  61 1.87 19
+  73 7.91 79
+  74 17.91 179
+  75 37.47 375
+  76 3.96 40
+  84 3.52 35
+  85 4.4 44
+  110 3.3 33
+  111 52.97 530
+  112 3.52 35
+  113 16.48 165
+  146 99.99 999
+  147 5.82 58
+  148 62.09 621
+  149 3.41 34
+  150 8.79 88
+//

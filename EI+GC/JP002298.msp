@@ -1,0 +1,18 @@
+Name:  1,2-DIIODOPROPANE; EI-MS
+MW: 295
+Formula: C3H6I2
+Comment: JP002298
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+41:709 42:192 127:160 128:207 141:25 169:999 170:39 254:292 296:30 

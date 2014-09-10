@@ -1,0 +1,14 @@
+Name: Hippuric_acid
+MW: 179
+Synonym: Hippuric acid
+Comment: SC001312
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+51.023 116 77.0392 802 101.004 30 105.034 999 180.065 985 

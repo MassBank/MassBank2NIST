@@ -1,0 +1,18 @@
+Name: Pyridoxal
+CAS: 66-72-8
+MW: 167
+Formula: C8H9NO3
+Synonym: C00250
+Synonym: Pyridoxal
+Comment: XX005901
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+34.9681 7 59.0144 2 108.0419 6 130.0547 47 130.1359 2 136.0439 14 138.0598 76 138.1435 3 164.0333 14 165.2094 2 
+165.9537 2 166.0512 999 166.12 12 166.15155 28 

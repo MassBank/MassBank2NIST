@@ -1,0 +1,14 @@
+Name: Acetylcholine
+MW: 146
+Synonym: Acetylcholine
+Comment: SC000178
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+43.0183 147 60.0817 74 64.0166 199 87.0448 976 103.956 6 105.043 40 144.986 5 146.118 999 

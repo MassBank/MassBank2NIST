@@ -1,0 +1,38 @@
+ACCESSION: JP007645
+RECORD_TITLE: NORBORNANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: NORBORNANE
+CH$NAME: BICYCLO(2.2.1)HEPTANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H12
+CH$EXACT_MASS: 96.0939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=279-23-2" target="_blank">279-23-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 15 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  31 17.72 177
+  32 16.04 160
+  45 5.54 55
+  46 2.46 25
+  54 32.65 327
+  55 13.86 139
+  56 1.23 12
+  66 13.02 130
+  67 80.54 805
+  68 84.65 847
+  69 5.44 54
+  81 99.99 999
+  82 7.02 70
+  95 4.63 46
+  96 53.19 532
+  97 5.09 51
+//

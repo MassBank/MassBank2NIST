@@ -1,0 +1,20 @@
+Name:  DIMETHOXYDIMETHYLSILANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1112-39-6" target="_blank">1112-39-6</a>
+MW: 120
+Formula: C4H12O2Si
+Comment: JP004712
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+43:29 52:14 59:25 61:33 73:27 75:494 76:39 77:23 78:38 89:51 
+105:999 106:88 107:42 120:5 

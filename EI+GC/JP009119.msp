@@ -1,0 +1,22 @@
+Name:  DOCOSANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=629-97-0" target="_blank">629-97-0</a>
+MW: 310
+Formula: C22H46
+Comment: JP009119
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 38
+27:63 29:193 39:45 41:362 42:100 43:884 44:20 53:14 54:19 55:265 
+56:142 57:999 58:44 67:20 68:20 69:124 70:110 71:581 72:25 82:14 
+83:82 84:57 85:357 86:17 97:56 98:28 99:99 111:17 112:20 113:60 
+126:15 127:37 140:11 141:22 154:11 155:17 169:12 183:11 

@@ -1,0 +1,14 @@
+Name: Gentisic_acid
+MW: 154
+Synonym: Gentisic acid
+Comment: SC000884
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+41.0038 2 53.0402 27 81.0349 20 108.022 685 109.03 551 153.019 999 153.282 3 153.498 2 

@@ -1,0 +1,64 @@
+ACCESSION: JP007793
+RECORD_TITLE: 4-ETHYL-5-METHYLTHIAZOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-ETHYL-5-METHYLTHIAZOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H9NS
+CH$EXACT_MASS: 127.04557
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=52414-91-2" target="_blank">52414-91-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 43
+PK$PEAK: m/z int. rel.int.
+  27 1.06 11
+  29 3.26 33
+  39 3.98 40
+  41 19.98 200
+  42 3.01 30
+  45 33.02 330
+  46 1.02 10
+  47 2 20
+  53 3.13 31
+  54 3.12 31
+  55 3.98 40
+  56 1.01 10
+  58 3.02 30
+  59 31.1 311
+  60 1.94 19
+  61 1.02 10
+  64 3.04 30
+  65 10.57 106
+  66 5.21 52
+  67 14.01 140
+  68 3.99 40
+  71 7.32 73
+  72 18.03 180
+  73 2 20
+  74 1.1 11
+  84 2.01 20
+  85 78.21 782
+  86 7.96 80
+  87 7.03 70
+  98 5.1 51
+  99 45.97 460
+  100 8.02 80
+  101 2.02 20
+  112 81.21 812
+  113 13.32 133
+  114 11.06 111
+  124 1.02 10
+  125 10.13 101
+  126 86.88 869
+  127 99.99 999
+  128 35.13 351
+  129 20.23 202
+  130 1.02 10
+//

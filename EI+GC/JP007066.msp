@@ -1,0 +1,20 @@
+Name:  PROPYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-60-4" target="_blank">109-60-4</a>
+MW: 102
+Formula: C5H10O2
+Comment: JP007066
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+14:10 15:65 26:12 27:88 28:12 29:43 31:37 39:39 41:73 42:89 
+43:999 44:20 59:44 61:254 73:121 

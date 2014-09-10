@@ -1,0 +1,14 @@
+Name: Liothyronine
+MW: 650
+Synonym: Liothyronine
+Comment: SC003229
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+121.487 142 126.208 138 126.901 226 149.657 134 357.308 140 606.335 138 649.112 208 649.781 999 

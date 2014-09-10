@@ -1,0 +1,21 @@
+Name:  2,2'-BINAPHTHYL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=612-78-2" target="_blank">612-78-2</a>
+MW: 254
+Formula: C20H14
+Synonym: 2,2'-BINAPHTHALENE
+Comment: JP011060
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+17:11 27:10 113:15 125:11 126:39 127:45 226:11 250:37 251:17 252:193 
+253:106 254:999 255:218 256:23 

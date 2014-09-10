@@ -1,0 +1,63 @@
+ACCESSION: JP004355
+RECORD_TITLE: 2,4-DIPHENYLTHIAZOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,4-DIPHENYLTHIAZOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C15H11NS
+CH$EXACT_MASS: 237.06122
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MX-1303
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 50 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 43
+PK$PEAK: m/z int. rel.int.
+  26 1.2 12
+  27 2.6 26
+  29 4.5 45
+  30 0.11 1
+  31 1.2 12
+  34 1.5 15
+  39 4.1 41
+  45 0.38 4
+  50 2.5 25
+  51 5.8 58
+  52 1.4 14
+  55 0.11 1
+  58 1.5 15
+  62 1.5 15
+  63 6.2 62
+  64 0.15 2
+  69 6 60
+  74 1.4 14
+  75 2.1 21
+  76 0.42 4
+  77 6.2 62
+  78 1.5 15
+  81 1.1 11
+  82 0.23 2
+  84 1.7 17
+  89 20.7 207
+  90 20.4 204
+  91 0.27 3
+  93 1.7 17
+  95 1.1 11
+  102 5.9 59
+  103 0.43 4
+  104 1.4 14
+  108 9.4 94
+  118.5 1.1 11
+  133 0.52 5
+  134 99.99 999
+  135 12.4 124
+  136 6.2 62
+  236 0.27 3
+  237 77.2 772
+  238 17 170
+  239 5.7 57
+//

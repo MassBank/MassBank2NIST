@@ -1,0 +1,21 @@
+Name:  N-PROPYLACETAMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5331-48-6" target="_blank">5331-48-6</a>
+MW: 101
+Formula: C5H11NO
+Synonym: ACETYLAMINOPROPANE
+Comment: JP007643
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+43:80 44:172 58:35 59:11 60:76 72:303 73:92 86:377 87:18 101:518 
+102:49 

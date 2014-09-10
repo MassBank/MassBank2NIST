@@ -1,0 +1,68 @@
+ACCESSION: JP006243
+RECORD_TITLE: METHYL HEPTANOATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: METHYL HEPTANOATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H16O2
+CH$EXACT_MASS: 144.11503
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-73-0" target="_blank">106-73-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 47
+PK$PEAK: m/z int. rel.int.
+  39 5.92 59
+  40 1.59 16
+  41 33.83 338
+  42 7.65 77
+  43 41.22 412
+  44 1.72 17
+  45 2.14 21
+  53 1.4 14
+  54 0.82 8
+  55 15.79 158
+  56 4.45 45
+  57 5.43 54
+  58 0.42 4
+  59 14.97 150
+  60 0.56 6
+  61 0.3 3
+  67 0.65 7
+  68 1.08 11
+  69 4.51 45
+  70 1.15 12
+  71 0.63 6
+  73 2.41 24
+  74 99.99 999
+  75 6.48 65
+  76 0.53 5
+  83 1.7 17
+  84 3.68 37
+  85 3.19 32
+  86 0.21 2
+  87 30.6 306
+  88 3.65 37
+  89 0.25 3
+  94 0.14 1
+  95 0.37 4
+  97 0.41 4
+  99 0.36 4
+  101 10.92 109
+  102 0.74 7
+  111 0.29 3
+  112 0.14 1
+  113 11.21 112
+  114 0.84 8
+  115 2.26 23
+  116 0.22 2
+  129 0.16 2
+  144 0.67 7
+  145 0.55 6
+//

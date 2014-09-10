@@ -1,0 +1,29 @@
+Name:  L-Norleucine; GC-EI-TOF-MS; RT:383.494 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=327-57-1" target="_blank">327-57-1</a>
+MW: 131
+Formula: C6H13NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01933" target="_blank">C01933</a>
+Comment: OUF00393
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 383.494  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 35
+85:8 86:999 87:78 88:5 89:3 91:4 92:2 93:1 99:4 100:4 
+101:2 102:8 103:46 104:6 105:2 114:1 116:1 117:4 128:21 129:10 
+130:21 131:10 132:1 142:12 143:4 144:3 146:24 147:2 158:1 160:1 
+170:25 171:11 172:2 188:29 189:3 

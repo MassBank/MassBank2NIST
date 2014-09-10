@@ -1,0 +1,14 @@
+Name: Lysine
+MW: 146
+Synonym: Lysine
+Comment: SC000091
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+56.0501 58 64.0164 543 67.0554 39 84.0811 933 105.042 106 105.98 24 130.086 353 147.113 999 

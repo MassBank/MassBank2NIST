@@ -1,0 +1,14 @@
+Name: Spermine
+MW: 202
+Synonym: Spermine
+Comment: SC000506
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 7
+58.0659 9 72.0814 8 84.0809 16 112.112 158 129.139 512 132.149 3 203.223 999 

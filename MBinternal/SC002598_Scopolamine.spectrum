@@ -1,0 +1,14 @@
+Name: Scopolamine
+MW: 303
+Synonym: Scopolamine
+Comment: SC002598
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+98.0608 26 103.055 22 110.097 31 121.065 97 138.092 246 156.102 197 304.155 999 304.37 79 

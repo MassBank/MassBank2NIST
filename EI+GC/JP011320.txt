@@ -1,0 +1,43 @@
+ACCESSION: JP011320
+RECORD_TITLE: 2,4-PENTANEDIONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2,4-PENTANEDIONE
+CH$NAME: ACETYLACETONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H8O2
+CH$EXACT_MASS: 100.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=123-54-6" target="_blank">123-54-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  14 1.4 14
+  15 7.85 79
+  18 1.08 11
+  26 1.56 16
+  27 5.45 55
+  28 1.14 11
+  29 3.89 39
+  31 3.46 35
+  38 1.17 12
+  39 4.59 46
+  41 5.22 52
+  42 5.45 55
+  43 99.99 999
+  44 2.3 23
+  55 1.59 16
+  58 3.89 39
+  72 4.5 45
+  85 49.05 491
+  86 2.11 21
+  100 42.45 425
+  101 2.84 28
+//

@@ -1,0 +1,18 @@
+Name:  ETHYLENEGLYCOL DIMETHYL ETHER; EI-MS
+MW: 90
+Formula: C4H10O2
+Comment: JP003709
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+14:22 15:6 26:13 27:4 28:35 29:185 30:17 31:1 42:13 43:60 
+44:7 45:999 46:22 58:65 59:28 60:11 90:108 

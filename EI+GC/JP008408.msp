@@ -1,0 +1,19 @@
+Name:  3-METHYL-2-PENTANOL; EI-MS
+MW: 102
+Formula: C6H14O
+Comment: JP008408
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+15:14 19:11 27:95 28:15 29:110 31:26 39:51 41:131 42:13 43:73 
+44:97 45:999 46:24 55:42 56:135 57:43 59:13 69:30 87:22 

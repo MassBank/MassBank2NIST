@@ -1,0 +1,59 @@
+ACCESSION: JP007144
+RECORD_TITLE: BENZYLACETONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZYLACETONE
+CH$NAME: 4-PHENYL-2-BUTANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H12O
+CH$EXACT_MASS: 148.08882
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2550-26-7" target="_blank">2550-26-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 37
+PK$PEAK: m/z int. rel.int.
+  15 5.21 52
+  27 8.51 85
+  38 1.41 14
+  39 10.83 108
+  41 2.04 20
+  42 1.95 20
+  43 99.99 999
+  44 1.83 18
+  50 6.91 69
+  51 17.75 178
+  52 3.27 33
+  53 1.75 18
+  55 2.87 29
+  62 1.43 14
+  63 6.56 66
+  64 1.21 12
+  65 11.58 116
+  74 1.74 17
+  75 1.46 15
+  76 1.49 15
+  77 21.32 213
+  78 13.65 137
+  79 12.29 123
+  89 2.36 24
+  91 55.57 556
+  92 3.96 40
+  102 1.44 14
+  103 9.9 99
+  104 10.48 105
+  105 67.47 675
+  106 7.49 75
+  115 2.82 28
+  129 1.61 16
+  133 10.69 107
+  147 2.14 21
+  148 56.16 562
+  149 5.91 59
+//

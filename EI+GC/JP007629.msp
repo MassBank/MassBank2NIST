@@ -1,0 +1,20 @@
+Name: CIS-GERANYL NITRILE
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=31983-27-4" target="_blank">31983-27-4</a>
+MW: 149
+Formula: C10H15N
+Synonym: CIS-GERANYL NITRILE
+Comment: JP007629
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+41:99 69:999 70:43 81:8 108:10 121:24 134:206 135:2 148:49 149:67 

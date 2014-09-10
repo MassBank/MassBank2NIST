@@ -1,0 +1,21 @@
+Name:  CYCLOHEXYL FORMATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4351-54-6" target="_blank">4351-54-6</a>
+MW: 128
+Formula: C7H12O2
+Comment: JP007056
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 29
+26:13 27:148 28:27 29:193 31:47 39:186 40:29 41:329 42:69 43:95 
+44:129 45:14 51:23 53:63 54:374 55:286 56:48 57:411 58:27 66:12 
+67:996 68:62 69:10 71:20 77:11 79:24 81:87 82:999 83:199 

@@ -1,0 +1,52 @@
+ACCESSION: JP002803
+RECORD_TITLE: PSILOCYBIN; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PSILOCYBIN
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H17N2O4P
+CH$EXACT_MASS: 284.09259
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 33
+PK$PEAK: m/z int. rel.int.
+  56 0.2 2
+  57 1.2 12
+  58 99.99 999
+  59 0.37 4
+  60 1 10
+  61 0.1 1
+  62 0.2 2
+  63 0.11 1
+  64 0.1 1
+  65 1 10
+  76 0.2 2
+  77 0.01 0
+  78 1.2 12
+  79 0.1 1
+  80 0.2 2
+  130 0.12 1
+  131 0.6 6
+  132 0.4 4
+  133 0.1 1
+  140 0.02 0
+  145 0.4 4
+  146 3.2 32
+  147 0.4 4
+  158 0.03 0
+  159 2.5 25
+  160 1.4 14
+  161 0.1 1
+  202 0.09 1
+  203 0.2 2
+  204 15.4 154
+  205 2.3 23
+  206 0.03 0
+  284 0.1 1
+//

@@ -1,0 +1,34 @@
+ACCESSION: JP003481
+RECORD_TITLE: NAPHTHALENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: NAPHTHALENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H8
+CH$EXACT_MASS: 128.0626
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  57 0.32 3
+  71 0.23 2
+  76 0.66 7
+  77 1.99 20
+  78 2.09 21
+  101 1.19 12
+  102 6.12 61
+  103 0.42 4
+  125 0.11 1
+  126 3.44 34
+  127 11.72 117
+  128 99.99 999
+  129 12.36 124
+  130 0.53 5
+//

@@ -1,0 +1,32 @@
+ACCESSION: JP010615
+RECORD_TITLE: METHYL LACTATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: METHYL LACTATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H8O3
+CH$EXACT_MASS: 104.04734
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  15 1.2 12
+  27 2.2 22
+  29 2 20
+  33 1.49 15
+  43 4.1 41
+  44 1.4 14
+  45 99.99 999
+  46 0.22 2
+  59 1.6 16
+  61 3.1 31
+  89 1.6 16
+  104 0.6 6
+//

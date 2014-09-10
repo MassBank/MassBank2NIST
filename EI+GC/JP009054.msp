@@ -1,0 +1,20 @@
+Name:  ISOBUTYLAMINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=78-81-9" target="_blank">78-81-9</a>
+MW: 73
+Formula: C4H11N
+Comment: JP009054
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+27:38 28:79 29:22 30:999 31:19 39:48 41:69 42:16 43:14 55:19 
+56:21 58:18 73:86 

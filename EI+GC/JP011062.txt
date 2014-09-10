@@ -1,0 +1,40 @@
+ACCESSION: JP011062
+RECORD_TITLE: 1,2-BENZANTHRACENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2-BENZANTHRACENE
+CH$NAME: TETRAPHENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C18H12
+CH$EXACT_MASS: 228.0939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-55-3" target="_blank">56-55-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  87 1.04 10
+  88 1.09 11
+  100 2.27 23
+  101 3.16 32
+  112 2.27 23
+  113 5.4 54
+  114 7.43 74
+  115 1.38 14
+  200 2.6 26
+  201 1.23 12
+  202 2.39 24
+  224 4.15 42
+  225 3.06 31
+  226 18.79 188
+  227 5.54 55
+  228 99.99 999
+  229 19.7 197
+  230 2.05 21
+//

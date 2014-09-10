@@ -1,0 +1,21 @@
+Name:  2-ETHYLANILINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=578-54-1" target="_blank">578-54-1</a>
+MW: 121
+Formula: C8H11N
+Comment: JP009538
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+28:21 39:23 51:18 52:14 53:18 63:11 65:32 66:14 77:104 78:37 
+79:60 80:16 91:33 92:14 93:25 94:11 103:25 104:22 106:999 107:85 
+117:11 118:28 119:25 120:48 121:469 122:45 

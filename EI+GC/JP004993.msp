@@ -1,0 +1,21 @@
+Name:  DIETHOXY METHYL OCTYLSILANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2652-38-2" target="_blank">2652-38-2</a>
+MW: 246
+Formula: C13H30O2Si
+Comment: JP004993
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 30 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 30 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+41:14 43:23 45:27 61:66 63:18 73:28 75:12 77:100 89:158 90:13 
+91:25 105:70 119:97 120:10 133:999 134:109 135:41 147:14 231:50 232:9 
+233:3 246:1 

@@ -1,0 +1,59 @@
+ACCESSION: JP007228
+RECORD_TITLE: 4-METHYLBENZOIC ACID; EI-MS
+DATE: 2008.10.21
+AUTHORS: ENDO K, PHARMACEUTICAL INST., TOHOKU UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-METHYLBENZOIC ACID
+CH$NAME: PTOLUIC ACID
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H8O2
+CH$EXACT_MASS: 136.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=99-94-5" target="_blank">99-94-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-52
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 25 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 37
+PK$PEAK: m/z int. rel.int.
+  17 10.5 105
+  18 47.6 476
+  27 2.9 29
+  28 0.45 5
+  29 2.9 29
+  39 7.6 76
+  40 2.6 26
+  41 0.61 6
+  43 3.9 39
+  51 5.5 55
+  52 2.9 29
+  53 0.21 2
+  55 2.6 26
+  61 3.2 32
+  63 4.7 47
+  64 0.39 4
+  65 15.8 158
+  66 4.7 47
+  69 4.2 42
+  73 0.32 3
+  75 3.7 37
+  77 7.6 76
+  78 5.3 53
+  79 0.47 5
+  83 4.5 45
+  89 8.7 87
+  90 5.8 58
+  91 99.99 999
+  92 17.9 179
+  101 6.8 68
+  107 7.9 79
+  118 4.11 41
+  119 6.1 61
+  129 3.4 34
+  135 2.9 29
+  136 4.13 41
+  137 5.5 55
+//

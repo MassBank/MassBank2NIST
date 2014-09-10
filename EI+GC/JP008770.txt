@@ -1,0 +1,57 @@
+ACCESSION: JP008770
+RECORD_TITLE: DODECANAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: UOEH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DODECANAL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H24O
+CH$EXACT_MASS: 184.18272
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-54-9" target="_blank">112-54-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HP 5970
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 36
+PK$PEAK: m/z int. rel.int.
+  39 29.53 295
+  41 99.99 999
+  42 26.25 263
+  43 78.93 789
+  44 34.89 349
+  45 10.4 104
+  53 7.48 75
+  54 12.56 126
+  55 66.69 667
+  56 37.55 376
+  57 77.67 777
+  58 4.34 43
+  66 7.32 73
+  67 35.75 358
+  68 33.76 338
+  69 30.85 309
+  70 24.25 243
+  71 27.28 273
+  72 6.25 63
+  80 3.57 36
+  81 28.42 284
+  82 44.35 444
+  83 20.69 207
+  84 10.32 103
+  85 14.07 141
+  95 19.45 195
+  96 22.83 228
+  97 13.35 134
+  98 6.54 65
+  109 8.26 83
+  110 13.43 134
+  111 7.48 75
+  123 4.06 41
+  124 4.22 42
+  138 5.56 56
+  140 7.19 72
+//

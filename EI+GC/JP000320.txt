@@ -1,0 +1,48 @@
+ACCESSION: JP000320
+RECORD_TITLE: 1-PENTENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-PENTENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H10
+CH$EXACT_MASS: 70.07825
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 80 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 28
+PK$PEAK: m/z int. rel.int.
+  15 2.4 24
+  26 4.7 47
+  27 33.4 334
+  28 0.58 6
+  29 35.5 355
+  37 2.4 24
+  38 5.4 54
+  39 4.67 47
+  40 10.3 103
+  41 73.2 732
+  42 99.99 999
+  43 1.58 16
+  44 3.6 36
+  50 2.7 27
+  51 3.2 32
+  52 0.12 1
+  53 7.8 78
+  54 2.5 25
+  55 91.7 917
+  56 1.67 17
+  57 10.3 103
+  62 1 10
+  63 1.1 11
+  65 0.1 1
+  67 2.2 22
+  69 5.6 56
+  70 53.8 538
+  71 4.7 47
+//

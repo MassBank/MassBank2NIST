@@ -1,0 +1,14 @@
+Name: Valine
+MW: 117
+Synonym: Valine
+Comment: SC000156
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+39.0234 10 42.0341 29 55.0547 326 56.0503 49 57.058 60 59.0503 11 72.0815 999 118.086 653 

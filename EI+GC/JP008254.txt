@@ -1,0 +1,47 @@
+ACCESSION: JP008254
+RECORD_TITLE: DIETHYLNITROSAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: UBE SCIENTIFIC ANALYSIS LABORATORY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIETHYLNITROSAMINE
+CH$NAME: DIETHYLNITROSAMIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H10N2O
+CH$EXACT_MASS: 102.07931
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=55-18-5" target="_blank">55-18-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  14 3.12 31
+  15 12.42 124
+  18 33.13 331
+  26 6.31 63
+  27 35.88 359
+  28 27.25 273
+  29 65.95 660
+  30 8.33 83
+  40 1.78 18
+  41 7.45 75
+  42 87.78 878
+  43 4.64 46
+  44 98.69 987
+  45 4.43 44
+  54 0.82 8
+  55 1.31 13
+  56 49.78 498
+  57 49.24 492
+  70 2.51 25
+  71 4.96 50
+  73 1.19 12
+  85 2.74 27
+  87 3.76 38
+  102 99.99 999
+  103 5.79 58
+//

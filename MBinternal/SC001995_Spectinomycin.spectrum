@@ -1,0 +1,14 @@
+Name: Spectinomycin
+MW: 332
+Synonym: Spectinomycin
+Comment: SC001995
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+98.0604 36 100.076 17 116.071 22 122.06 18 140.071 38 158.081 17 189.123 27 333.167 999 

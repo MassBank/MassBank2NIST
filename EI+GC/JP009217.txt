@@ -1,0 +1,40 @@
+ACCESSION: JP009217
+RECORD_TITLE: P-PROPYLPHENOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: P-PROPYLPHENOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H12O
+CH$EXACT_MASS: 136.08882
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  27 5.35 54
+  29 1.91 19
+  39 6.42 64
+  41 1.55 16
+  50 1.4 14
+  51 4.63 46
+  52 1.98 20
+  53 3.33 33
+  55 1.62 16
+  63 2.07 21
+  65 2.65 27
+  77 12.95 130
+  78 4.21 42
+  79 1.85 19
+  91 1.94 19
+  94 1.06 11
+  107 99.99 999
+  108 7.75 78
+  136 19.36 194
+  137 1.63 16
+//

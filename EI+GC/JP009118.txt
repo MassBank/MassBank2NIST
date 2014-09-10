@@ -1,0 +1,59 @@
+ACCESSION: JP009118
+RECORD_TITLE: HENICOSANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: HENICOSANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C21H44
+CH$EXACT_MASS: 296.3443
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=629-94-7" target="_blank">629-94-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 38
+PK$PEAK: m/z int. rel.int.
+  27 6.4 64
+  29 18.42 184
+  39 3.87 39
+  41 36.32 363
+  42 9.47 95
+  43 87.01 870
+  44 2.51 25
+  53 1.25 13
+  54 2.23 22
+  55 26.74 267
+  56 13.48 135
+  57 99.99 999
+  58 3.82 38
+  67 2.23 22
+  68 2 20
+  69 12.38 124
+  70 10.71 107
+  71 58.26 583
+  72 2.95 30
+  82 1.33 13
+  83 7.88 79
+  84 6.01 60
+  85 39 390
+  86 1.95 20
+  97 4.95 50
+  98 3.75 38
+  99 10.03 100
+  111 1.85 19
+  112 2.48 25
+  113 5.12 51
+  126 1.73 17
+  127 3.27 33
+  140 1.15 12
+  141 2.6 26
+  155 1.7 17
+  169 1.6 16
+  183 1 10
+  296 1.11 11
+//

@@ -1,0 +1,54 @@
+ACCESSION: JP011655
+RECORD_TITLE: PERFLUOROTRIBUTYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PERFLUOROTRIBUTYLAMINE
+CH$NAME: HEPTACOSAFLUOROTRIBUTYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12F27N
+CH$EXACT_MASS: 670.95996
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=311-89-7" target="_blank">311-89-7</a>
+CH$LINK: NIKKAJI <a href="http://nikkajiweb.jst.go.jp/nikkaji_web/pages/top.jsp?SN=J11.843E&CONTENT=syosai" target="_blank">J11.843E</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 31
+PK$PEAK: m/z int. rel.int.
+  51 1.24 12
+  69 77.06 771
+  100 10.29 103
+  113 2.25 23
+  114 3.61 36
+  119 8.47 85
+  131 40.53 405
+  132 1.32 13
+  150 2.76 28
+  164 1.1 11
+  169 2.99 30
+  181 2.08 21
+  201 2.39 24
+  214 1.35 14
+  219 99.99 999
+  220 4.45 45
+  228 1.04 10
+  246 2.23 22
+  264 23.73 237
+  265 1.28 13
+  376 1.12 11
+  396 2.5 25
+  414 11.61 116
+  415 1.03 10
+  448 2.36 24
+  464 3.91 39
+  466 3.52 35
+  484 3.95 40
+  502 23.54 235
+  503 2.44 24
+  614 2.5 25
+//

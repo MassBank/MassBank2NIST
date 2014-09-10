@@ -1,0 +1,14 @@
+Name: Glycerophosphocholine
+MW: 257
+Synonym: Glycerophosphocholine
+Comment: SC000654
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+112.985 39 153.594 59 168.04 68 169.208 49 181.624 40 216.569 43 242.078 999 292.07 817 

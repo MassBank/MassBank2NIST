@@ -1,0 +1,16 @@
+Name: Aminophylline
+MW: 180
+Formula: C7H8N4O2
+Synonym: C06822
+Synonym: Aminophylline, Transferred to D00227
+Comment: XX002411
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 9
+44.900 109 69.200 999 83.300 67 96.000 403 96.300 319 105.900 50 109.100 59 120.600 42 123.900 487 

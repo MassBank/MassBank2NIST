@@ -1,0 +1,21 @@
+Name:  1,4-DICHLOROBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-46-7" target="_blank">106-46-7</a>
+MW: 145
+Formula: C6H4Cl2
+Comment: JP004654
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+49:17 50:96 51:31 55:43 56:13 61:12 73:76 74:109 75:187 76:23 
+84:18 85:23 86:12 109:12 110:21 111:311 112:27 113:102 146:999 147:70 
+148:645 149:43 150:103 

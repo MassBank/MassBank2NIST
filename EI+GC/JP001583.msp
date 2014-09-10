@@ -1,0 +1,21 @@
+Name:  NAPHTHALENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=91-20-3" target="_blank">91-20-3</a>
+MW: 128
+Formula: C10H8
+Comment: JP001583
+Comment: N/A
+Comment: VARIAN MAT-44
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+49:26 50:121 51:184 52:22 62:29 63:89 64:175 65:95 73:26 74:73 
+75:76 76:70 77:74 78:40 86:17 87:14 98:17 99:11 100:23 101:87 
+102:80 125:41 126:147 127:630 128:999 129:127 

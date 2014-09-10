@@ -1,0 +1,19 @@
+Name: Glu-Glu
+CAS: 3929-61-1
+MW: 276
+Formula: C10H16N2O7
+Synonym: C01425
+Synonym: Glu-Glu
+Comment: XX000887
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 25
+42.100 81 44.200 13 51.500 6 54.400 76 56.000 11 59.000 260 67.100 85 70.700 41 72.200 4 82.200 194 
+84.100 260 85.000 44 85.900 15 99.100 11 101.300 120 102.200 999 108.500 9 109.100 63 111.200 26 112.900 20 
+124.300 6 126.800 209 128.200 334 141.300 7 145.900 31 

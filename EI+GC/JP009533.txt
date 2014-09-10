@@ -1,0 +1,32 @@
+ACCESSION: JP009533
+RECORD_TITLE: PARA-TOLUIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: NARA WOMEN'S UNIVERSITY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PARA-TOLUIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H9N
+CH$EXACT_MASS: 107.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-49-0" target="_blank">106-49-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 11
+PK$PEAK: m/z int. rel.int.
+  52 1.26 13
+  53 1.32 13
+  77 5.1 51
+  78 1.7 17
+  79 4.37 44
+  80 2.15 22
+  91 1.12 11
+  104 1.09 11
+  106 73.1 731
+  107 99.99 999
+  108 8.36 84
+//

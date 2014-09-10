@@ -1,0 +1,14 @@
+Name: Indole-3-ethanol
+MW: 161
+Synonym: Indole-3-ethanol
+Comment: SC003587
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+44.9989 567 57.9747 322 70.9985 495 114.988 563 117.048 304 158.979 745 159.875 399 160.077 999 

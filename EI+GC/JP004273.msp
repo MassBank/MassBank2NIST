@@ -1,0 +1,21 @@
+Name:  ACETIC ACID METHYL ESTER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-20-9" target="_blank">79-20-9</a>
+MW: 74
+Formula: C3H6O2
+Synonym: METHYL ACETATE
+Comment: JP004273
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+13:14 14:56 15:314 28:17 29:89 30:14 31:51 32:21 41:13 42:99 
+43:999 44:28 45:14 59:57 74:125 75:10 

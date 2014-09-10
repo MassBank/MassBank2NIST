@@ -1,0 +1,14 @@
+Name: Homovanillic_acid
+MW: 182
+Synonym: Homovanillic acid
+Comment: SC001059
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 6
+44.9982 372 68.9957 190 112.983 556 122.035 161 137.058 379 181.048 999 

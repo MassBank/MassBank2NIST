@@ -1,0 +1,14 @@
+Name: N6-(1_2-dicarboxyethyl)-AMP
+MW: 463
+Synonym: N6-(1,2-dicarboxyethyl)-AMP
+Comment: SC002665
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+78.9574 43 96.9688 146 364.086 29 462.066 999 

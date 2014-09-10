@@ -1,0 +1,12 @@
+1
+13
+<CAS_ID> 60-23-1	<KEGG_ID> C01678	<NAME> Cysteamine	<FORMULA> C2H7NS	<EXACTMASS> 77.029919919	<AVERAGEMASS> 77.14972	<SMILES> NCCS	<COPYRIGHT> ARM PROJECT http://www.metabolome.jp/
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    2.8660    0.5000    0.0000 C   0  0  0  2  0  0  0  0  0  0  0  0
+    2.8660   -0.5000    0.0000 C   0  0  0  2  0  0  0  0  0  0  0  0
+    2.0000   -1.0000    0.0000 N   0  0  0  2  0  0  0  0  0  0  0  0
+    3.7321    1.0000    0.0000 S   0  0  0  1  0  0  0  0  0  0  0  0
+  4  1  1  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END

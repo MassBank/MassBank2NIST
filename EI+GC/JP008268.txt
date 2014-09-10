@@ -1,0 +1,43 @@
+ACCESSION: JP008268
+RECORD_TITLE: ACETAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: UBE SCIENTIFIC ANALYSIS LABORATORY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ACETAL
+CH$NAME: 1,1-DIETHOXYETHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H14O2
+CH$EXACT_MASS: 118.09938
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=105-57-7" target="_blank">105-57-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-60
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  14 1.17 12
+  15 5.65 57
+  19 3.49 35
+  26 1.96 20
+  27 11.56 116
+  28 3.94 39
+  29 21.99 220
+  31 4.11 41
+  42 1.37 14
+  43 16.74 167
+  44 4.5 45
+  45 99.99 999
+  46 2.02 20
+  47 17.54 175
+  61 3.55 36
+  73 48.09 481
+  74 2.29 23
+  75 4.76 48
+  103 13.01 130
+  104 0.61 6
+  117 0.24 2
+//

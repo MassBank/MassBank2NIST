@@ -1,0 +1,21 @@
+Name:  BUTYL PHENYL ETHER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1126-79-0" target="_blank">1126-79-0</a>
+MW: 150
+Formula: C10H14O
+Synonym: BUTOXYBENZENE
+Comment: JP007655
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+27:32 29:106 39:63 40:10 41:83 50:10 51:41 55:18 57:32 65:46 
+66:65 77:73 94:999 95:65 107:12 150:153 151:13 

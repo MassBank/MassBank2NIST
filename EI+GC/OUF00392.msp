@@ -1,0 +1,33 @@
+Name:  Nonanoic acid(C9); GC-EI-TOF-MS; RT:477.144 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-05-0" target="_blank">112-05-0</a>
+MW: 158
+Formula: C9H18O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01601" target="_blank">C01601</a>
+Comment: OUF00392
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 477.144  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 72
+85:29 86:23 87:14 88:16 89:30 90:4 91:10 93:12 94:3 95:12 
+96:10 97:27 98:29 99:34 100:4 101:36 102:5 103:5 105:56 106:2 
+107:3 111:15 112:13 113:3 114:1 115:14 116:68 117:999 118:96 119:44 
+121:5 123:2 124:2 125:1 128:2 129:401 130:54 131:274 132:330 133:52 
+134:14 139:5 140:3 141:5 143:35 144:3 145:121 146:17 147:5 157:12 
+159:22 160:1 171:33 172:2 173:3 185:10 187:25 188:4 201:18 215:449 
+216:80 217:27 218:1 230:10 231:1 254:2 256:1 273:1 311:2 458:1 
+476:1 498:1 

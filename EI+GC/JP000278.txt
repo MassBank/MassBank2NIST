@@ -1,0 +1,38 @@
+ACCESSION: JP000278
+RECORD_TITLE: 2-PENTANOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-PENTANOL
+CH$NAME: SEC-AMYL ALCOHOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H12O
+CH$EXACT_MASS: 88.08882
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 17
+PK$PEAK: m/z int. rel.int.
+  15 1.8 18
+  26 1.8 18
+  27 10.8 108
+  28 0.32 3
+  29 9.9 99
+  30 1.4 14
+  31 48.1 481
+  39 0.48 5
+  41 24.7 247
+  42 2.6 26
+  43 3.3 33
+  45 0.4 4
+  55 2.7 27
+  57 5.5 55
+  58 9.6 96
+  59 99.99 999
+  60 3.7 37
+//

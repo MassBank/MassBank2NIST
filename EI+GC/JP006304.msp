@@ -1,0 +1,21 @@
+Name:  PHENANTHRENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=85-01-8" target="_blank">85-01-8</a>
+MW: 178
+Formula: C14H10
+Comment: JP006304
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+39:14 50:13 51:11 62:8 63:18 74:15 75:15 76:15 86:6 87:12 
+88:9 89:15 98:7 99:7 126:11 139:10 150:32 151:35 152:54 153:8 
+174:10 175:12 176:101 177:71 178:999 179:157 180:15 182:22 

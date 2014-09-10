@@ -1,0 +1,22 @@
+Name:  N-GLYCYLGLYCINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=556-50-3" target="_blank">556-50-3</a>
+MW: 132
+Formula: C4H8N2O3
+Comment: JP007410
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 34
+17:42 18:179 26:10 27:56 28:248 29:94 30:999 31:57 32:36 36:11 
+40:18 41:32 42:68 43:47 44:176 45:26 55:18 56:48 57:23 58:14 
+59:18 60:13 69:13 71:41 74:21 85:12 86:12 87:12 88:10 89:26 
+97:12 104:33 114:95 132:52 

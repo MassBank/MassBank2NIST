@@ -1,0 +1,40 @@
+Name:  Spermine; GC-EI-TOF-MS; 5 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=71-44-3" target="_blank">71-44-3</a>
+MW: 202
+Formula: C10H26N4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00750" target="_blank">C00750</a>
+Synonym: N,N'-Bis(3-aminopropyl)-1,4-butanediamine
+Comment: PR010236
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 643.491 sec
+Comment: RETENTION_INDEX 2743.7
+Comment: FILE std8_GCTMS_PR060131MSinfo.txt
+Comment: DERIVATIVE_TYPE 5 TMS
+Comment: DERIVATIVE_FORM C25H66N4Si5
+Comment: DERIVATIVE_MASS 562.41338
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 132
+60:15 61:6 66:1 67:2 68:1 69:1 70:16 71:8 72:24 73:999 
+74:92 75:29 76:2 77:8 78:1 79:2 80:1 81:1 82:9 83:6 
+84:88 85:13 86:325 87:34 88:21 89:2 90:1 94:2 95:1 96:6 
+97:2 98:12 99:7 100:144 101:30 102:67 103:9 104:2 108:1 109:1 
+110:10 111:2 112:16 113:8 114:40 115:34 116:537 117:73 118:23 119:2 
+122:1 124:1 125:1 126:7 127:3 128:40 129:74 130:99 131:23 132:9 
+133:1 138:1 139:1 140:16 141:7 142:120 143:22 144:464 145:63 146:50 
+147:7 148:3 152:2 153:1 154:18 155:6 156:138 157:27 158:17 159:3 
+160:155 161:28 162:12 163:1 168:8 169:3 170:42 171:8 172:85 173:17 
+174:264 175:49 176:23 177:3 180:1 182:5 183:7 184:6 185:3 186:21 
+187:5 188:6 189:1 199:1 200:2 201:41 202:11 203:4 204:1 213:1 
+215:2 216:1 229:1 242:1 243:2 255:1 259:3 269:1 271:1 273:1 
+299:6 300:1 301:1 303:4 304:1 329:15 330:5 331:2 343:1 345:2 
+346:1 619:1 

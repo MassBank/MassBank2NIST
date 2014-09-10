@@ -1,0 +1,21 @@
+Name:  5-METHHYLFURFURAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=620-02-0" target="_blank">620-02-0</a>
+MW: 110
+Formula: C6H6O2
+Synonym: 5-METHYL-2-FURANCARBOXALDEHYDE
+Comment: JP007743
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+27:262 28:18 29:28 39:156 40:17 42:10 43:107 51:41 52:69 53:787 
+54:77 55:11 79:10 80:10 81:139 82:10 110:999 111:68 

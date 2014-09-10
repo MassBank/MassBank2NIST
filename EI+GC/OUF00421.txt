@@ -1,0 +1,50 @@
+ACCESSION: OUF00421
+RECORD_TITLE: Phenyl pyruvate; GC-EI-TOF-MS; RT:465.138 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Phenyl pyruvate
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C9H8O3
+CH$EXACT_MASS: 164.04734
+CH$SMILES: OC(=O)C(=O)Cc(c1)cccc1
+CH$IUPAC: InChI=1/C9H8O3/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,11,12)/f/h11H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=156-06-9" target="_blank">156-06-9</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18005" target="_blank">18005</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:30851" target="_blank">30851</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00166" target="_blank">C00166</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=997" target="_blank">997</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/972" target="_blank">972</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 465.138  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  92 2 2
+  93 3 3
+  94 2 2
+  95 1 1
+  97 3 3
+  105 1 1
+  106 999 999
+  107 72 72
+  108 5 5
+  109 1 1
+  110 1 1
+  122 1 1
+  124 1 1
+  125 4 4
+  152 2 2
+  153 231 231
+  154 21 21
+  155 12 12
+  156 1 1
+//

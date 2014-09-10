@@ -1,0 +1,34 @@
+Name:  O-Acetyl-L-serine; GC-EI-TOF-MS; 2 TMS; BP:174
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5147-00-2" target="_blank">5147-00-2</a>
+MW: 147
+Formula: C5H9NO4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00979" target="_blank">C00979</a>
+Comment: KZ000255
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 681.943 sec
+Comment: RETENTION_INDEX 1484.2
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: BASE_PEAK 174
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 102
+82:8 83:22 84:240 85:37 86:45 87:35 88:36 89:41 90:8 92:6 
+93:23 94:1 95:5 96:3 98:21 99:14 100:365 101:73 102:46 103:76 
+104:6 105:2 106:1 107:3 109:1 110:2 111:3 112:8 113:7 114:103 
+115:55 116:876 117:301 118:32 119:24 120:2 121:2 122:1 124:1 126:4 
+127:10 128:10 129:39 130:40 131:67 132:758 133:145 134:27 135:8 142:17 
+143:5 144:67 145:14 146:8 147:374 148:63 149:36 150:8 151:3 152:1 
+156:10 157:7 158:47 159:25 160:7 161:3 163:6 166:1 170:1 171:2 
+172:43 173:6 174:999 175:60 176:22 177:5 178:2 180:1 182:1 184:2 
+185:2 186:40 187:2 188:60 189:9 190:4 193:1 201:1 202:4 203:3 
+206:1 216:112 217:10 218:107 219:15 223:1 231:6 233:3 248:9 250:1 
+276:2 277:1 

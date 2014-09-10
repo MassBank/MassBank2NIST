@@ -1,0 +1,31 @@
+ACCESSION: JP001578
+RECORD_TITLE: ETHANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H6
+CH$EXACT_MASS: 30.04695
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=74-84-0" target="_blank">74-84-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-5B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 80 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 10
+PK$PEAK: m/z int. rel.int.
+  13 1.16 12
+  14 3.35 34
+  15 4.57 46
+  25 4.15 42
+  26 23 230
+  27 33.3 333
+  28 99.99 999
+  29 21.7 217
+  30 26.2 262
+  31 0.55 6
+//

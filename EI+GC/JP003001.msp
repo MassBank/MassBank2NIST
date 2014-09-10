@@ -1,0 +1,18 @@
+Name:  2-METHYLMERCAPTOPYRIDINE; EI-MS
+MW: 125
+Formula: C6H7NS
+Comment: JP003001
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+32:110 39:140 45:120 50:10 51:260 52:340 57:50 78:2 79:830 80:170 
+82:50 83:1 92:70 110:30 124:630 125:999 126:110 127:50 

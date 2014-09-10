@@ -1,0 +1,21 @@
+Name:  TETRACHLOROMETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-23-5" target="_blank">56-23-5</a>
+MW: 151
+Formula: CCl4
+Synonym: CARBON TETRACHLORIDE
+Comment: JP000929
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+35:189 37:62 47:243 49:9 82:281 84:179 86:26 117:999 119:928 121:301 
+123:31 

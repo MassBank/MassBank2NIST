@@ -1,0 +1,19 @@
+Name: Diflunisal
+CAS: 22494-42-4
+MW: 250
+Formula: C13H8F2O3
+Synonym: C01691
+Synonym: Diflunisal
+Comment: XX000627
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 30
+45.100 22 58.100 54 59.100 999 75.000 9 77.000 6 80.000 85 80.300 18 82.900 13 92.900 65 94.700 4 
+95.900 20 97.000 21 99.000 14 108.300 7 111.100 456 118.900 126 120.800 8 121.200 21 122.100 8 123.200 14 
+136.900 13 143.200 9 157.000 81 165.300 16 176.700 11 178.800 9 179.400 15 185.200 59 203.500 3 205.400 865 

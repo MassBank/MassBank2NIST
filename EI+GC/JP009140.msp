@@ -1,0 +1,19 @@
+Name:  2,3-BUTANEDIOL; EI-MS
+MW: 90
+Formula: C4H10O2
+Comment: JP009140
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+15:31 19:51 26:11 27:98 28:44 29:107 31:22 42:15 43:133 44:46 
+45:999 46:32 47:50 55:16 57:88 75:22 

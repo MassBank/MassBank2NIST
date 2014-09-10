@@ -1,0 +1,58 @@
+ACCESSION: JP011098
+RECORD_TITLE: 9,10-DIHYDROANTHRACENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 9,10-DIHYDROANTHRACENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C14H12
+CH$EXACT_MASS: 180.0939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=613-31-0" target="_blank">613-31-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 37
+PK$PEAK: m/z int. rel.int.
+  27 1.82 18
+  39 2.78 28
+  50 2.37 24
+  51 3.79 38
+  62 1.73 17
+  63 5.46 55
+  74 2.3 23
+  75 3.41 34
+  76 7.83 78
+  77 2.01 20
+  83 2.28 23
+  86 1.07 11
+  87 2.09 21
+  88 5.01 50
+  89 13.22 132
+  90 3.47 35
+  102 1.2 12
+  115 1.91 19
+  126 1.93 19
+  127 1.25 13
+  128 1.4 14
+  139 2.31 23
+  150 3.27 33
+  151 6.03 60
+  152 9.44 94
+  153 1.91 19
+  163 1.01 10
+  165 18.62 186
+  166 2.82 28
+  175 1.33 13
+  176 10.5 105
+  177 7.22 72
+  178 47.86 479
+  179 86.03 860
+  180 99.99 999
+  181 14.43 144
+  182 1.15 12
+//

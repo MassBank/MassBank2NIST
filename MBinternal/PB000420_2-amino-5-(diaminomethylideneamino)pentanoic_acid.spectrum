@@ -1,0 +1,17 @@
+Name: 2-amino-5-(diaminomethylideneamino)pentanoic_acid
+MW: 174
+Formula: C6H14N4O2
+Synonym: C00062
+Synonym: CID: 232
+Synonym: 2-amino-5-(diaminomethylideneamino)pentanoic acid, Arginine
+Comment: PB000420
+Contributor: Boettcher C, Institute of Plant Biochemistry, Halle, Germany
+InstType: TOF
+InstName: API QSTAR Pulsar i
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 25
+Date: 2008-01-02 14:48:36+02:00
+Num: 9
+60.057 317 70.066 999 71.051 15 72.081 47 112.087 35 116.073 222 130.097 113 158.094 32 175.120 39 

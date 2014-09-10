@@ -1,0 +1,20 @@
+Name:  OCTANOIC ACID TRIMETHYLSILYL ESTER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=55494-06-9" target="_blank">55494-06-9</a>
+MW: 216
+Formula: C11H24O2Si
+Comment: JP000563
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+43:88 45:84 55:126 67:8 73:683 74:98 75:869 76:9 109:80 117:535 
+118:84 129:21 131:239 132:197 145:119 201:999 202:186 203:84 

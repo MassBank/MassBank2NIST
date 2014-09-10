@@ -1,0 +1,22 @@
+Name:  4-NITROBENZYL BROMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-11-8" target="_blank">100-11-8</a>
+MW: 214
+Formula: C7H6BrNO2
+Synonym: ALPHA-BROMO-4-NITROTOLUENE
+Comment: JP011659
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+30:166 38:23 39:57 40:11 50:37 51:52 52:19 61:14 62:47 63:128 
+64:50 77:18 78:299 79:18 86:12 87:11 89:227 90:255 91:19 106:159 
+107:12 120:15 136:999 137:82 169:11 215:80 216:10 217:78 

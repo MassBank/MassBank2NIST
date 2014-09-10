@@ -1,0 +1,35 @@
+ACCESSION: JP007832
+RECORD_TITLE: 3-METHYLINDOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-METHYLINDOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H9N
+CH$EXACT_MASS: 131.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=83-34-1" target="_blank">83-34-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  27 4.31 43
+  28 5.72 57
+  38 2.91 29
+  39 5.82 58
+  50 6.52 65
+  51 11.62 116
+  65 10.52 105
+  65.5 6.52 65
+  76 4.01 40
+  77 17.43 174
+  102 6.32 63
+  103 10.02 100
+  104 2.11 21
+  132 5.31 53
+//

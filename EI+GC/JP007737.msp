@@ -1,0 +1,22 @@
+Name:  2-BUTYRYLFURAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4208-57-5" target="_blank">4208-57-5</a>
+MW: 138
+Formula: C8H10O2
+Synonym: 1-(2-FURANYL)-1-BUTANONE
+Comment: JP007737
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+27:90 29:21 39:301 40:28 41:125 42:106 43:187 53:39 54:29 55:85 
+66:10 67:66 68:119 69:23 81:67 82:20 94:10 95:999 96:120 97:20 
+119:10 110:766 111:95 123:224 124:11 138:225 125:18 

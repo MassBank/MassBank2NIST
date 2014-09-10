@@ -1,0 +1,44 @@
+ACCESSION: JP007813
+RECORD_TITLE: 5,8-DIMETHYLQUINOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5,8-DIMETHYLQUINOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H11N
+CH$EXACT_MASS: 157.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2623-50-9" target="_blank">2623-50-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  39 3.86 39
+  41 1.07 11
+  50 2.62 26
+  51 4.51 45
+  63 7.15 72
+  65 7.95 80
+  77 11.91 119
+  78 6.36 64
+  102 3.98 40
+  103 3.18 32
+  115 4.77 48
+  116 1.26 13
+  117 3.98 40
+  127 1.04 10
+  128 7.15 72
+  129 1.02 10
+  130 5.56 56
+  141 5.17 52
+  142 34.13 341
+  156 51.59 516
+  157 99.99 999
+  158 17.01 170
+  159 1.72 17
+//

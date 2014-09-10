@@ -1,0 +1,41 @@
+ACCESSION: JP009164
+RECORD_TITLE: S-ETHYL THIOACETATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: S-ETHYL THIOACETATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H8OS
+CH$EXACT_MASS: 104.02959
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  15 6.4 64
+  26 1.92 19
+  27 10.79 108
+  28 1.24 12
+  29 7.65 77
+  35 2.33 23
+  42 3.26 33
+  43 99.99 999
+  44 2.26 23
+  45 5.77 58
+  46 2.8 28
+  47 4.64 46
+  57 1.34 13
+  58 3 30
+  59 2.67 27
+  60 1.38 14
+  61 4.8 48
+  62 2.5 25
+  104 29.49 295
+  105 1.32 13
+  106 1.28 13
+//

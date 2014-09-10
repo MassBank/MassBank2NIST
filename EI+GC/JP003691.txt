@@ -1,0 +1,39 @@
+ACCESSION: JP003691
+RECORD_TITLE: TRIETHYL BORATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TRIETHYL BORATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H15BO3
+CH$EXACT_MASS: 146.11142
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  27 13 130
+  28 12 120
+  29 12 120
+  31 0.9 9
+  43 11 110
+  44 26 260
+  45 99.99 999
+  58 0.08 1
+  59 11 110
+  73 74 740
+  87 33 330
+  89 0.13 1
+  101 79 790
+  103 7 70
+  117 39 390
+  118 0.06 1
+  131 57 570
+  132 6 60
+  145 17 170
+  146 44 440
+//

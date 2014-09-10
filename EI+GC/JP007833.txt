@@ -1,0 +1,37 @@
+ACCESSION: JP007833
+RECORD_TITLE: 5-METHYLINDOLE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-METHYLINDOLE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H9N
+CH$EXACT_MASS: 131.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=614-96-0" target="_blank">614-96-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  27 3.82 38
+  28 1.98 20
+  38 3.11 31
+  39 6.52 65
+  51 14.52 145
+  52 8.92 89
+  65 10.12 101
+  655 7.42 74
+  77 18.53 185
+  78 4.21 42
+  102 5.92 59
+  103 10.62 106
+  104 3.61 36
+  130 99.99 999
+  131 83.18 832
+  132 8.12 81
+//

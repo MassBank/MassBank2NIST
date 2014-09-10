@@ -1,0 +1,18 @@
+Name: Thymine
+CAS: 65-71-4
+MW: 126
+Formula: C5H6N2O2
+Synonym: C00178
+Synonym: Thymine
+Comment: XX004098
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+41.300 999 55.300 569 59.600 180 62.900 69 66.600 83 68.800 139 74.200 153 81.300 819 82.400 180 83.900 69 
+107.400 42 109.100 486 110.300 957 127.300 860 

@@ -1,0 +1,22 @@
+Name:  ALLYL METHYL SULFIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=10152-76-8" target="_blank">10152-76-8</a>
+MW: 88
+Formula: C4H8S
+Comment: JP009100
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 36
+14:12 15:47 26:28 27:133 35:49 37:43 38:101 39:645 40:49 41:570 
+42:39 44:17 45:806 46:294 47:310 48:57 49:25 53:28 54:17 55:17 
+57:13 58:22 59:37 60:25 61:213 69:39 71:59 72:53 73:799 74:30 
+75:33 85:16 87:40 88:999 89:45 90:48 

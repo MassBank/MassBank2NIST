@@ -1,0 +1,19 @@
+Name:  2-METHYL-1-PYRROLINE; EI-MS
+MW: 83
+Formula: C5H9N
+Comment: JP000467
+Comment: N/A
+Comment: MX-1303
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 50 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 50 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+27:18 29:735 30:73 31:999 33:17 39:20 41:29 42:5 55:92 82:23 
+83:43 

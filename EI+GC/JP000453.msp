@@ -1,0 +1,19 @@
+Name:  PYRAZOLE; EI-MS
+MW: 68
+Formula: C3H4N2
+Comment: JP000453
+Comment: N/A
+Comment: MX-1303
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 50 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 50 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+26:20 27:31 28:175 29:2 37:33 38:79 39:121 40:17 41:332 42:46 
+43:12 66:1 67:101 68:999 69:42 70:3 

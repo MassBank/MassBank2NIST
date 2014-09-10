@@ -1,0 +1,18 @@
+Name: Penciclovir
+CAS: 39809-25-1
+MW: 253
+Formula: C10H15N5O3
+Synonym: C07417
+Synonym: Penciclovir
+Comment: XX008401
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 18
+41.0382 380 43.01885 324 45.0343 563 55.0527 169 57.0687 239 67.0532 141 67.0605 211 73.0454 169 73.0530 211 77.0354 155 
+79.0563 155 81.0714 141 91.0550 239 105.0656 141 110.0316 366 135.026 999 135.0363 872 152.0606 183 

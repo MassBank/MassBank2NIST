@@ -1,0 +1,56 @@
+ACCESSION: JP005730
+RECORD_TITLE: 4-METHOXYPYRIDINE-N-OXIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-METHOXYPYRIDINE-N-OXIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H7NO2
+CH$EXACT_MASS: 125.04768
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1122-96-9" target="_blank">1122-96-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 35
+PK$PEAK: m/z int. rel.int.
+  17 6.2 62
+  26 9.8 98
+  27 11.2 112
+  28 22.6 226
+  29 8.4 84
+  30 11.2 112
+  37 2.7 27
+  38 7.7 77
+  39 18.7 187
+  40 6.1 61
+  41 3.5 35
+  50 8.1 81
+  51 10.7 107
+  52 11.8 118
+  53 7.6 76
+  54 7.7 77
+  55 5.8 58
+  56 4.7 47
+  63 6.2 62
+  64 2.5 25
+  65 2 20
+  66 4.4 44
+  67 2 20
+  68 5.9 59
+  69 4.5 45
+  78 2.5 25
+  79 7.6 76
+  82 8.9 89
+  83 3.2 32
+  84 4.4 44
+  108 2.7 27
+  109 14.1 141
+  110 36.7 367
+  125 99.99 999
+  126 7.1 71
+//

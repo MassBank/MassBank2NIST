@@ -1,0 +1,20 @@
+Name:  PHENYLTRIMETHOXYSILANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2996-92-1" target="_blank">2996-92-1</a>
+MW: 198
+Formula: C9H14O3Si
+Comment: JP004904
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+59:164 61:54 90:367 91:377 92:49 107:327 120:999 121:424 122:73 136:53 
+137:95 167:190 198:337 199:54 

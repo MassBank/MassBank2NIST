@@ -1,0 +1,21 @@
+Name:  1,2,3-TRIMETHYLBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=526-73-8" target="_blank">526-73-8</a>
+MW: 120
+Formula: C9H12
+Comment: JP011317
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+27:29 39:55 41:31 50:16 51:48 52:15 53:21 58:22 59:28 63:25 
+65:35 77:93 78:31 79:61 91:82 92:15 102:10 103:53 104:26 105:999 
+106:91 115:33 117:34 118:12 119:179 120:722 121:70 

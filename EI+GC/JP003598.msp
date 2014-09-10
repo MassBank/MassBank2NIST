@@ -1,0 +1,17 @@
+Name:  2-ETHYLHEXANOL; EI-MS
+MW: 130
+Formula: C8H18O
+Comment: JP003598
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+27:210 29:263 35:159 39:14 41:505 43:440 57:999 72:9 128:18 

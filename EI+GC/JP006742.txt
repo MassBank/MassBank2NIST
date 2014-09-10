@@ -1,0 +1,52 @@
+ACCESSION: JP006742
+RECORD_TITLE: N-PHENYLACETYLPYRROLIDIN-2-ONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-PHENYLACETYLPYRROLIDIN-2-ONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H13NO2
+CH$EXACT_MASS: 203.09463
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6G
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  41 2.2 22
+  43 0.5 5
+  56 2 20
+  57 1 10
+  60 0.5 5
+  65 0.5 5
+  69 6 60
+  70 0.5 5
+  71 0.7 7
+  73 0.5 5
+  81 0.8 8
+  84 2 20
+  85 0.5 5
+  86 7.5 75
+  87 0.4 4
+  89 0.4 4
+  90 15 150
+  91 10.3 103
+  92 1 10
+  94 0.3 3
+  95 0.3 3
+  97 0.3 3
+  112 2.4 24
+  118 99.99 999
+  119 9 90
+  120 0.5 5
+  122 0.4 4
+  129 0.2 2
+  149 0.5 5
+  203 18.7 187
+  204 2.5 25
+  205 0.3 3
+//

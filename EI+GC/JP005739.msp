@@ -1,0 +1,21 @@
+Name:  SULFANILIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=121-57-3" target="_blank">121-57-3</a>
+MW: 173
+Formula: C6H7NO3S
+Comment: JP005739
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 30
+18:23 27:29 28:89 38:36 39:148 40:21 48:46 51:31 52:63 53:73 
+54:36 62:35 63:90 64:68 65:348 66:68 80:282 81:56 91:57 92:258 
+93:115 104:25 106:49 108:625 109:134 140:22 156:72 173:999 174:85 175:60 

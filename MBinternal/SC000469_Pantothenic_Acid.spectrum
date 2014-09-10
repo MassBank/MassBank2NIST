@@ -1,0 +1,14 @@
+Name: Pantothenic_Acid
+MW: 219
+Synonym: Pantothenic Acid
+Comment: SC000469
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+88.0419 123 146.083 38 217.026 46 218.102 999 

@@ -1,0 +1,42 @@
+ACCESSION: JP010755
+RECORD_TITLE: ISOPENTANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ISOPENTANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H12
+CH$EXACT_MASS: 72.0939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  15 1.8 18
+  26 2.4 24
+  27 26.5 265
+  28 0.41 4
+  29 36.5 365
+  30 1.2 12
+  38 1.8 18
+  39 1.71 17
+  40 2.4 24
+  41 70.6 706
+  42 88.2 882
+  43 99.99 999
+  44 3.5 35
+  50 1.2 12
+  51 1.2 12
+  53 0.24 2
+  55 5.3 53
+  56 20 200
+  57 58.2 582
+  58 0.29 3
+  71 2.4 24
+  72 8.8 88
+//

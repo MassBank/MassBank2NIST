@@ -1,0 +1,18 @@
+Name:  3-ETHYL-1,1,3,5,8-PENTAMETHYL-5H,6H-PYRANO(4,5-F)INDAN; EI-MS
+MW: 272
+Formula: C19H28O
+Comment: JP009925
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 6
+215:449 229:999 230:238 243:89 257:314 272:209 

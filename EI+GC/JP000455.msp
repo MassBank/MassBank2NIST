@@ -1,0 +1,20 @@
+Name:  1-METHYLPYRAZOLE; EI-MS
+MW: 82
+Formula: C4H6N2
+Comment: JP000455
+Comment: N/A
+Comment: MX-1303
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 50 eV
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: _ENERGY 50 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+26:62 27:76 28:180 29:4 30:19 37:15 38:35 39:5 40:64 41:53 
+42:156 43:3 51:30 52:73 53:127 54:26 55:59 56:11 80:8 81:45 
+82:999 83:53 

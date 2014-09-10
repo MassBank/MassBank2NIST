@@ -1,0 +1,36 @@
+ACCESSION: JP001575
+RECORD_TITLE: ETHYLENE-OXIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYLENE-OXIDE
+CH$NAME: OXIRANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H4O
+CH$EXACT_MASS: 44.02621
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-21-8" target="_blank">75-21-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-5B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 80 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  12 2.68 27
+  14 21.78 218
+  15 54.18 542
+  16 7.24 72
+  26 5.87 59
+  27 4.23 42
+  28 5.82 58
+  29 99.99 999
+  30 2.34 23
+  41 1.33 13
+  42 12.01 120
+  43 15.66 157
+  44 61.78 618
+  45 1.48 15
+//

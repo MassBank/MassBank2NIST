@@ -1,0 +1,18 @@
+Name:  2-AMINO-1-ETHANOL; EI-MS
+MW: 61
+Formula: C2H7NO
+Comment: JP001834
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+27:23 28:95 29:35 30:999 31:49 41:13 42:32 43:12 61:9 

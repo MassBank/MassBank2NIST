@@ -1,0 +1,39 @@
+ACCESSION: JP007370
+RECORD_TITLE: 1-METHOXY-2-PROPANOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-METHOXY-2-PROPANOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H10O2
+CH$EXACT_MASS: 90.06808
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=107-98-2" target="_blank">107-98-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 18
+PK$PEAK: m/z int. rel.int.
+  15 7.78 78
+  27 4.92 49
+  28 1.68 17
+  29 7.77 78
+  31 12.42 124
+  33 1.36 14
+  39 1.54 15
+  41 2.87 29
+  42 1.18 12
+  43 8.78 88
+  44 2.18 22
+  45 99.99 999
+  46 4.87 49
+  47 31.94 319
+  57 1.77 18
+  59 4.46 45
+  75 4.37 44
+  90 0.82 8
+//

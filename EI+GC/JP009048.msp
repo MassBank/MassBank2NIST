@@ -1,0 +1,20 @@
+Name:  METHYL 2-FUROATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=611-13-2" target="_blank">611-13-2</a>
+MW: 126
+Formula: C6H6O3
+Comment: JP009048
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+15:34 27:14 29:52 37:47 38:107 39:239 41:11 51:10 53:18 59:12 
+66:13 67:30 68:47 81:10 95:999 96:90 126:345 127:22 

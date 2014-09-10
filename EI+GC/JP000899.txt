@@ -1,0 +1,39 @@
+ACCESSION: JP000899
+RECORD_TITLE: 5-PROPYL-2-PYRAZOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-PROPYL-2-PYRAZOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H12N2
+CH$EXACT_MASS: 112.10005
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: SHIMADZU LKB-2091
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  26 0.7 7
+  27 5.2 52
+  28 3.2 32
+  29 0.17 2
+  30 0.7 7
+  39 3.6 36
+  41 5 50
+  42 2.16 22
+  43 3.2 32
+  53 0.6 6
+  54 0.6 6
+  55 0.07 1
+  56 0.9 9
+  68 3.2 32
+  69 99.99 999
+  70 0.41 4
+  83 0.7 7
+  112 9.2 92
+  113 0.8 8
+//

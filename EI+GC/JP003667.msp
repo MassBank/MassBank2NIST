@@ -1,0 +1,17 @@
+Name:  1,2,3,4,7,7-HEXAFLUOROBICYCLO(2.2.1)HEPTA-2,5-DIENE; EI-MS
+MW: 200
+Formula: C7H2F6
+Comment: JP003667
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+69:500 74:250 81:430 93:50 124:300 131:180 150:999 174:3 181:600 200:650 

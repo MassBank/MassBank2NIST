@@ -1,0 +1,17 @@
+Name: Piroxicam
+CAS: 36322-90-4
+MW: 331
+Formula: C15H13N3O4S
+Synonym: C01608
+Synonym: Piroxicam
+Comment: XX008301
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 8
+73.0442 293 74.0518 95 75.0471 278 78.0375 476 95.0595 999 121.0404 404 207.0324 95 211.0284 87 

@@ -1,0 +1,184 @@
+ACCESSION: OUF00474
+RECORD_TITLE: trans-Chalcone; GC-EI-TOF-MS; RT:771.563 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: trans-Chalcone
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C11H15N5O4
+CH$EXACT_MASS: 281.11240
+CH$SMILES: OC(=O)C(N)Cc(n1)n(C)c(C(=O)2)c1N(C)C(=O)N(C)2
+CH$IUPAC: InChI=1/C11H15N5O4/c1-14-6(4-5(12)10(18)19)13-8-7(14)9(17)16(3)11(20)15(8)2/h5H,4,12H2,1-3H3,(H,18,19)/f/h18H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=614-47-1" target="_blank">614-47-1</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/21214311" target="_blank">21214311</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 771.563  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 156
+PK$PEAK: m/z int. rel.int.
+  86 15 15
+  87 33 33
+  88 76 76
+  89 171 171
+  90 73 73
+  91 214 214
+  92 19 19
+  93 4 4
+  94 24 24
+  95 22 22
+  96 8 8
+  97 4 4
+  98 12 12
+  99 14 14
+  100 9 9
+  101 112 112
+  102 539 539
+  103 665 665
+  104 226 226
+  105 76 76
+  106 3 3
+  110 4 4
+  111 6 6
+  112 3 3
+  113 16 16
+  114 12 12
+  115 63 63
+  116 7 7
+  117 2 2
+  118 5 5
+  119 34 34
+  120 6 6
+  121 56 56
+  122 4 4
+  125 2 2
+  126 10 10
+  127 15 15
+  128 619 619
+  129 110 110
+  130 22 22
+  132 2 2
+  133 6 6
+  134 28 28
+  137 3 3
+  138 3 3
+  139 22 22
+  140 7 7
+  144 2 2
+  145 3 3
+  146 1 1
+  150 11 11
+  151 19 19
+  152 24 24
+  153 6 6
+  160 13 13
+  161 5 5
+  162 3 3
+  163 21 21
+  164 22 22
+  165 127 127
+  166 25 25
+  167 9 9
+  168 1 1
+  169 2 2
+  174 2 2
+  175 6 6
+  176 32 32
+  177 27 27
+  178 97 97
+  179 48 48
+  180 20 20
+  181 1 1
+  182 3 3
+  183 2 2
+  184 1 1
+  187 6 6
+  188 9 9
+  189 99 99
+  190 54 54
+  191 97 97
+  192 20 20
+  193 4 4
+  194 4 4
+  201 2 2
+  202 11 11
+  203 30 30
+  204 217 217
+  205 306 306
+  206 999 999
+  207 195 195
+  208 20 20
+  209 4 4
+  212 1 1
+  214 1 1
+  215 2 2
+  218 4 4
+  220 17 17
+  221 14 14
+  222 1 1
+  223 2 2
+  226 2 2
+  227 3 3
+  236 656 656
+  237 263 263
+  238 42 42
+  239 2 2
+  240 4 4
+  242 1 1
+  250 3 3
+  260 4 4
+  265 1 1
+  269 2 2
+  270 1 1
+  273 2 2
+  274 2 2
+  284 3 3
+  294 2 2
+  296 3 3
+  297 1 1
+  302 1 1
+  305 2 2
+  312 1 1
+  314 1 1
+  316 1 1
+  319 2 2
+  325 2 2
+  328 2 2
+  331 2 2
+  333 1 1
+  341 1 1
+  343 2 2
+  344 1 1
+  347 1 1
+  353 2 2
+  364 1 1
+  365 1 1
+  367 1 1
+  373 1 1
+  380 2 2
+  383 1 1
+  388 3 3
+  399 1 1
+  400 1 1
+  418 1 1
+  421 3 3
+  425 2 2
+  430 1 1
+  435 1 1
+  438 1 1
+  440 1 1
+  449 3 3
+  450 1 1
+  461 1 1
+  464 1 1
+  485 3 3
+  489 2 2
+//

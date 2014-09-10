@@ -1,0 +1,40 @@
+Name:  beta-D-(+)-Glucose; GC-EI-TOF-MS; 5 TMS; 1 MEOX; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=492-61-5" target="_blank">492-61-5</a>
+MW: 180
+Formula: C6H12O6
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00221" target="_blank">C00221</a>
+Synonym: beta-D-Glucose
+Comment: PR010080
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 463.951 sec
+Comment: RETENTION_INDEX 1903.5
+Comment: FILE std2_GCTMS_PR051207MSinfo.txt
+Comment: DERIVATIVE_TYPE 5 TMS; 1 MEOX
+Comment: DERIVATIVE_FORM C22H55NO6Si5
+Comment: DERIVATIVE_MASS 569.28757
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 138
+60:4 61:5 66:4 67:2 69:2 70:3 71:3 72:15 73:999 74:83 
+75:54 76:4 77:4 81:1 82:2 83:12 84:2 85:3 86:2 87:3 
+88:3 89:57 90:5 91:3 96:2 97:3 98:1 99:3 100:13 101:12 
+102:7 103:151 104:15 105:15 106:2 111:2 113:3 114:3 115:4 116:4 
+117:59 118:6 119:7 126:1 127:2 128:1 129:79 130:13 131:20 132:3 
+133:54 134:7 135:4 141:1 142:2 143:9 144:1 145:2 146:1 147:198 
+148:32 149:19 150:2 151:1 154:1 157:54 158:8 159:5 160:81 161:16 
+162:4 163:6 164:1 169:3 172:2 173:2 174:1 175:3 177:5 178:1 
+186:3 187:1 188:1 189:17 190:5 191:8 192:1 196:1 201:4 202:1 
+203:3 204:16 205:124 206:25 207:12 208:2 210:1 214:3 215:1 216:1 
+217:51 218:11 219:5 220:1 221:3 222:1 229:15 230:4 231:3 232:1 
+233:8 234:2 235:4 236:1 242:1 243:1 244:1 245:1 246:1 247:1 
+268:1 269:1 273:1 274:1 277:3 278:1 291:4 292:1 300:1 305:2 
+306:1 307:3 308:1 318:2 319:93 320:29 321:14 322:2 

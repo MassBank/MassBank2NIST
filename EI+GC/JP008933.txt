@@ -1,0 +1,36 @@
+ACCESSION: JP008933
+RECORD_TITLE: ISOPRENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ISOPRENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H8
+CH$EXACT_MASS: 68.0626
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  27 15.5 155
+  28 3 30
+  29 2.5 25
+  39 2.46 25
+  40 35.4 354
+  41 27.5 275
+  42 19.1 191
+  51 0.4 4
+  52 5.1 51
+  53 82.4 824
+  54 4.2 42
+  65 0.68 7
+  66 7 70
+  67 99.99 999
+  68 99.4 994
+  69 5.7 57
+//

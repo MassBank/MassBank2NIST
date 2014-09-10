@@ -1,0 +1,71 @@
+ACCESSION: JP001212
+RECORD_TITLE: 3,7-DIMETHYL-2,6-OCTADIENYL ACETATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3,7-DIMETHYL-2,6-OCTADIENYL ACETATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H20O2
+CH$EXACT_MASS: 196.14633
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6D
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 51
+PK$PEAK: m/z int. rel.int.
+  13 3.5 35
+  15 2 20
+  16 9 90
+  27 0.8 8
+  28 6 60
+  29 4 40
+  35 9 90
+  36 0.2 2
+  37 56.5 565
+  38 3 30
+  39 60 600
+  40 0.1 1
+  51 1.5 15
+  52 0.5 5
+  53 8 80
+  54 0.05 1
+  55 4 40
+  56 1 10
+  57 1 10
+  62 0.2 2
+  63 1 10
+  64 12.5 125
+  65 43 430
+  66 99.99 999
+  67 5 50
+  68 1 10
+  76 2 20
+  78 0.25 3
+  79 10 100
+  80 4 40
+  81 1 10
+  82 0.05 1
+  83 2 20
+  84 6 60
+  85 1 10
+  91 0.15 2
+  92 4 40
+  93 11.5 115
+  94 4 40
+  95 0.1 1
+  105 1 10
+  107 4 40
+  108 1 10
+  109 0.1 1
+  119 10.5 105
+  120 1 10
+  121 2.5 25
+  125 0.1 1
+  133 15 150
+  134 2 20
+  155 1.5 15
+//

@@ -1,0 +1,63 @@
+ACCESSION: JP010932
+RECORD_TITLE: 3-HYDROXY-4-HYDROXYMETHYL-3,5-DIMETHYL-1,5-HEXADIENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-HYDROXY-4-HYDROXYMETHYL-3,5-DIMETHYL-1,5-HEXADIENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H16O2
+CH$EXACT_MASS: 156.11503
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 43
+PK$PEAK: m/z int. rel.int.
+  27 5.1 51
+  28 1.6 16
+  29 3.1 31
+  31 1.7 17
+  39 5.9 59
+  40 2.2 22
+  41 11.1 111
+  42 1.9 19
+  43 24 240
+  53 9.1 91
+  55 9.2 92
+  67 22 220
+  68 99.99 999
+  69 13.4 134
+  70 1.7 17
+  71 85.9 859
+  72 4.5 45
+  77 1.9 19
+  79 1 10
+  83 1.8 18
+  85 2.6 26
+  91 2.5 25
+  93 2.4 24
+  95 5.8 58
+  102 0.1 1
+  103 0.3 3
+  105 1.2 12
+  106 0.3 3
+  107 1.5 15
+  108 0.8 8
+  109 0.8 8
+  110 0.1 1
+  111 0.5 5
+  119 0.3 3
+  120 0.4 4
+  121 0.3 3
+  123 2.1 21
+  124 0.3 3
+  125 0.5 5
+  127 0.1 1
+  129 0.1 1
+  133 0.1 1
+  137 0.6 6
+//

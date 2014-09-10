@@ -1,0 +1,44 @@
+ACCESSION: JP004913
+RECORD_TITLE: 3-CHLORO-2-METHYLPROPENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-CHLORO-2-METHYLPROPENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H7Cl
+CH$EXACT_MASS: 90.02363
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=563-47-3" target="_blank">563-47-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  42 1.31 13
+  43 10.1 101
+  44 1.01 10
+  45 9.24 92
+  49 3.44 34
+  50 3.78 38
+  51 4 40
+  52 1.37 14
+  53 15.21 152
+  54 25 250
+  55 99.99 999
+  56 4.67 47
+  58 4.36 44
+  59 12.2 122
+  62 5.65 57
+  64 1.98 20
+  74 7.82 78
+  75 12.93 129
+  77 4.18 42
+  89 1.29 13
+  90 47.54 475
+  91 2.73 27
+  92 15.74 157
+//

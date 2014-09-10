@@ -1,0 +1,21 @@
+Name:  AZULENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=275-51-4" target="_blank">275-51-4</a>
+MW: 128
+Formula: C10H8
+Comment: JP001584
+Comment: N/A
+Comment: VARIAN MAT-44
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+43:24 49:30 50:129 51:189 52:28 61:26 62:70 63:137 64:93 73:23 
+74:75 75:80 76:86 77:80 78:54 86:17 87:18 98:17 99:11 100:17 
+101:85 102:128 103:13 125:26 126:136 127:416 128:999 129:121 

@@ -1,0 +1,61 @@
+ACCESSION: JP009123
+RECORD_TITLE: HEXACOSANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: HEXACOSANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C26H54
+CH$EXACT_MASS: 366.42255
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=630-01-3" target="_blank">630-01-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 40
+PK$PEAK: m/z int. rel.int.
+  27 5.14 51
+  29 16.32 163
+  39 2.04 20
+  41 35.08 351
+  42 8.5 85
+  43 99.67 997
+  44 1.25 13
+  53 1.57 16
+  54 2.18 22
+  55 27.32 273
+  56 18.26 183
+  57 99.99 999
+  58 4.08 41
+  67 2.36 24
+  68 2.51 25
+  69 13.72 137
+  70 7.9 79
+  71 63.49 635
+  72 3.01 30
+  82 2.63 26
+  83 8.14 81
+  84 4.51 45
+  85 37.61 376
+  86 1.45 15
+  96 1 10
+  97 6.04 60
+  98 3.32 33
+  99 8.25 83
+  111 2.06 21
+  112 2.02 20
+  113 4.88 49
+  125 1.12 11
+  126 1.2 12
+  127 3.27 33
+  140 1.41 14
+  141 2.26 23
+  155 1.37 14
+  168 1.29 13
+  169 1.75 18
+  197 1.25 13
+//

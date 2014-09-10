@@ -1,0 +1,49 @@
+ACCESSION: JP003621
+RECORD_TITLE: 1,2,3-TRICHLOROBENZENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2,3-TRICHLOROBENZENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H3Cl3
+CH$EXACT_MASS: 179.93003
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 30
+PK$PEAK: m/z int. rel.int.
+  49 2.2 22
+  50 3 30
+  54 2.8 28
+  55 0.22 2
+  72 6.5 65
+  73 6.3 63
+  74 12.3 123
+  75 0.76 8
+  84 7.4 74
+  85 2.5 25
+  86 2.3 23
+  90 0.65 7
+  91 6.1 61
+  92 2.2 22
+  108 2 20
+  109 1.47 15
+  110 3.2 32
+  111 5 50
+  144 2.6 26
+  145 2.54 25
+  146 3.3 33
+  147 16.5 165
+  149 2.5 25
+  180 99.99 999
+  181 8 80
+  182 97.2 972
+  183 7.5 75
+  184 3.13 31
+  185 2 20
+  186 3 30
+//

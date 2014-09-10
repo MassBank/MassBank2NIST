@@ -1,0 +1,45 @@
+ACCESSION: JP007409
+RECORD_TITLE: L-ALANINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: L-ALANINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H7NO2
+CH$EXACT_MASS: 89.04768
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-41-7" target="_blank">56-41-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  13 1.04 10
+  14 3.91 39
+  15 23.74 237
+  16 1.6 16
+  17 4.34 43
+  18 99.45 995
+  19 2.79 28
+  25 1.12 11
+  26 7.78 78
+  27 23.41 234
+  28 71.1 711
+  29 8.14 81
+  30 4.8 48
+  38 1.98 20
+  39 3.35 34
+  40 10.42 104
+  41 16.81 168
+  42 52.58 526
+  43 16.71 167
+  44 99.99 999
+  45 13.8 138
+  46 7.89 79
+  55 2.99 30
+  74 9.15 92
+//

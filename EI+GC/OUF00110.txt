@@ -1,0 +1,156 @@
+ACCESSION: OUF00110
+RECORD_TITLE: Allantoin; GC-EI-TOF-MS; RT:800.093 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: Allantoin
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C4H6N4O3
+CH$EXACT_MASS: 158.04399
+CH$SMILES: NC(=O)NC(N1)C(=O)NC(=O)1
+CH$IUPAC: InChI=1/C4H6N4O3/c5-3(10)6-1-2(9)8-4(11)7-1/h1H,(H3,5,6,10)(H2,7,8,9,11)/f/h6-8H,5H2
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=97-59-6" target="_blank">97-59-6</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:15676" target="_blank">15676</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C01551" target="_blank">C01551</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00121" target="_blank">D00121</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02033" target="_blank">D02033</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=204" target="_blank">204</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/199" target="_blank">199</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 800.093  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 125
+PK$PEAK: m/z int. rel.int.
+  85 62 62
+  86 137 137
+  87 44 44
+  88 32 32
+  89 31 31
+  93 15 15
+  95 6 6
+  96 8 8
+  98 3 3
+  99 142 142
+  100 999 999
+  101 424 424
+  102 151 151
+  103 17 17
+  105 13 13
+  109 1 1
+  111 9 9
+  114 9 9
+  115 135 135
+  116 283 283
+  117 183 183
+  118 27 27
+  125 3 3
+  126 6 6
+  128 4 4
+  129 149 149
+  130 81 81
+  131 70 70
+  132 137 137
+  133 69 69
+  134 8 8
+  135 4 4
+  140 9 9
+  142 21 21
+  143 44 44
+  144 24 24
+  145 9 9
+  146 2 2
+  147 361 361
+  148 39 39
+  149 28 28
+  152 6 6
+  153 11 11
+  157 60 60
+  158 38 38
+  159 13 13
+  160 4 4
+  171 55 55
+  172 60 60
+  173 190 190
+  174 132 132
+  175 44 44
+  176 21 21
+  185 6 6
+  186 31 31
+  187 18 18
+  188 32 32
+  189 613 613
+  190 128 128
+  191 48 48
+  199 1 1
+  200 22 22
+  201 7 7
+  204 5 5
+  212 5 5
+  215 2 2
+  216 2 2
+  217 3 3
+  225 8 8
+  227 14 14
+  236 4 4
+  238 3 3
+  242 14 14
+  243 87 87
+  244 30 30
+  245 4 4
+  247 6 6
+  249 17 17
+  250 4 4
+  254 8 8
+  258 32 32
+  259 681 681
+  260 185 185
+  261 62 62
+  262 1 1
+  274 11 11
+  279 4 4
+  281 3 3
+  285 4 4
+  286 15 15
+  288 5 5
+  302 6 6
+  314 16 16
+  317 3 3
+  320 6 6
+  331 4 4
+  341 1 1
+  347 8 8
+  351 6 6
+  352 3 3
+  353 1 1
+  355 6 6
+  359 86 86
+  360 22 22
+  361 3 3
+  368 6 6
+  373 9 9
+  374 52 52
+  388 7 7
+  396 6 6
+  397 7 7
+  404 5 5
+  408 4 4
+  409 1 1
+  410 1 1
+  411 11 11
+  417 1 1
+  418 13 13
+  423 3 3
+  432 8 8
+  449 4 4
+  453 3 3
+  473 1 1
+  476 7 7
+  492 10 10
+//

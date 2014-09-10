@@ -1,0 +1,50 @@
+ACCESSION: JP001646
+RECORD_TITLE: N-OCTADECANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-OCTADECANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C18H38
+CH$EXACT_MASS: 254.29735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=593-45-3" target="_blank">593-45-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: VARIAN MAT-44
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 29
+PK$PEAK: m/z int. rel.int.
+  41 27.65 277
+  42 8.82 88
+  43 84.53 845
+  44 4.92 49
+  54 1.56 16
+  55 15.93 159
+  56 13.67 137
+  57 99.99 999
+  58 4.29 43
+  67 1.17 12
+  68 1.25 13
+  69 6.64 66
+  70 7.5 75
+  71 50.23 502
+  72 2.81 28
+  82 1.4 14
+  83 3.59 36
+  84 3.67 37
+  85 24.92 249
+  86 1.48 15
+  97 2.1 21
+  98 2.18 22
+  99 6.87 69
+  112 1.4 14
+  113 3.2 32
+  126 1.01 10
+  127 1.95 20
+  141 1.25 13
+  254 1.17 12
+//

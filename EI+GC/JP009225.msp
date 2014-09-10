@@ -1,0 +1,20 @@
+Name:  HEXYL LACTATE; EI-MS
+MW: 174
+Formula: C9H18O3
+Comment: JP009225
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+15:11 19:14 27:122 29:10 31:12 39:54 41:185 42:7 43:553 44:34 
+45:999 46:2 55:91 56:112 57:75 63:2 69:36 75:19 84:138 85:10 
+91:23 113:12 

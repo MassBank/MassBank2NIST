@@ -1,0 +1,28 @@
+Name:  Caffeine; GC-EI-TOF-MS; 0 TMS; BP:109
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=58-08-2" target="_blank">58-08-2</a>
+MW: 194
+Formula: C8H10N4O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C07481" target="_blank">C07481</a>
+Comment: KZ000017
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 1063.86 sec
+Comment: RETENTION_INDEX 2379.4
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 0 TMS
+Comment: BASE_PEAK 109
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 50
+82:763 83:82 84:5 91:1 92:5 93:17 94:83 95:26 96:13 97:29 
+98:1 106:3 107:12 108:77 109:999 110:130 111:21 112:1 120:5 121:4 
+122:21 123:9 124:11 125:1 132:1 133:1 134:2 135:7 136:63 137:85 
+138:32 139:3 140:1 147:1 148:1 149:8 150:14 151:4 152:7 163:2 
+164:5 165:61 166:13 167:1 179:2 192:1 193:190 194:895 195:89 196:7 

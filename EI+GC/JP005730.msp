@@ -1,0 +1,22 @@
+Name:  4-METHOXYPYRIDINE-N-OXIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1122-96-9" target="_blank">1122-96-9</a>
+MW: 125
+Formula: C6H7NO2
+Comment: JP005730
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 35
+17:62 26:98 27:112 28:226 29:84 30:112 37:27 38:77 39:187 40:61 
+41:35 50:81 51:107 52:118 53:76 54:77 55:58 56:47 63:62 64:25 
+65:20 66:44 67:20 68:59 69:45 78:25 79:76 82:89 83:32 84:44 
+108:27 109:141 110:367 125:999 126:71 

@@ -1,0 +1,22 @@
+Name:  ALLYL CYANIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=109-75-1" target="_blank">109-75-1</a>
+MW: 67
+Formula: C4H5N
+Synonym: 3-BUTENENITRILE
+Comment: JP007367
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+14:11 15:17 25:14 26:56 27:238 28:52 32.5:16 36:15 37:104 38:136 
+39:365 40:198 41:999 42:28 50:14 51:23 53:75 62:13 63:29 64:71 
+65:20 66:130 67:440 68:23 

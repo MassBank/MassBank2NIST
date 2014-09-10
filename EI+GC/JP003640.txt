@@ -1,0 +1,28 @@
+ACCESSION: JP003640
+RECORD_TITLE: 1,2,3-CYCLOHEXANETRIOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2,3-CYCLOHEXANETRIOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H12O3
+CH$EXACT_MASS: 132.07864
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 9
+PK$PEAK: m/z int. rel.int.
+  43 25.5 255
+  57 99.5 995
+  58 49.6 496
+  70 99.99 999
+  83 26.3 263
+  86 27.2 272
+  96 27.9 279
+  114 6.28 63
+  132 4 40
+//

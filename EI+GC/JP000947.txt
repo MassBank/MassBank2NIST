@@ -1,0 +1,37 @@
+ACCESSION: JP000947
+RECORD_TITLE: ACROLEIN; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ACROLEIN
+CH$NAME: 2-PROPENAL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H4O
+CH$EXACT_MASS: 56.02621
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=107-02-8" target="_blank">107-02-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 15
+PK$PEAK: m/z int. rel.int.
+  24 2.1 21
+  25 8.3 83
+  26 44.5 445
+  27 6.62 66
+  28 3.3 33
+  29 37.7 377
+  36 4 40
+  37 1.13 11
+  38 9.3 93
+  39 7.1 71
+  52 2.6 26
+  53 0.86 9
+  55 64.9 649
+  56 99.99 999
+  57 5.3 53
+//

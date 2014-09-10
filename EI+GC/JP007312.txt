@@ -1,0 +1,49 @@
+ACCESSION: JP007312
+RECORD_TITLE: DECANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DECANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H22
+CH$EXACT_MASS: 142.17215
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=124-18-5" target="_blank">124-18-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 28
+PK$PEAK: m/z int. rel.int.
+  27 13.86 139
+  28 2.72 27
+  29 24.25 243
+  39 7.64 76
+  40 1.43 14
+  41 35.94 359
+  42 12.93 129
+  43 99.99 999
+  44 3.26 33
+  53 1.66 17
+  54 1.19 12
+  55 12.73 127
+  56 17.53 175
+  57 96.16 962
+  58 4.06 41
+  69 3.77 38
+  70 13.49 135
+  71 36.8 368
+  72 1.99 20
+  84 9.3 93
+  85 27.22 272
+  86 1.86 19
+  98 5.07 51
+  99 7.84 78
+  112 2.03 20
+  113 5.28 53
+  142 12.44 124
+  143 1.5 15
+//

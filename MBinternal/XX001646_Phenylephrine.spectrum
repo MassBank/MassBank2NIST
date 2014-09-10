@@ -1,0 +1,18 @@
+Name: Phenylephrine
+CAS: 59-42-7
+MW: 167
+Formula: C9H13NO2
+Synonym: C07441
+Synonym: Phenylephrine
+Comment: XX001646
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 11
+89.700 1 96.500 1 121.000 3 122.100 10 122.900 9 128.100 1 130.200 3 133.100 1 147.700 1 151.300 1 
+166.100 999 

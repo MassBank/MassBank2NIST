@@ -1,0 +1,21 @@
+Name:  N-ISOBUTYLACETAMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1540-94-9" target="_blank">1540-94-9</a>
+MW: 115
+Formula: C6H13NO
+Synonym: ACETYLAMINOISOBUTANE
+Comment: JP007640
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 15 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 15 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+30:999 31:28 43:54 45:24 56:33 57:16 58:157 60:522 61:11 72:547 
+73:127 74:17 100:440 101:28 115:206 116:88 

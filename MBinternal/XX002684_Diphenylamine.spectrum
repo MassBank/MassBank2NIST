@@ -1,0 +1,18 @@
+Name: Diphenylamine
+CAS: 122-39-4
+MW: 169
+Formula: C12H11N
+Synonym: C11016
+Synonym: Diphenylamine
+Comment: XX002684
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 18
+43.100 19 65.200 27 69.000 35 77.100 19 79.300 45 80.700 19 91.200 29 92.100 534 93.000 999 96.900 37 
+109.200 24 128.100 24 135.100 21 152.000 19 152.700 21 153.100 48 169.200 27 170.400 251 

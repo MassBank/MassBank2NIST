@@ -1,0 +1,19 @@
+Name:  ETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=74-84-0" target="_blank">74-84-0</a>
+MW: 30
+Formula: C2H6
+Comment: JP001578
+Comment: N/A
+Comment: HITACHI RMU-5B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 80 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 80 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 10
+13:12 14:34 15:46 25:42 26:230 27:333 28:999 29:217 30:262 31:6 

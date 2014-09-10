@@ -1,0 +1,20 @@
+Name:  DECANOIC ACID TRIMETHYLSILYL ESTER; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=55494-15-0" target="_blank">55494-15-0</a>
+MW: 244
+Formula: C13H28O2Si
+Comment: JP000565
+Comment: N/A
+Comment: JEOL JMS-01-SG
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+43:106 45:110 55:193 61:8 73:999 74:108 75:856 76:7 81:84 95:72 
+117:635 129:20 131:165 132:195 145:118 229:387 

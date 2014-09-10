@@ -1,0 +1,32 @@
+ACCESSION: JP003022
+RECORD_TITLE: 3-TERT-BUTYLMERCAPTO-4,5-LUTIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-TERT-BUTYLMERCAPTO-4,5-LUTIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H17NS
+CH$EXACT_MASS: 195.10817
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 13
+PK$PEAK: m/z int. rel.int.
+  29 8 80
+  39 8 80
+  41 16 160
+  57 3 30
+  67 7 70
+  106 9 90
+  138 7 70
+  139 99.99 999
+  140 11 110
+  141 5 50
+  180 1 10
+  195 0.12 1
+  196 1.5 15
+//

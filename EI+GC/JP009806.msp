@@ -1,0 +1,19 @@
+Name:  2-PHENOXYETHYL ACETATE; EI-MS
+MW: 180
+Formula: C10H12O3
+Comment: JP009806
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+39:26 43:637 44:14 51:6 65:52 77:122 79:49 87:999 88:59 91:23 
+93:33 94:16 95:21 97:13 98:33 107:5 110:33 120:34 180:46 

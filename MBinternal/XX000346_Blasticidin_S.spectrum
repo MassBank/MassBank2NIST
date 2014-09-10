@@ -1,0 +1,18 @@
+Name: Blasticidin_S
+CAS: 2079-00-7
+MW: 422
+Formula: C17H26N8O5
+Synonym: C02010
+Synonym: Blasticidin S
+Comment: XX000346
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+178.600 4 179.200 12 216.400 4 259.700 3 301.100 1 310.200 4 325.800 7 331.200 4 334.600 2 361.100 11 
+363.500 5 377.300 15 407.500 2 421.500 999 

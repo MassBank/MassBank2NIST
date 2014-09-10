@@ -1,0 +1,14 @@
+Name: Tryptophan
+MW: 204
+Synonym: Tryptophan
+Comment: SC000138
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+118.066 13 132.08 16 144.081 35 146.059 137 159.09 27 170.06 10 188.07 713 205.097 999 

@@ -1,0 +1,45 @@
+ACCESSION: JP007728
+RECORD_TITLE: 2-ETHYL-5-METHYLFURAN; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-ETHYL-5-METHYLFURAN
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H10O
+CH$EXACT_MASS: 110.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1703-52-2" target="_blank">1703-52-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  27 1.08 11
+  29 2.03 20
+  39 1.05 11
+  41 18.11 181
+  43 44.25 443
+  52 1.02 10
+  53 9.57 96
+  54 1.02 10
+  55 1.98 20
+  65 6.86 69
+  66 1.98 20
+  67 31.96 320
+  68 1.83 18
+  77 1.04 10
+  79 3.92 39
+  81 2.95 30
+  82 2.86 29
+  94 2.83 28
+  95 99.99 999
+  96 18.78 188
+  108 1.02 10
+  109 12.06 121
+  110 69.81 698
+  111 10.32 103
+//

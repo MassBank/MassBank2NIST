@@ -1,0 +1,19 @@
+Name: Tioconazole
+CAS: 65899-73-2
+MW: 385
+Formula: C16H13Cl3N2OS
+Synonym: C08082
+Synonym: Tioconazole
+Comment: XX008742
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 24
+85.0517 9 130.9754 41 142.1230 6 151.0394 9 198.9926 5 199.0115 17 205.0779 8 209.0355 5 221.0888 6 223.0918 7 
+256.0257 7 281.0558 5 297.1034 5 297.1111 8 386.9949 999 387.1263 17 387.1525 9 387.1876 11 387.2051 10 387.2226 11 
+387.2489 9 387.2664 5 387.9410 5 388.0024 7 

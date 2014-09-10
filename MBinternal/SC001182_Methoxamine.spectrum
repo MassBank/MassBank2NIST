@@ -1,0 +1,14 @@
+Name: Methoxamine
+MW: 211
+Synonym: Methoxamine
+Comment: SC001182
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+121.065 6 147.067 18 162.091 57 163.075 14 179.094 42 194.117 999 195.101 14 212.128 887 

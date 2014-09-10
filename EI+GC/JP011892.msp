@@ -1,0 +1,22 @@
+Name:  4-AMINOBUTYRIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-12-2" target="_blank">56-12-2</a>
+MW: 103
+Formula: C4H9NO2
+Synonym: GAMMA-AMINOBUTYRIC ACID
+Comment: JP011892
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+15:11 17:13 18:46 26:23 27:62 28:175 29:39 30:999 31:23 39:39 
+40:11 41:69 42:61 43:129 44:77 45:57 54:13 55:16 56:75 57:12 
+69:17 84:23 85:13 86:15 103:39 

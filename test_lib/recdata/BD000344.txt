@@ -1,0 +1,52 @@
+ACCESSION: BD000344
+RECORD_TITLE: Hordenine; ; ESI-TOF; CE:10 eV; [M-H]-
+DATE: 2007.10.11
+AUTHORS: MGR
+COPYRIGHT: Copyright(C) 2007
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C06199
+CH$NAME: Hordenine
+CH$NAME: Anhalin
+CH$NAME: 4-[2-(Dimethylamino)ethyl]phenol,4-(2-dimethylaminoethyl)phenol ,Anhalin ,Anhaline ,Cactine ,Eremursine ,Hordenin ,Hordetin ,N,N-dimethyl-p-hydroxyphenethylamine ,N,N-dimethyltyramine ,Ordenina ,Ordenine ,Peyocactine ,p-(2-dimethylaminoethyl)phenol ,p-hydroxy-N,N-dimethylphenethylamine ,p-[2-(dimethylamino)ethyl]phenol
+CH$NAME: p-Hydroxy-N,N-dimethylphenethylamine
+CH$NAME: 4-[2-(Dimethylamino)ethyl]phenol
+CH$NAME: N,N-Dimethyl-p-hydroxyphenethylamine
+CH$NAME: Anhaline
+CH$NAME: Hordenin
+CH$NAME: Cactine
+CH$NAME: Eremursine
+CH$NAME: Ordenina
+CH$NAME: Hordetin
+CH$NAME: 4-(2-Dimethylaminoethyl)phenol
+CH$NAME: Ordenine
+CH$NAME: N,N-Dimethyltyramine
+CH$NAME: Peyocactine
+CH$NAME: p-(2-Dimethylaminoethyl)phenol
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C10H15NO
+CH$EXACT_MASS: 165.1153641
+CH$SMILES: CN(C)CCC=1C=CC(O)=CC=1
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:68313
+CH$LINK: CAS 539-15-1
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE NEGATIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 10 eV
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.03
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 29.4
+AC$ANALYTICAL_CONDITION: Mass 159.068-175.147
+MS$FOCUSED_ION: PRECURSOR_M/Z 216.123
+MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
+MS$FOCUSED_ION: BASE_PEAK 164.11
+PK$NUM_PEAK: 3
+PK$PEAK: m/z int. rel.int.
+  164.108 999 999
+  165.111 114 114
+  166.114 8 8
+//

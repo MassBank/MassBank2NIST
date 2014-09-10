@@ -1,0 +1,28 @@
+Name:  Nicotinic acid ; GC-EI-TOF-MS; 1 TMS; BP:136
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=59-67-6" target="_blank">59-67-6</a>
+MW: 123
+Formula: C6H5NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00253" target="_blank">C00253</a>
+Comment: KZ000167
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 672.944 sec
+Comment: RETENTION_INDEX 0.0000
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 1 TMS
+Comment: BASE_PEAK 136
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 47
+82:2 83:9 84:4 85:2 86:3 90:34 91:2 92:4 93:10 94:8 
+95:3 96:1 97:1 99:1 100:1 104:2 105:19 106:730 107:38 108:6 
+109:10 110:4 119:1 120:10 121:2 122:8 132:2 134:7 135:7 136:999 
+137:95 138:14 150:3 151:1 152:1 154:1 162:2 164:3 165:1 174:1 
+179:4 180:987 181:98 182:16 194:7 195:28 196:3 

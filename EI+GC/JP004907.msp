@@ -1,0 +1,21 @@
+Name:  TRICHLOROETHYLENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-01-6" target="_blank">79-01-6</a>
+MW: 129
+Formula: C2HCl3
+Comment: JP004907
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+47:55 48:19 49:19 59:34 60:280 61:20 62:90 65:24 66:28 82:13 
+83:11 94:66 95:999 96:64 97:660 98:21 99:104 130:988 131:26 132:981 
+133:22 134:322 136:34 

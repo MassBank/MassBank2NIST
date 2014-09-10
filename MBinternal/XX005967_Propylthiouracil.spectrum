@@ -1,0 +1,19 @@
+Name: Propylthiouracil
+CAS: 51-52-5
+MW: 170
+Formula: C7H10N2OS
+Synonym: C07569
+Synonym: Propylthiouracil
+Comment: XX005967
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 23
+44.9978 3 45.9912 3 57.9757 42 58.0130 1 59.0136 7 75.0077 4 76.9859 9 79.0017 3 87.0097 1 104.9998 16 
+109.0271 10 125.1018 3 125.1117 1 136.0461 1 168.9379 1 168.9437 1 168.9611 1 169.0478 999 169.1462 27 169.1809 4 
+169.1925 3 169.2214 2 169.6674 1 

@@ -1,0 +1,19 @@
+Name:  3-METHYL-4,5-DIHYDROFURAN; EI-MS
+MW: 84
+Formula: C5H8O
+Comment: JP009976
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+26:47 27:269 28:58 29:38 32:19 39:338 41:321 43:8 44:49 51:49 
+53:199 54:12 55:999 56:162 57:62 69:12 83:427 84:867 85:52 

@@ -1,0 +1,44 @@
+ACCESSION: JP002030
+RECORD_TITLE: 2-METHOXYPYRIMIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-METHOXYPYRIMIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H6N2O
+CH$EXACT_MASS: 110.04801
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MS-902
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  38 2 20
+  39 5.9 59
+  40 26 260
+  41 0.31 3
+  42 4.3 43
+  51 4 40
+  52 12.9 129
+  53 6.73 67
+  54 6.9 69
+  55 1.6 16
+  56 10.6 106
+  57 0.19 2
+  58 2.5 25
+  66 1.7 17
+  67 2.5 25
+  68 0.52 5
+  79 14.8 148
+  80 9.99 100
+  81 27.1 271
+  82 0.47 5
+  95 2 20
+  109 27.3 273
+  110 99.99 999
+  111 8.4 84
+//

@@ -1,0 +1,33 @@
+ACCESSION: JP003000
+RECORD_TITLE: 3-TERT-BUTYLMERCAPTOPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-TERT-BUTYLMERCAPTOPYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H13NS
+CH$EXACT_MASS: 167.07687
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  29 27 270
+  39 39 390
+  41 35 350
+  51 0.6 6
+  57 73 730
+  67 12 120
+  83 8 80
+  84 0.05 1
+  110 5 50
+  111 99.99 999
+  112 12 120
+  113 0.04 0
+  167 15 150
+  168 3 30
+//

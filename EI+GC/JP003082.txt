@@ -1,0 +1,43 @@
+ACCESSION: JP003082
+RECORD_TITLE: PYRATHIAZINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PYRATHIAZINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C18H20N2S
+CH$EXACT_MASS: 296.13472
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  41 2.4 24
+  42 6.1 61
+  43 0.9 9
+  55 0.34 3
+  56 1.4 14
+  82 2.4 24
+  83 1.1 11
+  84 99.99 999
+  85 5.9 59
+  96 0.9 9
+  98 1.4 14
+  99 0.11 1
+  178 0.4 4
+  179 0.9 9
+  180 3.9 39
+  181 0.01 0
+  198 2.4 24
+  199 1.4 14
+  200 0.7 7
+  212 0.31 3
+  213 0.9 9
+  296 7.1 71
+  297 1.7 17
+  298 0.6 6
+//

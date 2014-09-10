@@ -1,0 +1,20 @@
+Name:  CYCLOPROPYL METHYL KETONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=765-43-5" target="_blank">765-43-5</a>
+MW: 84
+Formula: C5H8O
+Comment: JP006374
+Comment: N/A
+Comment: JEOL JMS-DX-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: HISAHIRO HAGIWARA, CHEMICAL RESEARCH INSTITUTE OF NON-AQUEOUSSOLUTIONS TOHOKU UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+37:16 38:37 39:258 40:11 41:552 42:78 43:999 44:17 51:11 53:16 
+55:24 69:778 70:39 83:38 84:273 85:17 

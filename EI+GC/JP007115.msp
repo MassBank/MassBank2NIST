@@ -1,0 +1,22 @@
+Name:  2-METHYLBUTANOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=137-32-6" target="_blank">137-32-6</a>
+MW: 88
+Formula: C5H12O
+Synonym: 2-METHYL-1-BUTANOL
+Comment: JP007115
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+15:29 26:40 27:311 28:72 29:749 30:23 31:459 33:12 38:20 39:251 
+40:35 41:932 43:145 45:69 50:14 51:17 53:30 55:283 56:920 57:999 
+58:55 59:39 69:10 70:427 71:27 

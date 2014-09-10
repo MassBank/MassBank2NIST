@@ -1,0 +1,22 @@
+Name:  METHYL SULFIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-18-3" target="_blank">75-18-3</a>
+MW: 62
+Formula: C2H6S
+Comment: JP005726
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 31
+15:273 16:5 17:3 18:9 26:11 27:186 28:66 29:9 32:46 33:20 
+34:17 35:273 36:3 37:12 44:88 45:758 46:463 47:999 48:40 49:44 
+54:4 56:6 57:29 58:37 59:33 60:5 61:297 62:831 63:65 64:39 
+65:2 

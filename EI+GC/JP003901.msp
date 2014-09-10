@@ -1,0 +1,18 @@
+Name:  METHYL N-PROPYL ETHER; EI-MS
+MW: 74
+Formula: C4H10O
+Comment: JP003901
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+15:36 27:50 28:29 29:9 31:29 39:32 41:70 42:3 43:29 45:999 
+46:25 59:1 73:29 74:179 

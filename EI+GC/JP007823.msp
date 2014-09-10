@@ -1,0 +1,20 @@
+Name:  2,5-DIMETHYLINDOLE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1196-79-8" target="_blank">1196-79-8</a>
+MW: 145
+Formula: C10H11N
+Comment: JP007823
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+27:15 28:22 39:29 51:29 52:16 71.5:83 73:36 77:70 89:18 91:23 
+103:31 115:85 116:26 128:20 130:161 144:999 145:918 146:83 

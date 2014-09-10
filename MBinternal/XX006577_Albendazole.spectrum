@@ -1,0 +1,18 @@
+Name: Albendazole
+CAS: 54965-21-8
+MW: 265
+Formula: C12H15N3O2S
+Synonym: C01779
+Synonym: Albendazole
+Comment: XX006577
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+41.0420 12 43.0535 19 43.0593 16 159.0454 381 160.0517 17 163.0216 59 164.0233 16 164.029 24 190.0142 12 191.0155 999 
+191.0709 22 192.0257 526 192.0565 27 234.0718 382 

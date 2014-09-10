@@ -1,0 +1,14 @@
+Name: Cadaverine
+MW: 102
+Synonym: Cadaverine
+Comment: SC002452
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+58.0667 25 61.0084 67 81.5209 48 85.0891 58 86.0969 976 93.6021 52 102.117 105 103.123 999 

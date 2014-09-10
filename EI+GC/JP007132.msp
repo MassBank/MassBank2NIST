@@ -1,0 +1,21 @@
+Name:  SEC-BUTYLBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=135-98-8" target="_blank">135-98-8</a>
+MW: 134
+Formula: C10H14
+Comment: JP007132
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+27:57 29:29 39:51 41:29 50:20 51:71 52:15 53:12 63:22 65:27 
+77:127 78:41 79:90 91:156 92:11 102:11 103:67 104:31 105:999 106:82 
+115:17 117:10 119:14 134:180 135:16 

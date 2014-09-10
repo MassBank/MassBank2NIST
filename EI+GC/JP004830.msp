@@ -1,0 +1,21 @@
+Name:  1,4-DIMETHOXYBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=150-78-7" target="_blank">150-78-7</a>
+MW: 138
+Formula: C8H10O2
+Comment: JP004830
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+50:28 51:39 52:52 53:34 54:35 62:18 63:59 64:66 65:40 67:14 
+69:16 73:22 74:10 77:45 79:19 80:43 82:10 92:41 95:213 96:15 
+107:18 108:20 123:999 124:81 138:878 139:80 

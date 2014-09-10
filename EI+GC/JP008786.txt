@@ -1,0 +1,52 @@
+ACCESSION: JP008786
+RECORD_TITLE: ACRIDINE (1,2,3,4,5,6,7,8,9-D9); EI-MS
+DATE: 2008.10.21
+AUTHORS: UOEH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ACRIDINE (1,2,3,4,5,6,7,8,9-D9)
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C13H9N
+CH$EXACT_MASS: 179.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HP 5970
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  40 1.35 14
+  42 3.52 35
+  52 4.52 45
+  54 3.72 37
+  64 1.9 19
+  66 6.11 61
+  76 2.52 25
+  78 4.66 47
+  79 2.46 25
+  80 4.85 49
+  82 1.16 12
+  88 0.93 9
+  90 1.27 13
+  93 9.89 99
+  102 1.03 10
+  106 1.32 13
+  118 1.44 14
+  130 1.4 14
+  132 3.8 38
+  156 2.82 28
+  157 1.39 14
+  158 9.78 98
+  159 2.58 26
+  160 8.99 90
+  161 1.32 13
+  184 4.39 44
+  185 3.91 39
+  186 19.93 199
+  187 17.5 175
+  188 99.99 999
+  189 14.39 144
+  190 1.1 11
+//

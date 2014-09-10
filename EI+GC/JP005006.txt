@@ -1,0 +1,35 @@
+ACCESSION: JP005006
+RECORD_TITLE: (29H,31H-PHTHALOCYANINATO(2-)-N(29),N(30),N(31),N(32))COPPER; EI-MS
+DATE: 2008.10.21
+AUTHORS: ISA K, FUKUI UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (29H,31H-PHTHALOCYANINATO(2-)-N(29),N(30),N(31),N(32))COPPER
+CH$NAME: PHTHALOCYANINE BLUE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C32H16CuN8
+CH$EXACT_MASS: 575.07939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=147-14-8" target="_blank">147-14-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 15 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 13
+PK$PEAK: m/z int. rel.int.
+  128 1 10
+  191 17 170
+  192 3 30
+  193 8 80
+  194 2 20
+  287.5 4 40
+  288.5 1 10
+  575 99.99 999
+  577 38 380
+  578 60 600
+  579 33 330
+  580 47 470
+  581 16 160
+//

@@ -1,0 +1,14 @@
+Name: Glutamine
+MW: 146
+Synonym: Glutamine
+Comment: SC000047
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+41.9986 137 58.0298 40 74.0242 42 84.0458 44 109.041 117 127.05 231 128.033 63 145.061 999 

@@ -1,0 +1,82 @@
+ACCESSION: OUF00068
+RECORD_TITLE: 4-Hydroxypyridine; GC-EI-TOF-MS; RT:355.993 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-Hydroxypyridine
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C5H5NO
+CH$EXACT_MASS: 95.03711
+CH$SMILES: Oc(c1)ccnc1
+CH$IUPAC: InChI=1/C5H5NO/c7-5-1-3-6-4-2-5/h1-4H,(H,6,7)/f/h7H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=626-64-2" target="_blank">626-64-2</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:503881" target="_blank">503881</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=12290" target="_blank">12290</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/11787" target="_blank">11787</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 355.993  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 52
+PK$PEAK: m/z int. rel.int.
+  85 26 26
+  86 8 8
+  87 1 1
+  90 1 1
+  91 5 5
+  92 19 19
+  93 22 22
+  94 14 14
+  95 17 17
+  96 9 9
+  97 8 8
+  98 5 5
+  99 135 135
+  100 15 15
+  101 6 6
+  102 1 1
+  104 1 1
+  106 11 11
+  107 4 4
+  108 11 11
+  109 27 27
+  110 7 7
+  111 4 4
+  112 5 5
+  120 1 1
+  122 43 43
+  123 7 7
+  124 12 12
+  125 11 11
+  126 10 10
+  127 1 1
+  132 9 9
+  133 1 1
+  134 61 61
+  135 13 13
+  136 42 42
+  137 12 12
+  138 11 11
+  139 1 1
+  146 2 2
+  148 2 2
+  150 9 9
+  151 5 5
+  152 999 999
+  153 136 136
+  154 44 44
+  155 4 4
+  165 1 1
+  166 3 3
+  167 245 245
+  168 35 35
+  169 11 11
+//

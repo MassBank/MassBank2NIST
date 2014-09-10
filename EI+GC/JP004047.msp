@@ -1,0 +1,18 @@
+Name:  FUMARIC ACID; EI-MS
+MW: 116
+Formula: C4H4O4
+Comment: JP004047
+Comment: N/A
+Comment: HITACHI RMU-6L
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+44:205 45:681 52:335 54:20 71:173 98:999 99:395 116:359 

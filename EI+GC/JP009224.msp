@@ -1,0 +1,21 @@
+Name:  PENTYL LACTATE; EI-MS
+MW: 160
+Formula: C8H16O3
+Synonym: AMYL LACTATE
+Comment: JP009224
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+15:15 19:15 27:129 29:11 31:12 39:52 41:137 42:7 43:439 44:26 
+45:999 46:2 55:80 56:17 63:10 69:2 70:138 71:107 75:24 85:2 
+91:16 99:15 

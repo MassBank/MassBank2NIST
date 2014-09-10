@@ -1,0 +1,30 @@
+ACCESSION: JP007644
+RECORD_TITLE: NORBORNYLENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: NORBORNYLENE
+CH$NAME: BICYCLO(2.2.1)HEPT-2-ENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H10
+CH$EXACT_MASS: 94.07825
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=498-66-8" target="_blank">498-66-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 15 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  66 99.99 999
+  67 6.44 64
+  77 1.11 11
+  79 9.41 94
+  80 1.11 11
+  93 2.22 22
+  94 34.44 344
+  95 2.81 28
+//

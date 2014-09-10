@@ -1,0 +1,56 @@
+ACCESSION: JP008575
+RECORD_TITLE: 1-NAPHTHOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-NAPHTHOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H8O
+CH$EXACT_MASS: 144.05751
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 36
+PK$PEAK: m/z int. rel.int.
+  26 1.02 10
+  27 2.01 20
+  29 1.76 18
+  37 1 10
+  38 2.49 25
+  39 7.66 77
+  50 5.22 52
+  51 5.27 53
+  52 1.04 10
+  53 1.53 15
+  57 4.92 49
+  58 5.02 50
+  61 1.96 20
+  62 6.09 61
+  63 13.97 140
+  64 2.27 23
+  65 4.47 45
+  72 6.5 65
+  74 4.31 43
+  75 3.72 37
+  76 1.86 19
+  77 2.03 20
+  85 1.09 11
+  86 2.62 26
+  87 3.95 40
+  88 3.1 31
+  89 11.39 114
+  90 1.98 20
+  113 2.95 30
+  114 4.56 46
+  115 89.27 893
+  116 42.36 424
+  117 3.16 32
+  143 1.64 16
+  144 99.99 999
+  145 9.94 99
+//

@@ -1,0 +1,31 @@
+ACCESSION: JP009020
+RECORD_TITLE: ETHYL PYRUVATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL PYRUVATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H8O3
+CH$EXACT_MASS: 116.04734
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=617-35-6" target="_blank">617-35-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 10
+PK$PEAK: m/z int. rel.int.
+  15 7.6 76
+  26 1.92 19
+  27 10.77 108
+  29 17.16 172
+  42 5.28 53
+  43 99.99 999
+  44 3.08 31
+  45 2.12 21
+  61 1.23 12
+  116 1.36 14
+//

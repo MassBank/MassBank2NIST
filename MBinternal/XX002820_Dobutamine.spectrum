@@ -1,0 +1,18 @@
+Name: Dobutamine
+CAS: 34368-04-2
+MW: 301
+Formula: C18H23NO3
+Synonym: C06967
+Synonym: Dobutamine
+Comment: XX002820
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 14
+43.200 11 57.300 30 58.200 22 68.800 6 70.900 28 76.900 25 79.000 19 80.800 21 90.900 554 95.000 9 
+107.100 999 109.400 23 119.300 239 137.400 187 

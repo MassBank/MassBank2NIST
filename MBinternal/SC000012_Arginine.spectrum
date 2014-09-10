@@ -1,0 +1,14 @@
+Name: Arginine
+MW: 174
+Synonym: Arginine
+Comment: SC000012
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+43.0537 26 60.0564 145 70.0658 484 72.0816 21 116.07 110 130.097 66 158.093 58 175.119 999 

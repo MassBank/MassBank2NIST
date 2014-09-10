@@ -1,0 +1,36 @@
+ACCESSION: JP004219
+RECORD_TITLE: (E)-2-METHYLCROTONIC ACID METHYL ESTER; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (E)-2-METHYLCROTONIC ACID METHYL ESTER
+CH$NAME: TIGLIC ACID METHYL ESTER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H10O2
+CH$EXACT_MASS: 114.06808
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=6622-76-0" target="_blank">6622-76-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-01-SG
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  38 4.4 44
+  50 1.9 19
+  51 4.4 44
+  53 1.21 12
+  54 12.8 128
+  55 99.99 999
+  56 4.4 44
+  71 0.25 3
+  82 16.6 166
+  83 64.7 647
+  84 3.8 38
+  99 1.73 17
+  114 60.2 602
+  115 3.8 38
+//

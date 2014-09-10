@@ -1,0 +1,19 @@
+Name: Deisopropylatrazine
+CAS: 1007-28-9
+MW: 173
+Formula: C5H8ClN5
+Synonym: C06556
+Synonym: Deisopropylatrazine
+Comment: XX002381
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 26
+42.900 123 55.200 86 62.100 169 66.800 9 68.000 999 69.000 28 69.400 12 71.100 176 73.700 14 76.800 37 
+79.200 372 81.000 23 83.200 9 91.100 25 93.000 16 95.300 23 95.700 178 97.300 7 104.000 604 110.100 53 
+111.300 21 117.100 23 130.100 16 132.000 46 144.200 14 146.200 23 

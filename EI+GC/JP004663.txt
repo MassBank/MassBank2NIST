@@ -1,0 +1,48 @@
+ACCESSION: JP004663
+RECORD_TITLE: 4-CHLOROPHENOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-CHLOROPHENOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H5ClO
+CH$EXACT_MASS: 128.00289
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-48-9" target="_blank">106-48-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  46 2.38 24
+  49 1.49 15
+  50 3.23 32
+  51 1.73 17
+  53 3.24 32
+  55 1.05 11
+  61 2.91 29
+  62 3.7 37
+  63 8.83 88
+  64 15.47 155
+  65 30.15 302
+  66 2.33 23
+  73 5.2 52
+  74 2.25 23
+  75 3.1 31
+  89 1.22 12
+  92 2.32 23
+  93 3.88 39
+  99 4.94 49
+  100 8.49 85
+  101 2.21 22
+  102 3.21 32
+  127 1.16 12
+  128 99.99 999
+  129 7.21 72
+  130 33.56 336
+  131 2.22 22
+//

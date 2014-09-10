@@ -1,0 +1,17 @@
+Name: Cimetidine
+MW: 252
+Formula: C10H16N6S
+Synonym: C06952
+Synonym: Transferred to D00295, Cimetidine
+Comment: XX000544
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 11
+44.900 2 59.000 1 97.100 22 122.900 1 156.500 68 157.000 999 191.600 1 205.600 2 213.000 1 219.700 1 
+251.300 431 

@@ -1,0 +1,21 @@
+Name:  HYPOXANTHINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=68-94-0" target="_blank">68-94-0</a>
+MW: 136
+Formula: C5H4N4O
+Comment: JP009501
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+18:11 27:64 28:388 29:53 38:47 39:46 43:17 52:13 53:140 54:251 
+55:26 65:17 66:35 67:10 80:31 81:103 82:38 108:58 109:50 135:52 
+136:999 137:77 

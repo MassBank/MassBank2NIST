@@ -1,0 +1,22 @@
+Name: ACETONYLACETONE
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-13-4" target="_blank">110-13-4</a>
+MW: 114
+Formula: C6H10O2
+Synonym: ACETONYLACETONE
+Comment: JP007683
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+15:67 27:47 28:25 29:18 39:42 40:23 41:36 42:33 43:999 44:35 
+53:43 55:22 57:66 67:38 68:13 71:124 72:27 81:31 95:17 96:58 
+97:13 99:208 100:13 114:24 

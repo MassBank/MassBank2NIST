@@ -1,0 +1,62 @@
+ACCESSION: JP012039
+RECORD_TITLE: BUTYLMETHYLSILANE (6,6,6-D3); EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BUTYLMETHYLSILANE (6,6,6-D3)
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H14Si
+CH$EXACT_MASS: 102.08648
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 42
+PK$PEAK: m/z int. rel.int.
+  27 5.1 51
+  28 7.1 71
+  29 7.6 76
+  30 4.7 47
+  31 7.6 76
+  32 5.7 57
+  39 3.8 38
+  40 3 30
+  41 4.5 45
+  42 5.6 56
+  43 23.5 235
+  44 14.8 148
+  45 92.7 927
+  46 12 120
+  47 5.1 51
+  48 3.6 36
+  53 3.1 31
+  55 3.6 36
+  56 2.6 26
+  57 3.8 38
+  58 11.1 111
+  59 25.3 253
+  60 8.1 81
+  61 7.2 72
+  62 17.2 172
+  63 2.5 25
+  69 3.8 38
+  71 4.3 43
+  72 3.5 35
+  73 99.99 999
+  74 12.7 127
+  75 19.5 195
+  76 7.5 75
+  77 4.8 48
+  87 2.3 23
+  88 4 40
+  89 3 30
+  90 3 30
+  103 16.9 169
+  104 7.1 71
+  105 7 70
+  106 2.3 23
+//

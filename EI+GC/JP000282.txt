@@ -1,0 +1,40 @@
+ACCESSION: JP000282
+RECORD_TITLE: 2-HEXANOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-HEXANOL
+CH$NAME: SEC-HEXYL ALCOHOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H14O
+CH$EXACT_MASS: 102.10447
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  15 2.2 22
+  19 1.7 17
+  27 8.6 86
+  29 0.49 5
+  31 2.1 21
+  39 6.8 68
+  40 1.1 11
+  41 1.6 16
+  42 4.5 45
+  43 18.3 183
+  44 7.1 71
+  45 99.99 999
+  46 2.2 22
+  55 1.8 18
+  56 5.4 54
+  57 0.51 5
+  69 16.4 164
+  84 5.6 56
+  87 6.3 63
+//

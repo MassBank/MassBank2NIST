@@ -1,0 +1,27 @@
+ACCESSION: JP003636
+RECORD_TITLE: CYCLOHEXANEPENTOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CYCLOHEXANEPENTOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H12O5
+CH$EXACT_MASS: 164.06847
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  43 35.1 351
+  57 35 350
+  60 94.6 946
+  71 5.94 59
+  73 99.99 999
+  74 33.5 335
+  87 35.9 359
+  128 34.2 342
+//

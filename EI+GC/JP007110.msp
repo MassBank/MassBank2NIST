@@ -1,0 +1,22 @@
+Name:  ISOBUTYL ALCOHOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=78-83-1" target="_blank">78-83-1</a>
+MW: 74
+Formula: C4H10O
+Synonym: 2-METHYL-1-PROPANOL
+Comment: JP007110
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+15:42 26:37 27:360 28:42 29:178 30:13 31:549 32:12 33:492 37:14 
+38:39 39:222 40:43 41:632 42:591 43:999 44:34 45:31 53:10 55:58 
+56:43 57:53 59:38 73:16 74:101 

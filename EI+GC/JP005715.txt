@@ -1,0 +1,69 @@
+ACCESSION: JP005715
+RECORD_TITLE: 4-NITROBENZALDEHYDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-NITROBENZALDEHYDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H5NO3
+CH$EXACT_MASS: 151.02694
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=555-16-8" target="_blank">555-16-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 48
+PK$PEAK: m/z int. rel.int.
+  17 0.67 7
+  18 2.56 26
+  26 0.51 5
+  27 1.91 19
+  28 1.25 13
+  29 4.99 50
+  30 7.99 80
+  37 1.7 17
+  38 2.84 28
+  39 4.44 44
+  46 2.1 21
+  49 1.32 13
+  50 19.68 197
+  51 37.75 378
+  52 1.81 18
+  53 0.92 9
+  61 1.67 17
+  62 2.35 24
+  63 3.42 34
+  64 2.45 25
+  65 9.49 95
+  66 0.7 7
+  73 2.02 20
+  74 11.22 112
+  75 9.71 97
+  76 15.03 150
+  77 49.75 498
+  78 3.49 35
+  79 0.21 2
+  91 0.57 6
+  92 7.7 77
+  93 2.7 27
+  94 0.27 3
+  103 1.19 12
+  104 14.91 149
+  105 21.13 211
+  106 1.9 19
+  120 4.56 46
+  121 0.76 8
+  122 0.57 6
+  123 0.65 7
+  135 2.61 26
+  136 0.33 3
+  149 0.74 7
+  150 78.04 780
+  151 99.99 999
+  152 9.57 96
+  153 1.06 11
+//

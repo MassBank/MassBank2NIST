@@ -1,0 +1,20 @@
+Name:  ETHYL ACRYLATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=140-88-5" target="_blank">140-88-5</a>
+MW: 100
+Formula: C5H8O2
+Comment: JP004938
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+43:92 44:13 45:108 53:12 54:44 55:999 56:130 57:18 58:49 72:16 
+73:108 82:50 85:52 99:90 100:34 

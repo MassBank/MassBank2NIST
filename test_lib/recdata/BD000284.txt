@@ -1,0 +1,39 @@
+ACCESSION: BD000284
+RECORD_TITLE: Picolinicacid; ; ESI-TOF; CE:10 eV; [M-H]-
+DATE: 2007.10.19
+AUTHORS: BSC
+COPYRIGHT: Copyright(C) 2007
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C10164
+CH$NAME: Picolinicacid
+CH$NAME: a-Picolinic acid,alpha-Picolinic acid,2-Picolinic acid,pyridine-2-carboxylic acid,2-pyridinecarboxylic acid,o-pyridinecarboxylic acid,pyridine-carboxylique-2,alpha-pyridinecarboxylic acid,pyridinecarboxylic acid-(2),2-carboxypyridine,Acide picolique,
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C6H5NO2
+CH$EXACT_MASS: 123.0320284
+CH$SMILES: OC(=O)C1CC=CC(=N1)C(O)=O
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:1018
+CH$LINK: CAS 98-98-6
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE NEGATIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 10 eV
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.027
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 26.712
+AC$ANALYTICAL_CONDITION: Mass 44.9952-394.891
+MS$FOCUSED_ION: PRECURSOR_M/Z 124.039
+MS$FOCUSED_ION: PRECURSOR_TYPE [M-H]-
+MS$FOCUSED_ION: BASE_PEAK 122.022
+PK$NUM_PEAK: 5
+PK$PEAK: m/z int. rel.int.
+  78.034 18 18
+  94.028 35 35
+  122.024 999 999
+  123.027 70 70
+  124.037 6 6
+//

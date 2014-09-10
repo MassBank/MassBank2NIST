@@ -1,0 +1,21 @@
+Name:  DIBENZOFURAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=132-64-9" target="_blank">132-64-9</a>
+MW: 168
+Formula: C12H8O
+Comment: JP001595
+Comment: N/A
+Comment: VARIAN MAT-44
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+50:51 51:59 53:12 61:12 62:63 63:138 64:20 65:12 69:166 70:142 
+74:51 75:47 84:296 86:36 87:28 88:36 89:55 90:12 113:36 114:32 
+138:16 139:285 140:59 167:20 168:999 169:142 170:16 

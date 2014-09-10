@@ -1,0 +1,21 @@
+Name:  ACETONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=67-64-1" target="_blank">67-64-1</a>
+MW: 58
+Formula: C3H6O
+Synonym: 2-PROPANONE
+Comment: JP007680
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+14:31 15:232 26:31 27:55 28:28 29:44 39:39 41:50 42:63 43:999 
+44:37 55:35 56:17 57:59 58:300 59:14 

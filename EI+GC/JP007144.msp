@@ -1,0 +1,23 @@
+Name:  BENZYLACETONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=2550-26-7" target="_blank">2550-26-7</a>
+MW: 148
+Formula: C10H12O
+Synonym: 4-PHENYL-2-BUTANONE
+Comment: JP007144
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 37
+15:52 27:85 38:14 39:108 41:20 42:20 43:999 44:18 50:69 51:178 
+52:33 53:18 55:29 62:14 63:66 64:12 65:116 74:17 75:15 76:15 
+77:213 78:137 79:123 89:24 91:556 92:40 102:14 103:99 104:105 105:675 
+106:75 115:28 129:16 133:107 147:21 148:562 149:59 

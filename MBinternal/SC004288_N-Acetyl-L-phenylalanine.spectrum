@@ -1,0 +1,14 @@
+Name: N-Acetyl-L-phenylalanine
+MW: 207
+Synonym: N-Acetyl-L-phenylalanine
+Comment: SC004288
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+120.08 65 162.091 127 166.085 133 190.085 67 208.097 999 

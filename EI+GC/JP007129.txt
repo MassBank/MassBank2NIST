@@ -1,0 +1,53 @@
+ACCESSION: JP007129
+RECORD_TITLE: 1,2,3-TRIMETHYLBENZENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1,2,3-TRIMETHYLBENZENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H12
+CH$EXACT_MASS: 120.0939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=526-73-8" target="_blank">526-73-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  15 1.27 13
+  27 5.1 51
+  38 1.26 13
+  39 10.22 102
+  40 1.15 12
+  41 3.55 36
+  50 2.85 29
+  51 6.92 69
+  52 2.28 23
+  53 3.25 33
+  58 1.38 14
+  59 1.5 15
+  62 1.36 14
+  63 4.15 42
+  65 4.6 46
+  74 1.04 10
+  77 12.53 125
+  78 4.46 45
+  79 6.43 64
+  89 1.26 13
+  91 9.24 92
+  92 1.58 16
+  102 1.43 14
+  103 5.39 54
+  104 2.56 26
+  105 99.99 999
+  106 7.27 73
+  115 2.87 29
+  117 2.41 24
+  119 10.62 106
+  120 48.09 481
+  121 4.18 42
+//

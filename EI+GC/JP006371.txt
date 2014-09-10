@@ -1,0 +1,42 @@
+ACCESSION: JP006371
+RECORD_TITLE: 4-BROMO-1-BUTENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HISAHIRO HAGIWARA, CHEMICAL RESEARCH INSTITUTE OF NON-AQUEOUSSOLUTIONS TOHOKU UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-BROMO-1-BUTENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H7Br
+CH$EXACT_MASS: 133.97311
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=5162-44-7" target="_blank">5162-44-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-DX-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  37 1.97 20
+  38 3.13 31
+  39 17.74 177
+  40 1.35 14
+  41 15.46 155
+  42 7.63 76
+  43 99.27 993
+  44 2.16 22
+  50 1.64 16
+  53 5.92 59
+  54 3.41 34
+  55 99.99 999
+  56 5.26 53
+  57 1.53 15
+  58 48.37 484
+  59 1.62 16
+  80 1.93 19
+  82 1.85 19
+  108 1.45 15
+  134 6.16 62
+  136 5.97 60
+//

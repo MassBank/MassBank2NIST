@@ -1,0 +1,21 @@
+Name:  N,N-DIMETHYLACETAMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=127-19-5" target="_blank">127-19-5</a>
+MW: 87
+Formula: C4H9NO
+Comment: JP008173
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+14:10 15:92 18:23 27:9 28:42 29:11 30:95 31:13 40:10 41:18 
+42:194 43:397 44:999 45:263 46:9 56:16 58:15 72:218 73:11 87:885 
+88:90 

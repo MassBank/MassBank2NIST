@@ -1,0 +1,14 @@
+Name: Isoniazid
+MW: 137
+Synonym: Isoniazid
+Comment: SC000954
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 6
+44.8326 53 57.009 170 75.0092 178 78.0349 81 135.03 288 136.051 999 

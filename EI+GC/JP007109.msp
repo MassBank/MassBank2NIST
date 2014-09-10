@@ -1,0 +1,22 @@
+Name:  BUTYL ALCOHOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=71-36-3" target="_blank">71-36-3</a>
+MW: 74
+Formula: C4H10O
+Synonym: 1-BUTANOL
+Comment: JP007109
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+14:12 15:42 19:24 26:55 27:465 28:142 29:266 30:18 31:951 33:79 
+37:13 38:27 39:202 40:43 41:736 42:338 43:641 44:37 45:76 50:11 
+51:12 53:12 55:155 56:999 57:63 73:14 

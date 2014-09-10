@@ -1,0 +1,20 @@
+Name:  1,1,3,3-TETRAMETHYLUREA; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=632-22-4" target="_blank">632-22-4</a>
+MW: 116
+Formula: C5H12N2O
+Comment: JP011323
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+15:73 18:40 28:48 41:15 42:141 43:41 44:366 45:65 56:43 58:45 
+72:999 73:46 116:397 117:33 

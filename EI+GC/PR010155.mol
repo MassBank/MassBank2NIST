@@ -1,0 +1,12 @@
+1
+13
+<CAS_ID> 141-43-5	<KEGG_ID> C00189	<NAME> Ethanolamine	<FORMULA> C2H7NO	<EXACTMASS> 61.052763850999995	<AVERAGEMASS> 61.08312	<SMILES> NCCO	<COPYRIGHT> ARM PROJECT http://www.metabolome.jp/
+  4  3  0  0  0  0  0  0  0  0999 V2000
+    2.8660    0.2500    0.0000 C   0  0  0  2  0  0  0  0  0  0  0  0
+    2.0000   -0.2500    0.0000 C   0  0  0  2  0  0  0  0  0  0  0  0
+    2.8660    1.2500    0.0000 N   0  0  0  2  0  0  0  0  0  0  0  0
+    2.0000   -1.2500    0.0000 O   0  0  0  1  0  0  0  0  0  0  0  0
+  4  2  1  0  0  0  0
+  2  1  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END

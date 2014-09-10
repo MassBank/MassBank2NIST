@@ -1,0 +1,42 @@
+ACCESSION: JP004012
+RECORD_TITLE: PARA-ETHOXYPHENOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PARA-ETHOXYPHENOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H10O2
+CH$EXACT_MASS: 138.06808
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  28 1.8 18
+  29 5 50
+  43 4.5 45
+  51 0.18 2
+  53 8.6 86
+  54 4 40
+  55 3.4 34
+  56 0.3 3
+  63 2.1 21
+  64 1.4 14
+  65 3.3 33
+  66 0.63 6
+  79 4 40
+  81 14.7 147
+  82 7.7 77
+  93 0.2 2
+  94 6.1 61
+  110 99.99 999
+  111 7.4 74
+  121 0.15 2
+  138 47 470
+  139 4 40
+//

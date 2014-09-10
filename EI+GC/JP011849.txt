@@ -1,0 +1,42 @@
+ACCESSION: JP011849
+RECORD_TITLE: 3H,4H-PYRRO(1,2-D)(1,2,4)TRIAZIN-4-ONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YOSHIKI O, FAC, TECHNOLOGY, OSAKA UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3H,4H-PYRRO(1,2-D)(1,2,4)TRIAZIN-4-ONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H5N3O
+CH$EXACT_MASS: 135.04326
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  50 20.7 207
+  51 41.2 412
+  52 75.4 754
+  53 10.4 104
+  55 1 10
+  56 3.2 32
+  62 2.5 25
+  63 5.5 55
+  64 11.5 115
+  65 11.1 111
+  66 4.3 43
+  67 3 30
+  68 2.9 29
+  75 1.4 14
+  76 1.8 18
+  77 1.1 11
+  78 8.7 87
+  79 46.1 461
+  80 3.1 31
+  106 1.4 14
+  135 99.99 999
+  136 8.5 85
+//

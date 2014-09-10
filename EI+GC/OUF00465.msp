@@ -1,0 +1,31 @@
+Name:  Succinic acid; GC-EI-TOF-MS; RT:449.444 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=110-15-6" target="_blank">110-15-6</a>
+MW: 118
+Formula: C4H6O4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00042" target="_blank">C00042</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00635" target="_blank">D00635</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00676" target="_blank">D00676</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00794" target="_blank">D00794</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01269" target="_blank">D01269</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D01455" target="_blank">D01455</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02327" target="_blank">D02327</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02670" target="_blank">D02670</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02734" target="_blank">D02734</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D03412" target="_blank">D03412</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D03519" target="_blank">D03519</a>
+Comment: OUF00465
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 449.444  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 55
+85:12 86:12 87:8 88:4 89:8 90:1 92:1 93:3 95:1 99:7 
+100:1 101:9 102:2 103:7 104:1 105:4 113:11 114:1 115:13 116:23 
+117:16 118:2 119:4 128:3 129:84 130:12 131:22 132:4 133:39 134:5 
+135:4 143:6 145:7 146:1 147:999 148:157 149:87 150:9 151:2 156:2 
+157:5 163:2 172:45 173:23 174:4 175:3 190:1 203:3 217:2 218:6 
+219:1 247:76 248:15 249:7 262:4 

@@ -1,0 +1,14 @@
+Name: Loperamide
+MW: 476
+Synonym: Loperamide
+Comment: SC001101
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 3
+266.153 50 477.232 999 477.502 84 

@@ -1,0 +1,45 @@
+ACCESSION: JP003023
+RECORD_TITLE: 4-(TERT-BUTYLMERCAPTO)-METYL-3-PICOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-(TERT-BUTYLMERCAPTO)-METYL-3-PICOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H17NS
+CH$EXACT_MASS: 195.10817
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 26
+PK$PEAK: m/z int. rel.int.
+  29 18 180
+  31 12 120
+  39 18 180
+  41 2.6 26
+  45 8 80
+  51 8 80
+  52 5 50
+  53 0.08 1
+  57 81 810
+  65 8 80
+  77 15 150
+  78 0.07 1
+  79 8 80
+  93 11 110
+  94 5 50
+  105 0.21 2
+  106 71 710
+  107 9 90
+  124 5 50
+  138 0.1 1
+  139 99.99 999
+  140 13 130
+  141 5 50
+  180 0.03 0
+  195 41 410
+  196 5.4 54
+//

@@ -1,0 +1,22 @@
+Name:  BENZOTRIFLUORIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=98-08-8" target="_blank">98-08-8</a>
+MW: 146
+Formula: C7H5F3
+Synonym: ALPHA,ALPHA,ALPHA-TRIFLUOROTOLUENE
+Comment: JP004925
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+50:60 51:93 57:14 63:17 69:24 70:14 73:20 74:27 75:55 76:16 
+77:113 95:35 96:285 97:20 99:14 125:30 126:24 127:351 128:27 145:410 
+146:999 147:78 

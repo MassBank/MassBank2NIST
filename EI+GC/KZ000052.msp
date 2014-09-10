@@ -1,0 +1,36 @@
+Name:  L-Phenylalanine; GC-EI-TOF-MS; 2 TMS; BP:192
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=63-91-2" target="_blank">63-91-2</a>
+MW: 165
+Formula: C9H11NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00079" target="_blank">C00079</a>
+Comment: KZ000052
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 813.128 sec
+Comment: RETENTION_INDEX 1738.8
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: BASE_PEAK 192
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 127
+82:3 83:6 84:33 85:12 86:58 87:18 88:7 89:31 90:18 91:261 
+92:45 93:11 94:1 95:3 96:1 97:1 98:7 99:6 100:819 101:121 
+102:60 103:97 104:25 105:27 106:4 107:8 108:1 109:1 110:1 112:1 
+113:3 114:3 115:31 116:15 117:55 118:28 119:29 120:29 121:29 122:5 
+123:2 124:1 126:1 127:1 128:7 129:7 130:105 131:89 132:97 133:99 
+134:23 135:28 136:5 137:2 138:1 139:1 140:1 141:1 142:2 143:4 
+144:13 145:18 146:44 147:643 148:107 149:57 150:8 151:2 152:1 153:1 
+154:1 155:1 156:1 157:1 158:9 159:13 160:51 161:19 162:21 163:27 
+164:5 165:2 172:4 173:2 174:15 175:6 176:29 177:35 178:12 179:3 
+180:1 188:3 189:1 190:12 191:12 192:999 193:195 194:57 195:8 196:1 
+202:3 203:13 204:24 205:7 206:2 217:3 218:934 219:226 220:118 221:19 
+222:4 235:1 251:1 266:110 267:52 268:26 269:6 270:1 276:2 277:1 
+278:3 279:1 280:1 292:1 294:38 295:10 296:4 

@@ -1,0 +1,58 @@
+ACCESSION: JP007134
+RECORD_TITLE: 1-METHYLNAPHTHALENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-METHYLNAPHTHALENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H10
+CH$EXACT_MASS: 142.07825
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=90-12-0" target="_blank">90-12-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 37
+PK$PEAK: m/z int. rel.int.
+  26 1.41 14
+  27 4.06 41
+  38 1.98 20
+  39 9.86 99
+  50 6.58 66
+  51 8.41 84
+  52 1.55 16
+  58 6.82 68
+  61 1.15 12
+  62 4.44 44
+  63 13.54 135
+  64 1.77 18
+  65 3.19 32
+  69 1.32 13
+  70 3.57 36
+  71 8.23 82
+  74 4.51 45
+  75 4.13 41
+  76 2.22 22
+  77 2.17 22
+  86 2.84 28
+  87 3.67 37
+  88 1.59 16
+  89 5.94 59
+  91 1.8 18
+  98 1.07 11
+  102 1.41 14
+  113 2.35 24
+  114 1.58 16
+  115 41.39 414
+  116 3.77 38
+  126 1.37 14
+  139 10.21 102
+  140 3.21 32
+  141 76.82 768
+  142 99.99 999
+  143 10.68 107
+//

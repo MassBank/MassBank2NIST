@@ -1,0 +1,17 @@
+Name: Betaine_aldehyde
+CAS: 7418-61-3
+MW: 102
+Formula: C5H12NO
+Synonym: C00576
+Synonym: Betaine aldehyde
+Comment: XX002501
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 5
+35.900 250 57.900 999 58.400 428 66.900 71 73.600 392 

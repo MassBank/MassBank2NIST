@@ -1,0 +1,20 @@
+Name: Protopine
+CAS: 130-86-9
+MW: 353
+Formula: C20H19NO5
+Synonym: C05189
+Synonym: Protopine
+Comment: XX003808
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 33
+82.500 1 109.700 1 138.200 1 147.400 1 154.200 1 161.900 1 163.100 1 165.500 1 181.000 1 182.100 1 
+188.500 1 188.900 1 190.100 1 192.500 1 208.300 23 225.300 7 231.000 1 234.000 1 235.100 1 236.200 1 
+247.000 1 257.800 1 275.300 1 290.600 1 292.600 1 293.300 1 294.500 1 301.400 1 304.200 1 322.500 1 
+336.800 1 337.600 10 354.500 999 

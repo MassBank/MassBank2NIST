@@ -1,0 +1,14 @@
+Name: Sulfanilamide
+MW: 172
+Synonym: Sulfanilamide
+Comment: SC002497
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 5
+92.0496 107 93.0573 71 108.044 112 156.01 240 173.037 999 

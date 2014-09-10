@@ -1,0 +1,14 @@
+Name: Metyrapone
+MW: 226
+Synonym: Metyrapone
+Comment: SC001238
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 2
+121.089 150 227.118 999 

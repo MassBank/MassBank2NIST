@@ -1,0 +1,45 @@
+ACCESSION: JP007962
+RECORD_TITLE: 1-PHENYL-1-NONEN-3-ONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-PHENYL-1-NONEN-3-ONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C15H20O
+CH$EXACT_MASS: 216.15142
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  28 6.7 67
+  40 8.3 83
+  41 7.6 76
+  51 0.67 7
+  54 1.9 19
+  63 1.9 19
+  75 1.9 19
+  77 2.43 24
+  78 2.4 24
+  102 7.2 72
+  103 40.5 405
+  104 0.67 7
+  117 5.3 53
+  128 1.9 19
+  131 99.99 999
+  132 0.95 10
+  145 10.7 107
+  146 62.4 624
+  147 7.6 76
+  173 0.19 2
+  174 1.2 12
+  187 1.9 19
+  215 1.9 19
+  216 1.38 14
+  217 2.9 29
+//

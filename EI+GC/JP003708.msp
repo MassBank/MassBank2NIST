@@ -1,0 +1,18 @@
+Name:  DIMETHOXYMETHANE; EI-MS
+MW: 76
+Formula: C3H8O2
+Comment: JP003708
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+15:60 29:591 30:58 31:13 32:8 43:13 44:18 45:999 46:21 47:50 
+75:612 76:21 

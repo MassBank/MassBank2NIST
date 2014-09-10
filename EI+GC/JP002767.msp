@@ -1,0 +1,18 @@
+Name:  METHOTRIMEPRAZINE; EI-MS
+MW: 328
+Formula: C19H24N2OS
+Comment: JP002767
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+42:49 58:999 100:79 135:5 166:9 167:9 185:29 198:2 199:9 210:29 
+227:9 228:4 229:39 233:19 242:39 243:2 268:19 282:29 283:29 328:139 

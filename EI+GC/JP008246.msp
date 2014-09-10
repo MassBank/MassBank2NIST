@@ -1,0 +1,21 @@
+Name:  DIMETHYL FUMALATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=624-49-7" target="_blank">624-49-7</a>
+MW: 144
+Formula: C6H8O4
+Comment: JP008246
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+14:17 15:393 25:13 26:158 27:45 28:10 29:93 30:18 31:24 39:50 
+41:39 42:16 45:14 53:148 54:111 55:32 59:310 60:7 81:42 82:62 
+85:485 86:24 99:20 100:25 113:999 114:195 115:19 144:26 

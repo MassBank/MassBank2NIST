@@ -1,0 +1,49 @@
+ACCESSION: JP007737
+RECORD_TITLE: 2-BUTYRYLFURAN; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-BUTYRYLFURAN
+CH$NAME: 1-(2-FURANYL)-1-BUTANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H10O2
+CH$EXACT_MASS: 138.06808
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4208-57-5" target="_blank">4208-57-5</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  27 8.98 90
+  29 2.1 21
+  39 30.08 301
+  40 2.78 28
+  41 12.47 125
+  42 10.63 106
+  43 18.65 187
+  53 3.92 39
+  54 2.9 29
+  55 8.48 85
+  66 1.01 10
+  67 6.56 66
+  68 11.85 119
+  69 2.31 23
+  81 6.66 67
+  82 2.02 20
+  94 1 10
+  95 99.99 999
+  96 12.04 120
+  97 1.95 20
+  119 1.03 10
+  110 76.55 766
+  111 9.54 95
+  123 22.42 224
+  124 1.1 11
+  138 22.54 225
+  125 1.75 18
+//

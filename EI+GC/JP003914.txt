@@ -1,0 +1,44 @@
+ACCESSION: JP003914
+RECORD_TITLE: N-PROPYL N-BUTYL ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-PROPYL N-BUTYL ETHER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H16O
+CH$EXACT_MASS: 116.12012
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  14 2.9 29
+  15 7.1 71
+  26 3.9 39
+  27 3.96 40
+  28 12.4 124
+  29 39.7 397
+  30 3 30
+  31 0.7 7
+  38 3.3 33
+  39 15.3 153
+  40 3.2 32
+  41 4.34 43
+  42 6.2 62
+  43 99.99 999
+  44 5 50
+  45 0.35 4
+  55 7 70
+  56 8.2 82
+  57 84.2 842
+  58 0.5 5
+  59 3.2 32
+  73 22.6 226
+  74 2.9 29
+  87 1.23 12
+  116 3.9 39
+//

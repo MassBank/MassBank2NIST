@@ -1,0 +1,14 @@
+Name: D-Glucose
+MW: 180
+Synonym: D-Glucose
+Comment: SC000326
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+41.0392 30 44.0485 25 46.9866 21 76.9994 55 119.953 26 121.049 62 202.163 28 203.052 999 

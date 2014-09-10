@@ -1,0 +1,54 @@
+ACCESSION: JP003613
+RECORD_TITLE: N-ETHYLCYCLOHEXYLAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-ETHYLCYCLOHEXYLAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H17N
+CH$EXACT_MASS: 127.1361
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 35
+PK$PEAK: m/z int. rel.int.
+  15 6.5 65
+  18 3 30
+  26 3 30
+  27 1.98 20
+  28 25 250
+  29 15 150
+  30 14.3 143
+  39 0.92 9
+  40 2.5 25
+  41 16 160
+  42 9 90
+  43 0.5 5
+  44 8 80
+  50 1 10
+  51 2 20
+  53 0.4 4
+  54 3.9 39
+  55 8.5 85
+  56 4 40
+  57 0.23 2
+  58 4.8 48
+  67 3.5 35
+  68 3 30
+  69 0.4 4
+  70 3.5 35
+  71 14 140
+  81 3 30
+  82 0.35 4
+  83 3 30
+  84 99.99 999
+  85 6.8 68
+  98 0.4 4
+  112 2.6 26
+  126 2.5 25
+  127 11 110
+//

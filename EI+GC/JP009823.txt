@@ -1,0 +1,46 @@
+ACCESSION: JP009823
+RECORD_TITLE: CHLOROMETHYL PHENYL SULFONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CHLOROMETHYL PHENYL SULFONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H7ClO2S
+CH$EXACT_MASS: 189.98553
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 26
+PK$PEAK: m/z int. rel.int.
+  27 1.8 18
+  28 2.1 21
+  48 1.2 12
+  49 0.35 4
+  50 1.6 16
+  51 38.1 381
+  52 2 20
+  63 0.16 2
+  65 3.5 35
+  69 1.1 11
+  74 4.2 42
+  75 0.28 3
+  76 3.1 31
+  77 82.9 829
+  78 13.7 137
+  91 0.34 3
+  97 4 40
+  125 17.7 177
+  126 1.5 15
+  141 99.99 999
+  142 11.9 119
+  143 7.4 74
+  160 2.7 27
+  190 2.41 24
+  191 2.9 29
+  192 8.8 88
+//

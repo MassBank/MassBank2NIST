@@ -1,0 +1,19 @@
+Name:  4-TERT-BUTYLSTYLENE; EI-MS
+MW: 160
+Formula: C12H16
+Comment: JP010939
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+41:84 77:59 91:111 105:124 115:65 117:229 128:72 129:39 130:41 145:999 
+146:127 160:325 161:55 

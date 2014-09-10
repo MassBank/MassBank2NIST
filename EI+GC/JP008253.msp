@@ -1,0 +1,22 @@
+Name: 2-DIETHYLAMINOETHANOL
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-37-8" target="_blank">100-37-8</a>
+MW: 117
+Formula: C6H15NO
+Synonym: 2-DIETHYLAMINOETHANOL
+Comment: JP008253
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+15:33 17:13 27:90 28:108 29:133 30:381 31:26 39:21 41:24 42:98 
+43:31 44:60 45:58 56:82 57:17 58:397 59:18 60:10 70:20 71:13 
+72:36 86:999 87:63 88:17 102:65 116:29 117:42 

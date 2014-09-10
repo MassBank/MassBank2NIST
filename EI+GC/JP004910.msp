@@ -1,0 +1,21 @@
+Name:  1,2-DICHLOROETHANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=107-06-2" target="_blank">107-06-2</a>
+MW: 97
+Formula: C2H4Cl2
+Comment: JP004910
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+42:51 43:612 44:28 45:300 46:16 47:20 48:32 49:627 50:19 51:212 
+57:12 58:279 59:419 60:44 61:208 62:999 63:354 64:348 65:101 73:23 
+74:250 75:13 97:14 98:293 99:13 100:191 102:31 

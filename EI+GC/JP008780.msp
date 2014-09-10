@@ -1,0 +1,20 @@
+Name:  3-METHYL-1-PENTANOL; EI-MS
+MW: 102
+Formula: C6H14O
+Comment: JP008780
+Comment: N/A
+Comment: HP 5970
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UOEH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+37:3 39:176 41:685 42:37 43:620 44:51 45:97 46:32 50:6 51:14 
+52:1 53:37 55:496 56:999 57:262 58:4 59:21 63:6 67:13 69:439 
+70:25 71:36 72:3 73:9 74:7 83:8 84:110 85:10 

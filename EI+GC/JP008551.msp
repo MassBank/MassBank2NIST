@@ -1,0 +1,20 @@
+Name:  ACETOL ACETATE; EI-MS
+MW: 116
+Formula: C5H8O3
+Synonym: ACETYLMETHYL ACETATE
+Comment: JP008551
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+14:12 15:76 18:13 27:23 29:35 42:59 43:999 44:23 73:37 74:11 
+86:92 116:51 

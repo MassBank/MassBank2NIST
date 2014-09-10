@@ -1,0 +1,42 @@
+ACCESSION: JP002908
+RECORD_TITLE: DIMETHYL-2-METHYL SUCCINATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIMETHYL-2-METHYL SUCCINATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H12O4
+CH$EXACT_MASS: 160.07356
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  15 33.51 335
+  27 5.23 52
+  29 9.54 95
+  31 2.17 22
+  39 6.62 66
+  40 2.34 23
+  41 17.93 179
+  42 10.54 105
+  43 6.07 61
+  45 2.42 24
+  55 6.55 66
+  56 2.07 21
+  58 2.15 22
+  59 99.99 999
+  60 3.44 34
+  69 13.64 136
+  74 5.63 56
+  87 11.05 111
+  100 17.08 171
+  101 20.41 204
+  128 21.31 213
+  129 35.46 355
+  130 2.68 27
+//

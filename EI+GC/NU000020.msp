@@ -1,0 +1,25 @@
+Name: Allocholic Acid Methyl ester
+MW: 422
+Formula: C25H42O5
+Synonym: Allocholic Acid Methyl ester
+Comment: NU000020
+Comment: Natural Product; BILE ACID
+Comment: Hitachi type M-80 B double focusing mass spectrometer
+Comment: EI-MS
+Comment: IONIZATION_POTENTIAL 20 eV
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: SOURCE_TEMPERATURE 180 C
+Comment: COMMENT Sample was directly injected and heated to 120 C
+Comment: ION_TYPE [M]+*
+Contributor: Takashi Iida, Department of Chemistry, College of Humanities and Sciences, Nihon University
+InstType: EI
+IoniMethod: _POTENTIAL 20 eV
+IonPolarity: pos
+Date: 2008-09-03 14:48:36+02:00
+Num: 50
+201:59 207:46 208:44 211:79 213:54 215:47 217:27 219:54 227:48 229:77 
+231:38 232:54 233:68 244:60 245:54 246:29 247:90 248:30 249:37 253:143 
+254:34 255:23 260:60 261:410 262:105 263:31 265:56 269:22 271:999 272:240 
+273:39 289:180 290:45 299:69 300:32 313:48 353:36 354:29 355:51 357:74 
+368:42 371:66 372:31 373:50 375:45 386:811 387:220 388:41 389:23 404:36 

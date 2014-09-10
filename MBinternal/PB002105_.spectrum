@@ -1,0 +1,16 @@
+Name: 
+MW: 352
+Formula: C21H22NO4+
+Synonym: CID: 19009
+Synonym: , Palmatine
+Comment: PB002105
+Contributor: Schmidt J, Institute of Plant Biochemistry, Halle, Germany
+InstType: TQ
+InstName: TSQ 7000
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 35
+Date: 2008-06-06 14:48:36+02:00
+Num: 5
+334.000 32 335.000 1 336.000 999 337.000 76 338.000 1 

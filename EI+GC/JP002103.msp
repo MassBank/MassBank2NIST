@@ -1,0 +1,19 @@
+Name:  BENZENE; EI-MS
+MW: 78
+Formula: C6H6
+Comment: JP002103
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 17
+26:11 27:15 37:21 38:34 39:109 49:16 50:115 51:148 52:188 63:21 
+73:15 74:43 75:16 76:46 77:212 78:999 79:65 

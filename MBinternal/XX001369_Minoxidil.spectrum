@@ -1,0 +1,16 @@
+Name: Minoxidil
+MW: 209
+Formula: C9H15N5O
+Synonym: C07226
+Synonym: Transferred to D00418, Minoxidil
+Comment: XX001369
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 8
+58.600 8 81.900 5 117.900 11 124.400 5 138.200 11 167.600 4 189.800 4 208.200 999 

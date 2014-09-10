@@ -1,0 +1,52 @@
+ACCESSION: JP003982
+RECORD_TITLE: ANILINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ANILINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H7N
+CH$EXACT_MASS: 93.05785
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  15 1 10
+  26 2.1 21
+  27 2.5 25
+  28 0.76 8
+  37 3 30
+  38 6.9 69
+  39 16.7 167
+  40 0.53 5
+  41 5.2 52
+  42 2.1 21
+  45 1.9 19
+  47 0.78 8
+  50 3 30
+  51 4.5 45
+  52 4.5 45
+  53 0.19 2
+  54 4.9 49
+  61 1.8 18
+  62 2.9 29
+  63 0.38 4
+  64 2 20
+  65 18.2 182
+  66 32.6 326
+  67 0.41 4
+  74 2 20
+  76 1.5 15
+  77 1.5 15
+  78 0.13 1
+  91 1.8 18
+  92 10 100
+  93 99.99 999
+  94 5.7 57
+//

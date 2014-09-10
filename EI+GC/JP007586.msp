@@ -1,0 +1,20 @@
+Name:  BENZYL BENZOATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=120-51-4" target="_blank">120-51-4</a>
+MW: 212
+Formula: C14H12O2
+Comment: JP007586
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+50:29 51:102 63:20 65:82 77:259 79:44 90:74 91:446 105:999 106:86 
+165:10 167:50 194:68 195:11 212:238 213:41 

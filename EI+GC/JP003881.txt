@@ -1,0 +1,27 @@
+ACCESSION: JP003881
+RECORD_TITLE: CYCLOHEXANONE OXIME; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CYCLOHEXANONE OXIME
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H11NO
+CH$EXACT_MASS: 113.08406
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  41 75 750
+  42 33.5 335
+  54 42 420
+  55 5.9 59
+  59 56.5 565
+  67 30 300
+  72 45 450
+  113 99.99 999
+//

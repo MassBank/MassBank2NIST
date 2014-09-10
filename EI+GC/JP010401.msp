@@ -1,0 +1,24 @@
+Name:  OXINDOLE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=59-48-3" target="_blank">59-48-3</a>
+MW: 133
+Formula: C8H7NO
+Synonym: 2-INDOLINONE
+Comment: JP010401
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 48
+41:60 42:60 43:190 44:8 45:30 52:20 55:80 56:8 57:100 58:80 
+59:20 60:7 67:20 68:20 69:60 70:7 71:70 72:20 73:40 74:2 
+77:40 78:210 79:20 81:3 82:20 83:40 84:40 85:6 89:20 95:30 
+96:20 97:3 98:30 99:70 103:20 104:42 105:340 106:40 109:20 110:2 
+111:20 112:20 113:20 131:4 132:40 133:999 134:110 135:20 

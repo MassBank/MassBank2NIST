@@ -1,0 +1,18 @@
+Name: Verapamil
+CAS: 52-53-9
+MW: 454
+Formula: C27H38N2O4
+Synonym: C07188
+Synonym: Verapamil
+Comment: XX004262
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 19
+112.400 1 120.900 1 132.600 1 150.300 1 157.100 1 160.700 1 163.000 1 165.300 20 180.800 1 227.100 1 
+239.400 3 253.100 1 260.300 1 273.800 1 274.700 1 295.000 1 303.700 8 455.600 999 456.300 1 

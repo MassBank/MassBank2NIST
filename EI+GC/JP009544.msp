@@ -1,0 +1,23 @@
+Name: ACRIDAN
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=92-81-9" target="_blank">92-81-9</a>
+MW: 181
+Formula: C13H11N
+Synonym: ACRIDAN
+Comment: JP009544
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 31
+39:11 51:12 63:17 75:13 76:16 77:16 89:16 90:13 93:14 126:13 
+127:13 128:11 150:13 151:39 152:62 153:30 154:13 166:11 167:15 168:22 
+177:31 178:127 179:999 180:938 181:782 182:111 183:18 184:64 185:27 195:10 
+196:16 

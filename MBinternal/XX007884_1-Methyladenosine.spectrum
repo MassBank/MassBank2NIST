@@ -1,0 +1,19 @@
+Name: 1-Methyladenosine
+CAS: 15763-06-1
+MW: 281
+Formula: C11H15N5O4
+Synonym: C02494
+Synonym: 1-Methyladenosine
+Comment: XX007884
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 23
+43.0527 4 57.0695 7 71.0859 12 85.1016 5 105.0686 7 109.0520 3 121.0695 3 133.0415 3 133.0518 4 149.8676 3 
+150.0148 3 150.0748 999 150.1129 30 150.1947 3 150.2111 3 150.2275 3 150.6369 3 150.6642 4 151.0305 3 164.9173 3 
+203.0127 24 205.0025 4 205.0280 4 

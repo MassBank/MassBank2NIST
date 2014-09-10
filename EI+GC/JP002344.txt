@@ -1,0 +1,26 @@
+ACCESSION: JP002344
+RECORD_TITLE: ACETONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ACETONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C3H6O
+CH$EXACT_MASS: 58.04186
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 6
+PK$PEAK: m/z int. rel.int.
+  42 6.52 65
+  43 99.99 999
+  44 1.19 12
+  57 1.25 13
+  58 50.41 504
+  59 1.95 20
+//

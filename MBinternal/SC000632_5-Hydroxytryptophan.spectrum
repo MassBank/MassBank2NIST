@@ -1,0 +1,14 @@
+Name: 5-Hydroxytryptophan
+MW: 220
+Synonym: 5-Hydroxytryptophan
+Comment: SC000632
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+106.065 96 116.049 109 134.061 219 142.992 110 160.076 167 162.055 598 204.065 999 221.092 895 

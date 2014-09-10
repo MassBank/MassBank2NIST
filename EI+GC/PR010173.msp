@@ -1,0 +1,38 @@
+Name:  L-Aspartic acid; GC-EI-TOF-MS; 3 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-84-8" target="_blank">56-84-8</a>
+MW: 133
+Formula: C4H7NO4
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00049" target="_blank">C00049</a>
+Synonym: L-Aspartate, 2-Aminosuccinic acid
+Comment: PR010173
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 406.552 sec
+Comment: RETENTION_INDEX 1506.6
+Comment: FILE std5-2_GCTMS_PR060116MSinfo.txt
+Comment: DERIVATIVE_TYPE 3 TMS
+Comment: DERIVATIVE_FORM C13H31NO4Si3
+Comment: DERIVATIVE_MASS 349.15609
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 111
+60:15 61:21 62:2 63:2 66:10 67:2 69:1 70:38 71:7 72:32 
+73:999 74:112 75:131 76:12 77:30 78:2 79:6 82:1 83:3 84:8 
+85:4 86:10 87:5 88:3 89:3 91:1 92:1 93:1 98:8 99:6 
+100:224 101:30 102:14 103:14 104:1 105:2 113:1 114:4 115:14 116:8 
+117:51 118:6 119:10 120:1 126:1 128:6 129:4 130:22 131:19 132:15 
+133:42 134:8 135:4 142:13 143:5 144:6 145:1 146:3 147:117 148:20 
+149:19 150:3 151:1 158:2 159:1 160:3 161:2 163:11 164:2 165:1 
+171:1 172:6 173:2 174:10 175:2 176:2 177:3 184:1 188:30 189:7 
+190:4 191:2 200:1 202:31 203:6 204:9 205:3 206:1 216:14 217:3 
+218:52 219:10 220:4 221:2 230:1 231:1 232:274 233:58 234:25 235:4 
+244:2 245:2 246:1 292:3 293:1 306:6 307:2 308:1 334:3 335:1 
+349:1 

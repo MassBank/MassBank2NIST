@@ -1,0 +1,33 @@
+ACCESSION: JP004936
+RECORD_TITLE: METHYL PROPIONATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: METHYL PROPIONATE
+CH$NAME: PROPANOIC ACID METHYL ESTER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H8O2
+CH$EXACT_MASS: 88.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=554-12-1" target="_blank">554-12-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 11
+PK$PEAK: m/z int. rel.int.
+  42 1.39 14
+  45 2.76 28
+  55 4.49 45
+  56 3.24 32
+  57 99.99 999
+  58 1.71 17
+  59 32.02 320
+  60 1.34 13
+  87 2.24 22
+  88 30.82 308
+  89 1.53 15
+//

@@ -1,0 +1,54 @@
+ACCESSION: JP000897
+RECORD_TITLE: 3,5,5-TRIMETHYL-2-PYRAZOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3,5,5-TRIMETHYL-2-PYRAZOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H12N2
+CH$EXACT_MASS: 112.10005
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: SHIMADZU LKB-2091
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 34
+PK$PEAK: m/z int. rel.int.
+  26 1.5 15
+  27 8.2 82
+  28 15.7 157
+  29 0.62 6
+  30 5.1 51
+  38 0.9 9
+  39 10.3 103
+  40 0.22 2
+  41 11.5 115
+  42 14 140
+  43 3.1 31
+  44 0.04 0
+  51 1 10
+  52 0.6 6
+  53 2.4 24
+  54 0.31 3
+  55 3.1 31
+  56 41.9 419
+  57 3.5 35
+  58 0.06 1
+  67 1.4 14
+  68 0.7 7
+  69 0.5 5
+  70 0.4 4
+  80 0.6 6
+  81 1.1 11
+  83 1.9 19
+  95 0.17 2
+  96 1.3 13
+  97 99.99 999
+  98 6.2 62
+  111 0.05 1
+  112 23.5 235
+  113 2.4 24
+//

@@ -1,0 +1,21 @@
+Name: HYDROQUINONE DIMETHYL ETHER
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=150-78-7" target="_blank">150-78-7</a>
+MW: 138
+Formula: C8H10O2
+Synonym: HYDROQUINONE DIMETHYL ETHER
+Comment: JP006272
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 12 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 12 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+80:2 95:57 96:4 107:2 108:3 109:2 110:3 123:534 124:43 125:3 
+138:999 139:88 140:7 

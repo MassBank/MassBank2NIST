@@ -1,0 +1,14 @@
+Name: Piperacillin
+MW: 517
+Synonym: Piperacillin
+Comment: SC001690
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+141.064 400 233.037 326 236.828 335 270.121 499 302.315 302 445.114 306 465.19 999 516.151 898 

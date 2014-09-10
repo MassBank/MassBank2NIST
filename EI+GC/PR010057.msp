@@ -1,0 +1,40 @@
+Name:  L-Cystine; GC-EI-TOF-MS; 4 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-89-3" target="_blank">56-89-3</a>
+MW: 240
+Formula: C6H12N2O4S2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00491" target="_blank">C00491</a>
+Synonym: L-Dicysteine, L-alpha-Diamino-beta-dithiolactic acid
+Comment: PR010057
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 535.362 sec
+Comment: RETENTION_INDEX 2284.7
+Comment: FILE std2_GCTMS_PR051207MSinfo.txt
+Comment: DERIVATIVE_TYPE 4 TMS
+Comment: DERIVATIVE_FORM C18H44N2O4S2Si4
+Comment: DERIVATIVE_MASS 528.18196
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 136
+60:14 61:13 62:1 63:1 64:1 66:5 67:1 70:26 71:5 72:27 
+73:999 74:109 75:97 76:13 77:22 78:2 79:4 82:1 83:2 84:6 
+85:4 86:14 87:6 88:2 89:2 90:3 91:5 92:1 93:3 98:6 
+99:3 100:227 101:35 102:17 103:14 104:2 105:4 106:1 107:1 112:1 
+113:2 114:25 115:71 116:34 117:15 118:4 119:3 120:9 121:1 122:1 
+128:3 129:10 130:16 131:29 132:41 133:25 134:6 135:2 142:2 143:1 
+144:11 145:5 146:366 147:187 148:79 149:20 150:4 151:1 158:3 159:4 
+160:4 161:2 162:1 163:4 164:1 172:8 173:2 174:8 175:1 176:2 
+178:21 179:5 180:4 188:13 189:3 190:3 191:1 200:1 202:3 203:7 
+204:3 205:1 216:26 217:7 218:358 219:74 220:46 221:9 222:4 223:1 
+231:1 232:42 233:9 234:4 248:3 249:5 250:4 251:1 252:1 260:4 
+261:2 262:2 263:1 264:35 265:19 266:70 267:16 268:9 269:1 288:7 
+289:5 290:2 291:2 292:1 296:8 297:24 298:6 299:4 322:2 338:3 
+339:1 410:2 411:29 412:10 413:7 414:1 

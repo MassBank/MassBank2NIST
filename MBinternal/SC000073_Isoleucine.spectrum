@@ -1,0 +1,14 @@
+Name: Isoleucine
+MW: 131
+Synonym: Isoleucine
+Comment: SC000073
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 3
+69.0702 7 86.0969 449 132.102 999 

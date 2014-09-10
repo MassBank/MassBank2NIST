@@ -1,0 +1,61 @@
+ACCESSION: JP009463
+RECORD_TITLE: 1-CARBOXYPHENAZINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: EGUCHI S, FAC. OF SCIENCE, HIROSHIMA UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-CARBOXYPHENAZINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C13H8N2O2
+CH$EXACT_MASS: 224.05858
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 41
+PK$PEAK: m/z int. rel.int.
+  50 12 120
+  51 13 130
+  52 4.5 45
+  55 1 10
+  57 1 10
+  61 2 20
+  63 6 60
+  64 1.5 15
+  65 1 10
+  69 1 10
+  71 0.5 5
+  74 2 20
+  75 9.5 95
+  76 6.5 65
+  77 3 30
+  78 1 10
+  89 1 10
+  90 7.5 75
+  99 0.5 5
+  100 1 10
+  101 1 10
+  102 5.5 55
+  103 3 30
+  125 3 30
+  126 1.5 15
+  127 2 20
+  128 1.5 15
+  130 1 10
+  140 1 10
+  154 2.5 25
+  170 1.5 15
+  177 0.5 5
+  178 1 10
+  179 23 230
+  180 99.99 999
+  181 13 130
+  182 1 10
+  207 1 10
+  224 2.5 25
+  225 1 10
+  226 0.5 5
+//

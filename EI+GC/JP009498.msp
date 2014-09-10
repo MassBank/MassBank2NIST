@@ -1,0 +1,21 @@
+Name:  URACIL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=66-22-8" target="_blank">66-22-8</a>
+MW: 112
+Formula: C4H4N2O2
+Comment: JP009498
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+14:23 18:18 25:11 26:46 27:35 28:368 29:35 38:31 39:59 40:224 
+41:249 42:395 43:98 44:39 53:18 56:13 67:10 68:160 69:472 70:56 
+112:999 113:61 

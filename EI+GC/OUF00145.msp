@@ -1,0 +1,38 @@
+Name:  Creatinine; GC-EI-TOF-MS; RT:577.544 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=60-27-5" target="_blank">60-27-5</a>
+MW: 113
+Formula: C4H7N3O
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00791" target="_blank">C00791</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D03600" target="_blank">D03600</a>
+Comment: OUF00145
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 577.544  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 126
+85:7 86:21 87:11 88:3 89:1 95:3 98:8 99:49 100:326 101:45 
+102:17 103:4 105:4 106:3 109:1 110:1 111:6 112:9 113:15 114:79 
+115:999 116:120 117:53 118:5 121:4 122:1 124:1 126:14 127:2 128:29 
+129:8 130:39 131:38 132:13 133:9 134:2 139:2 141:16 142:18 143:464 
+144:59 145:24 146:6 147:63 148:11 149:4 155:8 156:5 157:18 158:14 
+159:8 160:1 161:3 163:3 171:134 172:35 173:14 174:1 177:2 187:29 
+188:8 190:2 199:6 200:1 201:5 204:5 205:1 214:3 215:11 216:4 
+223:2 224:2 226:5 228:1 234:1 240:3 241:18 242:3 243:1 254:2 
+256:5 257:3 259:1 267:1 269:1 270:1 276:3 277:2 287:4 295:1 
+302:4 311:1 313:3 314:51 315:17 316:6 317:4 329:83 330:33 331:13 
+332:3 342:1 365:1 370:2 372:2 379:2 381:4 384:4 395:1 405:1 
+418:1 419:1 421:2 434:1 435:1 439:1 441:2 445:2 469:1 474:1 
+476:3 478:1 479:1 481:2 483:1 492:1 

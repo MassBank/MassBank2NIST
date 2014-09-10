@@ -1,0 +1,20 @@
+Name:  TOLUENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-88-3" target="_blank">108-88-3</a>
+MW: 92
+Formula: C7H8
+Comment: JP004693
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+45:89 46:92 49:12 50:116 51:228 52:61 53:36 61:50 62:102 63:269 
+64:61 65:495 66:53 75:11 77:20 89:38 90:23 91:999 92:715 93:54 

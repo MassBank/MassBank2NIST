@@ -1,0 +1,14 @@
+Name: 4-Pyridoxic_acid
+MW: 183
+Synonym: 4-Pyridoxic acid
+Comment: SC000451
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+65.0397 18 101.003 132 105.982 20 138.055 47 144.988 29 148.039 664 166.05 724 184.06 999 

@@ -1,0 +1,19 @@
+Name:  DIETHYL NITROSAMINE; EI-MS
+MW: 102
+Formula: C4H10N2O
+Comment: JP002934
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+14:31 15:124 18:331 26:63 27:359 28:273 29:660 30:83 41:75 42:878 
+43:46 44:987 45:44 56:498 57:492 70:25 71:50 85:27 87:38 102:999 
+103:58 

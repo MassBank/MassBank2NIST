@@ -1,0 +1,22 @@
+Name:  ACRYLAMIDE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=79-06-1" target="_blank">79-06-1</a>
+MW: 71
+Formula: C3H5NO
+Synonym: 2-PROPENAMIDE
+Comment: JP007675
+Comment: N/A
+Comment: HITACHI RMU-7M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+16:67 17:44 25:82 26:580 27:996 28:158 29:99 30:121 37:29 38:53 
+39:79 40:37 41:88 42:73 43:528 44:999 45:53 50:53 51:181 52:331 
+53:361 54:65 55:789 56:46 57:26 70:55 71:743 72:65 

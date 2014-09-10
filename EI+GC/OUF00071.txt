@@ -1,0 +1,163 @@
+ACCESSION: OUF00071
+RECORD_TITLE: 5-Amino-Levulinate; GC-EI-TOF-MS; RT:681.790 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-Amino-Levulinate
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C5H9NO3
+CH$EXACT_MASS: 131.05824
+CH$SMILES: NCC(=O)CCC(O)=O
+CH$IUPAC: InChI=1/C5H9NO3/c6-3-4(7)1-2-5(8)9/h1-3,6H2,(H,8,9)/f/h8H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-60-5" target="_blank">106-60-5</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17549" target="_blank">17549</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:356416" target="_blank">356416</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00430" target="_blank">C00430</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D02908" target="_blank">D02908</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=137" target="_blank">137</a> <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=7048523" target="_blank">7048523</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/134" target="_blank">134</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 681.790  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 132
+PK$PEAK: m/z int. rel.int.
+  85 15 15
+  86 515 515
+  87 50 50
+  88 24 24
+  89 188 188
+  90 17 17
+  91 9 9
+  92 1 1
+  93 1 1
+  94 2 2
+  95 2 2
+  96 1 1
+  97 2 2
+  98 5 5
+  99 9 9
+  100 197 197
+  101 42 42
+  102 64 64
+  103 15 15
+  104 3 3
+  105 3 3
+  110 3 3
+  111 4 4
+  112 8 8
+  113 11 11
+  114 12 12
+  115 10 10
+  116 24 24
+  117 32 32
+  118 9 9
+  119 4 4
+  124 1 1
+  125 4 4
+  126 8 8
+  127 4 4
+  128 13 13
+  129 57 57
+  130 54 54
+  131 22 22
+  132 10 10
+  133 20 20
+  134 4 4
+  135 1 1
+  137 1 1
+  139 3 3
+  140 8 8
+  141 4 4
+  142 3 3
+  143 6 6
+  144 15 15
+  145 5 5
+  146 21 21
+  147 41 41
+  148 9 9
+  149 5 5
+  152 1 1
+  153 1 1
+  154 2 2
+  155 2 2
+  156 83 83
+  157 13 13
+  158 18 18
+  159 5 5
+  160 45 45
+  161 13 13
+  162 4 4
+  163 3 3
+  167 10 10
+  168 4 4
+  169 1 1
+  170 3 3
+  171 2 2
+  172 32 32
+  173 9 9
+  174 999 999
+  175 191 191
+  176 86 86
+  177 12 12
+  178 2 2
+  179 1 1
+  183 13 13
+  184 3 3
+  185 3 3
+  186 3 3
+  187 1 1
+  188 2 2
+  189 1 1
+  190 88 88
+  191 21 21
+  192 10 10
+  193 1 1
+  197 1 1
+  198 1 1
+  199 8 8
+  200 3 3
+  202 1 1
+  212 1 1
+  213 3 3
+  214 2 2
+  217 1 1
+  227 2 2
+  228 2 2
+  230 1 1
+  231 2 2
+  239 2 2
+  240 3 3
+  241 4 4
+  242 2 2
+  243 1 1
+  244 5 5
+  245 1 1
+  246 7 7
+  247 1 1
+  248 1 1
+  255 4 4
+  256 1 1
+  257 3 3
+  304 1 1
+  329 2 2
+  330 4 4
+  331 3 3
+  332 1 1
+  344 2 2
+  345 63 63
+  346 31 31
+  347 13 13
+  348 4 4
+  349 1 1
+  361 15 15
+  362 7 7
+  363 2 2
+  378 1 1
+//

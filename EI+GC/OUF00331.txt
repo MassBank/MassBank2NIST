@@ -1,0 +1,149 @@
+ACCESSION: OUF00331
+RECORD_TITLE: L-(-)-Threonine; GC-EI-TOF-MS; RT:485.894 sec
+DATE: 2010.05.20
+AUTHORS: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+COPYRIGHT: Funkusaki Lab. in Osaka Univ.	
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: L-(-)-Threonine
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C4H9NO3
+CH$EXACT_MASS: 119.05824
+CH$SMILES: [H]C(C)(O)C([H])(N)C(O)=O
+CH$IUPAC: InChI=1/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/m1/s1/f/h7H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=72-19-5" target="_blank">72-19-5</a>
+CH$LINK: CHEBI <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:32822" target="_blank">32822</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:32820" target="_blank">32820</a> <a href="http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16857" target="_blank">16857</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00188" target="_blank">C00188</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00041" target="_blank">D00041</a>
+CH$LINK: PUBCHEM <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=6288" target="_blank">6288</a> <a href="http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?sid=6971019" target="_blank">6971019</a>
+CH$LINK: CHEMSPIDER <a href="http://www.chemspider.com/6051" target="_blank">6051</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies	
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+AC$ANALYTICAL_CONDITION: INJECTION_TEMPERATURE 230 C
+AC$ANALYTICAL_CONDITION: TRANSFARLINE_TEMPERATURE 250 C
+AC$ANALYTICAL_CONDITION: ION_SOURCE_TEMPERATURE 200 C
+AC$ANALYTICAL_CONDITION: HELIUM_FLOW 1 ml/min
+AC$ANALYTICAL_CONDITION: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+AC$ANALYTICAL_CONDITION: SCAN_RANGE_M/Z 85-500
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 485.894  sec
+<hr size="1" color="silver" width="98%" align="left">MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (LECO)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 118
+PK$PEAK: m/z int. rel.int.
+  85 37 37
+  86 100 100
+  87 91 91
+  88 21 21
+  89 13 13
+  90 3 3
+  91 2 2
+  92 3 3
+  93 2 2
+  94 2 2
+  95 2 2
+  96 3 3
+  97 4 4
+  98 26 26
+  99 24 24
+  100 405 405
+  101 784 784
+  102 143 143
+  103 90 90
+  104 12 12
+  105 16 16
+  107 1 1
+  110 3 3
+  111 1 1
+  112 20 20
+  113 12 12
+  114 102 102
+  115 87 87
+  116 42 42
+  117 999 999
+  118 126 126
+  119 69 69
+  120 10 10
+  121 3 3
+  126 4 4
+  127 6 6
+  128 243 243
+  129 280 280
+  130 196 196
+  131 183 183
+  132 182 182
+  133 212 212
+  134 44 44
+  135 24 24
+  136 2 2
+  140 2 2
+  141 1 1
+  142 7 7
+  143 12 12
+  144 27 27
+  145 11 11
+  146 38 38
+  147 530 530
+  148 97 97
+  149 68 68
+  150 9 9
+  151 3 3
+  156 10 10
+  157 6 6
+  158 31 31
+  159 43 43
+  160 39 39
+  161 11 11
+  162 5 5
+  163 14 14
+  164 2 2
+  172 20 20
+  173 3 3
+  174 28 28
+  175 8 8
+  176 10 10
+  177 18 18
+  178 4 4
+  179 1 1
+  186 19 19
+  187 5 5
+  188 15 15
+  189 8 8
+  190 7 7
+  191 24 24
+  192 4 4
+  193 1 1
+  200 2 2
+  201 1 1
+  202 84 84
+  203 105 105
+  204 40 40
+  205 16 16
+  206 4 4
+  207 2 2
+  214 1 1
+  215 1 1
+  216 8 8
+  217 12 12
+  218 646 646
+  219 678 678
+  220 169 169
+  221 76 76
+  222 13 13
+  223 4 4
+  225 1 1
+  230 22 22
+  231 8 8
+  232 8 8
+  233 1 1
+  244 1 1
+  246 1 1
+  248 6 6
+  276 2 2
+  290 1 1
+  291 153 153
+  292 108 108
+  293 48 48
+  294 16 16
+  295 4 4
+  320 28 28
+  321 8 8
+  322 2 2
+//

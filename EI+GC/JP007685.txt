@@ -1,0 +1,51 @@
+ACCESSION: JP007685
+RECORD_TITLE: UNDECANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KYOTO INSTITUTE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: UNDECANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H24
+CH$EXACT_MASS: 156.1878
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1120-21-4" target="_blank">1120-21-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: SHIMADZU QP-1000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 30
+PK$PEAK: m/z int. rel.int.
+  40 2.5 25
+  41 51.1 511
+  42 15.1 151
+  43 99.99 999
+  44 3.8 38
+  53 1.7 17
+  54 1.1 11
+  55 1.05 11
+  56 11.2 112
+  57 61 610
+  58 2.7 27
+  67 0.05 1
+  68 0.3 3
+  69 2.7 27
+  70 5.6 56
+  71 2.03 20
+  72 1.2 12
+  73 1.7 17
+  83 0.7 7
+  84 0.33 3
+  85 9.5 95
+  86 1.1 11
+  98 1.6 16
+  99 0.13 1
+  112 0.6 6
+  113 0.8 8
+  126 0.2 2
+  127 0.04 0
+  156 0.7 7
+  157 0.1 1
+//

@@ -1,0 +1,17 @@
+Name: N-Ethylmaleimide
+CAS: 128-53-0
+MW: 125
+Formula: C6H7NO2
+Synonym: C02441
+Synonym: N-Ethylmaleimide
+Comment: XX002831
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 10
+43.200 114 55.000 318 69.700 136 79.900 363 80.900 272 84.200 999 98.000 772 108.300 182 108.900 817 126.100 636 

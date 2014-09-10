@@ -1,0 +1,53 @@
+ACCESSION: JP001606
+RECORD_TITLE: BENZO(A)PYRENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KOGA M, UNIV. OF OCCUPATIONAL AND ENVIRONMENTAL HEALTH
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZO(A)PYRENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C20H12
+CH$EXACT_MASS: 252.0939
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=50-32-8" target="_blank">50-32-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: VARIAN MAT-44
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 32
+PK$PEAK: m/z int. rel.int.
+  63 1.31 13
+  74 1.31 13
+  84 1.83 18
+  87 1.57 16
+  99 2.62 26
+  100 3.67 37
+  101 1.04 10
+  111 4.46 45
+  112 15.74 157
+  113 25.45 255
+  123 2.62 26
+  124 17.58 176
+  125 27.03 270
+  126 30.7 307
+  127 1.83 18
+  198 1.31 13
+  200 1.83 18
+  222 1.83 18
+  223 1.57 16
+  224 5.24 52
+  225 3.41 34
+  226 3.67 37
+  227 1.31 13
+  228 1.04 10
+  247 1.57 16
+  248 5.77 58
+  249 4.98 50
+  250 24.14 241
+  251 13.38 134
+  252 99.99 999
+  253 24.4 244
+  254 3.41 34
+//

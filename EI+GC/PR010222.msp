@@ -1,0 +1,40 @@
+Name:  urocanic acid; GC-EI-TOF-MS; 2 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=104-98-3" target="_blank">104-98-3</a>
+MW: 138
+Formula: C6H6N2O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00785" target="_blank">C00785</a>
+Synonym: Urocanate, Urocanic acid
+Comment: PR010222
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 516.375 sec
+Comment: RETENTION_INDEX 2006.7
+Comment: FILE std7_GCTMS_PR060124MSinfo.txt
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: DERIVATIVE_FORM C12H22N2O2Si2
+Comment: DERIVATIVE_MASS 282.12198
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 139
+60:9 61:14 62:2 63:3 64:9 65:23 66:19 67:12 68:1 69:4 
+70:18 71:10 72:25 73:999 74:98 75:106 76:11 77:26 78:6 79:30 
+80:10 81:48 82:7 83:10 84:20 85:8 86:4 87:3 89:3 90:1 
+91:1 92:19 93:14 94:11 95:8 96:8 97:4 98:8 99:3 100:5 
+101:2 102:2 103:3 104:1 105:3 106:4 107:4 108:7 109:6 110:3 
+111:4 112:2 113:1 115:1 116:1 117:3 118:1 119:2 120:17 121:11 
+122:9 123:5 124:9 125:3 126:3 127:1 128:1 129:1 130:1 131:7 
+132:1 133:5 134:2 135:31 136:10 137:5 138:3 139:7 140:2 141:1 
+143:1 147:136 148:22 149:15 150:6 151:23 152:21 153:5 154:7 155:2 
+156:1 157:1 158:1 163:5 164:6 165:71 166:24 167:8 168:2 169:1 
+173:1 177:1 179:5 180:55 181:9 182:3 183:2 191:1 193:95 194:22 
+195:9 196:2 206:1 207:1 208:1 209:1 210:2 211:1 223:13 224:3 
+225:3 226:1 237:14 238:5 239:14 240:3 241:1 253:3 254:2 255:1 
+266:2 267:124 268:31 269:12 270:2 281:5 282:49 283:12 284:4 

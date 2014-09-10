@@ -1,0 +1,18 @@
+Name: Benzamide
+CAS: 55-21-0
+MW: 121
+Formula: C7H7NO
+Synonym: C09815
+Synonym: Benzamide
+Comment: XX006814
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 12
+22.9909 11 44.0079 15 69.0694 3 77.0395 5 79.0525 59 81.0274 7 105.033 48 105.0877 3 122.0604 999 122.5773 3 
+123.0458 3 123.0557 3 

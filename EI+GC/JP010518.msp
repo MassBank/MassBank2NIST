@@ -1,0 +1,22 @@
+Name:  XANTHINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=69-89-6" target="_blank">69-89-6</a>
+MW: 152
+Formula: C5H4N4O2
+Synonym: 3,7-DIHYDRO-1H-PURINE-2,6-DIONE
+Comment: JP010518
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+14:28 16:18 18:32 27:179 28:550 29:37 32:56 38:49 39:45 40:14 
+41:18 42:37 43:155 44:77 52:28 53:381 54:999 55:58 67:11 69:21 
+70:92 80:37 81:83 82:51 109:490 110:35 152:760 153:68 

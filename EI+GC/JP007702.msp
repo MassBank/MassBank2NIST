@@ -1,0 +1,22 @@
+Name:  1-OCTANOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=111-87-5" target="_blank">111-87-5</a>
+MW: 130
+Formula: C8H18O
+Comment: JP007702
+Comment: N/A
+Comment: SHIMADZU QP-1000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KYOTO INSTITUTE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 40
+40:54 41:999 42:598 43:75 45:70 51:11 53:39 54:4 55:688 56:744 
+57:295 58:2 59:8 65:5 67:35 68:11 69:374 70:358 71:58 72:0 
+73:22 79:5 81:6 82:4 83:187 84:218 85:21 87:0 89:3 91:2 
+95:2 97:2 98:2 99:2 103:2 106:0 111:2 112:6 113:2 44:71 

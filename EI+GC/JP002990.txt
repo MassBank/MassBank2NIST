@@ -1,0 +1,82 @@
+ACCESSION: JP002990
+RECORD_TITLE: TRIPHENYLETHENE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: TRIPHENYLETHENE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C20H16
+CH$EXACT_MASS: 256.1252
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 63
+PK$PEAK: m/z int. rel.int.
+  50 3 30
+  51 7.2 72
+  63 3.6 36
+  64 0.32 3
+  74 1.6 16
+  75 2.5 25
+  76 2.8 28
+  77 0.53 5
+  87 1.6 16
+  88 1.9 19
+  89 1.9 19
+  91 0.34 3
+  100 2.2 22
+  101 4.3 43
+  102 1.6 16
+  103 0.22 2
+  106 1.6 16
+  107 2.2 22
+  112 1.8 18
+  113 0.81 8
+  114 4.2 42
+  115 2.3 23
+  119 2.2 22
+  120 0.07 1
+  125 3 30
+  126 9.9 99
+  127 3.4 34
+  128 0.17 2
+  139 2.2 22
+  150 2.4 24
+  151 5.6 56
+  152 0.91 9
+  153 2.2 22
+  163 1.8 18
+  165 23.6 236
+  166 0.27 3
+  176 11.1 111
+  177 8.9 89
+  178 50.5 505
+  179 0.38 4
+  180 5.1 51
+  189 2.6 26
+  200 1.8 18
+  202 0.04 0
+  213 1.8 18
+  215 9.5 95
+  226 6.2 62
+  227 0.21 2
+  228 6.9 69
+  229 3.5 35
+  239 20.9 209
+  240 1.72 17
+  241 23.9 239
+  242 4.5 45
+  250 3.2 32
+  251 0.18 2
+  252 14.8 148
+  253 17 170
+  254 10.6 106
+  255 3.06 31
+  256 99.99 999
+  257 21.3 213
+  258 2 20
+//

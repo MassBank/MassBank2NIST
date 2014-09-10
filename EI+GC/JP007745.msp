@@ -1,0 +1,21 @@
+Name:  FURFURYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=623-17-6" target="_blank">623-17-6</a>
+MW: 140
+Formula: C7H8O3
+Comment: JP007745
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+27:130 29:20 39:48 41:120 42:92 43:680 44:20 50:10 51:20 52:771 
+53:516 54:20 55:20 68:10 69:100 70:51 79:10 80:180 81:999 82:80 
+97:120 98:663 99:37 140:467 141:23 

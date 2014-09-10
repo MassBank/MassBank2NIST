@@ -1,0 +1,33 @@
+ACCESSION: JP003898
+RECORD_TITLE: DIMETHYL ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: DIMETHYL ETHER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H6O
+CH$EXACT_MASS: 46.04186
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 14
+PK$PEAK: m/z int. rel.int.
+  12 3 30
+  13 5.7 57
+  14 11.9 119
+  15 5.72 57
+  16 2.8 28
+  17 2.1 21
+  28 3.2 32
+  29 7.86 79
+  30 3.5 35
+  31 7.3 73
+  43 3 30
+  45 99.99 999
+  46 46.6 466
+  47 4.2 42
+//

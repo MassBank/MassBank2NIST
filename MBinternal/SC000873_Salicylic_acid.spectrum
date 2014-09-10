@@ -1,0 +1,14 @@
+Name: Salicylic_acid
+MW: 138
+Synonym: Salicylic acid
+Comment: SC000873
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 0
+Date: 2009-03-16 14:48:36+02:00
+Num: 2
+93.0349 495 137.025 999 

@@ -1,0 +1,18 @@
+Name: 4-Sulfobenzoate
+CAS: 636-78-2
+MW: 201
+Formula: C7H6O5S
+Synonym: C02236
+Synonym: 4-Sulfobenzoate
+Comment: XX006180
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 17
+59.0111 7 96.9717 4 121.0305 11 137.0139 4 137.0243 14 141.0219 5 141.0958 12 149.0210 5 156.9953 6 165.0175 19 
+168.1069 4 200.9865 999 201.0748 16 201.11575 37 201.1505 11 201.1694 9 201.1821 11 

@@ -1,0 +1,31 @@
+ACCESSION: JP004294
+RECORD_TITLE: METHYL CYANIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAJIMA S, GUNMA COLLEGE OF TECHNOLOGY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: METHYL CYANIDE
+CH$NAME: ACETONITRILE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H3N
+CH$EXACT_MASS: 41.02655
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=75-05-8" target="_blank">75-05-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-7M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 9
+PK$PEAK: m/z int. rel.int.
+  14 4.34 43
+  26 1.35 14
+  27 1 10
+  28 1 10
+  38 8.54 85
+  39 16.44 164
+  40 50.39 504
+  41 99.99 999
+  42 4.2 42
+//

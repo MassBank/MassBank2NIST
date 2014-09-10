@@ -1,0 +1,16 @@
+Name: Ectoine
+MW: 142
+Formula: C6H10N2O2
+Synonym: C06231
+Synonym: Ectoine
+Comment: XX005022
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2007-01-24 14:48:36+02:00
+Num: 5
+59.0147 999 59.0523 19 141.067 661 141.1093 25 141.1516 19 

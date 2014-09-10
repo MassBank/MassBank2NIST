@@ -1,0 +1,21 @@
+Name:  DECANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=124-18-5" target="_blank">124-18-5</a>
+MW: 142
+Formula: C10H22
+Comment: JP007312
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 28
+27:139 28:27 29:243 39:76 40:14 41:359 42:129 43:999 44:33 53:17 
+54:12 55:127 56:175 57:962 58:41 69:38 70:135 71:368 72:20 84:93 
+85:272 86:19 98:51 99:78 112:20 113:53 142:124 143:15 

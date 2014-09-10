@@ -1,0 +1,40 @@
+ACCESSION: JP006965
+RECORD_TITLE: ALLYL ISOBUTYRATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ALLYL ISOBUTYRATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H12O2
+CH$EXACT_MASS: 128.08373
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  15 2.06 21
+  18 2.36 24
+  26 2.25 23
+  27 19.12 191
+  28 1.84 18
+  29 2.1 21
+  38 1.82 18
+  39 21.07 211
+  40 1.93 19
+  41 55.8 558
+  42 4.64 46
+  43 99.99 999
+  44 2.61 26
+  45 1.19 12
+  55 1.75 18
+  57 5.89 59
+  58 2.45 25
+  70 1.2 12
+  71 45.05 451
+  72 1.65 17
+//

@@ -1,0 +1,48 @@
+ACCESSION: JP009033
+RECORD_TITLE: 3-METHYLPYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-METHYLPYRIDINE
+CH$NAME: 3-PICOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H7N
+CH$EXACT_MASS: 93.05785
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=108-99-6" target="_blank">108-99-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 26
+PK$PEAK: m/z int. rel.int.
+  26 2.85 29
+  27 3.61 36
+  28 4.73 47
+  37 4.21 42
+  38 10.75 108
+  39 35.1 351
+  40 12.74 127
+  41 2.96 30
+  49 1.03 10
+  50 4.79 48
+  51 6.3 63
+  52 3.41 34
+  53 2.46 25
+  54 1.92 19
+  61 2.65 27
+  62 4.74 47
+  63 10.81 108
+  64 4.35 44
+  65 24.82 248
+  66 38.56 386
+  67 11.85 119
+  78 3.49 35
+  91 1.03 10
+  92 28.5 285
+  93 99.99 999
+  94 7.17 72
+//

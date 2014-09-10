@@ -1,0 +1,21 @@
+Name:  L-TRYPTOPHAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=73-22-3" target="_blank">73-22-3</a>
+MW: 204
+Formula: C11H12N2O2
+Comment: JP011293
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+28:12 43:13 45:14 60:10 77:27 102:25 103:53 115:15 117:27 128:29 
+129:40 130:999 131:125 132:25 143:12 149:10 157:10 158:25 159:30 204:84 
+205:14 

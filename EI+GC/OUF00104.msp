@@ -1,0 +1,30 @@
+Name:  L-Alanine; GC-EI-TOF-MS; RT:316.344 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-41-7" target="_blank">56-41-7</a>
+MW: 89
+Formula: C3H7NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00041" target="_blank">C00041</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00012" target="_blank">D00012</a>
+Comment: OUF00104
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 316.344  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 47
+85:3 86:27 87:9 88:9 89:3 92:1 93:1 94:18 95:2 98:3 
+99:2 100:63 101:17 102:17 103:46 104:5 105:5 112:1 113:1 114:12 
+115:15 116:999 117:123 118:43 119:8 128:20 129:4 130:6 131:17 132:9 
+133:25 134:4 135:2 144:4 146:6 147:180 148:30 149:15 150:1 174:4 
+175:1 190:39 191:10 192:4 218:14 219:2 220:1 

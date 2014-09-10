@@ -1,0 +1,19 @@
+Name: 2_4-Dichlorobenzoate
+CAS: 50-84-0
+MW: 189
+Formula: C7H4Cl2O2
+Synonym: C06670
+Synonym: 2,4-Dichlorobenzoate
+Comment: XX004981
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 21
+34.9712 23 44.9991 28 59.0124 54 96.9625 28 129.0564 232 129.0968 200 143.1083 39 144.9667 952 145.0471 25 145.0578 26 
+188.8487 18 188.8609 28 188.8793 26 188.8915 18 188.9588 999 189.0016 67 189.0444 235 189.0567 237 189.075 105 189.0995 72 
+189.1423 19 

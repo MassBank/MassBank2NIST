@@ -1,0 +1,22 @@
+Name:  2-HEPTYLTHIOPHENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=18794-78-0" target="_blank">18794-78-0</a>
+MW: 182
+Formula: C11H18S
+Comment: JP007778
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 34
+27:10 29:41 39:10 41:49 43:128 45:20 53:30 55:30 67:20 69:10 
+84:80 85:61 86:10 87:10 96:18 97:999 98:598 99:180 100:40 109:10 
+110:19 111:161 112:17 113:11 119:10 123:10 125:10 139:55 149:10 153:22 
+154:12 182:282 183:42 184:11 

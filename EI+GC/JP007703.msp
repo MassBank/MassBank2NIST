@@ -1,0 +1,22 @@
+Name:  1-NONANOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=143-08-8" target="_blank">143-08-8</a>
+MW: 144
+Formula: C9H20O
+Comment: JP007703
+Comment: N/A
+Comment: SHIMADZU QP-1000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KYOTO INSTITUTE OF TECHNOLOGY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 37
+40:51 41:999 42:456 43:89 44:81 45:133 51:10 53:4 54:57 55:683 
+56:751 57:27 58:23 59:15 65:4 67:5 68:121 69:350 70:383 71:7 
+73:36 79:5 81:9 82:5 83:148 84:103 85:18 87:1 89:9 96:10 
+97:90 98:9 99:7 103:3 105:5 111:0 126:3 

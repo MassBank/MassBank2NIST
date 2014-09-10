@@ -1,0 +1,14 @@
+Name: Salicyluric_acid
+MW: 195
+Synonym: Salicyluric acid
+Comment: SC000880
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+65.04 90 74.0248 17 75.0242 9 93.0346 845 100.004 11 121.029 16 150.056 610 194.046 999 

@@ -1,0 +1,19 @@
+Name: N-Formylmethionine
+MW: 177
+Formula: C6H11NO3S
+Synonym: C02542
+Synonym: N-Formylmethionine
+Comment: XX000800
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 32
+44.000 1 47.100 329 54.300 3 57.000 10 58.000 14 61.100 1 66.300 1 70.100 22 75.200 1 82.300 10 
+83.200 1 84.300 335 96.900 1 98.100 999 100.600 1 101.300 1 103.800 5 113.900 1 116.100 1 116.900 1 
+117.200 1 125.700 1 127.900 780 130.200 1 131.900 38 132.700 1 134.000 1 142.900 21 148.200 4 158.400 1 
+174.100 2 176.300 325 

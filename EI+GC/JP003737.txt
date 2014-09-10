@@ -1,0 +1,83 @@
+ACCESSION: JP003737
+RECORD_TITLE: 1-METHYLLYSERGIC ACID DIETHYLAMIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 1-METHYLLYSERGIC ACID DIETHYLAMIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C21H27N3O
+CH$EXACT_MASS: 337.21541
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 64
+PK$PEAK: m/z int. rel.int.
+  55 7 70
+  56 15 150
+  57 39 390
+  58 0.6 6
+  69 4 40
+  70 5 50
+  71 4 40
+  72 0.09 1
+  81 3 30
+  83 3 30
+  85 4 40
+  100 0.07 1
+  101 3 30
+  112 3 30
+  113 1 10
+  117 0.04 0
+  118 11 110
+  125 4 40
+  127 3 30
+  128 0.09 1
+  150 5 50
+  152 3 30
+  153 4 40
+  154 0.04 0
+  155 1 10
+  164 1 10
+  165 3 30
+  166 0.03 0
+  167 5 50
+  168 11 110
+  169 3 30
+  180 0.03 0
+  181 14 140
+  182 4 40
+  183 1 10
+  191 0.03 0
+  192 8 80
+  193 7 70
+  194 17 170
+  195 0.48 5
+  196 10 100
+  197 1 10
+  205 7 70
+  206 0.11 1
+  207 5 50
+  208 4 40
+  209 4 40
+  210 0.21 2
+  211 3 30
+  219 9 90
+  220 7 70
+  221 0.28 3
+  222 13 130
+  223 3 30
+  234 5 50
+  235 0.52 5
+  236 32 320
+  237 38 380
+  238 7 70
+  294 0.03 0
+  336 1 10
+  337 99.99 999
+  338 22 220
+  339 3 30
+//

@@ -1,0 +1,19 @@
+Name: E-64
+CAS: 66701-25-5
+MW: 357
+Formula: C15H27N5O5
+Synonym: C01341
+Synonym: E-64
+Comment: XX000728
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 21
+41.200 278 41.800 144 43.300 355 58.400 111 73.100 67 82.600 89 85.000 167 87.100 999 99.900 100 112.300 355 
+113.900 533 126.300 56 128.000 78 129.500 89 152.800 56 155.900 89 165.000 56 168.000 377 169.100 200 181.800 33 
+185.100 744 

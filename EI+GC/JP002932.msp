@@ -1,0 +1,17 @@
+Name:  BETA-PHENYL-ETHYLAMINE; EI-MS
+MW: 121
+Formula: C8H11N
+Comment: JP002932
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 7
+30:999 39:33 51:27 65:44 91:98 92:43 121:41 

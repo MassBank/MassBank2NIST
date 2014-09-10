@@ -1,0 +1,18 @@
+Name:  HEXYLBENZENE; EI-MS
+MW: 162
+Formula: C12H18
+Comment: JP004642
+Comment: N/A
+Comment: HITACHI M-52
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 14 eV
+Comment: ION_TYPE [M]+*
+Contributor: KATO T, DEPT. OF CHEM., FAC. OF SCI., TOHOKU UNIV.
+InstType: EI
+IoniMethod: _ENERGY 14 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+92:999 105:56 119:63 133:13 160:35 162:129 163:70 164:28 

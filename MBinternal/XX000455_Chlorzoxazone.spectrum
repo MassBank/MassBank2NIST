@@ -1,0 +1,18 @@
+Name: Chlorzoxazone
+CAS: 95-25-0
+MW: 168
+Formula: C7H4ClNO2
+Synonym: C07931
+Synonym: Chlorzoxazone
+Comment: XX000455
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 20
+26.400 17 35.200 999 42.200 326 49.400 11 50.200 577 54.300 57 61.000 49 62.900 6 65.200 27 76.000 732 
+76.900 49 79.300 12 82.000 114 89.000 159 103.900 61 104.400 10 124.800 7 132.000 538 167.200 10 168.300 26 

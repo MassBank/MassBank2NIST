@@ -1,0 +1,19 @@
+Name: N-Acetylputrescine
+CAS: 18233-70-0
+MW: 130
+Formula: C6H14N2O
+Synonym: C02714
+Synonym: N-Acetylputrescine
+Comment: XX006497
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 27
+28.0130 6 28.0201 17 29.0160 7 29.0327 6 29.0423 12 30.017 38 30.0243 37 30.0365 295 39.0248 51 41.0381 20 
+42.0334 18 42.9969 72 43.0173 944 44.051 29 45.0342 12 45.0402 6 53.0374 21 55.0298 10 55.0562 207 60.042 51 
+60.0489 47 70.0644 8 72.0529 32 72.0831 999 72.1625 6 91.0478 8 91.0563 10 

@@ -1,0 +1,18 @@
+Name:  P-DICHLOROBENZENE; EI-MS
+MW: 145
+Formula: C6H4Cl2
+Comment: JP003631
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+73:90 74:120 75:196 76:3 84:27 85:35 110:25 111:32 112:30 113:100 
+146:999 147:8 148:650 149:45 150:105 

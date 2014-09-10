@@ -1,0 +1,17 @@
+Name: 2-amino-3-sulfanylpropanoic_acid
+MW: 121
+Formula: C3H7NO2S
+Synonym: C00097
+Synonym: CID: 594
+Synonym: 2-amino-3-sulfanylpropanoic acid, Cysteine
+Comment: PB000438
+Contributor: Boettcher C, Institute of Plant Biochemistry, Halle, Germany
+InstType: TOF
+InstName: API QSTAR Pulsar i
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 20
+Date: 2008-01-02 14:48:36+02:00
+Num: 7
+58.997 539 70.030 5 76.023 999 86.990 295 88.041 6 105.003 169 122.029 17 

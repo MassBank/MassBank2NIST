@@ -1,0 +1,21 @@
+Name:  DIETHYL FUMARATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=623-91-6" target="_blank">623-91-6</a>
+MW: 172
+Formula: C8H12O4
+Comment: JP008999
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 27
+15:21 26:125 27:259 29:377 30:15 31:18 42:13 43:69 45:117 53:130 
+54:171 55:225 56:10 71:129 72:24 81:63 82:140 98:21 99:598 100:115 
+117:33 125:19 126:274 127:999 128:97 143:36 145:23 

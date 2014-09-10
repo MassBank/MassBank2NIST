@@ -1,0 +1,20 @@
+Name:  TETRADECAN-2-OL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=4706-81-4" target="_blank">4706-81-4</a>
+MW: 214
+Formula: C14H30O
+Comment: JP007596
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 18
+31:23 43:305 45:999 55:219 57:204 69:131 71:87 83:100 84:53 97:81 
+98:34 111:42 112:23 125:20 126:14 168:16 196:14 199:11 

@@ -1,0 +1,46 @@
+ACCESSION: JP003884
+RECORD_TITLE: CAPROLACTAM; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: CAPROLACTAM
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H11NO
+CH$EXACT_MASS: 113.08406
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Unknown
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 27
+PK$PEAK: m/z int. rel.int.
+  27 14.7 147
+  28 26.5 265
+  29 8.2 82
+  30 8.09 81
+  39 13.2 132
+  40 3.5 35
+  41 32.4 324
+  42 6.47 65
+  43 17.6 176
+  44 3.3 33
+  53 2.4 24
+  54 0.24 2
+  55 99.99 999
+  56 66.2 662
+  57 8.8 88
+  67 0.88 9
+  68 3.5 35
+  69 2.4 24
+  70 2.1 21
+  71 0.15 2
+  83 5.3 53
+  84 60.3 603
+  85 56.5 565
+  86 0.29 3
+  112 86.8 868
+  113 3.2 32
+  114 8.8 88
+//

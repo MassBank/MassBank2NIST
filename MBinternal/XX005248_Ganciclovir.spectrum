@@ -1,0 +1,17 @@
+Name: Ganciclovir
+MW: 255
+Formula: C9H13N5O4
+Synonym: C07019
+Synonym: Ganciclovir, Transferred to D00333
+Comment: XX005248
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2006-12-21 14:48:36+02:00
+Num: 12
+218.1074 999 218.1863 11 218.2192 11 218.2389 19 218.2520 17 218.2652 10 221.0812 11 221.1539 10 221.1804 11 254.0916 181 
+254.1625 11 254.2193 15 

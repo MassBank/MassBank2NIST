@@ -1,0 +1,18 @@
+Name:  ETHYL NITRITE; EI-MS
+MW: 75
+Formula: C2H5NO2
+Comment: JP002945
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+14:64 15:174 26:33 27:159 28:35 29:482 30:999 31:82 43:105 45:107 
+60:323 

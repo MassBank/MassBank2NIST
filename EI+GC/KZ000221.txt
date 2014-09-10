@@ -1,0 +1,75 @@
+ACCESSION: KZ000221
+RECORD_TITLE: L-Alanine; GC-EI-TOF-MS; 1 TMS; BP:116
+DATE: 2010.11.17 (original 2009.03.11)
+AUTHORS: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+COPYRIGHT: Copyright(C) 2008-2010 Kazusa DNA Research Institute
+COMMENT: MassBase peak ID: MDGC1_01546_P000044
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: L-Alanine
+CH$COMPOUND_CLASS: Natural Product
+CH$FORMULA: C3H7NO2
+CH$EXACT_MASS: 89.04767848
+CH$SMILES: C[C@H](N)C(O)=O
+CH$IUPAC: 1/C3H7NO2/c1-2(4)3(5)6/h2H,4H2,1H3,(H,5,6)/t2-/m0/s1/f/h5H
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-41-7" target="_blank">56-41-7</a>
+CH$LINK: KEGG <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00041" target="_blank">C00041</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+AC$INSTRUMENT_TYPE: GC-EI-TOF-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE GC-TOF/MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 425.663 sec
+AC$ANALYTICAL_CONDITION: RETENTION_INDEX 1122.0
+AC$ANALYTICAL_CONDITION: COLUMN_NAME DB-17MS
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: DERIVATIVE_TYPE 1 TMS
+MS$FOCUSED_ION: BASE_PEAK 116
+MS$DATA_PROCESSING: WHOLE ChromaTOF ver. 2.32 (Leco)
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 48
+PK$PEAK: m/z int. rel.int.
+ 82 2 2
+ 83 2 2
+ 84 8 8
+ 85 3 3
+ 86 36 36
+ 87 12 12
+ 88 8 8
+ 89 3 3
+ 93 1 1
+ 94 17 17
+ 95 1 1
+ 98 3 3
+ 99 3 3
+ 100 72 72
+ 101 19 19
+ 102 20 20
+ 103 43 43
+ 104 4 4
+ 105 4 4
+ 112 1 1
+ 113 2 2
+ 114 13 13
+ 115 14 14
+ 116 999 999
+ 117 133 133
+ 118 43 43
+ 119 7 7
+ 128 18 18
+ 129 3 3
+ 130 6 6
+ 131 20 20
+ 132 8 8
+ 133 24 24
+ 134 4 4
+ 135 2 2
+ 144 3 3
+ 146 3 3
+ 147 212 212
+ 148 34 34
+ 149 16 16
+ 150 2 2
+ 174 2 2
+ 175 1 1
+ 190 34 34
+ 191 9 9
+ 192 3 3
+ 218 10 10
+ 219 1 1
+//

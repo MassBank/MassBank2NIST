@@ -1,0 +1,61 @@
+ACCESSION: JP005515
+RECORD_TITLE: (Z)-3,7-DIMETHYL-2,6-OCTADIEN-1-OL; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (Z)-3,7-DIMETHYL-2,6-OCTADIEN-1-OL
+CH$NAME: NEROL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H18O
+CH$EXACT_MASS: 154.13577
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-25-2" target="_blank">106-25-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 39
+PK$PEAK: m/z int. rel.int.
+  29 2.4 24
+  41 40.4 404
+  42 2 20
+  43 0.36 4
+  53 1.2 12
+  55 5 50
+  56 2.6 26
+  57 0.25 3
+  59 2.8 28
+  67 8.3 83
+  68 19.8 198
+  69 99.99 999
+  70 7.3 73
+  71 7.2 72
+  72 1.7 17
+  77 0.22 2
+  79 3.4 34
+  80 13.1 131
+  81 6.6 66
+  82 0.14 1
+  83 6.6 66
+  84 18.1 181
+  85 2.6 26
+  91 0.19 2
+  92 5.7 57
+  93 28.3 283
+  94 5 50
+  95 0.31 3
+  107 3 30
+  109 1.8 18
+  110 1.7 17
+  111 0.7 7
+  112 1.7 17
+  121 11 110
+  122 1 10
+  123 0.7 7
+  136 5.9 59
+  139 4 40
+  154 3.9 39
+//

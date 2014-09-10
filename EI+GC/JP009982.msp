@@ -1,0 +1,18 @@
+Name:  1-METHOXY-2-PROPANOL; EI-MS
+MW: 90
+Formula: C4H10O2
+Comment: JP009982
+Comment: N/A
+Comment: JEOL JMS-D-300
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: KURARAY CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+27:71 28:35 29:41 31:17 45:999 46:87 47:348 75:65 

@@ -1,0 +1,18 @@
+Name:  METHANETRICARBALDEHYDE; EI-MS
+MW: 100
+Formula: C4H4O3
+Comment: JP003713
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+40:36 41:130 42:261 43:24 44:43 45:22 52:22 53:34 54:326 55:94 
+68:25 69:9 70:43 71:362 72:999 73:8 99:14 100:413 101:29 

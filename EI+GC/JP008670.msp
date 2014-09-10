@@ -1,0 +1,19 @@
+Name:  2-ETHYLHEXANAL ETHYLENE GLYCOL ACETAL; EI-MS
+MW: 172
+Formula: C10H20O2
+Comment: JP008670
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+27:37 29:37 39:17 41:59 43:26 45:117 55:29 57:20 70:11 73:999 
+74:36 

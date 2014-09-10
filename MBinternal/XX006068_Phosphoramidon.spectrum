@@ -1,0 +1,18 @@
+Name: Phosphoramidon
+CAS: 36357-77-4
+MW: 543
+Formula: C23H34N3O10P
+Synonym: C00563
+Synonym: Phosphoramidon
+Comment: XX006068
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 18
+78.96 999 78.9956 18 95.9857 93 96.969 180 164.0521 35 192.0489 134 203.0835 31 203.0993 24 225.0049 27 225.0116 46 
+225.0249 51 249.0562 24 334.1412 22 378.1208 847 378.1901 55 378.2074 40 379.1252 62 379.1425 51 

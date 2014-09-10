@@ -1,0 +1,40 @@
+ACCESSION: JP003993
+RECORD_TITLE: ETHYLENEDIAMINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYLENEDIAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C2H8N2
+CH$EXACT_MASS: 60.06875
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 20
+PK$PEAK: m/z int. rel.int.
+  14 1.5 15
+  15 3.4 34
+  16 1.2 12
+  17 0.31 3
+  18 12 120
+  26 1.2 12
+  27 4.6 46
+  28 0.2 2
+  29 4.5 45
+  30 99.99 999
+  31 3.3 33
+  40 0.16 2
+  41 2 20
+  42 6 60
+  43 5.3 53
+  44 0.41 4
+  45 1.5 15
+  58 1 10
+  59 1 10
+  60 2.7 27
+//

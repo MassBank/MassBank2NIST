@@ -1,0 +1,21 @@
+Name:  2-(2-ETHOXYETHOXY)ETHYL ACETATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=112-15-2" target="_blank">112-15-2</a>
+MW: 176
+Formula: C8H16O4
+Comment: JP007361
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 30
+26:11 27:88 28:79 29:160 31:423 41:24 42:28 43:999 44:107 45:558 
+46:13 57:11 58:20 59:492 60:20 61:64 72:491 73:193 74:25 75:11 
+86:18 87:599 88:34 89:36 101:22 103:35 104:12 116:44 117:18 132:20 

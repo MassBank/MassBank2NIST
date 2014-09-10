@@ -1,0 +1,17 @@
+Name:  3-METHYL-1,2-CYCLOPENTANEDIOL; EI-MS
+MW: 116
+Formula: C6H12O2
+Comment: JP003604
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+29:240 41:320 43:330 55:41 57:999 69:430 83:640 98:77 116:40 

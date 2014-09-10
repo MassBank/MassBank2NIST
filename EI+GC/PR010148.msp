@@ -1,0 +1,34 @@
+Name:  Dihydrouracil; GC-EI-TOF-MS; 2 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=504-07-4" target="_blank">504-07-4</a>
+MW: 114
+Formula: C4H6N2O2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00429" target="_blank">C00429</a>
+Synonym: Hydrouracil, 5,6-Dihydro-2,4-dihydroxypyrimidine, Dihydrouracile, 2,4(1H,3H)-Pyrimidinedione, dihydro-, 5,6-Dihydrouracil
+Comment: PR010148
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 292.351 sec
+Comment: RETENTION_INDEX 1134
+Comment: FILE std5-1_GCTMS_PR060115MSinfo.txt
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: DERIVATIVE_FORM C10H22N2O2Si2
+Comment: DERIVATIVE_MASS 258.12198
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 80
+60:29 61:29 62:2 63:1 65:1 66:27 67:4 69:1 70:228 71:29 
+72:273 73:999 74:116 75:132 76:13 77:16 78:2 79:15 80:1 84:4 
+85:16 86:123 87:19 88:33 89:109 90:11 91:5 99:7 100:606 101:61 
+102:43 103:79 104:12 105:10 106:1 113:2 114:2 115:26 116:11 117:20 
+118:8 119:15 120:2 121:1 130:8 131:43 132:19 133:172 134:26 135:13 
+136:1 144:3 145:1 146:54 147:441 148:74 149:36 150:3 158:2 160:29 
+161:5 162:13 163:7 164:1 174:13 175:2 176:1 188:1 190:22 191:1 
+192:1 205:14 206:3 207:1 220:49 221:10 222:4 235:39 236:8 237:3 

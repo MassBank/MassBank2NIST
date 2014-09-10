@@ -1,0 +1,49 @@
+ACCESSION: JP002035
+RECORD_TITLE: 5-DIMETHYLAMINOPYRIMIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 5-DIMETHYLAMINOPYRIMIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H9N3
+CH$EXACT_MASS: 123.07965
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MS-902
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 29
+PK$PEAK: m/z int. rel.int.
+  39 1.6 16
+  40 4.1 41
+  40.5 1.6 16
+  41 0.2 2
+  42 16.6 166
+  43 1.6 16
+  44 1.7 17
+  48 0.46 5
+  51 3.1 31
+  52 8.5 85
+  53 6.1 61
+  54 0.96 10
+  55 1.1 11
+  66 1.7 17
+  67 4.6 46
+  68 1.27 13
+  69 10.6 106
+  79 2.1 21
+  80 2.9 29
+  81 2.17 22
+  82 1.8 18
+  94 6.1 61
+  95 6.7 67
+  106 0.29 3
+  107 4.3 43
+  108 1 10
+  122 99.99 999
+  123 8.85 89
+  124 7.5 75
+//

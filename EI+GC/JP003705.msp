@@ -1,0 +1,18 @@
+Name:  ETHYL METHYL ETHER; EI-MS
+MW: 60
+Formula: C3H8O
+Comment: JP003705
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: SASAKI S, TOYOHASHI UNIV. OF TECH.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 16
+15:207 26:88 27:205 28:8 29:490 30:34 31:199 32:2 41:8 42:16 
+43:70 44:1 45:999 46:16 59:109 60:259 

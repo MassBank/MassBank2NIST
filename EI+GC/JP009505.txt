@@ -1,0 +1,57 @@
+ACCESSION: JP009505
+RECORD_TITLE: ETHYL 3-BROMOPROPIONATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: NARA WOMEN'S UNIVERSITY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL 3-BROMOPROPIONATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H9BrO2
+CH$EXACT_MASS: 179.97859
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=539-74-2" target="_blank">539-74-2</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 30 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 36
+PK$PEAK: m/z int. rel.int.
+  15 2.67 27
+  26 6.43 64
+  27 48.15 482
+  28 34.45 345
+  29 99.99 999
+  30 3.51 35
+  31 6.75 68
+  32 2.67 27
+  41 3.02 30
+  42 1.93 19
+  43 5.95 60
+  44 1.5 15
+  45 19.82 198
+  55 13.76 138
+  56 3.23 32
+  73 34.07 341
+  74 1.36 14
+  80 1.2 12
+  82 1.17 12
+  101 21.13 211
+  102 1.26 13
+  106 2.52 25
+  107 39.57 396
+  108 5.34 53
+  109 37.9 379
+  110 3.02 30
+  135 33.07 331
+  136 1.33 13
+  137 32.3 323
+  138 1.1 11
+  152 63.25 633
+  153 3.72 37
+  154 62.21 622
+  155 3.49 35
+  180 3.93 39
+  182 3.84 38
+//

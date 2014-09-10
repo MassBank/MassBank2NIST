@@ -1,0 +1,14 @@
+Name: Fenfluramine
+MW: 231
+Synonym: Fenfluramine
+Comment: SC002122
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+46.0662 42 159.041 152 187.073 58 232.131 999 

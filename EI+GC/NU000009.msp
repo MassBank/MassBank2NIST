@@ -1,0 +1,24 @@
+Name:  3beta,7alpha-Dihydroxy-5alpha-cholan-24-oic Acid Methyl ester; EI-MS
+MW: 406
+Formula: C25H42O4
+Comment: NU000009
+Comment: Natural Product; BILE ACID
+Comment: Hitachi type M-80 B double focusing mass spectrometer
+Comment: EI-MS
+Comment: IONIZATION_POTENTIAL 20 eV
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: SOURCE_TEMPERATURE 180 C
+Comment: COMMENT Sample was directly injected and heated to 120 C
+Comment: ION_TYPE [M]+*
+Contributor: Takashi Iida, Department of Chemistry, College of Humanities and Sciences, Nihon University
+InstType: EI
+IoniMethod: _POTENTIAL 20 eV
+IonPolarity: pos
+Date: 2009-04-17 14:48:36+02:00
+Num: 49
+201:30 203:24 207:118 208:57 209:23 213:214 214:52 215:105 216:41 217:67 
+218:146 219:62 227:30 228:171 229:100 230:27 231:149 232:70 233:102 234:27 
+245:24 246:379 247:101 248:63 249:359 250:160 251:36 255:76 262:50 263:55 
+264:237 265:45 271:38 272:41 273:910 274:202 275:37 315:33 355:53 357:103 
+358:32 370:44 373:153 374:53 386:26 388:999 389:294 396:26 406:63 

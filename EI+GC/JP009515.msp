@@ -1,0 +1,23 @@
+Name:  DIMETHYLGLYOXIME; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=95-45-4" target="_blank">95-45-4</a>
+MW: 116
+Formula: C4H8N2O2
+Comment: JP009515
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 41
+14:24 15:382 17:13 18:28 26:56 27:213 28:288 29:53 30:145 31:281 
+37:21 38:55 39:137 40:273 41:340 42:999 43:115 44:40 50:31 51:56 
+52:81 53:58 54:130 55:60 56:29 57:125 58:499 59:15 66:44 67:70 
+68:218 69:94 81:52 82:35 84:73 98:42 99:348 100:19 101:13 116:511 
+117:115 

@@ -1,0 +1,19 @@
+Name: Pseudopelletierine
+CAS: 552-70-5
+MW: 153
+Formula: C9H15NO
+Synonym: C10865
+Synonym: Pseudopelletierine
+Comment: XX003761
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 27
+41.200 2 43.200 11 43.900 7 45.000 7 55.100 44 58.300 23 67.000 20 68.200 46 68.800 9 70.000 999 
+77.300 48 78.000 65 78.900 64 81.100 74 82.100 34 83.300 20 84.000 8 91.100 32 92.800 3 94.100 103 
+95.300 85 96.100 416 97.000 57 105.100 3 108.800 3 112.200 99 154.400 50 

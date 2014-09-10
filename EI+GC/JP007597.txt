@@ -1,0 +1,37 @@
+ACCESSION: JP007597
+RECORD_TITLE: METHYL 2,4-DIMETHOXY-6-METHYLBENZOATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: METHYL 2,4-DIMETHOXY-6-METHYLBENZOATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C11H14O4
+CH$EXACT_MASS: 210.08921
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=6110-37-8" target="_blank">6110-37-8</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  65 5.22 52
+  76 5.22 52
+  77 3.83 38
+  90 6.95 70
+  92 4.18 42
+  121 6.95 70
+  135 3.48 35
+  136 6.95 70
+  148 3.48 35
+  151 1.05 11
+  164 4.18 42
+  165 1.75 18
+  178 21.88 219
+  179 99.99 999
+  210 44.45 445
+  211 3.48 35
+//

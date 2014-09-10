@@ -1,0 +1,17 @@
+Name: Dichloroacetate
+CAS: 79-43-6
+MW: 127
+Formula: C2H2Cl2O2
+Synonym: C11149
+Synonym: Dichloroacetate
+Comment: XX000571
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 30
+Date: 2006-12-21 14:48:36+02:00
+Num: 7
+35.100 138 45.100 46 59.000 31 68.700 20 69.700 15 83.300 999 126.800 8 

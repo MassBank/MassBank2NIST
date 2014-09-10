@@ -1,0 +1,21 @@
+Name:  GLYCEROL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-81-5" target="_blank">56-81-5</a>
+MW: 92
+Formula: C3H8O3
+Comment: JP008191
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: NARA WOMEN'S UNIVERSITY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+15:238 17:18 18:65 19:77 26:22 27:67 28:30 29:255 30:34 31:450 
+32:19 33:21 42:96 43:800 44:472 45:139 55:17 56:14 57:115 60:113 
+61:999 62:58 74:15 75:149 93:232 

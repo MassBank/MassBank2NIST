@@ -1,0 +1,37 @@
+ACCESSION: JP007586
+RECORD_TITLE: BENZYL BENZOATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZYL BENZOATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C14H12O2
+CH$EXACT_MASS: 212.08373
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=120-51-4" target="_blank">120-51-4</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 16
+PK$PEAK: m/z int. rel.int.
+  50 2.91 29
+  51 10.22 102
+  63 2.01 20
+  65 8.22 82
+  77 25.93 259
+  79 4.41 44
+  90 7.42 74
+  91 44.55 446
+  105 99.99 999
+  106 8.62 86
+  165 1.01 10
+  167 5.01 50
+  194 6.82 68
+  195 1.11 11
+  212 23.83 238
+  213 4.1 41
+//

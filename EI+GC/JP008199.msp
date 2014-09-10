@@ -1,0 +1,18 @@
+Name:  1-PENTEN-3-OL; EI-MS
+MW: 86
+Formula: C5H10O
+Comment: JP008199
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+41:649 43:146 55:71 57:999 58:33 59:16 71:91 86:16 

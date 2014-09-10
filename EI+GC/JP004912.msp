@@ -1,0 +1,21 @@
+Name:  TRANS-1,4-DICHLORO-2-BUTENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=764-41-0" target="_blank">764-41-0</a>
+MW: 123
+Formula: C4H6Cl2
+Comment: JP004912
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 26
+49:65 50:51 51:106 52:25 53:402 54:106 57:14 61:25 62:236 63:31 
+64:77 73:11 75:999 76:36 77:329 78:11 87:21 88:131 89:416 90:61 
+91:120 93:31 95:17 124:173 126:115 128:19 

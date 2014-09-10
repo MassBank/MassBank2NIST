@@ -1,0 +1,14 @@
+Name: L-Carnitine
+MW: 162
+Synonym: L-Carnitine
+Comment: SC004263
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+43.0186 89 57.0346 29 58.0663 80 60.0819 160 85.0291 126 102.092 83 103.039 172 162.113 999 

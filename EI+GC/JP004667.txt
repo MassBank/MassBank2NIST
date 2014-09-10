@@ -1,0 +1,40 @@
+ACCESSION: JP004667
+RECORD_TITLE: BENZALDEHYDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZALDEHYDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H6O
+CH$EXACT_MASS: 106.04186
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=100-52-7" target="_blank">100-52-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  49 4.1 41
+  50 19.79 198
+  51 41.07 411
+  52 18.47 185
+  53 2.84 28
+  56 1.01 10
+  61 2.01 20
+  62 2.56 26
+  63 3.83 38
+  73 2.97 30
+  74 11.83 118
+  75 6.16 62
+  76 7.21 72
+  77 99.99 999
+  78 13.27 133
+  79 1.52 15
+  105 87.14 871
+  106 94.64 946
+  107 13.67 137
+//

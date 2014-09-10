@@ -1,0 +1,42 @@
+ACCESSION: JP007219
+RECORD_TITLE: ETHYL PHENYL ETHER; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL PHENYL ETHER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H10O
+CH$EXACT_MASS: 122.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 22
+PK$PEAK: m/z int. rel.int.
+  26 1.58 16
+  27 8.85 89
+  29 5.8 58
+  38 2.35 24
+  39 14.86 149
+  40 2.56 26
+  50 2.89 29
+  51 8.72 87
+  55 2.34 23
+  62 1.28 13
+  63 3.45 35
+  64 1.45 15
+  65 12.86 129
+  66 18.66 187
+  77 9 90
+  78 1.07 11
+  79 1.31 13
+  93 1.63 16
+  94 99.99 999
+  95 7.21 72
+  122 38.94 389
+  123 3.1 31
+//

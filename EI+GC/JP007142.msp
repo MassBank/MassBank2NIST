@@ -1,0 +1,20 @@
+Name:  PROPIOPHENONE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=93-55-0" target="_blank">93-55-0</a>
+MW: 134
+Formula: C9H10O
+Comment: JP007142
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+27:45 29:22 38:10 39:17 50:52 51:182 52:12 57:11 63:10 74:17 
+75:14 76:23 77:466 78:38 105:999 106:78 133:10 134:167 135:17 

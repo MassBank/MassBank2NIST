@@ -1,0 +1,18 @@
+Name:  PHOSPHORIC ACID TRI-N-BUTYL ESTER; EI-MS
+MW: 266
+Formula: C12H27O4P
+Comment: JP003581
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 15
+27:38 28:308 29:92 32:36 41:137 55:33 56:30 57:145 99:999 111:21 
+125:56 137:39 155:324 211:460 212:34 

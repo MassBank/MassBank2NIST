@@ -1,0 +1,14 @@
+Name: Methotrexate
+MW: 454
+Synonym: Methotrexate
+Comment: SC000855
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+282.063 37 323.124 34 324.084 244 367.116 256 391.122 35 409.138 141 435.118 56 453.128 999 

@@ -1,0 +1,30 @@
+Name:  Ethanolamine; GC-EI-TOF-MS; 3 TMS; BP:174
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=141-43-5" target="_blank">141-43-5</a>
+MW: 61
+Formula: C2H7NO
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00189" target="_blank">C00189</a>
+Comment: KZ000029
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 529.512 sec
+Comment: RETENTION_INDEX 1247.3
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 3 TMS
+Comment: BASE_PEAK 174
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 64
+84:9 85:12 86:425 87:57 88:26 89:16 91:1 99:5 100:429 101:61 
+102:56 103:24 104:4 112:1 113:12 114:54 115:23 116:18 117:37 118:8 
+119:19 120:1 128:1 129:3 130:67 131:49 132:20 133:98 134:18 135:8 
+137:1 142:1 143:2 144:11 145:4 146:11 147:216 148:35 149:13 150:2 
+158:12 159:3 160:3 162:1 172:21 173:2 174:999 175:219 176:92 177:14 
+178:1 188:9 189:2 190:1 191:1 202:1 204:1 260:1 261:1 262:15 
+263:3 264:2 276:1 277:1 

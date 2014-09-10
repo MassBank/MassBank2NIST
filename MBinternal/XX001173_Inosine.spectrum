@@ -1,0 +1,19 @@
+Name: Inosine
+CAS: 58-63-9
+MW: 268
+Formula: C10H12N4O5
+Synonym: C00294
+Synonym: Inosine
+Comment: XX001173
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2006-12-21 14:48:36+02:00
+Num: 23
+59.300 16 64.900 2 79.000 20 92.100 77 103.000 12 108.000 99 127.100 4 129.000 6 132.900 2 133.900 4 
+135.100 999 143.100 4 150.000 2 153.200 2 161.200 4 165.500 14 167.200 9 188.800 3 191.200 3 206.500 11 
+207.300 28 229.300 41 230.900 52 

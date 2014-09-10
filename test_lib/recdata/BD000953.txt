@@ -1,0 +1,95 @@
+ACCESSION: BD000953
+RECORD_TITLE: 2-Hydroxy-2-phenylpropionic acid; MS/MS; ESI-TOF; CE:18 eV; [M+H]+
+DATE: 2007.11.05
+AUTHORS: MGR
+COPYRIGHT: Copyright(C) 2007
+LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+COMMENT: C02172
+CH$NAME: 2-Hydroxy-2-phenylpropionic acid
+CH$NAME: 2-Hydroxy-2-phenylpropionic acid hemihydrate
+CH$NAME: (2S)-2-Hydroxy-2-phenylpropanoic acid
+CH$NAME: (1)-2-Phenyllactic acid
+CH$NAME: (RS)-2-phenyllactic acid
+CH$NAME: (RS)-2-phenyllactate
+CH$NAME: 2-Hydroxy-2-phenyl-2-methylacetate
+CH$NAME: (S)-Atrolactic acid
+CH$NAME: 2-Hydroxy-2-phenylpropanoate
+CH$NAME: 2-Hydroxy-2-phenylpropanoic acid
+CH$NAME: Alpha-hydroxy-alpha-phenylpropionate
+CH$NAME: 2-Hydroxy-2-phenylpropionate
+CH$NAME: 2-Hydroxy-2-phenyl-2-methylacetic acid
+CH$NAME: 2-Phenyllactate
+CH$NAME: 2-Phenyllactic acid
+CH$NAME: Alpha-methylmandelic acid
+CH$NAME: Alpha-hydroxy-2-phenylpropionate
+CH$NAME: 2-Phenyl-2-hydroxypropionic acid
+CH$NAME: a-Phenyllactate
+CH$NAME: a-Hydroxy-a-methylbenzeneacetate
+CH$NAME: a-Hydroxy-a-methylbenzeneacetic acid
+CH$NAME: a-Methylmandelic acid
+CH$NAME: Atrolactinic acid
+CH$NAME: 2-Phenyl-2-hydroxypropionate
+CH$NAME: DL-alpha-phenyllactic acid
+CH$NAME: a-Hydroxy-2-phenylpropionate
+CH$NAME: DL-Atrolactic acid hemihydrate
+CH$NAME: Alpha-hydroxy-2-phenylpropionic acid
+CH$NAME: Alpha-methylmandelate
+CH$NAME: Alpha-hydroxy-alpha-methylbenzeneacetate
+CH$NAME: Alpha-hydroxy-alpha-phenylpropionic acid
+CH$NAME: DL-a-methylmandelic acid
+CH$NAME: DL-alpha-phenyllactate
+CH$NAME: a-Hydroxy-2-phenylpropionic acid
+CH$NAME: a-Hydroxy-a-phenylpropionate
+CH$NAME: a-Hydroxy-a-phenylpropionic acid
+CH$NAME: DL-2-phenyllactate
+CH$NAME: Alpha-phenyllactate
+CH$NAME: a-Phenyllactic acid
+CH$NAME: Atrolactate
+CH$NAME: Atrolactic acid
+CH$NAME: a-Methylmandelate
+CH$NAME: DL-a-phenyllactate
+CH$NAME: DL-Atrolactate
+CH$NAME: DL-2-phenyllactic acid
+CH$NAME: DL-alpha-methylmandelate
+CH$NAME: Alpha-hydroxy-alpha-methylbenzeneacetic acid
+CH$NAME: DL-a-phenyllactic acid
+CH$NAME: Alpha-phenyllactic acid
+CH$NAME: DL-a-methylmandelate
+CH$NAME: Atrolactinate
+CH$NAME: DL-alpha-methylmandelic acid
+CH$NAME: DL-Atrolactic acid
+CH$NAME: Hydroxymethylmandelic acid
+CH$COMPOUND_CLASS: unknown
+CH$FORMULA: C9H10O3
+CH$EXACT_MASS: 166.06299417999998
+CH$SMILES: CC(O)(C(O)=O)C1=CC=CC=C1
+CH$IUPAC: not available
+CH$LINK: PUBCHEM CID:1303
+CH$LINK: CAS 515-30-0
+AC$INSTRUMENT: micrOTOF-Q
+AC$INSTRUMENT_TYPE: ESI-TOF
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: COLLISION_ENERGY 18 eV
+AC$ANALYTICAL_CONDITION: MS_TYPE MS/MS
+AC$ANALYTICAL_CONDITION: IONIZATION ESI
+AC$ANALYTICAL_CONDITION: IsolWidth: 10
+AC$ANALYTICAL_CONDITION: TargetGas: Nitrogen
+AC$ANALYTICAL_CONDITION: PeakWidth: 0.03
+AC$ANALYTICAL_CONDITION: ChargeDecon 2
+AC$ANALYTICAL_CONDITION: Column: Synergi Fusion RP 2.5 u
+AC$ANALYTICAL_CONDITION: RETENTION_TIME 162
+AC$ANALYTICAL_CONDITION: Mass 44.7916-395.042
+MS$FOCUSED_ION: PRECURSOR_M/Z 149.06
+MS$FOCUSED_ION: PRECURSOR_TYPE [M+H]+
+MS$FOCUSED_ION: BASE_PEAK 103.056
+PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  91.054 16 16
+  93.070 21 21
+  95.049 25 25
+  103.054 999 999
+  104.057 94 94
+  105.049 18 18
+  121.064 136 136
+  149.057 23 23
+//

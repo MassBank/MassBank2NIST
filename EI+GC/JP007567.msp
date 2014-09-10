@@ -1,0 +1,21 @@
+Name:  BETA-PINENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=127-91-3" target="_blank">127-91-3</a>
+MW: 136
+Formula: C10H16
+Synonym: 6,6-DIMETHYL-2-METHYLENEBICYCLO(3.1.1)HEPTANE
+Comment: JP007567
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+53:60 55:121 67:235 69:702 79:396 80:339 93:999 94:364 107:194 108:81 
+121:350 122:45 136:249 137:35 

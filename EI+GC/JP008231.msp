@@ -1,0 +1,21 @@
+Name:  DICYAN; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=460-19-5" target="_blank">460-19-5</a>
+MW: 52
+Formula: C2N2
+Synonym: CYANOGEN
+Comment: JP008231
+Comment: N/A
+Comment: HITACHI M-60
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UBE SCIENTIFIC ANALYSIS LABORATORY
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+12:30 14:17 15:6 24:39 26:145 28:17 29:14 30:58 31:7 38:26 
+44:31 52:999 53:30 

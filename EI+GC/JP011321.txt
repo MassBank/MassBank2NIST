@@ -1,0 +1,45 @@
+ACCESSION: JP011321
+RECORD_TITLE: 3-AMINOQUINOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-AMINOQUINOLINE
+CH$NAME: 3-QUINOLINEAMINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C9H8N2
+CH$EXACT_MASS: 144.06875
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=580-17-6" target="_blank">580-17-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-2500
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  28 1.23 12
+  39 1.89 19
+  50 1.23 12
+  51 1.24 12
+  59 2.97 30
+  62 1.57 16
+  63 3.54 35
+  64 1.04 10
+  72 4.16 42
+  76 1.07 11
+  88 1.2 12
+  89 10.63 106
+  90 8.32 83
+  91 1.08 11
+  104 1.09 11
+  115 1.02 10
+  116 8.98 90
+  117 15.59 156
+  118 2.43 24
+  142 1.37 14
+  143 12.41 124
+  144 99.99 999
+  145 10.83 108
+//

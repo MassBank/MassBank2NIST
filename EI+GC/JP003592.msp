@@ -1,0 +1,18 @@
+Name:  BENZOPHENONE; EI-MS
+MW: 182
+Formula: C13H10O
+Comment: JP003592
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+50:85 51:310 52:23 74:31 75:30 76:50 77:628 78:55 105:999 106:71 
+152:28 181:60 182:462 183:68 

@@ -1,0 +1,17 @@
+Name:  CIS-1,2-CYCLOHEXANEDIOL; EI-MS
+MW: 116
+Formula: C6H12O2
+Comment: JP003644
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 9
+41:621 42:598 55:630 57:89 69:443 70:999 83:382 98:54 116:171 

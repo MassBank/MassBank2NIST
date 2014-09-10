@@ -1,0 +1,21 @@
+Name:  CITRONELLOL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-22-9" target="_blank">106-22-9</a>
+MW: 156
+Formula: C10H20O
+Synonym: 3,7-DIMETHYL-6-OCTEN-1-OL
+Comment: JP007547
+Comment: N/A
+Comment: HITACHI M-80
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: TAKEUCHI T, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+55:504 56:372 67:390 69:999 81:489 82:540 95:359 96:100 109:142 110:64 
+123:214 124:26 138:105 156:45 

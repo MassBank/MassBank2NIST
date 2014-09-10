@@ -1,0 +1,19 @@
+Name:  ETHYLENEGLYCOL DIACETATE; EI-MS
+MW: 146
+Formula: C6H10O4
+Comment: JP007152
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 11
+15:63 28:15 29:18 42:33 43:999 44:30 73:45 74:10 86:112 103:18 
+116:43 

@@ -1,0 +1,41 @@
+ACCESSION: JP007642
+RECORD_TITLE: N-BUTYLACETAMID; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-BUTYLACETAMID
+CH$NAME: ACETYLAMIN0BUTANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H13NO
+CH$EXACT_MASS: 115.09971
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=1119-49-9" target="_blank">1119-49-9</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 15 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 19
+PK$PEAK: m/z int. rel.int.
+  30 99.99 999
+  31 3.01 30
+  41 1.61 16
+  43 7.33 73
+  44 35.07 351
+  45 3.92 39
+  56 3.3 33
+  57 2.37 24
+  58 6.66 67
+  60 17.54 175
+  72 54.33 543
+  73 74.03 740
+  74 3.11 31
+  86 30.22 302
+  87 3.33 33
+  100 28.51 285
+  101 1.76 18
+  115 34.1 341
+  116 6.68 67
+//

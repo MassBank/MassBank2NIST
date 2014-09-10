@@ -1,0 +1,21 @@
+Name:  ISOPROPYL SALICYLATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=607-85-2" target="_blank">607-85-2</a>
+MW: 180
+Formula: C10H12O3
+Comment: JP008986
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 22
+27:64 29:14 38:22 39:162 41:80 43:83 53:24 62:11 63:58 64:71 
+65:140 66:12 81:13 92:281 93:66 120:999 121:283 122:21 138:284 139:16 
+180:141 181:13 

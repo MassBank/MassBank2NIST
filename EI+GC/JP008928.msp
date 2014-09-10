@@ -1,0 +1,19 @@
+Name:  ETHYLENE GLYCOL; EI-MS
+MW: 62
+Formula: C2H6O2
+Comment: JP008928
+Comment: N/A
+Comment: HITACHI RMU-6M
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 20 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 20 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 13
+27:33 28:18 29:42 30:1 31:999 32:121 33:415 42:1 43:74 44:28 
+45:19 61:2 62:61 

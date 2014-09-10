@@ -1,0 +1,18 @@
+Name: Rhein
+CAS: 478-43-3
+MW: 284
+Formula: C15H8O6
+Synonym: C10401
+Synonym: Rhein
+Comment: XX006109
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 19
+91.0159 18 137.0408 31 139.0535 22 154.0387 50 155.0482 65 165.0355 77 167.0479 41 182.0402 210 183.0441 999 183.1405 18 
+183.1646 20 184.0327 20 184.0508 20 184.0569 22 193.0312 20 210.0315 45 211.0387 128 239.0321 25 239.0459 18 

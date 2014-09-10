@@ -1,0 +1,59 @@
+ACCESSION: JP002455
+RECORD_TITLE: (2S,3S)-1,4-BIS(BENZYLOXY)-2,3-BUTANEDIOL; EI-MS
+DATE: 2008.10.21
+AUTHORS: ITO S, DEPT. OF CHEM., TOHOKU UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: (2S,3S)-1,4-BIS(BENZYLOXY)-2,3-BUTANEDIOL
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C18H22O4
+CH$EXACT_MASS: 302.15181
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-52
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 13.5 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 39
+PK$PEAK: m/z int. rel.int.
+  58 1.4 14
+  71 4.2 42
+  76 3.4 34
+  79 0.14 1
+  82 5.7 57
+  85 3.4 34
+  87 1.4 14
+  88 0.23 2
+  91 73.2 732
+  97 4.8 48
+  103 1.4 14
+  104 5.07 51
+  105 2.5 25
+  107 99.99 999
+  108 9.9 99
+  110 0.31 3
+  111 3.4 34
+  121 2.3 23
+  124 3.4 34
+  125 0.28 3
+  135 1.1 11
+  136 1.1 11
+  139 3.1 31
+  147 0.17 2
+  151 4 40
+  155 2.5 25
+  163 9.9 99
+  167 0.34 3
+  175 1.1 11
+  181 1.4 14
+  182 2.8 28
+  192 0.17 2
+  193 4.8 48
+  197 2 20
+  206 1.4 14
+  207 0.23 2
+  211 88.7 887
+  212 4 40
+  219 1.7 17
+//

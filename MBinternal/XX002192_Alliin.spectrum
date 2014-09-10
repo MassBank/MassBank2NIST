@@ -1,0 +1,17 @@
+Name: Alliin
+CAS: 556-27-4
+MW: 177
+Formula: C6H11NO3S
+Synonym: C08265
+Synonym: Alliin
+Comment: XX002192
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TQ
+InstName: API3000, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: pos
+MSMS: 2
+ColEnergy: 50
+Date: 2006-12-21 14:48:36+02:00
+Num: 8
+42.100 999 43.100 375 55.300 687 57.000 312 59.100 687 72.700 687 104.900 187 116.800 749 

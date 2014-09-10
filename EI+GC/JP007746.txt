@@ -1,0 +1,48 @@
+ACCESSION: JP007746
+RECORD_TITLE: ETHYL 2-FUROATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: HASHIMOTO K, KYOTO COLLEGE OF PHARMACY
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL 2-FUROATE
+CH$NAME: 2-FURANCARBOXYLIC ACID ETHYL ESTER
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H8O3
+CH$EXACT_MASS: 140.04734
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=614-99-3" target="_blank">614-99-3</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 20 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 26
+PK$PEAK: m/z int. rel.int.
+  27 2.01 20
+  29 12.1 121
+  39 16.67 167
+  40 3.96 40
+  41 1 10
+  42 1.96 20
+  45 30.03 300
+  51 1 10
+  53 1.01 10
+  55 2.03 20
+  56 1.01 10
+  67 5.54 55
+  68 33.92 339
+  69 1 10
+  81 1.03 10
+  84 8.03 80
+  94 1.02 10
+  95 99.99 999
+  96 52.82 528
+  97 9.92 99
+  112 70.83 708
+  113 13.92 139
+  114 1.02 10
+  125 2.98 30
+  140 53.89 539
+  141 8.56 86
+//

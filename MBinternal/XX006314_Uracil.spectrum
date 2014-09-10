@@ -1,0 +1,17 @@
+Name: Uracil
+CAS: 66-22-8
+MW: 112
+Formula: C4H4N2O2
+Synonym: C00106
+Synonym: Uracil
+Comment: XX006314
+Contributor: Kakazu Y, Horai H, Institute for Advanced Biosciences, Keio Univ.
+InstType: TOF
+InstName: Qstar, Applied Biosystems
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2006-12-21 14:48:36+02:00
+Num: 7
+41.9973 999 45.9924 517 49.0097 39 59.012 90 61.9917 35 67.0189 190 111.0191 161 

@@ -1,0 +1,47 @@
+ACCESSION: JP006287
+RECORD_TITLE: ACETALDEHYDE DIMETHYL ACETAL; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ACETALDEHYDE DIMETHYL ACETAL
+CH$NAME: 1,1-DIMETHOXYETHANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H10O2
+CH$EXACT_MASS: 90.06808
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=534-15-6" target="_blank">534-15-6</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 25
+PK$PEAK: m/z int. rel.int.
+  14 36.49 365
+  15 88.95 890
+  16 7.28 73
+  17 0.69 7
+  18 0.87 9
+  25 0.78 8
+  26 20.12 201
+  28 11.81 118
+  29 99.99 999
+  30 57.74 577
+  31 57 570
+  32 1.02 10
+  33 1.36 14
+  39 1.35 14
+  41 3.14 31
+  42 11.28 113
+  43 38.68 387
+  44 1.6 16
+  45 2.62 26
+  47 6.8 68
+  58 1.26 13
+  59 30.17 302
+  60 2.15 22
+  75 8.03 80
+  89 0.31 3
+//

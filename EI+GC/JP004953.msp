@@ -1,0 +1,21 @@
+Name:  3-HEXENYLTRIMETHYLSILANE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=103110-63-0" target="_blank">103110-63-0</a>
+MW: 156
+Formula: C9H20Si
+Synonym: 1-TRIMETHYLSILYL-3-HEXENE
+Comment: JP004953
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 20
+41:17 43:34 44:14 45:58 58:12 59:105 67:12 72:13 73:999 74:88 
+75:38 78:10 81:14 82:16 85:28 99:45 113:64 141:26 156:70 157:10 

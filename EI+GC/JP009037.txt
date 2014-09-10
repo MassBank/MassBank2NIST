@@ -1,0 +1,47 @@
+ACCESSION: JP009037
+RECORD_TITLE: QUINOXALINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: QUINOXALINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H6N2
+CH$EXACT_MASS: 130.0531
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=91-19-0" target="_blank">91-19-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 26
+PK$PEAK: m/z int. rel.int.
+  26 3.24 32
+  27 1.71 17
+  28 4.72 47
+  37 3.38 34
+  38 3.43 34
+  39 2.43 24
+  49 1.7 17
+  50 27.86 279
+  51 11.14 111
+  52 8.09 81
+  53 1.1 11
+  62 1.28 13
+  63 1.65 17
+  64 2.56 26
+  65 2.74 27
+  73 1.15 12
+  74 6.83 68
+  75 13.64 136
+  76 56.52 565
+  77 6.73 67
+  102 3.91 39
+  103 55.92 559
+  104 3.7 37
+  129 1.65 17
+  130 99.99 999
+  131 9.86 99
+//

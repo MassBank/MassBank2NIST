@@ -1,0 +1,22 @@
+Name:  1-BROMO-4-CHLOROBENZENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=106-39-8" target="_blank">106-39-8</a>
+MW: 189
+Formula: C6H4BrCl
+Comment: JP004822
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 36
+40:11 42:13 43:128 45:67 49:24 50:149 51:39 55:30 56:11 58:56 
+59:97 61:14 73:41 74:148 75:319 76:62 77:19 78:17 84:14 85:24 
+95:48 96:67 97:16 110:15 111:653 112:48 113:203 114:15 155:12 157:11 
+190:780 191:56 192:999 193:68 194:251 195:17 

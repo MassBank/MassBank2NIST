@@ -1,0 +1,43 @@
+ACCESSION: JP005089
+RECORD_TITLE: 2-(P-TOLYL)PYRIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 2-(P-TOLYL)PYRIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C12H11N
+CH$EXACT_MASS: 169.08915
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: MX-1303
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 50 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 23
+PK$PEAK: m/z int. rel.int.
+  39 16.2 162
+  41 7.2 72
+  51 5.6 56
+  63 0.42 4
+  65 4.2 42
+  70.5 3.2 32
+  77 4.5 45
+  78 0.53 5
+  83.5 13.5 135
+  84 3 30
+  84.5 1.4 14
+  89 0.42 4
+  91 8.6 86
+  115 6 60
+  139 4.2 42
+  140 0.33 3
+  141 5.6 56
+  154 9.8 98
+  166 5.7 57
+  167 2.86 29
+  168 72.7 727
+  169 99.99 999
+  170 13.5 135
+//

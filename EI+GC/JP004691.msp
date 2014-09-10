@@ -1,0 +1,22 @@
+Name:  ORTHO-BROMOTOLUENE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=95-46-5" target="_blank">95-46-5</a>
+MW: 169
+Formula: C7H7Br
+Synonym: 2-BROMOTOLUENE
+Comment: JP004691
+Comment: N/A
+Comment: JEOL JMS-D-3000
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 24
+43:17 44:13 45:51 50:45 51:50 52:11 61:20 62:54 63:130 64:38 
+65:181 74:16 75:15 85:29 86:28 89:179 90:200 91:999 92:78 169:47 
+170:533 171:86 172:524 173:41 

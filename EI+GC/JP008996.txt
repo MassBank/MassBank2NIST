@@ -1,0 +1,33 @@
+ACCESSION: JP008996
+RECORD_TITLE: BENZYL SALICYLATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SODA AROMATIC CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: BENZYL SALICYLATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C14H12O3
+CH$EXACT_MASS: 228.07864
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=118-58-1" target="_blank">118-58-1</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI M-80B
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 12
+PK$PEAK: m/z int. rel.int.
+  53 1.05 11
+  63 2.67 27
+  64 1.63 16
+  65 12.38 124
+  77 1.56 16
+  89 1.58 16
+  91 99.99 999
+  92 9.82 98
+  93 1.29 13
+  121 2.49 25
+  228 10.79 108
+  229 1.49 15
+//

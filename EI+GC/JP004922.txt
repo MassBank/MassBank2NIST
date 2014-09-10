@@ -1,0 +1,30 @@
+ACCESSION: JP004922
+RECORD_TITLE: 3-PENTANONE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 3-PENTANONE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C5H10O
+CH$EXACT_MASS: 86.07316
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=96-22-0" target="_blank">96-22-0</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 9
+PK$PEAK: m/z int. rel.int.
+  42 1.27 13
+  43 1.52 15
+  53 1.03 10
+  55 1.27 13
+  56 4.68 47
+  57 99.99 999
+  58 3.4 34
+  86 17.27 173
+  87 1.15 12
+//

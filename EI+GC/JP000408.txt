@@ -1,0 +1,53 @@
+ACCESSION: JP000408
+RECORD_TITLE: 4-ETHYL-1-ISOPROPYL-2-PYRAZOLINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: SASAKI S, TOYOHASHI UNIV. OF TECH.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: 4-ETHYL-1-ISOPROPYL-2-PYRAZOLINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C8H16N2
+CH$EXACT_MASS: 140.13135
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: SHIMADZU LKB-2091
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 33
+PK$PEAK: m/z int. rel.int.
+  26 0.8 8
+  27 9.8 98
+  29 4.1 41
+  30 0.29 3
+  39 6.2 62
+  40 1.6 16
+  41 11.4 114
+  42 1.73 17
+  43 7.5 75
+  44 3.3 33
+  52 0.5 5
+  53 0.1 1
+  54 2.8 28
+  55 5.2 52
+  56 11.4 114
+  57 0.09 1
+  67 0.6 6
+  68 2.1 21
+  69 47.5 475
+  70 0.34 3
+  81 0.8 8
+  82 0.9 9
+  83 1.2 12
+  95 0.11 1
+  96 1.7 17
+  97 2.3 23
+  98 0.5 5
+  111 0.15 2
+  125 99.99 999
+  126 8.5 85
+  139 1.4 14
+  140 1.77 18
+  141 1.8 18
+//

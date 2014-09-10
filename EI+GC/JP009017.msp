@@ -1,0 +1,21 @@
+Name:  DIETHYL MALEATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=141-05-9" target="_blank">141-05-9</a>
+MW: 172
+Formula: C8H12O4
+Comment: JP009017
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 21
+26:41 27:79 28:24 29:114 31:22 32:10 43:21 45:54 53:21 54:83 
+55:47 71:37 72:15 82:65 99:999 100:104 125:11 126:171 127:333 128:83 
+143:37 

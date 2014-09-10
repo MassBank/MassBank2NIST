@@ -1,0 +1,21 @@
+Name:  4-AMINOHIPPURIC ACID; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=61-78-9" target="_blank">61-78-9</a>
+MW: 194
+Formula: C9H10N2O3
+Comment: JP011887
+Comment: N/A
+Comment: HITACHI M-2500
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 25
+18:17 28:22 39:40 41:14 44:11 45:13 52:14 63:26 64:25 65:158 
+66:24 91:30 92:224 93:24 119:30 120:999 121:86 149:59 150:154 151:19 
+160:28 161:19 176:10 194:246 195:27 

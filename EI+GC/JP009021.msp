@@ -1,0 +1,21 @@
+Name:  METHYL LEVULINATE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=624-45-3" target="_blank">624-45-3</a>
+MW: 130
+Formula: C6H10O3
+Comment: JP009021
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 23
+15:129 26:25 27:101 29:47 31:14 39:21 41:18 42:72 43:999 44:21 
+45:24 55:168 56:41 57:88 59:121 71:62 87:51 88:93 98:54 99:217 
+100:13 115:181 130:20 

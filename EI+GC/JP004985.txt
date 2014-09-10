@@ -1,0 +1,42 @@
+ACCESSION: JP004985
+RECORD_TITLE: ALPHA-BROMOALLYLTRIMETHYLSILANE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ALPHA-BROMOALLYLTRIMETHYLSILANE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C6H13BrSi
+CH$EXACT_MASS: 191.99699
+CH$SMILES: N/A
+CH$IUPAC: N/A
+CH$LINK: CAS <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=94397-40-7" target="_blank">94397-40-7</a>
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-3000
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 21
+PK$PEAK: m/z int. rel.int.
+  41 2.64 26
+  43 31.85 319
+  45 26.37 264
+  46 1.11 11
+  58 12.69 127
+  59 32.9 329
+  60 1.27 13
+  73 99.99 999
+  74 29.23 292
+  75 3.6 36
+  93 1.64 16
+  97 5.84 58
+  98 0.99 10
+  113 3.29 33
+  123 2.76 28
+  125 2.64 26
+  133 1.8 18
+  149 3.23 32
+  151 3.73 37
+  192 1.21 12
+  194 1.71 17
+//

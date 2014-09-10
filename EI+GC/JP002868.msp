@@ -1,0 +1,18 @@
+Name:  ALLANTOIN; EI-MS
+MW: 158
+Formula: C4H6N4O3
+Comment: JP002868
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 19
+16:132 17:470 27:41 29:135 30:45 42:78 43:358 44:999 45:72 55:37 
+60:295 70:64 71:24 87:298 100:30 114:47 115:99 130:260 141:34 

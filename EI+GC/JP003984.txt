@@ -1,0 +1,28 @@
+ACCESSION: JP003984
+RECORD_TITLE: PARA-TOLUIDINE; EI-MS
+DATE: 2008.10.21
+AUTHORS: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: PARA-TOLUIDINE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C7H9N
+CH$EXACT_MASS: 107.0735
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6L
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 8
+PK$PEAK: m/z int. rel.int.
+  39 5.5 55
+  51 5.1 51
+  52 5.9 59
+  53 0.75 8
+  54 5 50
+  79 12 120
+  106 99.99 999
+  107 64.5 645
+//

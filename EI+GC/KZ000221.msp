@@ -1,0 +1,28 @@
+Name:  L-Alanine; GC-EI-TOF-MS; 1 TMS; BP:116
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=56-41-7" target="_blank">56-41-7</a>
+MW: 89
+Formula: C3H7NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00041" target="_blank">C00041</a>
+Comment: KZ000221
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 425.663 sec
+Comment: RETENTION_INDEX 1122.0
+Comment: COLUMN_NAME DB-17MS
+Comment: DERIVATIVE_TYPE 1 TMS
+Comment: BASE_PEAK 116
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Ara T, Morishita Y, Shibata D, Kazusa DNA Research Institute
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-17 (original 2009-03-11) 14:48:36+02:00
+Num: 48
+82:2 83:2 84:8 85:3 86:36 87:12 88:8 89:3 93:1 94:17 
+95:1 98:3 99:3 100:72 101:19 102:20 103:43 104:4 105:4 112:1 
+113:2 114:13 115:14 116:999 117:133 118:43 119:7 128:18 129:3 130:6 
+131:20 132:8 133:24 134:4 135:2 144:3 146:3 147:212 148:34 149:16 
+150:2 174:2 175:1 190:34 191:9 192:3 218:10 219:1 

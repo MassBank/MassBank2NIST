@@ -1,0 +1,19 @@
+Name:  ETHYL LACTATE; EI-MS
+MW: 118
+Formula: C5H10O3
+Comment: JP009221
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 14
+15:27 19:38 26:17 27:12 29:152 30:14 31:10 42:1 43:99 44:14 
+45:999 46:3 47:14 75:62 

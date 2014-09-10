@@ -1,0 +1,17 @@
+Name:  SUBERIC ACID; EI-MS
+MW: 174
+Formula: C8H14O4
+Comment: JP003897
+Comment: N/A
+Comment: Unknown
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: ION_TYPE [M]+*
+Contributor: MASS SPECTROSCOPY SOC. OF JAPAN (MSSJ)
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 8
+41:580 42:246 55:999 56:30 68:561 69:463 97:252 138:294 

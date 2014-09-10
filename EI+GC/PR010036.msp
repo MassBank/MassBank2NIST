@@ -1,0 +1,36 @@
+Name:  L-Phenylalanine; GC-EI-TOF-MS; 2 TMS; BP:73
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=63-91-2" target="_blank">63-91-2</a>
+MW: 165
+Formula: C9H11NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00079" target="_blank">C00079</a>
+Synonym: (S)-alpha-Amino-beta-phenylpropionic acid
+Comment: PR010036
+Comment: Natural Product
+Comment: Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MS_TYPE GC-TOF/MS
+Comment: MODE POSITIVE
+Comment: RETENTION_TIME 402.604 sec
+Comment: RETENTION_INDEX 1625.1
+Comment: FILE std2_GCTMS_PR051207MSinfo.txt
+Comment: DERIVATIVE_TYPE 2 TMS
+Comment: DERIVATIVE_FORM C15H27NO2Si2
+Comment: DERIVATIVE_MASS 309.15803
+Comment: BASE_PEAK 73
+Comment: WHOLE ChromaTOF ver. 2.32 (Leco)
+Contributor: Kusano M, Fukushima A, Plant Science Center, RIKEN.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-11-16 (original 2006-12-21) 14:48:36+02:00
+Num: 98
+60:9 61:12 62:3 63:8 64:2 65:36 66:6 67:1 70:7 71:5 
+72:21 73:999 74:95 75:83 76:8 77:25 78:5 79:4 80:1 83:1 
+84:6 85:2 86:14 87:4 88:1 89:8 90:4 91:84 92:14 93:4 
+95:1 98:1 99:1 100:210 101:28 102:14 103:23 104:5 105:6 107:2 
+115:7 116:3 117:14 118:7 119:7 120:16 121:8 122:1 128:1 129:1 
+130:30 131:20 132:23 133:25 134:5 135:7 136:1 144:2 145:3 146:11 
+147:128 148:22 149:11 150:1 158:2 159:3 160:12 161:4 162:4 163:8 
+164:1 174:4 175:1 176:8 177:11 178:2 188:1 190:3 191:3 192:265 
+193:46 194:12 195:1 202:1 203:4 204:9 205:2 217:1 218:384 219:74 
+220:32 221:4 222:1 266:21 267:8 268:3 294:6 295:1 

@@ -1,0 +1,14 @@
+Name: Bumetanide
+MW: 364
+Synonym: Bumetanide
+Comment: SC001406
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 10
+Date: 2009-03-16 14:48:36+02:00
+Num: 7
+66.7866 24 79.9815 175 207.088 54 238.123 27 319.11 153 362.12 25 363.101 999 

@@ -1,0 +1,14 @@
+Name: 5-Methoxyindoleacetate
+MW: 205
+Synonym: 5-Methoxyindoleacetate
+Comment: SC003622
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 20
+Date: 2009-03-16 14:48:36+02:00
+Num: 4
+144.043 297 145.052 999 160.075 518 204.065 878 

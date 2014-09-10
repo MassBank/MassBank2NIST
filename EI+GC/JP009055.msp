@@ -1,0 +1,21 @@
+Name:  ISOPENTYLAMINE; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=107-85-7" target="_blank">107-85-7</a>
+MW: 87
+Formula: C5H13N
+Synonym: ISOPENTYLAMINE
+Comment: JP009055
+Comment: N/A
+Comment: HITACHI M-80B
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: SODA AROMATIC CO., LTD.
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 12
+30:999 31:22 39:58 41:66 42:42 43:35 44:45 45:20 55:34 58:12 
+70:66 87:44 

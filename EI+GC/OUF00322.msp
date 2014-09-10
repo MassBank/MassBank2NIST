@@ -1,0 +1,32 @@
+Name:  L-(-)-Proline; GC-EI-TOF-MS; RT:441.394 sec
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=147-85-3" target="_blank">147-85-3</a>
+MW: 115
+Formula: C5H9NO2
+Synonym: <a href="http://www.genome.jp/dbget-bin/www_bget?cpd:C00148" target="_blank">C00148</a> <a href="http://www.genome.jp/dbget-bin/www_bget?dr:D00035" target="_blank">D00035</a>
+Comment: OUF00322
+Comment: Natural Product
+Comment: Pegasus II TOF-MS system, Leco; GC 6890, Agilent Technologies
+Comment: GC-EI-TOF-MS
+Comment: MODE POSITIVE
+Comment: COLUMN_NAME CP-SIL 8 CB LOW BLEED/MS
+Comment: INJECTION_TEMPERATURE 230 C
+Comment: TRANSFARLINE_TEMPERATURE 250 C
+Comment: ION_SOURCE_TEMPERATURE 200 C
+Comment: HELIUM_FLOW 1 ml/min
+Comment: OVEN_TEMPERATURE 80 C (Duration 2 min)-330 C (rate: 15 C/min; Duration 6 min)
+Comment: SCAN_RANGE_M/Z 85-500
+Comment: RETENTION_TIME 441.394  sec
+Comment: WHOLE ChromaTOF ver. 2.32 (LECO)
+Contributor: Tsuzimoto Y, Tsugawa H, Bamba T, Fukusaki E, engineering department, Osaka Univ.
+InstType: EI
+IoniMethod: ESI
+IonPolarity: pos
+Date: 2010-05-20 14:48:36+02:00
+Num: 67
+85:9 86:12 87:6 88:1 89:1 92:1 94:1 95:2 96:3 97:4 
+98:7 99:14 100:24 101:10 102:6 103:17 104:1 105:3 107:2 110:2 
+111:1 112:2 113:10 114:2 115:8 116:2 117:8 118:2 119:2 122:1 
+124:6 125:1 126:5 127:4 128:3 129:1 130:1 131:14 132:3 133:19 
+134:2 139:2 140:13 141:10 142:999 143:137 144:44 145:4 146:1 147:92 
+148:16 149:8 150:1 154:1 156:1 158:2 170:11 171:1 172:6 173:1 
+174:1 175:5 216:43 217:9 218:6 244:5 259:1 

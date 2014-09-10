@@ -1,0 +1,44 @@
+ACCESSION: JP009950
+RECORD_TITLE: NONANEDIOL DIMETHACRYLATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: NONANEDIOL DIMETHACRYLATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C17H28O4
+CH$EXACT_MASS: 296.19876
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 24
+PK$PEAK: m/z int. rel.int.
+  28 4.5 45
+  39 3.6 36
+  41 25.1 251
+  68 0.16 2
+  69 99.99 999
+  70 4.8 48
+  73 5.1 51
+  96 0.19 2
+  99 1.1 11
+  143 2 20
+  145 3.3 33
+  147 0.3 3
+  197 2.3 23
+  210 4.7 47
+  211 5.6 56
+  212 0.06 1
+  221 3 30
+  267 0.5 5
+  268 1.5 15
+  281 0.26 3
+  282 0.9 9
+  283 0.6 6
+  295 1 10
+  296 0.6 6
+//

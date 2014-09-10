@@ -1,0 +1,35 @@
+ACCESSION: JP001519
+RECORD_TITLE: ETHYL ACETATE; EI-MS
+DATE: 2008.10.21
+AUTHORS: YAMAMOTO M, DEP. CHEMISTRY, FAC. SCIENCE, NARA WOMEN'S UNIV.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: ETHYL ACETATE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C4H8O2
+CH$EXACT_MASS: 88.05243
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: HITACHI RMU-6M
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 15
+PK$PEAK: m/z int. rel.int.
+  14 0.33 3
+  15 1.41 14
+  26 0.27 3
+  27 1.07 11
+  28 0.28 3
+  29 1.74 17
+  31 0.13 1
+  42 0.59 6
+  43 99.99 999
+  44 0.27 3
+  45 1.42 14
+  61 1.09 11
+  70 0.98 10
+  73 0.38 4
+  88 0.51 5
+//

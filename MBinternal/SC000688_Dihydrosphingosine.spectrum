@@ -1,0 +1,14 @@
+Name: Dihydrosphingosine
+MW: 301
+Synonym: Dihydrosphingosine
+Comment: SC000688
+Contributor: The Scripps Center for Mass Spectrometry
+InstType: ESI
+InstName: Agilent ESI-QTOF
+IoniMethod: ESI
+IonPolarity: neg
+MSMS: 2
+ColEnergy: 40
+Date: 2009-03-16 14:48:36+02:00
+Num: 8
+42.0358 10 58.0304 130 239.237 39 265.248 11 268.264 143 280.262 24 282.279 38 300.29 999 

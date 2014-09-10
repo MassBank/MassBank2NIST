@@ -1,0 +1,53 @@
+ACCESSION: JP010140
+RECORD_TITLE: N-ETHENYLPHTHALIMIDE; EI-MS
+DATE: 2008.10.21
+AUTHORS: KURARAY CO., LTD.
+COPYRIGHT: Copyright(C) 2008 K. Funatsu, University of Tokyo
+<hr size="1" color="silver" width="98%" align="left">CH$NAME: N-ETHENYLPHTHALIMIDE
+CH$COMPOUND_CLASS: N/A
+CH$FORMULA: C10H7NO2
+CH$EXACT_MASS: 173.04768
+CH$SMILES: N/A
+CH$IUPAC: N/A
+<hr size="1" color="silver" width="98%" align="left">AC$INSTRUMENT: JEOL JMS-D-300
+AC$INSTRUMENT_TYPE: EI-MS
+AC$ANALYTICAL_CONDITION: MS_TYPE EI-MS
+AC$ANALYTICAL_CONDITION: MODE POSITIVE
+AC$ANALYTICAL_CONDITION: IONIZATION_ENERGY 70 eV
+<hr size="1" color="silver" width="98%" align="left">MS$FOCUSED_ION: ION_TYPE [M]+*
+<hr size="1" color="silver" width="98%" align="left">PK$NUM_PEAK: 33
+PK$PEAK: m/z int. rel.int.
+  27 2 20
+  38 4 40
+  41 3 30
+  43 0.2 2
+  50 20 200
+  51 3 30
+  52 9 90
+  55 0.3 3
+  57 2 20
+  66 12 120
+  69 3 30
+  73 0.3 3
+  74 7 70
+  75 9 90
+  76 46 460
+  77 0.8 8
+  89 2 20
+  90 9 90
+  102 2 20
+  103 1.1 11
+  104 43 430
+  105 10 100
+  117 13 130
+  118 0.5 5
+  129 6 60
+  132 5 50
+  133 6 60
+  145 0.8 8
+  146 10 100
+  161 4 40
+  172 5 50
+  173 99.99 999
+  174 13 130
+//

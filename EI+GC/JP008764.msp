@@ -1,0 +1,21 @@
+Name:  2-HEXENAL; EI-MS
+CAS: <a href="http://webbook.nist.gov/cgi/cbook.cgi?ID=6728-26-3" target="_blank">6728-26-3</a>
+MW: 98
+Formula: C6H10O
+Comment: JP008764
+Comment: N/A
+Comment: HP 5970
+Comment: EI-MS
+Comment: MS_TYPE EI-MS
+Comment: MODE POSITIVE
+Comment: IONIZATION_ENERGY 70 eV
+Comment: ION_TYPE [M]+*
+Contributor: UOEH
+InstType: EI
+IoniMethod: _ENERGY 70 eV
+IonPolarity: pos
+Date: 2008-10-21 14:48:36+02:00
+Num: 29
+37:45 38:103 39:709 40:143 41:999 42:591 43:245 44:27 50:59 51:61 
+53:118 54:97 55:728 56:179 57:338 62:24 63:24 65:25 67:52 68:61 
+69:572 70:144 79:54 80:78 81:32 83:359 84:22 97:64 98:128 
