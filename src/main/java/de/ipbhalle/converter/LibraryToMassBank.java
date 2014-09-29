@@ -759,9 +759,15 @@ public class LibraryToMassBank {
 				chargedecon = line.substring(line.indexOf(":") + 1).trim();
 			
 			if(line.startsWith(KEY_DATE)) {
+
+				Date today = new Date();
+				SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy.MM.dd");				
+				
 				date = line.substring(line.indexOf(":") + 1, line.indexOf(":") + 12).trim();
-				date = date.replaceAll("-", ".");
-				year = line.substring(line.indexOf(":") + 1, line.indexOf(":") + 6).trim();
+				date = DATE_FORMAT.format(today) + " (Created " + date.replaceAll("-", ".")  + ")";
+
+				DATE_FORMAT = new SimpleDateFormat("yyyy");
+				year = DATE_FORMAT.format(today);
 			}
 			
 			if(line.startsWith(KEY_COLUMN))
