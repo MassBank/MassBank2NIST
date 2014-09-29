@@ -1,7 +1,14 @@
 NIST to MassBank converter
 ==========================
 
-Compile the converter with
+It is required to install the included files into your local maven repository upfront:
+```
+mvn install:install-file -Dfile=./lib/cdk-1.3.5.jar -DgroupId=org.openscience.cdk  -DartifactId=cdk-bundle -Dversion=1.3.5 -Dpackaging=jar
+mvn install:install-file -Dfile=./lib/massbank.jar -DgroupId=massbank  -DartifactId=massbank -Dversion=1.0 -Dpackaging=jar
+mvn install:install-file -Dfile=./lib/metfusion.jar -DgroupId=de.ipbhalle.msbi  -DartifactId=metfusion -Dversion=1.0 -Dpackaging=jar
+```
+
+Then compile the converter with
 
 ```
 mvn clean package

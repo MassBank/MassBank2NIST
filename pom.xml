@@ -65,23 +65,17 @@
       <groupId>org.openscience.cdk</groupId>  
       <artifactId>cdk-bundle</artifactId>  
       <version>1.3.5</version> 
-      <scope>system</scope>
-      <systemPath>${project.basedir}/lib/cdk-1.3.5.jar</systemPath>
     </dependency>    
 
     <dependency>
-      <groupId>metfusion</groupId>  
-      <artifactId>de.ipbhalle.msbi.metfusion</artifactId>  
+      <groupId>de.ipbhalle.msbi</groupId>  
+      <artifactId>metfusion</artifactId>  
       <version>1.0</version> 
-      <scope>system</scope>
-      <systemPath>${project.basedir}/lib/metfusion.jar</systemPath>
     </dependency>
     <dependency>
       <groupId>massbank</groupId>  
       <artifactId>massbank</artifactId>  
       <version>1.0</version> 
-      <scope>system</scope>
-      <systemPath>${project.basedir}/lib/massbank.jar</systemPath>
     </dependency>
   </dependencies>
   
