@@ -306,9 +306,14 @@ public class LibraryToMassBank {
 					ev = ev.substring(0, ev.indexOf("."));
 			}
 			if(line.startsWith("Date:")) {
-				date = line.substring(line.indexOf(":") + 1, line.indexOf(":") + 12).trim();
-				year = line.substring(line.indexOf(":") + 1, line.indexOf(":") + 6).trim();
+				Date today = new Date();
+				SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy.MM.dd");
+				
+				date = DATE_FORMAT.format(today) + " (Created " + line.substring(line.indexOf(":") + 1, line.indexOf(":") + 12).trim() + ")";
+				DATE_FORMAT = new SimpleDateFormat("yyyy");
+				year = DATE_FORMAT.format(today);
 			}
+			
 			if(line.startsWith("Num Peaks:")) {
 				numPeaks = Integer.parseInt(line.substring(line.indexOf(":") + 1).trim());
 				
@@ -390,7 +395,7 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("AUTHORS: " + contributor);
 				fw.write("\n");
-				fw.write("COPYRIGHT: Copyright(C) " + year + " Bruker Daltronik, Germany");
+				fw.write("COPYRIGHT: Copyright(C) " + year );
 				fw.write("\n");
 				fw.write("CH$NAME: " + name);
 				fw.write("\n");
@@ -400,7 +405,7 @@ public class LibraryToMassBank {
 						fw.write("\n");
 					}
 				}
-				fw.write("CH$COMPOUND_CLASS: not available");
+				fw.write("CH$COMPOUND_CLASS: N/A");
 				fw.write("\n");
 				fw.write("CH$FORMULA: " + formula);
 				fw.write("\n");
@@ -847,7 +852,7 @@ public class LibraryToMassBank {
 				//fw.write("COPYRIGHT: Copyright(C) " + year + " Bruker Daltronik, Germany");
 				fw.write("COPYRIGHT: Copyright(C) " + year);
 				fw.write("\n");
-				fw.write("LICENSE: Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/");
+				fw.write("LICENSE: CC BY-SA");
 				fw.write("\n");
 				if(!comment.isEmpty()) {
 					fw.write("COMMENT: " + comment);
