@@ -287,11 +287,11 @@ public class LibraryToMassBank {
 			if(line.startsWith("IonPolarity")) {
 				ion_mode = line.substring(line.indexOf(":") + 1).trim();
 				if(ion_mode.equalsIgnoreCase("pos")) {
-					ion_mode = "MODE POSITIVE";
+					ion_mode = "ION_MODE POSITIVE";
 					ion = "[M+H]+";
 				}
 				else if(ion_mode.equalsIgnoreCase("neg")) {
-					ion_mode = "MODE NEGATIVE";
+					ion_mode = "ION_MODE NEGATIVE";
 					ion = "[M-H]-";
 				}
 					
@@ -377,7 +377,7 @@ public class LibraryToMassBank {
 				if(instrument_type.isEmpty())
 					instrument_type = "ESI-TOF";
 				if(ion_mode.isEmpty())
-					ion_mode = "MODE POSITIVE";
+					ion_mode = "ION_MODE POSITIVE";
 				if(ion_method.isEmpty())
 					ion_method = "ESI";
 				if(contributor.isEmpty())
@@ -430,9 +430,9 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("AC$INSTRUMENT_TYPE: " + instrument_type);
 				fw.write("\n");
-				fw.write("AC$ANALYTICAL_CONDITION: " + ion_mode);
+				fw.write("AC$MASS_SPECTROMETRY: " + ion_mode);
 				fw.write("\n");
-				fw.write("AC$ANALYTICAL_CONDITION: COLLISION_ENERGY " + ev + " eV");
+				fw.write("AC$MASS_SPECTROMETRY: COLLISION_ENERGY " + ev + " eV");
 				fw.write("\n");
 				
 				if(!precursor.isEmpty()) {
@@ -700,11 +700,11 @@ public class LibraryToMassBank {
 			if(line.startsWith(KEY_IONPOLARITY)) {
 				ion_mode = line.substring(line.indexOf(":") + 1).trim();
 				if(ion_mode.equalsIgnoreCase("pos")) {
-					ion_mode = "MODE POSITIVE";
+					ion_mode = "ION_MODE POSITIVE";
 					ion = "[M+H]+";
 				}
 				else if(ion_mode.equalsIgnoreCase("neg")) {
-					ion_mode = "MODE NEGATIVE";
+					ion_mode = "ION_MODE NEGATIVE";
 					ion = "[M-H]-";
 				}
 					
@@ -833,7 +833,7 @@ public class LibraryToMassBank {
 				if(instrument_type.isEmpty())
 					instrument_type = "ESI-TOF";
 				if(ion_mode.isEmpty())
-					ion_mode = "MODE POSITIVE";
+					ion_mode = "ION_MODE POSITIVE";
 				if(ion_method.isEmpty())
 					ion_method = "ESI";
 				if(contributor.isEmpty())
@@ -911,76 +911,77 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("AC$INSTRUMENT_TYPE: " + instrument_type);
 				fw.write("\n");
-				fw.write("AC$ANALYTICAL_CONDITION: " + ion_mode);
+				fw.write("AC$MASS_SPECTROMETRY: " + ion_mode);
 				fw.write("\n");
-				fw.write("AC$ANALYTICAL_CONDITION: COLLISION_ENERGY " + ev + " eV");
+				fw.write("AC$MASS_SPECTROMETRY: COLLISION_ENERGY " + ev + " eV");
 				fw.write("\n");
 				if(!ms.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: MS_TYPE " + ms);	// old
+					fw.write("AC$MASS_SPECTROMETRY: MS_TYPE " + ms);	// old
 					//fw.write("AC$MASS_SPECTROMETRY: MS_TYPE " + ms);		// new
 					fw.write("\n");
 				}
 				if(!ion_method.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: IONIZATION " + ion_method);	// old
+					fw.write("AC$MASS_SPECTROMETRY: IONIZATION " + ion_method);	// old
 					//fw.write("AC$MASS_SPECTROMETRY: ION_" + ion_mode);	// new
 					fw.write("\n");
 				}
 				if(!trapdrive.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_TRAPDRIVE + " " + trapdrive);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_TRAPDRIVE + " " + trapdrive);
 					fw.write("\n");
 				}
 				if(!skim.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_SKIM1 + " " + skim);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_SKIM1 + " " + skim);
 					fw.write("\n");
 				}
 				if(!fragampl.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_FRAGAMPL + " " + fragampl);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_FRAGAMPL + " " + fragampl);
 					fw.write("\n");
 				}
 				if(!isolwidth.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_ISOLWIDTH + " " + isolwidth);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_ISOLWIDTH + " " + isolwidth);
 					fw.write("\n");
 				}
 				if(!targetgas.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_TARGETGAS + " " + targetgas);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_TARGETGAS + " " + targetgas);
 					fw.write("\n");
 				}
 				if(!targetgaspres.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_TARGETGASPRES + " " + targetgaspres);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_TARGETGASPRES + " " + targetgaspres);
 					fw.write("\n");
 				}
 				if(!reagention.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_REAGENTION + " " + reagention);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_REAGENTION + " " + reagention);
 					fw.write("\n");
 				}
 				if(!reagentgaspres.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_REAGENTGASPRES + " " + reagentgaspres);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_REAGENTGASPRES + " " + reagentgaspres);
 					fw.write("\n");
 				}
 				if(!peakwidth.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_PEAKWIDTH + " " + peakwidth);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_PEAKWIDTH + " " + peakwidth);
 					fw.write("\n");
 				}
 				if(!reflector.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_REFLECTOR + " " + reflector);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_REFLECTOR + " " + reflector);
 					fw.write("\n");
 				}
 				if(!psd.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_PSD + " " + psd);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_PSD + " " + psd);
 					fw.write("\n");
 				}
 				if(!chargedecon.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_CHARGEDECONVOLVED + " " + chargedecon);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_CHARGEDECONVOLVED + " " + chargedecon);
 					fw.write("\n");
 				}
 				if(!column.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_COLUMN + " " + column);
+					fw.write("AC$CHROMATOGRAPHY: " + KEY_COLUMN + " " + column);
 					fw.write("\n");
 				}
 				if(!rettime.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: RETENTION_TIME " + rettime);
+					fw.write("AC$CHROMATOGRAPHY: RETENTION_TIME " + rettime);
 					fw.write("\n");
 				}
+
 				/** skip bruker specific data (filesystem) for public access */
 //				if(!ssid.isEmpty()) {
 //					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_SSID + " " + ssid);
@@ -995,8 +996,9 @@ public class LibraryToMassBank {
 //					fw.write("\n");
 //				}
 				/** */
+
 				if(!massrange.isEmpty()) {
-					fw.write("AC$ANALYTICAL_CONDITION: " + KEY_MASSRANGE + " " + massrange);
+					fw.write("AC$MASS_SPECTROMETRY: " + KEY_MASSRANGE + " " + massrange);
 					fw.write("\n");
 				}
 				
