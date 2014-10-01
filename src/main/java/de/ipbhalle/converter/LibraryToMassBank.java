@@ -56,7 +56,7 @@ public class LibraryToMassBank {
 	/** The list mol. */
 	File listMol;					// = new File("/home/mgerlich/Desktop/bruker/moldata/list.tsv");
 	
-	
+	// These keys are present in the Bruker Library format
 	private final String KEY_NAME = "Name:";
 	private final String KEY_CAS = "CAS:";
 	private final String KEY_NIST = "NIST:";
@@ -409,7 +409,7 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("CH$FORMULA: " + formula);
 				fw.write("\n");
-				fw.write("CH$EXACT_MASS: " + emass);
+				fw.write("CH$EXACT_MASS: " + String.format("%.4f", emass));
 				fw.write("\n");
 				fw.write("CH$SMILES: not available");
 				fw.write("\n");
@@ -879,7 +879,7 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("CH$FORMULA: " + formula);
 				fw.write("\n");
-				fw.write("CH$EXACT_MASS: " + emass);
+				fw.write("CH$EXACT_MASS: " + String.format("%.4f", emass));
 				fw.write("\n");
 				if(smiles.isEmpty())
 					fw.write("CH$SMILES: not available");
