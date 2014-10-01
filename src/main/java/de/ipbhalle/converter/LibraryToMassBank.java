@@ -1012,7 +1012,9 @@ public class LibraryToMassBank {
 					fw.write("MS$FOCUSED_ION: BASE_PEAK " + prodion);
 					fw.write("\n");
 				}
-					
+
+				fw.write("MS$DATA_PROCESSING: CONVERT from Bruker Library Editor");
+
 				fw.write("PK$NUM_PEAK: " + numPeaks);
 				fw.write("\n");
 				fw.write("PK$PEAK: m/z int. rel.int.");
