@@ -62,6 +62,8 @@ public class LibraryToMassBank {
 	private final String KEY_NIST = "NIST:";
 	private final String KEY_UN = "UN:";
 	private final String KEY_MW = "MW:";
+	private final String KEY_INCHI = "InChI:";
+	private final String KEY_INCHIKEY = "InChIKey:";
 	private final String KEY_FORMULA = "Form";	// allow both Form(ula)
 	private final String KEY_SYNONYM = "Syn";	// allow both Syn(onym)
 	private final String KEY_COMMENT = "Com";	// allow both Com(ment)
@@ -183,12 +185,12 @@ public class LibraryToMassBank {
 	}
 
 	/**
-	 * Parses the file.
+	 * Parses the Bruker Library file.
 	 *
 	 * @param f the f
 	 * @throws IOException Signals that an I/O exception has occurred.
 	 */
-	public void parseFile(File f) throws IOException {
+	public void parseBrukerLibraryFile(File f) throws IOException {
 		if(!f.exists()) {
 			System.err.println("File [" + f.getAbsolutePath() + "] not found!");
 			return;
@@ -214,6 +216,7 @@ public class LibraryToMassBank {
 		String year = "";
 		String authors = "Bruker Scientific";
 		String contributor = "";
+		String smiles = "", inchi = "", inchikey = "";
 		String instrument = "micrOTOF-Q";
 		String instrument_type = "ESI-TOF";
 		String compound_class = "CH$COMPOUND_CLASS: unknown";
@@ -276,6 +279,11 @@ public class LibraryToMassBank {
 				
 				listWriter.append(name + "\t" + id + ".mol" + "\n");
 			}
+			if(line.startsWith("InChI:"))
+				inchi = line.substring(line.indexOf(":") + 1).trim();
+			if(line.startsWith("InChIKey:"))
+				inchikey = line.substring(line.indexOf(":") + 1).trim();
+
 			if(line.startsWith("Contributor:"))
 				contributor = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith("InstType:"))
@@ -413,7 +421,7 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("CH$SMILES: not available");
 				fw.write("\n");
-				fw.write("CH$IUPAC: not available");
+				fw.write("CH$IUPAC: " + inchi );
 				fw.write("\n");
 				if(synonyme != null && synonyme.size() > 0) {
 					for (String s : synonyme) {
@@ -567,7 +575,7 @@ public class LibraryToMassBank {
 		double emass = 0.0d;
 		String name = "", cas = "", nist = "", un = "", formula = "", mw = "";
 		String year = "", link = "", comment = "";
-		String smiles = "", inchi = "";
+		String smiles = "", inchi = "", inchikey = "";  
 		String preion = "", prodion = "", trapdrive = "", skim = "", fragampl = "", isolwidth = "", targetgas = "", targetgaspres = "",
 			reagention = "", reagentgaspres = "", peakwidth = "", reflector = "", psd = "", chargedecon = "", column = "", rettime = "",
 			ssid = "", analid = "", analname = "", massrange = "";
@@ -602,6 +610,10 @@ public class LibraryToMassBank {
 				un = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith(KEY_MW))
 				mw = line.substring(line.indexOf(":") + 1).trim();
+			if(line.startsWith(KEY_INCHI))
+				inchi = line.substring(line.indexOf(":") + 1).trim();
+			if(line.startsWith(KEY_INCHIKEY))
+				inchikey = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith(KEY_FORMULA)) {
 				formula = line.substring(line.indexOf(":") + 1).trim();
 				emass = computeEmass(formula);
@@ -883,12 +895,20 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				if(smiles.isEmpty())
 					fw.write("CH$SMILES: not available");
-				else fw.write("CH$SMILES: " + smiles);
+				else 
+					fw.write("CH$SMILES: " + smiles);
 				fw.write("\n");
+
 				if(inchi.isEmpty())
 					fw.write("CH$IUPAC: not available");
-				else fw.write("CH$IUPAC: " + inchi);
+				else 
+					fw.write("CH$IUPAC: " + inchi);
 				fw.write("\n");
+				
+				if(inchikey.isEmpty())
+					fw.write("CH$LINK: INCHIKEY not available");
+				else fw.write("CH$LINK: INCHIKEY " + inchikey + "\n");			
+				
 				if(synonyms != null && synonyms.size() > 0) {
 					for (String s : synonyms) {
 						fw.write("CH$LINK: " + s);
@@ -1013,7 +1033,7 @@ public class LibraryToMassBank {
 					fw.write("\n");
 				}
 
-				fw.write("MS$DATA_PROCESSING: CONVERT from Bruker Library Editor");
+				fw.write("MS$DATA_PROCESSING: CONVERT from Bruker Library Editor (https://github.com/MassBank/MassBank2NIST)\n");
 
 				fw.write("PK$NUM_PEAK: " + numPeaks);
 				fw.write("\n");
