@@ -59,6 +59,7 @@ public class LibraryToMassBank {
 	// These keys are present in the Bruker Library format
 	private final String KEY_NAME = "Name:";
 	private final String KEY_CAS = "CAS:";
+	private final String KEY_PUBCHEM= "PubChem:";
 	private final String KEY_NIST = "NIST:";
 	private final String KEY_UN = "UN:";
 	private final String KEY_MW = "MW:";
@@ -573,7 +574,7 @@ public class LibraryToMassBank {
 		int numPeaks = 0;
 		String id = this.getPrefix() + formatCounter(counter);
 		double emass = 0.0d;
-		String name = "", cas = "", nist = "", un = "", formula = "", mw = "";
+		String name = "", cas = "", pubchem="", nist = "", un = "", formula = "", mw = ""; 
 		String year = "", link = "", comment = "";
 		String smiles = "", inchi = "", inchikey = "";  
 		String preion = "", prodion = "", trapdrive = "", skim = "", fragampl = "", isolwidth = "", targetgas = "", targetgaspres = "",
@@ -604,6 +605,8 @@ public class LibraryToMassBank {
 			}
 			if(line.startsWith(KEY_CAS))
 				cas = line.substring(line.indexOf(":") + 1).trim();
+			if(line.startsWith(KEY_PUBCHEM))
+				pubchem = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith(KEY_NIST))
 				nist = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith(KEY_UN))
@@ -919,6 +922,10 @@ public class LibraryToMassBank {
 					fw.write("CH$LINK: CAS " + cas);
 					fw.write("\n");
 				}
+				if(!pubchem.isEmpty()) {
+					fw.write("CH$LINK: PUBCHEM CID:" + pubchem);
+					fw.write("\n");
+				}
 				if(!nist.isEmpty()) {
 					fw.write("CH$LINK: NIST " + nist);
 					fw.write("\n");
@@ -998,7 +1005,7 @@ public class LibraryToMassBank {
 					fw.write("\n");
 				}
 				if(!rettime.isEmpty()) {
-					fw.write("AC$CHROMATOGRAPHY: RETENTION_TIME " + rettime);
+					fw.write("AC$CHROMATOGRAPHY: RETENTION_TIME " + rettime + " sec");
 					fw.write("\n");
 				}
 
