@@ -73,7 +73,7 @@ public class LibraryToMassBank {
 	private final String KEY_INSTTYPE = "InstType:";
 	private final String KEY_INSTNAME = "InstName:";
 	private final String KEY_IONIMETHOD = "IoniMethod:";
-	private final String KEY_IONPOLARITY = "IonPol";	// allow both IonPol(arity)
+	private final String KEY_IONPOLARITY = "IonPol";	// allow both IonPol and IonPolarity
 	private final String KEY_MSMS = "MSMS";		// allow both MSMS(Stage)
 	private final String KEY_PREION = "PreIon:";
 	private final String KEY_PRODION = "ProdIon:";
@@ -293,7 +293,7 @@ public class LibraryToMassBank {
 				instrument = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith("IoniMethod:"))
 				ion_method = line.substring(line.indexOf(":") + 1).trim();
-			if(line.startsWith("IonPolarity")) {
+			if(line.startsWith("IonPol")) {
 				ion_mode = line.substring(line.indexOf(":") + 1).trim();
 				if(ion_mode.equalsIgnoreCase("pos")) {
 					ion_mode = "ION_MODE POSITIVE";
@@ -302,8 +302,7 @@ public class LibraryToMassBank {
 				else if(ion_mode.equalsIgnoreCase("neg")) {
 					ion_mode = "ION_MODE NEGATIVE";
 					ion = "[M-H]-";
-				}
-					
+				}					
 			}
 			if(line.startsWith("MSMS:"))
 				ms = line.substring(line.indexOf(":") + 1).trim();
@@ -588,7 +587,7 @@ public class LibraryToMassBank {
 		String compound_class = "";
 		String ev = "", ion = "", precursor = "";
 		String ion_method = "ESI";
-		String ion_mode = "pos";
+		String ion_mode = "unknown";
 		String ms = "";
 
 		StringBuffer peaks = new StringBuffer();
@@ -908,9 +907,10 @@ public class LibraryToMassBank {
 					fw.write("CH$IUPAC: " + inchi);
 				fw.write("\n");
 				
-				if(inchikey.isEmpty())
-					fw.write("CH$LINK: INCHIKEY not available");
-				else fw.write("CH$LINK: INCHIKEY " + inchikey + "\n");			
+				if(!inchikey.isEmpty()) {
+					fw.write("CH$LINK: INCHIKEY " + inchikey);
+					fw.write("\n");
+				}
 				
 				if(synonyms != null && synonyms.size() > 0) {
 					for (String s : synonyms) {
