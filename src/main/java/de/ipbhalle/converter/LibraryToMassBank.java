@@ -30,6 +30,7 @@ import org.openscience.cdk.inchi.InChIGeneratorFactory;
 import org.openscience.cdk.interfaces.IAtomContainer;
 import org.openscience.cdk.interfaces.IChemFile;
 import org.openscience.cdk.interfaces.IMolecularFormula;
+import org.openscience.cdk.interfaces.IMolecule;
 import org.openscience.cdk.io.MDLV2000Reader;
 import org.openscience.cdk.nonotify.NoNotificationChemObjectBuilder;
 import org.openscience.cdk.smiles.SmilesGenerator;
@@ -282,6 +283,31 @@ public class LibraryToMassBank {
 				fw.write(mol);
 				fw.flush();
 				fw.close();
+
+				FileInputStream ins = new FileInputStream(mdl);
+				MDLV2000Reader reader = new MDLV2000Reader(ins);
+				IMolecule molecule=null;
+				try {
+					molecule = (IMolecule) reader.read(new ChemFile());
+				} catch (CDKException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+
+				
+				// Calculate SMILES 
+				String molsmiles = "";
+				SmilesGenerator generator = new SmilesGenerator();
+				generator.setUseAromaticityFlag(true);
+				molsmiles = generator.createSMILES(molecule);
+				
+				// get molecular Formula
+				String molformula = MolecularFormulaManipulator.getString(MolecularFormulaManipulator.getMolecularFormula(molecule));
+				
+				// Debug: output FOrmula + SMILES
+				System.out.println("Formula:" + molformula + " and SMILES: " + molsmiles);
+								
+				// 
 				
 				listWriter.append(name + "\t" + id + ".mol" + "\n");
 			}
@@ -679,7 +705,11 @@ public class LibraryToMassBank {
 					chemFile = (IChemFile) reader.read(chemFile);
 					container = ChemFileManipulator.getAllAtomContainers(chemFile).get(0);
 					SmilesGenerator sg = new SmilesGenerator();
+					sg.setUseAromaticityFlag(true);
 					smiles = sg.createSMILES(container);
+
+					// get molecular Formula
+					formula = MolecularFormulaManipulator.getString(MolecularFormulaManipulator.getMolecularFormula(container));
 					
 //					// Generate factory - throws CDKException if native code does not load
 //					InChIGeneratorFactory factory = InChIGeneratorFactory.getInstance();
@@ -697,6 +727,7 @@ public class LibraryToMassBank {
 //					}
 //
 //					inchi = gen.getInchi();
+												
 				} catch (CDKException e) {
 					System.err.println("Error loading molfile and generating SMILES!");
 					smiles = "";
