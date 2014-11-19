@@ -18,6 +18,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 import java.util.Set;
 
 import net.sf.jniinchi.INCHI_RET;
@@ -55,6 +56,8 @@ public class LibraryToMassBank {
 	
 	/** The list mol. */
 	File listMol;					// = new File("/home/mgerlich/Desktop/bruker/moldata/list.tsv");
+	
+	Properties prop;
 	
 	// These keys are present in the Bruker Library format
 	private final String KEY_NAME = "Name:";
@@ -109,8 +112,9 @@ public class LibraryToMassBank {
 	 * 3.param prefix
 	 *
 	 * @param args the arguments
+	 * @param prop 
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args, Properties prop) {
 		// /home/mgerlich/workspace_new/Edda/test_lib/Metabo_Q_Lib_PubChemID.library /home/mgerlich/workspace_new/Edda/test_lib/ BD
 		
 		if(args == null || args.length == 0 || args.length != 3) {
@@ -127,6 +131,7 @@ public class LibraryToMassBank {
 		LibraryToMassBank lto = new LibraryToMassBank();
 		lto.setOutputPath(outpath);
 		lto.setPrefix(prefix);
+		lto.prop = prop;
 		
 		File f = new File(libfile);
 		try {
@@ -215,11 +220,11 @@ public class LibraryToMassBank {
 		String name = "", cas = "", formula = "";
 		String date = "2007.10.09";
 		String year = "";
-		String authors = "Bruker Scientific";
-		String contributor = "";
+		String authors = null; //"Bruker Scientific"; should come from properties instead of defaults here
+		//String contributor = "";
 		String smiles = "", inchi = "", inchikey = "";
-		String instrument = "micrOTOF-Q";
-		String instrument_type = "ESI-TOF";
+		String instrument = null; //"micrOTOF-Q"; should come from properties instead of defaults here
+		String instrument_type = null; //"ESI-TOF";
 		String compound_class = "CH$COMPOUND_CLASS: unknown";
 		String ev = "";
 		String ion_method = "ESI";
@@ -286,7 +291,7 @@ public class LibraryToMassBank {
 				inchikey = line.substring(line.indexOf(":") + 1).trim();
 
 			if(line.startsWith("Contributor:"))
-				contributor = line.substring(line.indexOf(":") + 1).trim();
+				authors = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith("InstType:"))
 				instrument_type = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith("InstName:"))
@@ -388,8 +393,8 @@ public class LibraryToMassBank {
 					ion_mode = "ION_MODE POSITIVE";
 				if(ion_method.isEmpty())
 					ion_method = "ESI";
-				if(contributor.isEmpty())
-					contributor = "Bruker";
+				if(authors.isEmpty())
+					authors = "Bruker";
 				
 				File temp = new File(recPath, id + ".txt");
 				FileWriter fw = new FileWriter(temp);
@@ -401,7 +406,9 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("DATE: " + date);
 				fw.write("\n");
-				fw.write("AUTHORS: " + contributor);
+//				fw.write("AUTHORS: " + contributor);
+				fw.write("AUTHORS: " + prop.getProperty("authors"));//, contributor));
+
 				fw.write("\n");
 				fw.write("COPYRIGHT: Copyright(C) " + year );
 				fw.write("\n");
@@ -472,7 +479,7 @@ public class LibraryToMassBank {
 				emass = 0;
 				names = new ArrayList<String>();
 				synonyme = new ArrayList<String>();
-				contributor = "";
+				authors = "";
 				instrument = "";
 				instrument_type = "";
 				ion_method = "";
@@ -579,8 +586,8 @@ public class LibraryToMassBank {
 		String preion = "", prodion = "", trapdrive = "", skim = "", fragampl = "", isolwidth = "", targetgas = "", targetgaspres = "",
 			reagention = "", reagentgaspres = "", peakwidth = "", reflector = "", psd = "", chargedecon = "", column = "", rettime = "",
 			ssid = "", analid = "", analname = "", massrange = "";
-		String authors = "Bruker Scientific";
-		String contributor = "";
+		String authors = prop.getProperty("authors");
+
 		String instrument = "micrOTOF-Q";
 		String instrument_type = "ESI-TOF";
 		String compound_class_unknown = "CH$COMPOUND_CLASS: unknown";
@@ -699,12 +706,13 @@ public class LibraryToMassBank {
 				//listWriter.append(name + "\t" + id + ".mol" + "\n");
 			}
 			if(line.startsWith(KEY_CONTRIBUTOR)) {
-				contributor = line.substring(line.indexOf(":") + 1).trim();
+				authors = line.substring(line.indexOf(":") + 1).trim();
 //				System.out.println(contributor);
 //				byte[] arr = contributor.getBytes();
 //				String s = new String(arr, "UTF8");
 //				System.out.println(s);
 			}
+			
 			if(line.startsWith(KEY_INSTTYPE))
 				instrument_type = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith(KEY_INSTNAME))
@@ -814,7 +822,7 @@ public class LibraryToMassBank {
 					peaks.append("//");
 				}
 				else if(split.length < numPeaks*2){		// peaks are spread over multiple lines
-					br.mark(2000);
+					br.mark(20000);
 					String temp = "";
 					do {
 						temp = br.readLine();
@@ -850,8 +858,8 @@ public class LibraryToMassBank {
 					ion_mode = "ION_MODE POSITIVE";
 				if(ion_method.isEmpty())
 					ion_method = "ESI";
-				if(contributor.isEmpty())
-					contributor = "Bruker Library";
+				if(authors.isEmpty())
+					authors = "Bruker Library";
 				
 				File temp = new File(recPath, id + ".txt");
 				FileWriter fw = new FileWriter(temp);
@@ -867,12 +875,12 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("DATE: " + date);
 				fw.write("\n");
-				fw.write("AUTHORS: " + contributor);
+				fw.write("AUTHORS: " + authors);
 				fw.write("\n");
-				//fw.write("COPYRIGHT: Copyright(C) " + year + " Bruker Daltronik, Germany");
-				fw.write("COPYRIGHT: Copyright(C) " + year);
+				fw.write("COPYRIGHT: " + prop.getProperty("copyright"));
 				fw.write("\n");
-				fw.write("LICENSE: CC BY-SA");
+				fw.write("LICENSE: " + prop.getProperty("license"));
+
 				fw.write("\n");
 				if(!comment.isEmpty()) {
 					fw.write("COMMENT: " + comment);
@@ -1064,7 +1072,6 @@ public class LibraryToMassBank {
 				emass = 0;
 				names = new ArrayList<String>();
 				synonyms = new ArrayList<String>();
-				contributor = "";
 				instrument = "";
 				instrument_type = "";
 				ion_method = "";

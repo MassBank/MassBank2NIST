@@ -4,6 +4,12 @@
 
 package de.ipbhalle.converter;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+ 
 /**
  * Main file which calls specialized classes in order to perform conversion 
  * between MassBank-to-Library and vice-versa.
@@ -13,17 +19,20 @@ package de.ipbhalle.converter;
  */
 public class ConverterMain {
 
-	enum switches {mode, spectra, mol, output, prefix, library};
+	enum switches {mode, spectra, mol, output, prefix, library, properties};
 	enum modes {mb2lib, lib2mb};
-	private final int NUM_SWITCHES = 4;
+	private final int NUM_SWITCHES = 5;
 	private final String ARG_DELIMITER = "-";
 	
 	private String mode;
 	private String spectraDir;
 	private String outputDir;
+	private String propertiesFile;
 	private String molDir;
 	private String prefix;
 	private String libFile;
+	
+	private Properties prop = new Properties();
 	
 	// -mode mb2lib -spectra /tmp/test/recdata/ -mol /tmp/test/moldata -output /tmp/test/
 	
@@ -39,7 +48,7 @@ public class ConverterMain {
 				this.outputDir = args[2];
 				this.prefix = args[3];
 				String[] newArgs = {libFile, outputDir, prefix};
-				LibraryToMassBank.main(newArgs);
+				LibraryToMassBank.main(newArgs, prop);
 			}
 			else if(args[0].matches(modes.mb2lib.toString())) {
 				this.spectraDir = args[1];
@@ -74,6 +83,9 @@ public class ConverterMain {
 				else if(switches.valueOf(args[i]) == switches.output) {
 					this.outputDir = args[i+1];
 				}
+				else if(switches.valueOf(args[i]) == switches.properties) {
+					this.propertiesFile = args[i+1];
+				}
 				else if(switches.valueOf(args[i]) == switches.prefix) {
 					this.prefix = args[i+1];
 				}
@@ -85,6 +97,26 @@ public class ConverterMain {
 					System.err.println(args[i] + " -> " + args[i+1]);
 				}
 			}
+
+			if (!propertiesFile.isEmpty()) {
+				
+				InputStream input;
+				try {
+					input = new FileInputStream(propertiesFile);
+
+					// load a properties file
+					prop.load(input);
+				} catch (FileNotFoundException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}		 
+				System.err.println("loaded properties from :" + propertiesFile);
+				//System.err.println("AUTHORS: " + prop.getProperty("authors"));//, contributor));
+
+			}					
 			
 			// start program according to mode
 			if(mode.equals(modes.mb2lib.toString())) {		// start MassBank-to-Library conversion
@@ -98,7 +130,7 @@ public class ConverterMain {
 					System.exit(-1);
 				}
 				String[] newArgs = {libFile, outputDir, prefix};
-				LibraryToMassBank.main(newArgs);
+				LibraryToMassBank.main(newArgs, prop);
 			}
 			else {
 				System.err.println("Unknown mode definded -> " + mode);
