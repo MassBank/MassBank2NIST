@@ -714,8 +714,13 @@ public class LibraryToMassBank {
 //				System.out.println(s);
 			}
 			
-			if(line.startsWith(KEY_INSTTYPE))
+			if(line.startsWith(KEY_INSTTYPE)) {
 				instrument_type = line.substring(line.indexOf(":") + 1).trim();
+				// override from settings file
+				if (prop.containsKey("instrument_type")) {
+					instrument_type = prop.getProperty("instrument_type");
+				}
+			}
 			if(line.startsWith(KEY_INSTNAME))
 				instrument = "Bruker " + line.substring(line.indexOf(":") + 1).trim();			
 			if(line.startsWith(KEY_IONIMETHOD))
