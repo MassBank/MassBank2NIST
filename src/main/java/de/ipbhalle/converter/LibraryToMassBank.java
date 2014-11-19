@@ -294,8 +294,9 @@ public class LibraryToMassBank {
 				authors = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith("InstType:"))
 				instrument_type = line.substring(line.indexOf(":") + 1).trim();
-			if(line.startsWith("InstName:"))
-				instrument = line.substring(line.indexOf(":") + 1).trim();
+			if(line.startsWith("InstName:")) {
+				instrument = "Bruker " + line.substring(line.indexOf(":") + 1).trim();
+			}
 			if(line.startsWith("IoniMethod:"))
 				ion_method = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith("IonPol")) {
@@ -716,7 +717,7 @@ public class LibraryToMassBank {
 			if(line.startsWith(KEY_INSTTYPE))
 				instrument_type = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith(KEY_INSTNAME))
-				instrument = line.substring(line.indexOf(":") + 1).trim();
+				instrument = "Bruker " + line.substring(line.indexOf(":") + 1).trim();			
 			if(line.startsWith(KEY_IONIMETHOD))
 				ion_method = line.substring(line.indexOf(":") + 1).trim();
 			if(line.startsWith(KEY_IONPOLARITY)) {
