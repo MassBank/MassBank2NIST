@@ -34,6 +34,8 @@ import org.openscience.cdk.interfaces.IMolecule;
 import org.openscience.cdk.io.MDLV2000Reader;
 import org.openscience.cdk.nonotify.NoNotificationChemObjectBuilder;
 import org.openscience.cdk.smiles.SmilesGenerator;
+import org.openscience.cdk.smsd.algorithm.mcsplus.ExactMapping;
+import org.openscience.cdk.tools.manipulator.AtomContainerManipulator;
 import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
 import org.openscience.cdk.tools.manipulator.MolecularFormulaManipulator;
 
@@ -102,6 +104,7 @@ public class LibraryToMassBank {
 	private final String KEY_ANALNAME = "AnalName:";
 	private final String KEY_MASSRANGE = "Mass";	// allow both Mass(Range)
 	private final String KEY_NUMPEAKS = "Num";		// allo both Num(Peaks)
+
 	
 	public enum InstType {IT, TQ, Q, TOF, ICR, FTMS, ESI_TOF};
 	public enum IoniMethod {EI, CI, APCI, ESI, nano_ESI, TS, MALDI, CAESIUM, APMALDI, APPI};
@@ -710,6 +713,8 @@ public class LibraryToMassBank {
 
 					// get molecular Formula
 					formula = MolecularFormulaManipulator.getString(MolecularFormulaManipulator.getMolecularFormula(container));
+
+					emass = AtomContainerManipulator.getNaturalExactMass(container);
 					
 //					// Generate factory - throws CDKException if native code does not load
 //					InChIGeneratorFactory factory = InChIGeneratorFactory.getInstance();
