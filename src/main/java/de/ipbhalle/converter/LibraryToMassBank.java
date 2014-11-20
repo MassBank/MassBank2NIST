@@ -714,7 +714,7 @@ public class LibraryToMassBank {
 					// get molecular Formula
 					formula = MolecularFormulaManipulator.getString(MolecularFormulaManipulator.getMolecularFormula(container));
 
-					emass = AtomContainerManipulator.getNaturalExactMass(container);
+					emass = AtomContainerManipulator.getTotalExactMass(container);
 					
 //					// Generate factory - throws CDKException if native code does not load
 //					InChIGeneratorFactory factory = InChIGeneratorFactory.getInstance();
