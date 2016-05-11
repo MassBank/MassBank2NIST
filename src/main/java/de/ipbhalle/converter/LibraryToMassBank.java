@@ -868,9 +868,9 @@ public class LibraryToMassBank {
 					String temp = "";
 					do {
 						temp = br.readLine();
-						line += temp;
+						line += " " + temp;
 					}
-					while(!temp.isEmpty() && !temp.equals("\n"));
+					while(temp != null && !temp.isEmpty() && !temp.equals("\n"));
 					br.reset();
 					
 					split = line.split(" ");
