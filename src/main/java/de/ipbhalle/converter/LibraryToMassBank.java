@@ -854,6 +854,7 @@ public class LibraryToMassBank {
 				
 				// read in peaklist
 				line = br.readLine();
+				line = line.trim();
 				String[] split = line.split(" ");
 				System.out.println("numPeaks -> " + numPeaks + "\t#split -> " + split.length);
 				
@@ -868,6 +869,7 @@ public class LibraryToMassBank {
 					String temp = "";
 					do {
 						temp = br.readLine();
+						temp = temp.trim();
 						line += " " + temp;
 					}
 					while(temp != null && !temp.isEmpty() && !temp.equals("\n"));
