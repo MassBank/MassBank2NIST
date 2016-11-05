@@ -48,6 +48,17 @@ public class LibraryToMassBank {
 	/** The prefix. */
 	private String prefix = "XX";
 	
+	/** First Accession ID. */
+	private int startswithid = 1;
+
+	public int getStartswithid() {
+		return startswithid;
+	}
+
+	public void setStartswithid(int startswithid) {
+		this.startswithid = startswithid;
+	}
+
 	/** The output path. */
 	private String outputPath = ""; //"/home/mgerlich/Desktop/bruker/";
 	
@@ -135,6 +146,11 @@ public class LibraryToMassBank {
 		LibraryToMassBank lto = new LibraryToMassBank();
 		lto.setOutputPath(outpath);
 		lto.setPrefix(prefix);
+		if (prop.containsKey("startswithid")) {
+			lto.setStartswithid(Integer.parseInt(prop.getProperty("startswithid")));
+		} else {
+			lto.setStartswithid(1);
+		}
 		lto.prop = prop;
 		
 		File f = new File(libfile);
@@ -606,7 +622,7 @@ public class LibraryToMassBank {
 		BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(f.getAbsoluteFile()), "ISO-8859-1"));
 		String line = "";
 		
-		int counter = 1;
+		int counter = getStartswithid();
 		int numPeaks = 0;
 		String id = this.getPrefix() + formatCounter(counter);
 		double emass = 0.0d;
