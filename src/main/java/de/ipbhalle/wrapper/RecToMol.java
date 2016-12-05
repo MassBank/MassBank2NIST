@@ -19,11 +19,10 @@ import org.openscience.cdk.interfaces.IChemFile;
 import org.openscience.cdk.interfaces.IMolecularFormula;
 import org.openscience.cdk.io.MDLReader;
 import org.openscience.cdk.isomorphism.UniversalIsomorphismTester;
-import org.openscience.cdk.nonotify.NoNotificationChemObjectBuilder;
+import org.openscience.cdk.silent.SilentChemObjectBuilder;
 import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
 import org.openscience.cdk.tools.manipulator.MolecularFormulaManipulator;
 
-import de.ipbhalle.wrapper.*;
 
 public class RecToMol {
 
@@ -456,12 +455,12 @@ public class RecToMol {
 	}
 	
 	public static double computeNaturalMass(String formula) {
-		IMolecularFormula mf = MolecularFormulaManipulator.getMolecularFormula(formula, NoNotificationChemObjectBuilder.getInstance());
+		IMolecularFormula mf = MolecularFormulaManipulator.getMolecularFormula(formula, SilentChemObjectBuilder.getInstance());
 		return MolecularFormulaManipulator.getNaturalExactMass(mf);
 	}
 	
 	public static double computeExactMass(String formula) {
-		IMolecularFormula mf = MolecularFormulaManipulator.getMolecularFormula(formula, NoNotificationChemObjectBuilder.getInstance());
+		IMolecularFormula mf = MolecularFormulaManipulator.getMolecularFormula(formula, SilentChemObjectBuilder.getInstance());
 		return MolecularFormulaManipulator.getTotalExactMass(mf);
 	}
 	
@@ -525,7 +524,7 @@ public class RecToMol {
 		if(containers.size() > 1) {		// only perform check if more than one molfile available
 			for (int i = 1; i < containers.size(); i++) {
 				try {
-					check = UniversalIsomorphismTester.isIsomorph(containers.get(0), containers.get(i));
+					check = new UniversalIsomorphismTester().isIsomorph(containers.get(0), containers.get(i));
 				} catch (CDKException e) {
 					System.err.println("error for " + id);
 				} 

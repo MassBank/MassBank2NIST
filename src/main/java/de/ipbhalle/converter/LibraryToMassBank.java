@@ -24,15 +24,18 @@ import java.util.Set;
 import net.sf.jniinchi.INCHI_RET;
 
 import org.openscience.cdk.ChemFile;
+import org.openscience.cdk.DefaultChemObjectBuilder;
+import org.openscience.cdk.config.Isotopes;
 import org.openscience.cdk.exception.CDKException;
 import org.openscience.cdk.inchi.InChIGenerator;
 import org.openscience.cdk.inchi.InChIGeneratorFactory;
+import org.openscience.cdk.inchi.InChIToStructure;
 import org.openscience.cdk.interfaces.IAtomContainer;
 import org.openscience.cdk.interfaces.IChemFile;
 import org.openscience.cdk.interfaces.IMolecularFormula;
-import org.openscience.cdk.interfaces.IMolecule;
 import org.openscience.cdk.io.MDLV2000Reader;
-import org.openscience.cdk.nonotify.NoNotificationChemObjectBuilder;
+import org.openscience.cdk.silent.SilentChemObjectBuilder;
+
 import org.openscience.cdk.smiles.SmilesGenerator;
 import org.openscience.cdk.smsd.algorithm.mcsplus.ExactMapping;
 import org.openscience.cdk.tools.manipulator.AtomContainerManipulator;
@@ -155,13 +158,18 @@ public class LibraryToMassBank {
 		
 		File f = new File(libfile);
 		try {
-			lto.convertFile(f);
+			try {
+				lto.convertFile(f);
+			} catch (CDKException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+		System.err.println("Done.");
 	}
 	
 	/**
@@ -217,7 +225,7 @@ public class LibraryToMassBank {
 	 * @return the double
 	 */
 	public double computeEmass(String formula) {
-		IMolecularFormula mf = MolecularFormulaManipulator.getMolecularFormula(formula, NoNotificationChemObjectBuilder.getInstance());
+		IMolecularFormula mf = MolecularFormulaManipulator.getMolecularFormula(formula, SilentChemObjectBuilder.getInstance());
 		return MolecularFormulaManipulator.getTotalExactMass(mf);	//MolecularFormulaManipulator.getNaturalExactMass(mf);
 	}
 	
@@ -244,8 +252,9 @@ public class LibraryToMassBank {
 	 *
 	 * @param f the f
 	 * @throws IOException Signals that an I/O exception has occurred.
+	 * @throws CDKException 
 	 */
-	public void convertFile(File f) throws IOException {
+	public void convertFile(File f) throws IOException, CDKException {
 		if(!f.exists()) {
 			System.err.println("File [" + f.getAbsolutePath() + "] not found!");
 			return;
@@ -396,7 +405,8 @@ public class LibraryToMassBank {
 
 					// get molecular Formula
 					formula = MolecularFormulaManipulator.getString(MolecularFormulaManipulator.getMolecularFormula(container));
-
+					System.err.println("Formula is " + formula);
+					Isotopes.getInstance().configureAtoms(container);
 					emass = AtomContainerManipulator.getTotalExactMass(container);
 					
 //					// Generate factory - throws CDKException if native code does not load
@@ -416,7 +426,31 @@ public class LibraryToMassBank {
 //
 //					inchi = gen.getInchi();
 												
-				} catch (CDKException e) {
+				} catch (IllegalArgumentException e) {
+					System.err.println("molfile contains PseudoAtom: " + e);
+					// Generate factory - throws CDKException if native code does not load
+					InChIGeneratorFactory factory = InChIGeneratorFactory.getInstance();;
+					                                    
+					// Get InChIToStructure
+					InChIToStructure intostruct = factory.getInChIToStructure(
+					inchi, DefaultChemObjectBuilder.getInstance()
+					);
+
+					INCHI_RET ret = intostruct.getReturnStatus();
+					if (ret == INCHI_RET.WARNING) {
+					// Structure generated, but with warning message
+					System.out.println("InChI warning: " + intostruct.getMessage());
+					} else if (ret != INCHI_RET.OKAY) {
+					// Structure generation failed
+					throw new CDKException("Structure generation failed failed: " + ret.toString()
+					+ " [" + intostruct.getMessage() + "]");
+					}
+
+					container = intostruct.getAtomContainer();
+					Isotopes.getInstance().configureAtoms(container);
+					emass = AtomContainerManipulator.getTotalExactMass(container);					
+					
+				} catch (CDKException e) {			
 					System.err.println("Error loading molfile and generating SMILES!");
 					smiles = "";
 				}
