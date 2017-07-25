@@ -319,6 +319,11 @@ public class LibraryToMassBank {
 		String ion_mode = "unknown";
 		String ms = "";
 
+		String lc_solvent_a = "";
+		String lc_solvent_b = "";
+		String lc_gradient = "";
+		String lc_flow_rate = "";
+		
 		StringBuffer peaks = new StringBuffer();
 		List<String> synonyms = new ArrayList<String>();
 		List<String> names = new ArrayList<String>();
@@ -474,6 +479,23 @@ public class LibraryToMassBank {
 					instrument_type = prop.getProperty("instrument_type");
 				}
 			}
+
+			// obtain from settings file
+			if (prop.containsKey("lc_solvent_a")) {
+				lc_solvent_a = prop.getProperty("lc_solvent_a");
+			}
+			if (prop.containsKey("lc_solvent_b")) {
+				lc_solvent_b = prop.getProperty("lc_solvent_b");
+			}
+			if (prop.containsKey("lc_gradient")) {
+				lc_gradient = prop.getProperty("lc_gradient");
+			}
+			if (prop.containsKey("lc_flow_rate")) {
+				lc_flow_rate = prop.getProperty("lc_flow_rate");
+			}
+
+			
+			
 			if(line.startsWith(KEY_INSTNAME))
 				instrument = "Bruker " + line.substring(line.indexOf(":") + 1).trim();			
 			if(line.startsWith(KEY_IONIMETHOD))
@@ -703,17 +725,12 @@ public class LibraryToMassBank {
 					fw.write("CH$LINK: UN " + un);
 					fw.write("\n");
 				}
-				fw.write("AC$INSTRUMENT: " + instrument);
-				fw.write("\n");
-				fw.write("AC$INSTRUMENT_TYPE: " + instrument_type);
-				fw.write("\n");
-				fw.write("AC$MASS_SPECTROMETRY: " + ion_mode);
-				fw.write("\n");
-				fw.write("AC$MASS_SPECTROMETRY: COLLISION_ENERGY " + ev + " eV");
-				fw.write("\n");
+				fw.write("AC$INSTRUMENT: " + instrument + "\n");
+				fw.write("AC$INSTRUMENT_TYPE: " + instrument_type + "\n");
+				fw.write("AC$MASS_SPECTROMETRY: " + ion_mode + "\n");
+				fw.write("AC$MASS_SPECTROMETRY: COLLISION_ENERGY " + ev + " eV" + "\n");
 				if(!ms.isEmpty()) {
-					fw.write("AC$MASS_SPECTROMETRY: MS_TYPE " + ms);	// old
-					//fw.write("AC$MASS_SPECTROMETRY: MS_TYPE " + ms);		// new
+					fw.write("AC$MASS_SPECTROMETRY: MS_TYPE " + ms);
 					fw.write("\n");
 				}
 				if(!ion_method.isEmpty()) {
@@ -770,8 +787,19 @@ public class LibraryToMassBank {
 					fw.write("\n");
 				}
 				if(!column.isEmpty()) {
-					fw.write("AC$CHROMATOGRAPHY: " + KEY_COLUMN + " " + column);
-					fw.write("\n");
+					fw.write("AC$CHROMATOGRAPHY: COLUMN_NAME " + column + "\n");
+				}
+				if(!lc_gradient.isEmpty()) {
+					fw.write("AC$CHROMATOGRAPHY: FLOW_GRADIENT " + lc_gradient + "\n");
+				}
+				if(!lc_flow_rate.isEmpty()) {
+					fw.write("AC$CHROMATOGRAPHY: FLOW_RATE " + lc_flow_rate + "\n");
+				}
+				if(!lc_solvent_a.isEmpty()) {
+					fw.write("AC$CHROMATOGRAPHY: SOLVENT A " + lc_solvent_a + "\n");
+				}
+				if(!lc_solvent_b.isEmpty()) {
+					fw.write("AC$CHROMATOGRAPHY: SOLVENT B " + lc_solvent_b + "\n");
 				}
 				if(!rettime.isEmpty()) {
 					fw.write("AC$CHROMATOGRAPHY: RETENTION_TIME " + rettime + " sec");
