@@ -319,7 +319,7 @@ public class LibraryToMassBank {
 		String precursor = "";
 		String ion_method = "ESI";
 		String ion_mode = "unknown";
-		String ms = "";
+		String ms = "MS1";
 
 		String lc_solvent_a = "";
 		String lc_solvent_b = "";
@@ -650,13 +650,12 @@ public class LibraryToMassBank {
 				FileWriter fw = new FileWriter(temp);
 				
 				// write information
-				fw.write("ACCESSION: " + id);
-				fw.write("\n");
+				fw.write("ACCESSION: " + id + "\n");
 				if(ion_method.contains("EI"))
 					fw.write("RECORD_TITLE: " + name + "; " + instrument_type + "RT:" + rettime + " sec");
 				else if(ion_method.contains("ESI"))
 					fw.write("RECORD_TITLE: " + name + "; " + instrument_type + "; " + ms 
-							+ ( ev.isEmpty() ? "" : ( "; CE:" + ev + " eV; ") + ion ));
+							+ ( ev.isEmpty() ? "" : ( "; CE:" + ev + " eV") + "; " + ion ) );
 				else fw.write("RECORD_TITLE: " + name + "; " + instrument_type + "; " + ms + "; CE:" + ev + " eV; " + ion);
 				fw.write("\n");
 				fw.write("DATE: " + date);
