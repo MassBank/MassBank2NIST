@@ -312,9 +312,11 @@ public class LibraryToMassBank {
 
 		String instrument = "micrOTOF-Q";
 		String instrument_type = "ESI-TOF";
-		String compound_class_unknown = "CH$COMPOUND_CLASS: unknown";
+		String compound_class_unknown = "CH$COMPOUND_CLASS: Natural Product; N/A";
 		String compound_class = "";
-		String ev = "", ion = "", precursor = "";
+		String ev = "";
+		String ion = "";
+		String precursor = "";
 		String ion_method = "ESI";
 		String ion_mode = "unknown";
 		String ms = "";
@@ -512,7 +514,7 @@ public class LibraryToMassBank {
 				}
 					
 			}
-			if(line.startsWith(KEY_MSMS)) {
+			if(line.startsWith(KEY_MSMS)) {				
 				ms = line.substring(line.indexOf(":") + 1).trim();
 				if(ms.equals("1"))
 					ms = "MS";
@@ -631,8 +633,8 @@ public class LibraryToMassBank {
 			if(line.isEmpty() || line.equals("\n")) {
 				System.out.println("ID -> " + id);
 				
-				if(ev.isEmpty())
-					ev = "10";
+				//if(ev.isEmpty()) // If collision energy is empty, then keep it empty.
+				//	ev = "10";
 				if(instrument.isEmpty())
 					instrument = "micrOTOF-Q";
 				if(instrument_type.isEmpty())
@@ -653,7 +655,8 @@ public class LibraryToMassBank {
 				if(ion_method.contains("EI"))
 					fw.write("RECORD_TITLE: " + name + "; " + instrument_type + "RT:" + rettime + " sec");
 				else if(ion_method.contains("ESI"))
-					fw.write("RECORD_TITLE: " + name + "; " + instrument_type + "; " + ms + "; CE:" + ev + " eV; " + ion);
+					fw.write("RECORD_TITLE: " + name + "; " + instrument_type + "; " + ms 
+							+ ( ev.isEmpty() ? "" : ( "; CE:" + ev + " eV; ") + ion ));
 				else fw.write("RECORD_TITLE: " + name + "; " + instrument_type + "; " + ms + "; CE:" + ev + " eV; " + ion);
 				fw.write("\n");
 				fw.write("DATE: " + date);
@@ -727,11 +730,10 @@ public class LibraryToMassBank {
 				}
 				fw.write("AC$INSTRUMENT: " + instrument + "\n");
 				fw.write("AC$INSTRUMENT_TYPE: " + instrument_type + "\n");
+				fw.write("AC$MASS_SPECTROMETRY: MS_TYPE " + ms + "\n");
 				fw.write("AC$MASS_SPECTROMETRY: " + ion_mode + "\n");
-				fw.write("AC$MASS_SPECTROMETRY: COLLISION_ENERGY " + ev + " eV" + "\n");
-				if(!ms.isEmpty()) {
-					fw.write("AC$MASS_SPECTROMETRY: MS_TYPE " + ms);
-					fw.write("\n");
+				if(!ev.isEmpty()) {
+					fw.write("AC$MASS_SPECTROMETRY: COLLISION_ENERGY " + ev + " eV" + "\n");
 				}
 				if(!ion_method.isEmpty()) {
 					fw.write("AC$MASS_SPECTROMETRY: IONIZATION " + ion_method);	// old
@@ -865,13 +867,20 @@ public class LibraryToMassBank {
 				instrument_type = "";
 				ion_method = "";
 				ion_mode = "";
-				ms = "";
+				ms = "MS1";
 				ev = "";
+				ion = "";
+				precursor = "";
 				date = "";
 				year = "";
 				numPeaks = 0;
 				smiles = "";
 				inchi = "";
+				
+				preion = ""; prodion = ""; trapdrive = ""; skim = ""; fragampl = ""; isolwidth = ""; targetgas = ""; targetgaspres = "";
+				reagention = ""; reagentgaspres = ""; peakwidth = ""; reflector = ""; psd = ""; chargedecon = ""; column = ""; rettime = "";
+				ssid = ""; analid = ""; analname = ""; massrange = "";
+
 			}
 			
 		}
