@@ -606,7 +606,7 @@ public class LibraryToMassBank {
 					peaks.append("//");
 				}
 				else if(split.length < numPeaks*2){		// peaks are spread over multiple lines
-					br.mark(20000);
+					br.mark(200000);
 					String temp = "";
 					do {
 						temp = br.readLine();
