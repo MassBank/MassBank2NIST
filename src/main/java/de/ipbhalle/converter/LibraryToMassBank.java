@@ -13,6 +13,7 @@ import java.io.InputStreamReader;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -41,6 +42,13 @@ import org.openscience.cdk.smsd.algorithm.mcsplus.ExactMapping;
 import org.openscience.cdk.tools.manipulator.AtomContainerManipulator;
 import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
 import org.openscience.cdk.tools.manipulator.MolecularFormulaManipulator;
+
+import edu.ucdavis.fiehnlab.spectra.hash.core.Spectrum;
+import edu.ucdavis.fiehnlab.spectra.hash.core.Splash;
+import edu.ucdavis.fiehnlab.spectra.hash.core.SplashFactory;
+import edu.ucdavis.fiehnlab.spectra.hash.core.types.Ion;
+import edu.ucdavis.fiehnlab.spectra.hash.core.types.SpectraType;
+import edu.ucdavis.fiehnlab.spectra.hash.core.types.SpectrumImpl;
 
 // TODO: Auto-generated Javadoc
 /**
@@ -327,6 +335,8 @@ public class LibraryToMassBank {
 		String lc_flow_rate = "";
 		
 		StringBuffer peaks = new StringBuffer();
+		ArrayList<Ion> ionList = new ArrayList<Ion>();
+						
 		List<String> synonyms = new ArrayList<String>();
 		List<String> names = new ArrayList<String>();
 		
@@ -392,6 +402,10 @@ public class LibraryToMassBank {
 			}
 			if(line.startsWith(KEY_STRUCTURE)) {
 				String mol = convertHexToString(line.substring(line.indexOf(":") + 1).trim());
+				// Sanitize molfile
+				// remove trailling empty lines: https://stackoverflow.com/a/37648209
+				mol = mol.replaceAll("([\\n\\r]+\\s*)*$", "");
+				
 				File mdl = new File(molPath, id + ".mol");
 				System.out.println("write mol -> " + mdl);
 				FileWriter fw = new FileWriter(mdl);
@@ -621,6 +635,7 @@ public class LibraryToMassBank {
 					System.out.println(split.length);
 					for (int i = 0; i < split.length; i=i+2) {
 						peaks.append("  " + split[i] + " " + split[i+1] + " " + split[i+1] + "\n");
+						ionList.add(new Ion(Double.parseDouble(split[i]), Double.parseDouble(split[i+1])));
 					}
 					peaks.append("//");
 				}
@@ -840,10 +855,14 @@ public class LibraryToMassBank {
 
 				fw.write("MS$DATA_PROCESSING: CONVERT from Bruker Library Editor (https://github.com/MassBank/MassBank2NIST)\n");
 
-				fw.write("PK$NUM_PEAK: " + numPeaks);
-				fw.write("\n");
-				fw.write("PK$PEAK: m/z int. rel.int.");
-				fw.write("\n");
+				Splash splashFactory = SplashFactory.create();
+				Spectrum spectrum = new SpectrumImpl(ionList, SpectraType.MS);
+				String splash = splashFactory.splashIt(spectrum);
+				
+				fw.write("PK$SPLASH: "+ splash + "\n");
+				
+				fw.write("PK$NUM_PEAK: " + numPeaks + "\n");
+				fw.write("PK$PEAK: m/z int. rel.int." + "\n");
 				fw.write(peaks.toString());
 				
 				// close FileWriter
@@ -856,6 +875,7 @@ public class LibraryToMassBank {
 				
 				// clear current variables
 				peaks = new StringBuffer();
+				ionList = new ArrayList<Ion>();
 				link = "";
 				name = "";
 				cas = "";
