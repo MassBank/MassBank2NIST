@@ -12,9 +12,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.binary.Base64;
-import org.apache.commons.codec.binary.Hex;
 import org.openscience.cdk.ChemFile;
 import org.openscience.cdk.exception.CDKException;
 import org.openscience.cdk.interfaces.IAtomContainer;
@@ -27,7 +25,7 @@ import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
 import org.openscience.cdk.tools.manipulator.MolecularFormulaManipulator;
 
 
-import javax.xml.bind.DatatypeConverter;
+//import javax.xml.bind.DatatypeConverter;
 
 import de.ipbhalle.wrapper.Container;
 
