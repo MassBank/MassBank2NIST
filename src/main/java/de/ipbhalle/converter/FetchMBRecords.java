@@ -15,16 +15,8 @@ import java.util.Map;
 
 import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.methods.PostMethod;
-import org.openscience.cdk.exception.CDKException;
 import org.openscience.cdk.interfaces.IAtomContainer;
-import org.openscience.cdk.tools.CDKHydrogenAdder;
-import org.openscience.cdk.tools.manipulator.AtomContainerManipulator;
-
-//import de.ipbhalle.MetFlow.utilities.MassBank.MassBankUtilities;
 import de.ipbhalle.metfusion.utilities.MassBank.MassBankUtilities;
-//import de.ipbhalle.MetFlow.wrapper.Result;
-import de.ipbhalle.metfusion.wrapper.Result;
-
 import massbank.MassBankCommon;
 
 public class FetchMBRecords {

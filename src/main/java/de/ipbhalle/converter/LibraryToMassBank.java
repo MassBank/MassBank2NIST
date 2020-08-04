@@ -5,7 +5,6 @@ import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
@@ -13,11 +12,11 @@ import java.io.InputStreamReader;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.Properties;
 import java.util.Set;
@@ -28,7 +27,6 @@ import org.openscience.cdk.ChemFile;
 import org.openscience.cdk.DefaultChemObjectBuilder;
 import org.openscience.cdk.config.Isotopes;
 import org.openscience.cdk.exception.CDKException;
-import org.openscience.cdk.inchi.InChIGenerator;
 import org.openscience.cdk.inchi.InChIGeneratorFactory;
 import org.openscience.cdk.inchi.InChIToStructure;
 import org.openscience.cdk.interfaces.IAtomContainer;
@@ -38,7 +36,6 @@ import org.openscience.cdk.io.MDLV2000Reader;
 import org.openscience.cdk.silent.SilentChemObjectBuilder;
 
 import org.openscience.cdk.smiles.SmilesGenerator;
-import org.openscience.cdk.smsd.algorithm.mcsplus.ExactMapping;
 import org.openscience.cdk.tools.manipulator.AtomContainerManipulator;
 import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
 import org.openscience.cdk.tools.manipulator.MolecularFormulaManipulator;
@@ -269,9 +266,7 @@ public class LibraryToMassBank {
 		}
 		
 		// generate proper date format
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyy.MM.dd");
-		Date d = new Date();
-		String date = sdf.format(d);
+		String date = new SimpleDateFormat("yyyy.MM.dd").format(new Date());
 		
 		// generate moldata directory
 		File dir = new File(outputPath, "moldata");
@@ -613,13 +608,7 @@ public class LibraryToMassBank {
 				String[] split = line.split(" ");
 				System.out.println("numPeaks -> " + numPeaks + "\t#split -> " + split.length);
 				
-				if((split.length == numPeaks*2) && (split.length % 2 == 0)) {		// all peaks in one line
-					for (int i = 0; i < split.length; i=i+2) {
-						peaks.append("  " + split[i] + " " + split[i+1] + " " + split[i+1] + "\n");
-					}
-					peaks.append("//");
-				}
-				else if(split.length < numPeaks*2){		// peaks are spread over multiple lines
+				if(!((split.length == numPeaks*2) && (split.length % 2 == 0))) {		// peaks are spread over multiple lines
 					br.mark(200000);
 					String temp = "";
 					do {
@@ -629,16 +618,22 @@ public class LibraryToMassBank {
 					}
 					while(temp != null && !temp.isEmpty() && !temp.equals("\n"));
 					br.reset();
-					
-					split = line.split(" ");
-					System.out.println(line);
-					System.out.println(split.length);
-					for (int i = 0; i < split.length; i=i+2) {
-						peaks.append("  " + split[i] + " " + split[i+1] + " " + split[i+1] + "\n");
-						ionList.add(new Ion(Double.parseDouble(split[i]), Double.parseDouble(split[i+1])));
-					}
-					peaks.append("//");
 				}
+					
+				split = line.split(" ");
+					//System.out.println(line);
+					//System.out.println(split.length);
+				Double maxIntensity = new Double(0);
+				for (int i = 0; i < split.length; i=i+2) {
+					maxIntensity = Double.parseDouble(split[i+1]) > maxIntensity ? Double.parseDouble(split[i+1]) : maxIntensity;
+				}
+				
+				for (int i = 0; i < split.length; i=i+2) {
+					Integer relint = (int) Math.round( Double.parseDouble(split[i+1]) * 999 / maxIntensity);
+					peaks.append("  " + split[i] + " " + split[i+1] + " " + relint + "\n");
+					ionList.add(new Ion(Double.parseDouble(split[i]), Double.parseDouble(split[i+1])));
+				}
+				peaks.append("//\n");
 			}
 				
 				
@@ -677,10 +672,9 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("AUTHORS: " + authors);
 				fw.write("\n");
-				fw.write("COPYRIGHT: " + prop.getProperty("copyright"));
-				fw.write("\n");
 				fw.write("LICENSE: " + prop.getProperty("license"));
-
+				fw.write("\n");
+				fw.write("COPYRIGHT: " + prop.getProperty("copyright"));
 				fw.write("\n");
 				if(!comment.isEmpty()) {
 					fw.write("COMMENT: " + comment);
@@ -701,16 +695,16 @@ public class LibraryToMassBank {
 				fw.write("\n");
 				fw.write("CH$FORMULA: " + formula);
 				fw.write("\n");
-				fw.write("CH$EXACT_MASS: " + String.format("%.4f", emass));
+				fw.write("CH$EXACT_MASS: " + String.format(Locale.US, "%.4f", emass));
 				fw.write("\n");
 				if(smiles.isEmpty())
-					fw.write("CH$SMILES: not available");
+					fw.write("CH$SMILES: N/A");
 				else 
 					fw.write("CH$SMILES: " + smiles);
 				fw.write("\n");
 
 				if(inchi.isEmpty())
-					fw.write("CH$IUPAC: not available");
+					fw.write("CH$IUPAC: N/A");
 				else 
 					fw.write("CH$IUPAC: " + inchi);
 				fw.write("\n");
@@ -890,7 +884,7 @@ public class LibraryToMassBank {
 				ev = "";
 				ion = "";
 				precursor = "";
-				date = "";
+				date = new SimpleDateFormat("yyyy.MM.dd").format(new Date());
 				year = "";
 				numPeaks = 0;
 				smiles = "";
