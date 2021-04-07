@@ -119,6 +119,9 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+	  <developerConnection>scm:git:git@github.com:MassBank/MassBank2NIST.git</developerConnection>
+	</scm>
 	<distributionManagement>
     <repository>
       <id>github</id>
