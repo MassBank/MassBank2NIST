@@ -67,11 +67,15 @@
 			<groupId>de.ipbhalle.msbi</groupId>
 			<artifactId>metfusion</artifactId>
 			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/metfusion.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>massbank</groupId>
 			<artifactId>massbank</artifactId>
 			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${basedir}/lib/massbank.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>edu.ucdavis.fiehnlab.splash</groupId>

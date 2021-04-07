@@ -322,7 +322,7 @@ public class LibraryToMassBank {
 		String precursor = "";
 		String ion_method = "ESI";
 		String ion_mode = "unknown";
-		String ms = "MS1";
+		String ms = "MS";
 
 		String lc_solvent_a = "";
 		String lc_solvent_b = "";
@@ -880,7 +880,7 @@ public class LibraryToMassBank {
 				instrument_type = "";
 				ion_method = "";
 				ion_mode = "";
-				ms = "MS1";
+				ms = "MS";
 				ev = "";
 				ion = "";
 				precursor = "";
